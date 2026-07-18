@@ -66,6 +66,38 @@ export const QUOTES: any[] = [
   "who": "Kiley Adams"
  },
  {
+  "slug": "ai-founder-mode",
+  "guest": "Brian Chesky",
+  "date": "2026-05-05",
+  "title": "AI Founder Mode",
+  "q": "The biggest gift anyone's given me is believe in me. Belief is the greatest gift you can give somebody.",
+  "who": "Brian Chesky"
+ },
+ {
+  "slug": "ai-founder-mode",
+  "guest": "Brian Chesky",
+  "date": "2026-05-05",
+  "title": "AI Founder Mode",
+  "q": "I never became a famous artist, but that belief set me on a path. In that moment I realized, I can decide to be happy the rest of my life.",
+  "who": "Brian Chesky"
+ },
+ {
+  "slug": "ai-founder-mode",
+  "guest": "Brian Chesky",
+  "date": "2026-05-05",
+  "title": "AI Founder Mode",
+  "q": "AI founder mode is significantly more details because you have almost everything on demand. The mechanism of founder mode was I had meetings—35 hours a week—because that was the only way to get information.",
+  "who": "Brian Chesky"
+ },
+ {
+  "slug": "ai-founder-mode",
+  "guest": "Brian Chesky",
+  "date": "2026-05-05",
+  "title": "AI Founder Mode",
+  "q": "I see potential in people they don't see in themselves. That is the most motivating thing you can do.",
+  "who": "Brian Chesky"
+ },
+ {
   "slug": "ai-or-die",
   "guest": "Ravi Gupta",
   "date": "2025-02-18",
@@ -320,6 +352,54 @@ export const QUOTES: any[] = [
   "title": "Peter Attia - Live",
   "q": "Never stop lifting weights. It's the difference between breaking your hip at 75 and not.",
   "who": "Peter Attia"
+ },
+ {
+  "slug": "backing-americas-future",
+  "guest": "Ben Horowitz",
+  "date": "2026-02-03",
+  "title": "Backing America's Future",
+  "q": "Life isn't fair. And that's extremely good advice because it's just not going to be fair.",
+  "who": "Ben Horowitz"
+ },
+ {
+  "slug": "backing-americas-future",
+  "guest": "Ben Horowitz",
+  "date": "2026-02-03",
+  "title": "Backing America's Future",
+  "q": "We're dream builders. We're not dream killers. Fuck that.",
+  "who": "Ben Horowitz"
+ },
+ {
+  "slug": "backing-americas-future",
+  "guest": "Ben Horowitz",
+  "date": "2026-02-03",
+  "title": "Backing America's Future",
+  "q": "If you have enough data and you have enough GPUs, you can solve damn near anything.",
+  "who": "Ben Horowitz"
+ },
+ {
+  "slug": "backing-americas-future",
+  "guest": "Ben Horowitz",
+  "date": "2026-02-03",
+  "title": "Backing America's Future",
+  "q": "Intelligence makes policing dramatically safer. Everybody: suspects, criminals, citizens, police.",
+  "who": "Ben Horowitz"
+ },
+ {
+  "slug": "backing-the-best-managers-in-private-markets",
+  "guest": "Peter Lacaillade",
+  "date": "2025-08-12",
+  "title": "Backing The Best Managers In Private Markets",
+  "q": "Private Equity is a force for good when done well.",
+  "who": "Peter Lacaillade"
+ },
+ {
+  "slug": "backing-the-best-managers-in-private-markets",
+  "guest": "Peter Lacaillade",
+  "date": "2025-08-12",
+  "title": "Backing The Best Managers In Private Markets",
+  "q": "We backed them because we believed, not because we questioned why we should.",
+  "who": "Peter Lacaillade"
  },
  {
   "slug": "baker-ai-semiconductors-and-the-robotic-frontier",
@@ -986,6 +1066,38 @@ export const QUOTES: any[] = [
   "who": "Brent Beshore"
  },
  {
+  "slug": "betting-on-atoms",
+  "guest": "Scott Nolan",
+  "date": "2026-04-14",
+  "title": "Betting on Atoms",
+  "q": "Do something that's useful, do something that you feel like matters, and be with people you like.",
+  "who": "Scott Nolan"
+ },
+ {
+  "slug": "betting-on-atoms",
+  "guest": "Scott Nolan",
+  "date": "2026-04-14",
+  "title": "Betting on Atoms",
+  "q": "The ultimate purpose is colonize Mars. So inherently it has to become this scale of company.",
+  "who": "Scott Nolan"
+ },
+ {
+  "slug": "betting-on-atoms",
+  "guest": "Scott Nolan",
+  "date": "2026-04-14",
+  "title": "Betting on Atoms",
+  "q": "When you meet a founder working on something neglected, ask why everyone who thought about it thinks it's impossible.",
+  "who": "Scott Nolan"
+ },
+ {
+  "slug": "betting-on-atoms",
+  "guest": "Scott Nolan",
+  "date": "2026-04-14",
+  "title": "Betting on Atoms",
+  "q": "There's no such thing as an obvious idea that hasn't been worked on.",
+  "who": "Scott Nolan"
+ },
+ {
   "slug": "blake-investing-in-your-people",
   "guest": "Frank Blake",
   "date": "2024-06-11",
@@ -1314,6 +1426,94 @@ export const QUOTES: any[] = [
   "who": "Rick"
  },
  {
+  "slug": "building-a-machine",
+  "guest": "Mitchell Green",
+  "date": "2026-03-24",
+  "title": "Building a Machine",
+  "q": "When things get scary, you're gonna want to buy. You're going 80 mph down a hill.",
+  "who": "Mitchell"
+ },
+ {
+  "slug": "building-a-machine",
+  "guest": "Mitchell Green",
+  "date": "2026-03-24",
+  "title": "Building a Machine",
+  "q": "The reason you started a firm is because nobody was going to hire your ass.",
+  "who": "Brian (Mitchell's partner)"
+ },
+ {
+  "slug": "building-a-machine",
+  "guest": "Mitchell Green",
+  "date": "2026-03-24",
+  "title": "Building a Machine",
+  "q": "If you can avoid zeros and turn them into 0.8x, it massively helps returns.",
+  "who": "Mitchell"
+ },
+ {
+  "slug": "building-a-machine",
+  "guest": "Mitchell Green",
+  "date": "2026-03-24",
+  "title": "Building a Machine",
+  "q": "We're like Cal Ripken—doubles and triples. We're not Sammy Sosa or Mark McGwire.",
+  "who": "Mitchell"
+ },
+ {
+  "slug": "building-a-machine",
+  "guest": "Mitchell Green",
+  "date": "2026-03-24",
+  "title": "Building a Machine",
+  "q": "Keep score every day because I want to win.",
+  "who": "Mitchell"
+ },
+ {
+  "slug": "building-abstract",
+  "guest": "Ramtin Naimi",
+  "date": "2025-07-29",
+  "title": "Building Abstract",
+  "q": "What do you think? Should I take it?",
+  "who": "Ramtin Naimi"
+ },
+ {
+  "slug": "building-abstract",
+  "guest": "Ramtin Naimi",
+  "date": "2025-07-29",
+  "title": "Building Abstract",
+  "q": "No, because if you do—",
+  "who": "Ramtin Naimi"
+ },
+ {
+  "slug": "building-abstract",
+  "guest": "Ramtin Naimi",
+  "date": "2025-07-29",
+  "title": "Building Abstract",
+  "q": "Please sell this for me.",
+  "who": "Ramtin Naimi"
+ },
+ {
+  "slug": "building-abstract",
+  "guest": "Ramtin Naimi",
+  "date": "2025-07-29",
+  "title": "Building Abstract",
+  "q": "He's a good guy, he's working hard, let's get him on our cap table.",
+  "who": "Ramtin Naimi"
+ },
+ {
+  "slug": "building-alpha-school-and-the-future-of-education",
+  "guest": "Joe Liemandt",
+  "date": "2025-08-26",
+  "title": "Building Alpha School, and The Future of Education",
+  "q": "Kids should want to go to school instead of going on vacation",
+  "who": "Joe Liemandt"
+ },
+ {
+  "slug": "building-alpha-school-and-the-future-of-education",
+  "guest": "Joe Liemandt",
+  "date": "2025-08-26",
+  "title": "Building Alpha School, and The Future of Education",
+  "q": "We built an engine where kids learn 10 times faster in just two hours",
+  "who": "Joe Liemandt"
+ },
+ {
   "slug": "building-alphasense",
   "guest": "Jack Kokko",
   "date": "2024-12-31",
@@ -1328,6 +1528,14 @@ export const QUOTES: any[] = [
   "title": "Building AlphaSense",
   "q": "We wanted to build a semantic search engine that reads documents like a human analyst and connects billions of data points.",
   "who": "Jack Kokko"
+ },
+ {
+  "slug": "building-an-entertainment-empire",
+  "guest": "Barry Diller",
+  "date": "2025-09-23",
+  "title": "Building An Entertainment Empire",
+  "q": "Insatiable curiosity is innate and you can't manufacture it willfully",
+  "who": "Barry Diller"
  },
  {
   "slug": "building-captions",
@@ -1386,6 +1594,78 @@ export const QUOTES: any[] = [
   "who": "guest"
  },
  {
+  "slug": "building-decagon",
+  "guest": "Jesse Zhang",
+  "date": "2025-10-06",
+  "title": "Building Decagon",
+  "q": "Oh, my God, that's so awesome that you're thinking about doing something nice for the community.",
+  "who": "Jesse Zhang"
+ },
+ {
+  "slug": "building-decagon",
+  "guest": "Jesse Zhang",
+  "date": "2025-10-06",
+  "title": "Building Decagon",
+  "q": "Agent, agent, agent, give me to a representative, I don't want to talk to you.",
+  "who": "Jesse Zhang"
+ },
+ {
+  "slug": "building-decagon",
+  "guest": "Jesse Zhang",
+  "date": "2025-10-06",
+  "title": "Building Decagon",
+  "q": "Give me a sec to look that up,",
+  "who": "Jesse Zhang"
+ },
+ {
+  "slug": "building-decagon",
+  "guest": "Jesse Zhang",
+  "date": "2025-10-06",
+  "title": "Building Decagon",
+  "q": "Great, we're investing in Decagon. We don't care that much about what Decagon's costs are.",
+  "who": "Jesse Zhang"
+ },
+ {
+  "slug": "building-general-physical-intelligence",
+  "guest": "Sergey Levine",
+  "date": "2026-03-31",
+  "title": "Building General Physical Intelligence",
+  "q": "Generalization does mundane things any human could do, but it does it in any situation.",
+  "who": "Sergey"
+ },
+ {
+  "slug": "building-general-physical-intelligence",
+  "guest": "Sergey Levine",
+  "date": "2026-03-31",
+  "title": "Building General Physical Intelligence",
+  "q": "I'm on the optimistic end of researchers, pessimistic end of entrepreneurs.",
+  "who": "Sergey"
+ },
+ {
+  "slug": "building-general-physical-intelligence",
+  "guest": "Sergey Levine",
+  "date": "2026-03-31",
+  "title": "Building General Physical Intelligence",
+  "q": "When you've climbed the mountain, only then do you see if there's another mountain after it.",
+  "who": "Karol (co-founder, via Sergey)"
+ },
+ {
+  "slug": "building-general-physical-intelligence",
+  "guest": "Sergey Levine",
+  "date": "2026-03-31",
+  "title": "Building General Physical Intelligence",
+  "q": "Demos have value when they illustrate challenges on the road to something useful.",
+  "who": "Sergey"
+ },
+ {
+  "slug": "building-general-physical-intelligence",
+  "guest": "Sergey Levine",
+  "date": "2026-03-31",
+  "title": "Building General Physical Intelligence",
+  "q": "You need common sense to adapt to situations you haven't experienced before.",
+  "who": "Sergey"
+ },
+ {
   "slug": "building-granola",
   "guest": "Chris Pedregal",
   "date": "2025-02-25",
@@ -1416,6 +1696,14 @@ export const QUOTES: any[] = [
   "title": "Building Granola",
   "q": "The role of AI should be to make you better, not replace you.",
   "who": "Chris"
+ },
+ {
+  "slug": "building-insight-partners",
+  "guest": "Jeff Horing",
+  "date": "2025-09-16",
+  "title": "Building Insight Partners",
+  "q": "$100 billion in AUM deployed across all deal sizes from $10M to $1B",
+  "who": "Jeff Horing"
  },
  {
   "slug": "building-islands-of-innovation",
@@ -1522,6 +1810,70 @@ export const QUOTES: any[] = [
   "who": "Gabe"
  },
  {
+  "slug": "building-netflix",
+  "guest": "Reed Hastings",
+  "date": "2026-01-06",
+  "title": "Building Netflix",
+  "q": "And that only further drives out the high-caliber people",
+  "who": "Reed Hastings"
+ },
+ {
+  "slug": "building-netflix",
+  "guest": "Reed Hastings",
+  "date": "2026-01-06",
+  "title": "Building Netflix",
+  "q": "Other people have a view like, very hard to get in, but then you can stay no matter what",
+  "who": "Reed Hastings"
+ },
+ {
+  "slug": "building-netflix",
+  "guest": "Reed Hastings",
+  "date": "2026-01-06",
+  "title": "Building Netflix",
+  "q": "It's really hard to get into Stanford Graduate School, and then it's hard to get pushed out, too",
+  "who": "Reed Hastings"
+ },
+ {
+  "slug": "building-netflix",
+  "guest": "Reed Hastings",
+  "date": "2026-01-06",
+  "title": "Building Netflix",
+  "q": "Well, it did spook people, and so it's only fair to let them know what they're getting into",
+  "who": "Reed Hastings"
+ },
+ {
+  "slug": "building-ramp",
+  "guest": "Karim Atiyeh",
+  "date": "2025-10-21",
+  "title": "Building Ramp",
+  "q": "We're never really trying to maximize what the valuation is at every single round. It's about ultimate enterprise value.",
+  "who": "Karim"
+ },
+ {
+  "slug": "building-ramp",
+  "guest": "Karim Atiyeh",
+  "date": "2025-10-21",
+  "title": "Building Ramp",
+  "q": "If you're doing anything correct or right, people are going to try to kill you multiple times.",
+  "who": "Karim"
+ },
+ {
+  "slug": "building-ramp",
+  "guest": "Karim Atiyeh",
+  "date": "2025-10-21",
+  "title": "Building Ramp",
+  "q": "If you solve really scary small problems, the reward is scary bigger problems, and it never stops.",
+  "who": "Karim"
+ },
+ {
+  "slug": "building-ramp",
+  "guest": "Karim Atiyeh",
+  "date": "2025-10-21",
+  "title": "Building Ramp",
+  "q": "Perseverance. I never see the possibility of us being killed as an option, to be honest with you.",
+  "who": "Karim"
+ },
+ {
   "slug": "building-ribbit",
   "guest": "Micky Malka",
   "date": "2024-12-10",
@@ -1552,6 +1904,102 @@ export const QUOTES: any[] = [
   "title": "Building Ribbit",
   "q": "Were they really engaged in a different way?",
   "who": "guest"
+ },
+ {
+  "slug": "building-sixth-street",
+  "guest": "Alan Waxman",
+  "date": "2025-07-15",
+  "title": "Building Sixth Street",
+  "q": "my baby's the prettiest",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "building-sixth-street",
+  "guest": "Alan Waxman",
+  "date": "2025-07-15",
+  "title": "Building Sixth Street",
+  "q": "my baby's the prettiest",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "building-sixth-street",
+  "guest": "Alan Waxman",
+  "date": "2025-07-15",
+  "title": "Building Sixth Street",
+  "q": "Holy shit, what is going on here?",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "building-sixth-street",
+  "guest": "Alan Waxman",
+  "date": "2025-07-15",
+  "title": "Building Sixth Street",
+  "q": "Here's the holy grail idea.",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "building-skims",
+  "guest": "Jenn Hyman",
+  "date": "2025-07-01",
+  "title": "Building SKIMS",
+  "q": "I have always wanted to have a really cool name",
+  "who": "Jens"
+ },
+ {
+  "slug": "building-skims",
+  "guest": "Jenn Hyman",
+  "date": "2025-07-01",
+  "title": "Building SKIMS",
+  "q": "I named my company Popular Culture because I'm a real child of the 90s pop culture",
+  "who": "Jens"
+ },
+ {
+  "slug": "building-skims",
+  "guest": "Jenn Hyman",
+  "date": "2025-07-01",
+  "title": "Building SKIMS",
+  "q": "It's really hard to reach a critical mass of consumers today",
+  "who": "Jens"
+ },
+ {
+  "slug": "building-skims",
+  "guest": "Jenn Hyman",
+  "date": "2025-07-01",
+  "title": "Building SKIMS",
+  "q": "It seems like that change has been seismic and really important for businesses",
+  "who": "Patrick"
+ },
+ {
+  "slug": "building-the-worlds-best-fitness-app",
+  "guest": "Tom Digan & Greg Stewart",
+  "date": "2026-01-13",
+  "title": "Building the World’s Best Fitness App",
+  "q": "Ladder was my first angel investment ever",
+  "who": "Patrick"
+ },
+ {
+  "slug": "building-the-worlds-best-fitness-app",
+  "guest": "Tom Digan & Greg Stewart",
+  "date": "2026-01-13",
+  "title": "Building the World’s Best Fitness App",
+  "q": "Ladder was the first ever angel investment that I made, which effectively was a bet on Tom",
+  "who": "Patrick"
+ },
+ {
+  "slug": "building-the-worlds-best-fitness-app",
+  "guest": "Tom Digan & Greg Stewart",
+  "date": "2026-01-13",
+  "title": "Building the World’s Best Fitness App",
+  "q": "It's going to sound simple, but it's understanding your customers, being an engineering-first business",
+  "who": "Greg"
+ },
+ {
+  "slug": "building-the-worlds-best-fitness-app",
+  "guest": "Tom Digan & Greg Stewart",
+  "date": "2026-01-13",
+  "title": "Building the World’s Best Fitness App",
+  "q": "They make every decision, and they don't have a DNA that's rooted in engineering and problem solving",
+  "who": "Greg"
  },
  {
   "slug": "byrne-cryptopocalypse",
@@ -1794,6 +2242,38 @@ export const QUOTES: any[] = [
   "who": "Ian"
  },
  {
+  "slug": "celebrating-heretics",
+  "guest": "Shyam Sankar",
+  "date": "2026-03-10",
+  "title": "Celebrating Heretics",
+  "q": "The only shit that ever worked, the things that helped us win all the wars, were the things that the heretics actually did.",
+  "who": "Shyam Sankar"
+ },
+ {
+  "slug": "celebrating-heretics",
+  "guest": "Shyam Sankar",
+  "date": "2026-03-10",
+  "title": "Celebrating Heretics",
+  "q": "Innovation is itself a consequence of productivity. You have to make things to innovate.",
+  "who": "Shyam Sankar"
+ },
+ {
+  "slug": "celebrating-heretics",
+  "guest": "Shyam Sankar",
+  "date": "2026-03-10",
+  "title": "Celebrating Heretics",
+  "q": "All value creation is downstream of the culture.",
+  "who": "Shyam Sankar"
+ },
+ {
+  "slug": "celebrating-heretics",
+  "guest": "Shyam Sankar",
+  "date": "2026-03-10",
+  "title": "Celebrating Heretics",
+  "q": "You have to recognize that innovation is itself a consequence of productivity.",
+  "who": "Shyam Sankar"
+ },
+ {
   "slug": "chernin-betting-on-passion",
   "guest": "Peter Chernin",
   "date": "2022-02-08",
@@ -1984,6 +2464,38 @@ export const QUOTES: any[] = [
   "title": "Cornerstone Investing Insights",
   "q": "Good luck to competitors trying to replicate this.",
   "who": "Mario Cibelli"
+ },
+ {
+  "slug": "clarity-of-purpose",
+  "guest": "Alan Waxman",
+  "date": "2026-04-08",
+  "title": "Clarity of Purpose",
+  "q": "We run right at problems. We run to them. We don't run from them.",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "clarity-of-purpose",
+  "guest": "Alan Waxman",
+  "date": "2026-04-08",
+  "title": "Clarity of Purpose",
+  "q": "The cup that gets filled by money, fame, fortune never gets full. It just keeps getting bigger.",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "clarity-of-purpose",
+  "guest": "Alan Waxman",
+  "date": "2026-04-08",
+  "title": "Clarity of Purpose",
+  "q": "There's no semi-liquid. There's liquid and there's illiquid.",
+  "who": "Alan Waxman"
+ },
+ {
+  "slug": "clarity-of-purpose",
+  "guest": "Alan Waxman",
+  "date": "2026-04-08",
+  "title": "Clarity of Purpose",
+  "q": "What's your clarity of purpose? Do you want to be average or do you want to be excellent?",
+  "who": "Alan Waxman"
  },
  {
   "slug": "clark-grateful-for-everything-entitled-to-nothing",
@@ -2298,6 +2810,38 @@ export const QUOTES: any[] = [
   "who": "Blake Hall"
  },
  {
+  "slug": "concentration-and-conviction",
+  "guest": "Josh Kushner",
+  "date": "2026-02-18",
+  "title": "Concentration and Conviction",
+  "q": "Never believe your own bullshit. That is the greatest lesson you'll ever get from me.",
+  "who": "Jon Winkelried (quoted by Josh Kushner)"
+ },
+ {
+  "slug": "concentration-and-conviction",
+  "guest": "Josh Kushner",
+  "date": "2026-02-18",
+  "title": "Concentration and Conviction",
+  "q": "We're not Da Vinci. We're Medici. We enable artists to create their best work.",
+  "who": "Josh Kushner"
+ },
+ {
+  "slug": "concentration-and-conviction",
+  "guest": "Josh Kushner",
+  "date": "2026-02-18",
+  "title": "Concentration and Conviction",
+  "q": "Once these things start to have velocity, it's very hard for them to slow down.",
+  "who": "Josh Kushner"
+ },
+ {
+  "slug": "concentration-and-conviction",
+  "guest": "Josh Kushner",
+  "date": "2026-02-18",
+  "title": "Concentration and Conviction",
+  "q": "Large bets are an input, not an output. We're concentrated because we're convicted.",
+  "who": "Josh Kushner"
+ },
+ {
   "slug": "conrad-building-a-compound-company",
   "guest": "Parker Conrad",
   "date": "2022-11-15",
@@ -2362,6 +2906,38 @@ export const QUOTES: any[] = [
   "who": "Claire Cormier Thielke"
  },
  {
+  "slug": "courage-truth-justice",
+  "guest": "Kareem Amin",
+  "date": "2026-06-16",
+  "title": "Courage, Truth, & Justice",
+  "q": "Capitalism rewards risk more than anything else.",
+  "who": "Kareem"
+ },
+ {
+  "slug": "courage-truth-justice",
+  "guest": "Kareem Amin",
+  "date": "2026-06-16",
+  "title": "Courage, Truth, & Justice",
+  "q": "I'm not going to create from a place of lack anymore.",
+  "who": "Kareem"
+ },
+ {
+  "slug": "courage-truth-justice",
+  "guest": "Kareem Amin",
+  "date": "2026-06-16",
+  "title": "Courage, Truth, & Justice",
+  "q": "The only judge of anything is yourself and your own self-respect.",
+  "who": "Kareem"
+ },
+ {
+  "slug": "courage-truth-justice",
+  "guest": "Kareem Amin",
+  "date": "2026-06-16",
+  "title": "Courage, Truth, & Justice",
+  "q": "We're building a guitar, not a microwave.",
+  "who": "Kareem"
+ },
+ {
   "slug": "craib-crowdsourcing-predictive-algorithms",
   "guest": "Richard Craib",
   "date": "2018-09-04",
@@ -2384,6 +2960,38 @@ export const QUOTES: any[] = [
   "title": "Crowdsourcing Predictive Algorithms",
   "q": "If you stake something, you're telling us you should be in the model, and what you're telling us is true.",
   "who": "Richard Craib"
+ },
+ {
+  "slug": "creating-on-principle",
+  "guest": "David Senra",
+  "date": "2026-01-20",
+  "title": "Creating on Principle",
+  "q": "It's like-- So, but all the tweets were in Portuguese, so I don't know what they're talking about",
+  "who": "David"
+ },
+ {
+  "slug": "creating-on-principle",
+  "guest": "David Senra",
+  "date": "2026-01-20",
+  "title": "Creating on Principle",
+  "q": "For people who don't know, it's just like, insanely, one of the most insanely valuable audiences in the world",
+  "who": "David"
+ },
+ {
+  "slug": "creating-on-principle",
+  "guest": "David Senra",
+  "date": "2026-01-20",
+  "title": "Creating on Principle",
+  "q": "And you're like, \"I never find new podcasts to listen to",
+  "who": "David"
+ },
+ {
+  "slug": "creating-on-principle",
+  "guest": "David Senra",
+  "date": "2026-01-20",
+  "title": "Creating on Principle",
+  "q": "I studied philosophy early in life and I've always been interested in that stuff",
+  "who": "Patrick"
  },
  {
   "slug": "cybersecurity-investment-playbook",
@@ -3664,6 +4272,22 @@ export const QUOTES: any[] = [
   "title": "Building The Local Graph",
   "q": "You'll die from overeating (too many opportunities), not starvation.",
   "who": "Sarah"
+ },
+ {
+  "slug": "full-contact-capitalism",
+  "guest": "Andrew Milgram",
+  "date": "2025-08-05",
+  "title": "Full-Contact Capitalism",
+  "q": "The world of asset management I grew up in won't be the one I exist in going forward.",
+  "who": "Andrew Milgram"
+ },
+ {
+  "slug": "full-contact-capitalism",
+  "guest": "Andrew Milgram",
+  "date": "2025-08-05",
+  "title": "Full-Contact Capitalism",
+  "q": "People who embrace change will succeed; those living comfortably won't be the successful model.",
+  "who": "Andrew Milgram"
  },
  {
   "slug": "fuss-breaking-down-the-food-ecosystem",
@@ -5210,6 +5834,38 @@ export const QUOTES: any[] = [
   "who": "Devon"
  },
  {
+  "slug": "how-to-raise-a-few-billion-dollars",
+  "guest": "John Kim",
+  "date": "2026-07-14",
+  "title": "How to Raise a Few Billion Dollars",
+  "q": "Money moves at the speed of trust.",
+  "who": "John"
+ },
+ {
+  "slug": "how-to-raise-a-few-billion-dollars",
+  "guest": "John Kim",
+  "date": "2026-07-14",
+  "title": "How to Raise a Few Billion Dollars",
+  "q": "Persuasion equals desire minus fear.",
+  "who": "John"
+ },
+ {
+  "slug": "how-to-raise-a-few-billion-dollars",
+  "guest": "John Kim",
+  "date": "2026-07-14",
+  "title": "How to Raise a Few Billion Dollars",
+  "q": "If the glove doesn't fit, you must acquit.",
+  "who": "John"
+ },
+ {
+  "slug": "how-to-raise-a-few-billion-dollars",
+  "guest": "John Kim",
+  "date": "2026-07-14",
+  "title": "How to Raise a Few Billion Dollars",
+  "q": "You get to pick two: size, speed, and terms.",
+  "who": "John"
+ },
+ {
   "slug": "howard-box-office-business",
   "guest": "Ron Howard & Brian Grazer",
   "date": "2022-11-29",
@@ -5314,6 +5970,142 @@ export const QUOTES: any[] = [
   "who": "week is Khe Hy"
  },
  {
+  "slug": "inside-3g-capital",
+  "guest": "Alex Behring & Daniel Schwartz",
+  "date": "2026-02-10",
+  "title": "Inside 3G Capital",
+  "q": "Pressure is something you put in a tire. I always try to keep that in the back of my head.",
+  "who": "Daniel Schwartz"
+ },
+ {
+  "slug": "inside-3g-capital",
+  "guest": "Alex Behring & Daniel Schwartz",
+  "date": "2026-02-10",
+  "title": "Inside 3G Capital",
+  "q": "We'd rather do nothing than compromise on business quality. Never.",
+  "who": "Daniel Schwartz"
+ },
+ {
+  "slug": "inside-3g-capital",
+  "guest": "Alex Behring & Daniel Schwartz",
+  "date": "2026-02-10",
+  "title": "Inside 3G Capital",
+  "q": "There are only a handful of truly great businesses and even fewer great CEOs.",
+  "who": "Alex Behring"
+ },
+ {
+  "slug": "inside-3g-capital",
+  "guest": "Alex Behring & Daniel Schwartz",
+  "date": "2026-02-10",
+  "title": "Inside 3G Capital",
+  "q": "Talent over tenure. That's just normal to us.",
+  "who": "Daniel Schwartz"
+ },
+ {
+  "slug": "inside-a16z-growth",
+  "guest": "David George",
+  "date": "2025-12-02",
+  "title": "Inside a16z Growth",
+  "q": "Growth takes care of everything.",
+  "who": "David George"
+ },
+ {
+  "slug": "inside-a16z-growth",
+  "guest": "David George",
+  "date": "2025-12-02",
+  "title": "Inside a16z Growth",
+  "q": "Is the market demanding more of your product? (Post-it on David's desk)",
+  "who": "David George"
+ },
+ {
+  "slug": "inside-a16z-growth",
+  "guest": "David George",
+  "date": "2025-12-02",
+  "title": "Inside a16z Growth",
+  "q": "Product fucking market fit.",
+  "who": "Martin (on Cursor's unique product-distribution)"
+ },
+ {
+  "slug": "inside-a16z-growth",
+  "guest": "David George",
+  "date": "2025-12-02",
+  "title": "Inside a16z Growth",
+  "q": "The best businesses don't have customers. They have hostages.",
+  "who": "Alex Rampell (a16z partner)"
+ },
+ {
+  "slug": "inside-a16z-growth",
+  "guest": "David George",
+  "date": "2025-12-02",
+  "title": "Inside a16z Growth",
+  "q": "We're the Yankees. We're going to act like it.",
+  "who": "David George on high-performance culture"
+ },
+ {
+  "slug": "inside-general-atlantic",
+  "guest": "Martín Escobari",
+  "date": "2025-11-25",
+  "title": "Inside General Atlantic",
+  "q": "You can do seven years of work in one year during a bubble.",
+  "who": "Martín Escobari"
+ },
+ {
+  "slug": "inside-general-atlantic",
+  "guest": "Martín Escobari",
+  "date": "2025-11-25",
+  "title": "Inside General Atlantic",
+  "q": "Diversification is the only free lunch in finance.",
+  "who": "Martín Escobari"
+ },
+ {
+  "slug": "inside-general-atlantic",
+  "guest": "Martín Escobari",
+  "date": "2025-11-25",
+  "title": "Inside General Atlantic",
+  "q": "There are more GPs than McDonald's in the United States.",
+  "who": "Martín (quoting a competitor)"
+ },
+ {
+  "slug": "inside-general-atlantic",
+  "guest": "Martín Escobari",
+  "date": "2025-11-25",
+  "title": "Inside General Atlantic",
+  "q": "Best window into growth equity since 2009.",
+  "who": "Martín Escobari"
+ },
+ {
+  "slug": "inside-the-trillion-dollar-ai-buildout",
+  "guest": "Dylan Patel",
+  "date": "2025-09-30",
+  "title": "Inside the Trillion-Dollar AI Buildout",
+  "q": "Yeah, it's going to be in the title now, right?",
+  "who": "Dylan Patel"
+ },
+ {
+  "slug": "inside-the-trillion-dollar-ai-buildout",
+  "guest": "Dylan Patel",
+  "date": "2025-09-30",
+  "title": "Inside the Trillion-Dollar AI Buildout",
+  "q": "All of these things are curves, and it's a trade-off. Right?",
+  "who": "Dylan Patel"
+ },
+ {
+  "slug": "inside-the-trillion-dollar-ai-buildout",
+  "guest": "Dylan Patel",
+  "date": "2025-09-30",
+  "title": "Inside the Trillion-Dollar AI Buildout",
+  "q": "You've seen it a lot. I just heard about it and they're like oh, let's watch it. I'm like, what?",
+  "who": "Dylan Patel"
+ },
+ {
+  "slug": "inside-the-trillion-dollar-ai-buildout",
+  "guest": "Dylan Patel",
+  "date": "2025-09-30",
+  "title": "Inside the Trillion-Dollar AI Buildout",
+  "q": "If the models don't improve, yes, we will overbuild, right?",
+  "who": "Dylan Patel"
+ },
+ {
   "slug": "investing-at-lone-pine",
   "guest": "Kelly Granat",
   "date": "2025-03-11",
@@ -5376,6 +6168,38 @@ export const QUOTES: any[] = [
   "title": "Investing in Carvana",
   "q": "Someday people will compare Jeff Bezos to Ernie Garcia, not the other way around.",
   "who": "Cliff Sosin"
+ },
+ {
+  "slug": "investing-on-the-s-curve",
+  "guest": "Alex Sacerdote",
+  "date": "2026-06-09",
+  "title": "Investing on the S-Curve",
+  "q": "Every technology follows this pattern. It takes 10-20 years until barriers fall and adoption takes off.",
+  "who": "Alex"
+ },
+ {
+  "slug": "investing-on-the-s-curve",
+  "guest": "Alex Sacerdote",
+  "date": "2026-06-09",
+  "title": "Investing on the S-Curve",
+  "q": "It's okay to miss the first 100% of an S-curve. If the top is half a trillion, growth lasts a long time.",
+  "who": "Alex"
+ },
+ {
+  "slug": "investing-on-the-s-curve",
+  "guest": "Alex Sacerdote",
+  "date": "2026-06-09",
+  "title": "Investing on the S-Curve",
+  "q": "Coding is the true unlock of AI. Claude can now write 80%, you only write 20% in English—that's the revenue driver.",
+  "who": "Alex"
+ },
+ {
+  "slug": "investing-on-the-s-curve",
+  "guest": "Alex Sacerdote",
+  "date": "2026-06-09",
+  "title": "Investing on the S-Curve",
+  "q": "If you're a small-cap stock, one person figures it out and it moves. With mega-caps, you need 100 PMs to agree—that's alpha.",
+  "who": "Alex"
  },
  {
   "slug": "investment-industry-paradigms",
@@ -6666,6 +7490,38 @@ export const QUOTES: any[] = [
   "who": "Doug Leone"
  },
  {
+  "slug": "lessons-from-investing-in-700-companies",
+  "guest": "Gokul Rajaram",
+  "date": "2026-01-29",
+  "title": "Lessons from Investing in 700 Companies",
+  "q": "Many times you've got to write AI yourself to evaluate the results of AI, because humans can't",
+  "who": "Second, the product manager and designer role are merging increasingly.  The designer role is an interesting role in particular.  A lot of companies are going through headcount allocation this year, and I'm hearing from many teams that when given the choice between an extra designer and extra engineer, they're saying, \"You know what, the design systems are already laid out.  Now that we have the design systems already laid out, we can use AI to do work around these design systems.  So we need maybe a small number of designers at the company level to manage the design systems and the design language, but AI can leverage the design language to do designs.  So please give us an extra engineer.\" The number of designers and product managers relative to the number of engineers, when I was growing up in product, it used to be 1"
+ },
+ {
+  "slug": "lessons-from-investing-in-700-companies",
+  "guest": "Gokul Rajaram",
+  "date": "2026-01-29",
+  "title": "Lessons from Investing in 700 Companies",
+  "q": "First and foremost, you've got to start with a deep and compelling problem",
+  "who": "Gokul"
+ },
+ {
+  "slug": "lessons-from-investing-in-700-companies",
+  "guest": "Gokul Rajaram",
+  "date": "2026-01-29",
+  "title": "Lessons from Investing in 700 Companies",
+  "q": "He said, \"Look, I don't know why I would use any of these startups",
+  "who": "Gokul"
+ },
+ {
+  "slug": "lessons-from-investing-in-700-companies",
+  "guest": "Gokul Rajaram",
+  "date": "2026-01-29",
+  "title": "Lessons from Investing in 700 Companies",
+  "q": "And the reason is they don't want Glean to build on top of them and then slowly suck out the value that Slack has",
+  "who": "Gokul"
+ },
+ {
   "slug": "levin-building-an-anti-conglomerate",
   "guest": "Joey Levin",
   "date": "2022-02-15",
@@ -6914,6 +7770,30 @@ export const QUOTES: any[] = [
   "who": "Naval Ravikant"
  },
  {
+  "slug": "lowin-machine-intelligence-and-risk-management",
+  "guest": "Jeremiah Lowin",
+  "date": "2017-01-17",
+  "title": "Machine Intelligence and Risk Management",
+  "q": "A great backtest is perfect, but overfitting can come from the model itself or from the person's false confidence in the output.",
+  "who": "Jeremiah Lowin"
+ },
+ {
+  "slug": "lowin-machine-intelligence-and-risk-management",
+  "guest": "Jeremiah Lowin",
+  "date": "2017-01-17",
+  "title": "Machine Intelligence and Risk Management",
+  "q": "No one goes into risk management thinking 'why not?' You really have to care for one reason or another.",
+  "who": "Jeremiah Lowin"
+ },
+ {
+  "slug": "lowin-machine-intelligence-and-risk-management",
+  "guest": "Jeremiah Lowin",
+  "date": "2017-01-17",
+  "title": "Machine Intelligence and Risk Management",
+  "q": "Indexing isn't strategy; it's an abdication of the investment process when the world feels random.",
+  "who": "Jeremiah Lowin"
+ },
+ {
   "slug": "lowin-machine-learning-in-investing",
   "guest": "Jeremiah Lowin",
   "date": "2018-09-25",
@@ -6960,6 +7840,30 @@ export const QUOTES: any[] = [
   "title": "Machine Learning in Investing",
   "q": "If you look around and realize you were on the wrong mountain in the first place, you've got a problem.",
   "who": "Jeremiah"
+ },
+ {
+  "slug": "luca-ferrari-building-bending-spoons",
+  "guest": "Luca Ferrari",
+  "date": "2025-11-04",
+  "title": "Building Bending Spoons",
+  "q": "Ambition is feeling the gap between where you are and where you can be.",
+  "who": "Luca"
+ },
+ {
+  "slug": "luca-ferrari-building-bending-spoons",
+  "guest": "Luca Ferrari",
+  "date": "2025-11-04",
+  "title": "Building Bending Spoons",
+  "q": "Speed compounds. Over a year, 2x velocity becomes 10x learning.",
+  "who": "Luca"
+ },
+ {
+  "slug": "luca-ferrari-building-bending-spoons",
+  "guest": "Luca Ferrari",
+  "date": "2025-11-04",
+  "title": "Building Bending Spoons",
+  "q": "We say no to 90% of ideas so we can make the 10% transcendent.",
+  "who": "Luca"
  },
  {
   "slug": "luckey-inventing-the-future-of-defense",
@@ -7256,6 +8160,38 @@ export const QUOTES: any[] = [
   "title": "Building a Great Endowment",
   "q": "Size in general in any asset class is a negative.",
   "who": "Scott"
+ },
+ {
+  "slug": "man-versus-machine",
+  "guest": "Henry Ellenbogen",
+  "date": "2025-12-16",
+  "title": "Man Versus Machine",
+  "q": "And so people always say, Henry, why do you love small cap companies",
+  "who": "Henry Ellenbogen"
+ },
+ {
+  "slug": "man-versus-machine",
+  "guest": "Henry Ellenbogen",
+  "date": "2025-12-16",
+  "title": "Man Versus Machine",
+  "q": "Again, which just sounds so simple but is actually really interesting",
+  "who": "Henry Ellenbogen"
+ },
+ {
+  "slug": "man-versus-machine",
+  "guest": "Henry Ellenbogen",
+  "date": "2025-12-16",
+  "title": "Man Versus Machine",
+  "q": "I used to joke, I'm the only investor in Max who hasn't made a lot of money",
+  "who": "Henry Ellenbogen"
+ },
+ {
+  "slug": "man-versus-machine",
+  "guest": "Henry Ellenbogen",
+  "date": "2025-12-16",
+  "title": "Man Versus Machine",
+  "q": "I mean, the investment philosophy is really simple",
+  "who": "Henry Ellenbogen"
  },
  {
   "slug": "mandel-investing-behind-change",
@@ -8274,6 +9210,70 @@ export const QUOTES: any[] = [
   "who": "Jacqueline Novogratz"
  },
  {
+  "slug": "nvidia-v-google-the-economics-of-ai",
+  "guest": "Gavin Baker",
+  "date": "2025-12-09",
+  "title": "Nvidia v. Google, Scaling Laws, and the Economics of AI",
+  "q": "And I think it's really important to have as little friction as possible",
+  "who": "Gavin Baker"
+ },
+ {
+  "slug": "nvidia-v-google-the-economics-of-ai",
+  "guest": "Gavin Baker",
+  "date": "2025-12-09",
+  "title": "Nvidia v. Google, Scaling Laws, and the Economics of AI",
+  "q": "And that's important, because no one on planet Earth knows how or why scaling laws for pre-training work",
+  "who": "Gavin Baker"
+ },
+ {
+  "slug": "nvidia-v-google-the-economics-of-ai",
+  "guest": "Gavin Baker",
+  "date": "2025-12-09",
+  "title": "Nvidia v. Google, Scaling Laws, and the Economics of AI",
+  "q": "And so, it's really important every time we get a confirmation of that",
+  "who": "Gavin Baker"
+ },
+ {
+  "slug": "nvidia-v-google-the-economics-of-ai",
+  "guest": "Gavin Baker",
+  "date": "2025-12-09",
+  "title": "Nvidia v. Google, Scaling Laws, and the Economics of AI",
+  "q": "So, Gemini 3 was very important in that way",
+  "who": "Gavin Baker"
+ },
+ {
+  "slug": "order-out-of-chaos",
+  "guest": "Dara Khosrowshahi",
+  "date": "2026-06-03",
+  "title": "Order Out of Chaos",
+  "q": "Since when is life about happiness? It's about impact.",
+  "who": "Daniel Ek"
+ },
+ {
+  "slug": "order-out-of-chaos",
+  "guest": "Dara Khosrowshahi",
+  "date": "2026-06-03",
+  "title": "Order Out of Chaos",
+  "q": "The magic happens when you learn. If you're right all the time, it's not interesting.",
+  "who": "Dara"
+ },
+ {
+  "slug": "order-out-of-chaos",
+  "guest": "Dara Khosrowshahi",
+  "date": "2026-06-03",
+  "title": "Order Out of Chaos",
+  "q": "Magic turns to normal incredibly fast. Push a button, car shows up, then six and a half minutes feels like a betrayal.",
+  "who": "Dara"
+ },
+ {
+  "slug": "order-out-of-chaos",
+  "guest": "Dara Khosrowshahi",
+  "date": "2026-06-03",
+  "title": "Order Out of Chaos",
+  "q": "Companies need to change. Rate of change has accelerated 5x with AI; companies that don't mutate will die.",
+  "who": "Dara"
+ },
+ {
   "slug": "orfalea-its-about-the-money",
   "guest": "Paul Orfalea",
   "date": "2022-10-18",
@@ -8650,6 +9650,22 @@ export const QUOTES: any[] = [
   "who": "Mate"
  },
  {
+  "slug": "performance-during-pain",
+  "guest": "Mark Bertolini",
+  "date": "2025-08-19",
+  "title": "Performance During Pain",
+  "q": "You know, my son needs me. I'm the adult. This stops right now.",
+  "who": "Mark Bertolini"
+ },
+ {
+  "slug": "performance-during-pain",
+  "guest": "Mark Bertolini",
+  "date": "2025-08-19",
+  "title": "Performance During Pain",
+  "q": "My engagement and advocacy for him—that's the kindest thing anyone's ever done for me.",
+  "who": "Mark Bertolini"
+ },
+ {
   "slug": "peterson-a-people-first-approach",
   "guest": "Anne-Marie Peterson",
   "date": "2024-03-12",
@@ -8714,6 +9730,46 @@ export const QUOTES: any[] = [
   "who": "John Pfeffer"
  },
  {
+  "slug": "playing-a-different-game",
+  "guest": "William Hockey",
+  "date": "2026-03-17",
+  "title": "Playing a Different Game",
+  "q": "VC money is like heroin. It feels good, but you gotta keep shooting up.",
+  "who": "William"
+ },
+ {
+  "slug": "playing-a-different-game",
+  "guest": "William Hockey",
+  "date": "2026-03-17",
+  "title": "Playing a Different Game",
+  "q": "You owe a bank a million dollars, they own you. Owe them a billion, you own them.",
+  "who": "William"
+ },
+ {
+  "slug": "playing-a-different-game",
+  "guest": "William Hockey",
+  "date": "2026-03-17",
+  "title": "Playing a Different Game",
+  "q": "If you raise $100 million, you should be able to build a couple billion-dollar business. Why do you need to keep raising?",
+  "who": "William"
+ },
+ {
+  "slug": "playing-a-different-game",
+  "guest": "William Hockey",
+  "date": "2026-03-17",
+  "title": "Playing a Different Game",
+  "q": "Difficulty moving money is a feature, not a bug; it protects your grandma from romance scams and elder abuse.",
+  "who": "William"
+ },
+ {
+  "slug": "playing-a-different-game",
+  "guest": "William Hockey",
+  "date": "2026-03-17",
+  "title": "Playing a Different Game",
+  "q": "The biggest beneficiary of railroads wasn't railroads. It was Standard Oil.",
+  "who": "William"
+ },
+ {
   "slug": "pompliano-full-tilt-investing",
   "guest": "Anthony Pompliano",
   "date": "2018-01-30",
@@ -8744,6 +9800,70 @@ export const QUOTES: any[] = [
   "title": "Full Tilt Investing",
   "q": "Power in today's world is who can drive eyeballs and have their audience fulfill call to actions.",
   "who": "Anthony Pompliano"
+ },
+ {
+  "slug": "posting-priests-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2026-07-07",
+  "title": "Posting, Priests, & Private Markets",
+  "q": "Narrative is the real product in private markets; realized returns take a decade.",
+  "who": "Jeremy"
+ },
+ {
+  "slug": "posting-priests-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2026-07-07",
+  "title": "Posting, Priests, & Private Markets",
+  "q": "Posting is the last great meritocracy.",
+  "who": "Jeremy"
+ },
+ {
+  "slug": "posting-priests-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2026-07-07",
+  "title": "Posting, Priests, & Private Markets",
+  "q": "Every room has a boss.",
+  "who": "Patrick"
+ },
+ {
+  "slug": "posting-priests-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2026-07-07",
+  "title": "Posting, Priests, & Private Markets",
+  "q": "Money is no longer as powerful as maybe it once was.",
+  "who": "Jeremy"
+ },
+ {
+  "slug": "powering-the-future",
+  "guest": "Zach Dell",
+  "date": "2025-07-22",
+  "title": "Powering the Future",
+  "q": "I will sell you Patrick power at 10 cents a kilowatt hour no matter what.",
+  "who": "Zach Dell"
+ },
+ {
+  "slug": "powering-the-future",
+  "guest": "Zach Dell",
+  "date": "2025-07-22",
+  "title": "Powering the Future",
+  "q": "oh, we don't have enough minerals to build all these batteries.",
+  "who": "Zach Dell"
+ },
+ {
+  "slug": "powering-the-future",
+  "guest": "Zach Dell",
+  "date": "2025-07-22",
+  "title": "Powering the Future",
+  "q": "where others can't. Josh's approach to, and in air quotes,",
+  "who": "Zach Dell"
+ },
+ {
+  "slug": "powering-the-future",
+  "guest": "Zach Dell",
+  "date": "2025-07-22",
+  "title": "Powering the Future",
+  "q": "And there was never a minute of,",
+  "who": "Zach Dell"
  },
  {
   "slug": "proposal-ai-commoditization-and-capital-dynamics",
@@ -9154,6 +10274,38 @@ export const QUOTES: any[] = [
   "who": "Dan Rasmussen"
  },
  {
+  "slug": "rebuilding-clear",
+  "guest": "Caryn Seidman-Becker",
+  "date": "2025-07-08",
+  "title": "Rebuilding CLEAR",
+  "q": "And at that point is when you became a real proper platform or something like this",
+  "who": "Patrick"
+ },
+ {
+  "slug": "rebuilding-clear",
+  "guest": "Caryn Seidman-Becker",
+  "date": "2025-07-08",
+  "title": "Rebuilding CLEAR",
+  "q": "First of all, I will say in medias res, bankruptcy is a completely surreal experience",
+  "who": "Caryn"
+ },
+ {
+  "slug": "rebuilding-clear",
+  "guest": "Caryn Seidman-Becker",
+  "date": "2025-07-08",
+  "title": "Rebuilding CLEAR",
+  "q": "They said bankruptcy is decided on the courthouse steps, and it's true",
+  "who": "Caryn"
+ },
+ {
+  "slug": "rebuilding-clear",
+  "guest": "Caryn Seidman-Becker",
+  "date": "2025-07-08",
+  "title": "Rebuilding CLEAR",
+  "q": "We've seen other leaders, we've seen what to do and what not to do",
+  "who": "Caryn"
+ },
+ {
   "slug": "redefining-semiconductor-progress",
   "guest": "Andrew Homan & Chris Miller",
   "date": "2024-11-05",
@@ -9224,6 +10376,38 @@ export const QUOTES: any[] = [
   "title": "Tim Cook's Dashboard",
   "q": "It's much easier to predict the negative side of the distribution than the positive.",
   "who": "Michael Reece"
+ },
+ {
+  "slug": "reminiscences-of-an-investor",
+  "guest": "Dan Loeb",
+  "date": "2026-05-28",
+  "title": "Reminiscences of an Investor",
+  "q": "There's nothing new under the sun. It's hysterias, bubbles, panics, extremes of human nature.",
+  "who": "Dan"
+ },
+ {
+  "slug": "reminiscences-of-an-investor",
+  "guest": "Dan Loeb",
+  "date": "2026-05-28",
+  "title": "Reminiscences of an Investor",
+  "q": "The one thing money doesn't buy you is friends that believed in you when you had nothing.",
+  "who": "Dan (quoting Palmer Luckey)"
+ },
+ {
+  "slug": "reminiscences-of-an-investor",
+  "guest": "Dan Loeb",
+  "date": "2026-05-28",
+  "title": "Reminiscences of an Investor",
+  "q": "If a stock goes down, you celebrate—chance to buy more at better price.",
+  "who": "Dan"
+ },
+ {
+  "slug": "reminiscences-of-an-investor",
+  "guest": "Dan Loeb",
+  "date": "2026-05-28",
+  "title": "Reminiscences of an Investor",
+  "q": "You don't have the valuation bubble you had in the dot-com era on these companies today.",
+  "who": "Dan"
  },
  {
   "slug": "ric-elias-the-art-of-living-well",
@@ -10714,6 +11898,38 @@ export const QUOTES: any[] = [
   "who": "Andrew Sugrue"
  },
  {
+  "slug": "supply-demand-of-tokens",
+  "guest": "Dylan Patel",
+  "date": "2026-04-23",
+  "title": "The Supply and Demand of Tokens",
+  "q": "Execution was very, very fucking difficult and ideas were cheap. Now ideas are cheap and plentiful, but execution is very easy.",
+  "who": "Dylan Patel"
+ },
+ {
+  "slug": "supply-demand-of-tokens",
+  "guest": "Dylan Patel",
+  "date": "2026-04-23",
+  "title": "The Supply and Demand of Tokens",
+  "q": "If you don't use more tokens, you'll never escape the permanent underclass.",
+  "who": "Dylan Patel"
+ },
+ {
+  "slug": "supply-demand-of-tokens",
+  "guest": "Dylan Patel",
+  "date": "2026-04-23",
+  "title": "The Supply and Demand of Tokens",
+  "q": "Anthropic has 72% gross margins because their demand is so high they cut usage limits, rate limits, everything—only enterprise contracts matter.",
+  "who": "Dylan Patel"
+ },
+ {
+  "slug": "supply-demand-of-tokens",
+  "guest": "Dylan Patel",
+  "date": "2026-04-23",
+  "title": "The Supply and Demand of Tokens",
+  "q": "People hate AI. AI is less popular than ICE, less popular than politicians. We'll see large-scale protests in three months.",
+  "who": "Dylan Patel"
+ },
+ {
   "slug": "susan-leave-the-world-better-than-you-found-it",
   "guest": "Lior Susan",
   "date": "2023-11-21",
@@ -11018,6 +12234,38 @@ export const QUOTES: any[] = [
   "who": "Vlad"
  },
  {
+  "slug": "the-anti-ai-bet",
+  "guest": "Ari Emanuel",
+  "date": "2025-11-19",
+  "title": "The Anti-AI Bet",
+  "q": "AI is you, and you're the dog.",
+  "who": "Elon Musk"
+ },
+ {
+  "slug": "the-anti-ai-bet",
+  "guest": "Ari Emanuel",
+  "date": "2025-11-19",
+  "title": "The Anti-AI Bet",
+  "q": "Taste matters a lot. That's what's going to arise pretty soon.",
+  "who": "Ari Emanuel"
+ },
+ {
+  "slug": "the-anti-ai-bet",
+  "guest": "Ari Emanuel",
+  "date": "2025-11-19",
+  "title": "The Anti-AI Bet",
+  "q": "You don't really learn that much from doing good things.",
+  "who": "Ari Emanuel"
+ },
+ {
+  "slug": "the-anti-ai-bet",
+  "guest": "Ari Emanuel",
+  "date": "2025-11-19",
+  "title": "The Anti-AI Bet",
+  "q": "I want to be right. My ideas, I want to make sure they're right.",
+  "who": "Ari Emanuel"
+ },
+ {
   "slug": "the-art-of-franchise-investing",
   "guest": "Matt Perelman & Alex Sloane",
   "date": "2024-10-15",
@@ -11040,6 +12288,38 @@ export const QUOTES: any[] = [
   "title": "The Art of Franchise Investing",
   "q": "Our partnership is really special. We value it as much as anything in the world.",
   "who": "Alex Sloane"
+ },
+ {
+  "slug": "the-art-of-public-private-market-investing",
+  "guest": "Dan Sundheim",
+  "date": "2026-02-24",
+  "title": "The Art of Public and Private Market Investing",
+  "q": "Private markets are less competitive. Public markets, tons of people competing, but they're all playing a different sport.",
+  "who": "Dan Sundheim"
+ },
+ {
+  "slug": "the-art-of-public-private-market-investing",
+  "guest": "Dan Sundheim",
+  "date": "2026-02-24",
+  "title": "The Art of Public and Private Market Investing",
+  "q": "Money to me is the scorecard. I want to have the best score.",
+  "who": "Dan Sundheim"
+ },
+ {
+  "slug": "the-art-of-public-private-market-investing",
+  "guest": "Dan Sundheim",
+  "date": "2026-02-24",
+  "title": "The Art of Public and Private Market Investing",
+  "q": "Scaling laws stopping is a really low probability assumption—everything suggests the opposite.",
+  "who": "Dan Sundheim"
+ },
+ {
+  "slug": "the-art-of-public-private-market-investing",
+  "guest": "Dan Sundheim",
+  "date": "2026-02-24",
+  "title": "The Art of Public and Private Market Investing",
+  "q": "If you're successful, you're amortizing a fixed asset over more revenue streams. At the same time, you risk not being the best at any one thing.",
+  "who": "Dan Sundheim"
  },
  {
   "slug": "the-battle-for-tech-supremacy",
@@ -11074,6 +12354,30 @@ export const QUOTES: any[] = [
   "who": "Guest"
  },
  {
+  "slug": "the-best-seat-in-the-market",
+  "guest": "John Arnold",
+  "date": "2026-03-04",
+  "title": "The Best Seat in the Market",
+  "q": "Every one of my suppliers is within 200 miles. I can call them and meet same day. You can never get that in the West.",
+  "who": "John Arnold"
+ },
+ {
+  "slug": "the-best-seat-in-the-market",
+  "guest": "John Arnold",
+  "date": "2026-03-04",
+  "title": "The Best Seat in the Market",
+  "q": "I don't feel at home with either political party. Different problems need different solutions.",
+  "who": "John Arnold"
+ },
+ {
+  "slug": "the-best-seat-in-the-market",
+  "guest": "John Arnold",
+  "date": "2026-03-04",
+  "title": "The Best Seat in the Market",
+  "q": "You've changed, and not for the better.",
+  "who": "John's brother"
+ },
+ {
   "slug": "the-business-of-defense",
   "guest": "Darren Farber",
   "date": "2025-04-01",
@@ -11106,6 +12410,70 @@ export const QUOTES: any[] = [
   "who": "Darren Farber"
  },
  {
+  "slug": "the-chainsmokers-music-markets",
+  "guest": "Alex Pall & Drew Taggart",
+  "date": "2025-06-24",
+  "title": "Music & Markets",
+  "q": "Yeah, because it's like the cat’s out of the bag",
+  "who": "Patrick"
+ },
+ {
+  "slug": "the-chainsmokers-music-markets",
+  "guest": "Alex Pall & Drew Taggart",
+  "date": "2025-06-24",
+  "title": "Music & Markets",
+  "q": "It's like I'm going to stand in front of a tsunami and I'm going to hold it off",
+  "who": "Patrick"
+ },
+ {
+  "slug": "the-chainsmokers-music-markets",
+  "guest": "Alex Pall & Drew Taggart",
+  "date": "2025-06-24",
+  "title": "Music & Markets",
+  "q": "And by the way, it's already too late",
+  "who": "Alex"
+ },
+ {
+  "slug": "the-chainsmokers-music-markets",
+  "guest": "Alex Pall & Drew Taggart",
+  "date": "2025-06-24",
+  "title": "Music & Markets",
+  "q": "And it had this whole moment where it's like you can't really stop this from happening",
+  "who": "Drew"
+ },
+ {
+  "slug": "the-cone-of-uncertainty",
+  "guest": "Krishna Rao",
+  "date": "2026-05-13",
+  "title": "The Cone of Uncertainty",
+  "q": "The compute we procure is the lifeblood of our business. It's the canvas on which everything else gets built.",
+  "who": "Krishna"
+ },
+ {
+  "slug": "the-cone-of-uncertainty",
+  "guest": "Krishna Rao",
+  "date": "2026-05-13",
+  "title": "The Cone of Uncertainty",
+  "q": "If you buy too much compute, you go out of business. If you buy too little, you can't serve customers or stay at the frontier.",
+  "who": "Krishna"
+ },
+ {
+  "slug": "the-cone-of-uncertainty",
+  "guest": "Krishna Rao",
+  "date": "2026-05-13",
+  "title": "The Cone of Uncertainty",
+  "q": "A dollar of compute inside our organization goes further than anywhere else—we're the most efficient users amongst frontier labs.",
+  "who": "Krishna"
+ },
+ {
+  "slug": "the-cone-of-uncertainty",
+  "guest": "Krishna Rao",
+  "date": "2026-05-13",
+  "title": "The Cone of Uncertainty",
+  "q": "The returns to frontier intelligence are not slowing down, especially in enterprise where each model leap unlocks new use cases.",
+  "who": "Krishna"
+ },
+ {
   "slug": "the-focused-few",
   "guest": "David Senra",
   "date": "2025-05-06",
@@ -11136,6 +12504,38 @@ export const QUOTES: any[] = [
   "title": "The Focused Few",
   "q": "Children have wonder in everything. Why, why, why? That's the spirit of great creators.",
   "who": "David Senra"
+ },
+ {
+  "slug": "the-future-of-ai-hardware",
+  "guest": "Gavin Uberti & Rob Wachen",
+  "date": "2026-06-30",
+  "title": "The Future of AI Hardware",
+  "q": "If you have the most performant product and you can't produce it, then you're just a podcast.",
+  "who": "Rob Wachen"
+ },
+ {
+  "slug": "the-future-of-ai-hardware",
+  "guest": "Gavin Uberti & Rob Wachen",
+  "date": "2026-06-30",
+  "title": "The Future of AI Hardware",
+  "q": "Thinking is really valuable. We're entering a unique moment where machines think as well as the best humans.",
+  "who": "Gavin Uberti"
+ },
+ {
+  "slug": "the-future-of-ai-hardware",
+  "guest": "Gavin Uberti & Rob Wachen",
+  "date": "2026-06-30",
+  "title": "The Future of AI Hardware",
+  "q": "We are in a many-year supply shortage of tokens. Any chip that produces them is extremely valuable.",
+  "who": "Rob Wachen"
+ },
+ {
+  "slug": "the-future-of-ai-hardware",
+  "guest": "Gavin Uberti & Rob Wachen",
+  "date": "2026-06-30",
+  "title": "The Future of AI Hardware",
+  "q": "If I want to serve 10x more tokens, it must be a solution where I get economies-of-scale benefits, not just linearly buy more servers.",
+  "who": "Gavin Uberti"
  },
  {
   "slug": "the-future-of-intelligent-machines",
@@ -11200,6 +12600,118 @@ export const QUOTES: any[] = [
   "title": "The Gift and The Curse of Staying Private",
   "q": "All startups are born as pirates, but they eventually have to become a navy.",
   "who": "Bill Gurley"
+ },
+ {
+  "slug": "the-new-rules-of-war",
+  "guest": "Darren Farber",
+  "date": "2026-05-26",
+  "title": "The New Rules of War",
+  "q": "Winning is politically defined. If the Strait of Hormuz opens and Iranian military capability degrades, that's a win.",
+  "who": "Darren"
+ },
+ {
+  "slug": "the-new-rules-of-war",
+  "guest": "Darren Farber",
+  "date": "2026-05-26",
+  "title": "The New Rules of War",
+  "q": "Dictators are enormously strong and enormously weak at the same time. Both can be true.",
+  "who": "Darren"
+ },
+ {
+  "slug": "the-new-rules-of-war",
+  "guest": "Darren Farber",
+  "date": "2026-05-26",
+  "title": "The New Rules of War",
+  "q": "The Chinese Communist Party is fundamentally illegitimate. At some point, freedom prevails as the natural order.",
+  "who": "Darren"
+ },
+ {
+  "slug": "the-new-rules-of-war",
+  "guest": "Darren Farber",
+  "date": "2026-05-26",
+  "title": "The New Rules of War",
+  "q": "Commercial viability and pervasiveness made drones a new article of war—not military budgets, but commercial supply chains.",
+  "who": "Darren"
+ },
+ {
+  "slug": "the-power-of-permanent-capital",
+  "guest": "Vlad Barbalat",
+  "date": "2026-06-23",
+  "title": "The Power of Permanent Capital",
+  "q": "We're not in the business of predicting the future, we're being prepared for all its eventualities.",
+  "who": "Vlad"
+ },
+ {
+  "slug": "the-power-of-permanent-capital",
+  "guest": "Vlad Barbalat",
+  "date": "2026-06-23",
+  "title": "The Power of Permanent Capital",
+  "q": "Transparency is what allows you to have autonomy. No transparency, no autonomy.",
+  "who": "Vlad"
+ },
+ {
+  "slug": "the-power-of-permanent-capital",
+  "guest": "Vlad Barbalat",
+  "date": "2026-06-23",
+  "title": "The Power of Permanent Capital",
+  "q": "The future is increasingly invisible. How could I possibly place a higher multiple?",
+  "who": "Vlad"
+ },
+ {
+  "slug": "the-power-of-permanent-capital",
+  "guest": "Vlad Barbalat",
+  "date": "2026-06-23",
+  "title": "The Power of Permanent Capital",
+  "q": "The long term is constructed of a bunch of short terms.",
+  "who": "Vlad"
+ },
+ {
+  "slug": "the-power-of-story",
+  "guest": "Wolfgang Hammer",
+  "date": "2025-11-11",
+  "title": "The Power of Story",
+  "q": "The best stories aren't about what happens—they're about who the character becomes.",
+  "who": "Wolfgang"
+ },
+ {
+  "slug": "the-power-of-story",
+  "guest": "Wolfgang Hammer",
+  "date": "2025-11-11",
+  "title": "The Power of Story",
+  "q": "Filmmakers understand that great drama comes from internal conflict, not just external challenge.",
+  "who": "Wolfgang"
+ },
+ {
+  "slug": "the-power-of-story",
+  "guest": "Wolfgang Hammer",
+  "date": "2025-11-11",
+  "title": "The Power of Story",
+  "q": "Your story isn't complete until you understand why it matters beyond yourself.",
+  "who": "Wolfgang"
+ },
+ {
+  "slug": "the-us-vs-china-in-the-21st-century",
+  "guest": "Dan Wang",
+  "date": "2025-10-16",
+  "title": "The US vs China in the 21st Century",
+  "q": "Well, Patrick, is this book not unhinged enough for you?",
+  "who": "Dan Wang"
+ },
+ {
+  "slug": "the-us-vs-china-in-the-21st-century",
+  "guest": "Dan Wang",
+  "date": "2025-10-16",
+  "title": "The US vs China in the 21st Century",
+  "q": "Shanghai is my favorite city in China—maybe my favorite city in the world.\nPatrick: Why?",
+  "who": "Dan Wang"
+ },
+ {
+  "slug": "the-us-vs-china-in-the-21st-century",
+  "guest": "Dan Wang",
+  "date": "2025-10-16",
+  "title": "The US vs China in the 21st Century",
+  "q": "Yeah, whatever. A pension or you're a university endowment. Do you really want to hold this?",
+  "who": "Dan Wang"
  },
  {
   "slug": "thompson-platforms-ecosystems-and-aggregators",
@@ -11360,6 +12872,30 @@ export const QUOTES: any[] = [
   "title": "Real Talk About AI and Software",
   "q": "Inside every 80-year-old is an 18-year-old wondering what the f*** just happened.",
   "who": "Des"
+ },
+ {
+  "slug": "trillion-dollar-health-revolution",
+  "guest": "Alex Karnal",
+  "date": "2026-04-21",
+  "title": "The Trillion-Dollar Health Revolution",
+  "q": "Cancer is a sneaky devil. It redirects its survival instinct once you start winning with a medicine.",
+  "who": "Alex Karnal"
+ },
+ {
+  "slug": "trillion-dollar-health-revolution",
+  "guest": "Alex Karnal",
+  "date": "2026-04-21",
+  "title": "The Trillion-Dollar Health Revolution",
+  "q": "GLP-1s have real toxicity, but the benefit is so protective across metabolic health that it's worth managing.",
+  "who": "Alex Karnal"
+ },
+ {
+  "slug": "trillion-dollar-health-revolution",
+  "guest": "Alex Karnal",
+  "date": "2026-04-21",
+  "title": "The Trillion-Dollar Health Revolution",
+  "q": "The science behind moving from a protein lasting two minutes to one lasting over a week is dramatic.",
+  "who": "Alex Karnal"
  },
  {
   "slug": "turning-potential-into-prominence",
@@ -11882,6 +13418,38 @@ export const QUOTES: any[] = [
   "who": "Keith"
  },
  {
+  "slug": "watts-and-wafers",
+  "guest": "Gavin Baker",
+  "date": "2026-05-20",
+  "title": "Watts and Wafers",
+  "q": "This is the most extraordinary moment in the history of capitalism. Anthropic added $11B of ARR in one month.",
+  "who": "Gavin"
+ },
+ {
+  "slug": "watts-and-wafers",
+  "guest": "Gavin Baker",
+  "date": "2026-05-20",
+  "title": "Watts and Wafers",
+  "q": "If TSMC did what Jensen wanted, Nvidia could sell $2-3T of GPUs. They're the only thing preventing a bubble.",
+  "who": "Gavin"
+ },
+ {
+  "slug": "watts-and-wafers",
+  "guest": "Gavin Baker",
+  "date": "2026-05-20",
+  "title": "Watts and Wafers",
+  "q": "Orbital compute is racks in space connected with lasers into a virtual data center, not Pentagon-sized buildings floating above Earth.",
+  "who": "Gavin"
+ },
+ {
+  "slug": "watts-and-wafers",
+  "guest": "Gavin Baker",
+  "date": "2026-05-20",
+  "title": "Watts and Wafers",
+  "q": "The machine gun is here. If we do not all become masters of the machine gun, we're going to get mastered.",
+  "who": "Gavin"
+ },
+ {
   "slug": "wei-tech-media-and-culture",
   "guest": "Eugene Wei",
   "date": "2019-01-22",
@@ -12176,6 +13744,38 @@ export const QUOTES: any[] = [
   "title": "Investing in Innovation",
   "q": "Kindness begets kindness. I try to be a kind person myself.",
   "who": "Cathie Wood"
+ },
+ {
+  "slug": "you-retire-you-die",
+  "guest": "Paul Tudor Jones",
+  "date": "2026-04-28",
+  "title": "You Retire, You Die",
+  "q": "You retire, you die.",
+  "who": "Doctor at 83 years old (cited by Paul)"
+ },
+ {
+  "slug": "you-retire-you-die",
+  "guest": "Paul Tudor Jones",
+  "date": "2026-04-28",
+  "title": "You Retire, You Die",
+  "q": "Kill 'em with kindness. You don't have to worry about yourself; worry about how you're going to brighten someone else's day.",
+  "who": "Paul Tudor Jones' mother"
+ },
+ {
+  "slug": "you-retire-you-die",
+  "guest": "Paul Tudor Jones",
+  "date": "2026-04-28",
+  "title": "You Retire, You Die",
+  "q": "My significance is not going to be from being a trader. My significance is going to be my family. When I look back, I won't think about the '87 crash or Bitcoin—I'll think about who I loved and who loved me.",
+  "who": "Paul Tudor Jones"
+ },
+ {
+  "slug": "you-retire-you-die",
+  "guest": "Paul Tudor Jones",
+  "date": "2026-04-28",
+  "title": "You Retire, You Die",
+  "q": "Valuation matters a lot, and the stock market's really high and it's gonna be really hard to make money from here with any long-term view.",
+  "who": "Paul Tudor Jones"
  },
  {
   "slug": "yuan-a-primer-on-vertical-market-software",
