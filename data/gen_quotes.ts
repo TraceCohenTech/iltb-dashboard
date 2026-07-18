@@ -162,6 +162,78 @@ export const QUOTES: any[] = [
   "who": "Peter Attia"
  },
  {
+  "slug": "baker-investing-through-a-bear-market",
+  "guest": "Gavin Baker",
+  "date": "2020-04-02",
+  "title": "Investing Through a Bear Market",
+  "q": "It's like being in a knife fight when you're blindfolded and covered in grease",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-investing-through-a-bear-market",
+  "guest": "Gavin Baker",
+  "date": "2020-04-02",
+  "title": "Investing Through a Bear Market",
+  "q": "Bears work on a FIFO principle, not LIFO",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-investing-through-a-bear-market",
+  "guest": "Gavin Baker",
+  "date": "2020-04-02",
+  "title": "Investing Through a Bear Market",
+  "q": "The metaverse is the culmination of the internet",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-investing-through-a-bear-market",
+  "guest": "Gavin Baker",
+  "date": "2020-04-02",
+  "title": "Investing Through a Bear Market",
+  "q": "Chaos is a ladder",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-investing-through-a-bear-market",
+  "guest": "Gavin Baker",
+  "date": "2020-04-02",
+  "title": "Investing Through a Bear Market",
+  "q": "It always pays to bet on humanity",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-tech-and-consumer-growth-investing",
+  "guest": "Gavin Baker",
+  "date": "2019-11-26",
+  "title": "Tech and Consumer Growth Investing",
+  "q": "I'm a student of history. We are living through accelerated change comparable to the Industrial Revolution. We have 30-40 years of disruption ahead.",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-tech-and-consumer-growth-investing",
+  "guest": "Gavin Baker",
+  "date": "2019-11-26",
+  "title": "Tech and Consumer Growth Investing",
+  "q": "Tech is a ten on alpha-richness, consumer a seven. Nothing else is above a three-and-a-half. That's a lot of alpha-richness.",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-tech-and-consumer-growth-investing",
+  "guest": "Gavin Baker",
+  "date": "2019-11-26",
+  "title": "Tech and Consumer Growth Investing",
+  "q": "If I had to choose one barrier to entry, one competitive advantage, it would be scale. Relative scale, every time.",
+  "who": "Gavin"
+ },
+ {
+  "slug": "baker-tech-and-consumer-growth-investing",
+  "guest": "Gavin Baker",
+  "date": "2019-11-26",
+  "title": "Tech and Consumer Growth Investing",
+  "q": "Look out five-to-seven years with conviction. Assume valuation is not part of the outcome. You must be paid by business outcomes.",
+  "who": "Gavin"
+ },
+ {
   "slug": "balchunas-the-past-present-future-of-etfs",
   "guest": "Eric Balchunas",
   "date": "2018-06-26",
@@ -192,6 +264,30 @@ export const QUOTES: any[] = [
   "title": "The Past, Present & Future of ETFs",
   "q": "ETFs reflect trends; they don't create them. They're the tip of a much bigger iceberg.",
   "who": "Eric Balchunas"
+ },
+ {
+  "slug": "ball-the-future-of-media-movies-the-metaverse-and-more",
+  "guest": "Matthew Ball",
+  "date": "2020-08-04",
+  "title": "The Future of Media: Movies, the Metaverse, and More",
+  "q": "As franchises become more expansive and immersive, they squeeze air out of the competitive landscape.",
+  "who": "Matthew Ball"
+ },
+ {
+  "slug": "ball-the-future-of-media-movies-the-metaverse-and-more",
+  "guest": "Matthew Ball",
+  "date": "2020-08-04",
+  "title": "The Future of Media: Movies, the Metaverse, and More",
+  "q": "Gaming is outcome-driven optimization. Film is creative vision-driven. That's the fundamental difference.",
+  "who": "Matthew Ball"
+ },
+ {
+  "slug": "ball-the-future-of-media-movies-the-metaverse-and-more",
+  "guest": "Matthew Ball",
+  "date": "2020-08-04",
+  "title": "The Future of Media: Movies, the Metaverse, and More",
+  "q": "The metaverse is worth trillions. Everything in the middle is an impediment.",
+  "who": "Matthew Ball"
  },
  {
   "slug": "batt-the-nature-of-transformational-returns",
@@ -226,6 +322,30 @@ export const QUOTES: any[] = [
   "who": "Geoffrey"
  },
  {
+  "slug": "belsky-focus-on-the-first-mile",
+  "guest": "Scott Belsky",
+  "date": "2021-02-15",
+  "title": "Focus on the First Mile",
+  "q": "The devil's in the default: 80% of customers only see what you land them on.",
+  "who": "Scott"
+ },
+ {
+  "slug": "belsky-focus-on-the-first-mile",
+  "guest": "Scott Belsky",
+  "date": "2021-02-15",
+  "title": "Focus on the First Mile",
+  "q": "A prototype is worth a hundred meetings.",
+  "who": "Scott"
+ },
+ {
+  "slug": "belsky-focus-on-the-first-mile",
+  "guest": "Scott Belsky",
+  "date": "2021-02-15",
+  "title": "Focus on the First Mile",
+  "q": "Creatives don't need inspiration. They need focus on execution.",
+  "who": "Scott"
+ },
+ {
   "slug": "beshore-cultivating-a-disaster-resistant-compound-interest-machine",
   "guest": "Brent Beshore",
   "date": "2016-11-08",
@@ -256,6 +376,38 @@ export const QUOTES: any[] = [
   "title": "Cultivating a Disaster Resistant, Compound Interest Machine",
   "q": "The single biggest determining factor of success is compounding of knowledge.",
   "who": "Brent Beshore"
+ },
+ {
+  "slug": "beshore-learnings-from-a-year-of-unexpected-events",
+  "guest": "Brent Beshore",
+  "date": "2021-05-18",
+  "title": "Learnings from a Year of Unexpected Events",
+  "q": "If the government pays you more to stay home, you've got to stay home.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-learnings-from-a-year-of-unexpected-events",
+  "guest": "Brent Beshore",
+  "date": "2021-05-18",
+  "title": "Learnings from a Year of Unexpected Events",
+  "q": "Why do we need a crisis to make ourselves great? Let's do Kaizen every day.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-learnings-from-a-year-of-unexpected-events",
+  "guest": "Brent Beshore",
+  "date": "2021-05-18",
+  "title": "Learnings from a Year of Unexpected Events",
+  "q": "Negotiation is how you set the table correctly for the best outcome long term for all parties.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-learnings-from-a-year-of-unexpected-events",
+  "guest": "Brent Beshore",
+  "date": "2021-05-18",
+  "title": "Learnings from a Year of Unexpected Events",
+  "q": "You can get too cute with deal structure. Higher simplicity, greater likelihood of success post-close.",
+  "who": "Brent"
  },
  {
   "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
@@ -298,6 +450,38 @@ export const QUOTES: any[] = [
   "who": "Brent"
  },
  {
+  "slug": "beshore-update-on-small-business-and-private-equity",
+  "guest": "Brent Beshore",
+  "date": "2020-03-20",
+  "title": "Update on Small Business and Private Equity",
+  "q": "Pulling the plug breaks your heart—it's not just financial, it's personal.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-update-on-small-business-and-private-equity",
+  "guest": "Brent Beshore",
+  "date": "2020-03-20",
+  "title": "Update on Small Business and Private Equity",
+  "q": "No business can survive an 80-90-100% revenue drop, even for a short time.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-update-on-small-business-and-private-equity",
+  "guest": "Brent Beshore",
+  "date": "2020-03-20",
+  "title": "Update on Small Business and Private Equity",
+  "q": "Simple and straightforward adoption is key; complexity kills usage when survival is urgent.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-update-on-small-business-and-private-equity",
+  "guest": "Brent Beshore",
+  "date": "2020-03-20",
+  "title": "Update on Small Business and Private Equity",
+  "q": "Physical isolation yes, social over-communication yes—relationships are everything.",
+  "who": "Brent"
+ },
+ {
   "slug": "beshore-what-you-learn-about-business",
   "guest": "Brent Beshore",
   "date": "2018-08-21",
@@ -336,6 +520,30 @@ export const QUOTES: any[] = [
   "title": "What You Learn About Business",
   "q": "A storefront, an oven, and enormous margins. Pet crematoriums are one of the best businesses I've ever seen.",
   "who": "Brent Beshore"
+ },
+ {
+  "slug": "bloomstran-an-update-on-public-markets",
+  "guest": "Chris Bloomstran",
+  "date": "2020-04-30",
+  "title": "An Update on Public Markets",
+  "q": "You can only own them when they're very bad. You can't have an expectation of good.",
+  "who": "Chris Bloomstran"
+ },
+ {
+  "slug": "bloomstran-an-update-on-public-markets",
+  "guest": "Chris Bloomstran",
+  "date": "2020-04-30",
+  "title": "An Update on Public Markets",
+  "q": "I think good businesses tend to keep you out of trouble.",
+  "who": "Chris Bloomstran"
+ },
+ {
+  "slug": "bloomstran-an-update-on-public-markets",
+  "guest": "Chris Bloomstran",
+  "date": "2020-04-30",
+  "title": "An Update on Public Markets",
+  "q": "The endgame is probably hyperinflation... but we're not there yet.",
+  "who": "Chris Bloomstran"
  },
  {
   "slug": "brown-the-reformation",
@@ -402,6 +610,62 @@ export const QUOTES: any[] = [
   "who": "Josh"
  },
  {
+  "slug": "buckley-identifying-legendary-start-ups",
+  "guest": "Josh Buckley",
+  "date": "2021-04-27",
+  "title": "Identifying Legendary Start-ups",
+  "q": "Raise your prices. Most games don't charge enough to make the business work.",
+  "who": "Josh Buckley"
+ },
+ {
+  "slug": "buckley-identifying-legendary-start-ups",
+  "guest": "Josh Buckley",
+  "date": "2021-04-27",
+  "title": "Identifying Legendary Start-ups",
+  "q": "The biggest outcomes in technology all looked really weird early on. They were non-obvious ideas.",
+  "who": "Josh Buckley"
+ },
+ {
+  "slug": "buckley-identifying-legendary-start-ups",
+  "guest": "Josh Buckley",
+  "date": "2021-04-27",
+  "title": "Identifying Legendary Start-ups",
+  "q": "Money doesn't make you happy. Money just solves your money problems.",
+  "who": "Josh Buckley"
+ },
+ {
+  "slug": "buckley-identifying-legendary-start-ups",
+  "guest": "Josh Buckley",
+  "date": "2021-04-27",
+  "title": "Identifying Legendary Start-ups",
+  "q": "You really need a sustainable source of motivation to do truly great work.",
+  "who": "Josh Buckley"
+ },
+ {
+  "slug": "buffett-finding-your-note",
+  "guest": "Peter Buffett",
+  "date": "2020-01-07",
+  "title": "Finding Your Note",
+  "q": "Abstract without the particular allows the demonic.",
+  "who": "Peter Buffett"
+ },
+ {
+  "slug": "buffett-finding-your-note",
+  "guest": "Peter Buffett",
+  "date": "2020-01-07",
+  "title": "Finding Your Note",
+  "q": "We're a species out of context.",
+  "who": "Peter Buffett"
+ },
+ {
+  "slug": "buffett-finding-your-note",
+  "guest": "Peter Buffett",
+  "date": "2020-01-07",
+  "title": "Finding Your Note",
+  "q": "That which you do not bring forth from within you will destroy you.",
+  "who": "Peter Buffett"
+ },
+ {
   "slug": "byrne-cryptopocalypse",
   "guest": "Preston Byrne",
   "date": "2018-01-16",
@@ -466,6 +730,38 @@ export const QUOTES: any[] = [
   "who": "Ryan Caldbeck"
  },
  {
+  "slug": "canner-become-a-perfect-instrument",
+  "guest": "Niko Canner",
+  "date": "2020-02-25",
+  "title": "Become a Perfect Instrument",
+  "q": "The world needs more extreme cultures and less of a blended middle of corporate America.",
+  "who": "Niko"
+ },
+ {
+  "slug": "canner-become-a-perfect-instrument",
+  "guest": "Niko Canner",
+  "date": "2020-02-25",
+  "title": "Become a Perfect Instrument",
+  "q": "If you aren't going to tell anybody what to do, you really need to care about who they are.",
+  "who": "Niko"
+ },
+ {
+  "slug": "canner-become-a-perfect-instrument",
+  "guest": "Niko Canner",
+  "date": "2020-02-25",
+  "title": "Become a Perfect Instrument",
+  "q": "Micromanagement is when the sponsor tries to do the owner's job.",
+  "who": "Niko"
+ },
+ {
+  "slug": "canner-become-a-perfect-instrument",
+  "guest": "Niko Canner",
+  "date": "2020-02-25",
+  "title": "Become a Perfect Instrument",
+  "q": "Choosing which customers then being really serious about that spec is what creates an impregnable position.",
+  "who": "Niko"
+ },
+ {
   "slug": "cascarilla-the-future-of-blockchain-and-financial-services",
   "guest": "Chad Cascarilla",
   "date": "2019-10-29",
@@ -496,6 +792,38 @@ export const QUOTES: any[] = [
   "title": "The Future of Blockchain and Financial Services",
   "q": "Bitcoin's still in beta. Something could come along that's better as a store of value.",
   "who": "Chad Cascarilla"
+ },
+ {
+  "slug": "cascarilla-update-on-tail-risk",
+  "guest": "Chad Cascarilla",
+  "date": "2020-03-25",
+  "title": "Update on Tail Risk",
+  "q": "A price for perfection moment",
+  "who": "Chad"
+ },
+ {
+  "slug": "cascarilla-update-on-tail-risk",
+  "guest": "Chad Cascarilla",
+  "date": "2020-03-25",
+  "title": "Update on Tail Risk",
+  "q": "This looks much more like a war or the 1918 pandemic",
+  "who": "Chad"
+ },
+ {
+  "slug": "cascarilla-update-on-tail-risk",
+  "guest": "Chad Cascarilla",
+  "date": "2020-03-25",
+  "title": "Update on Tail Risk",
+  "q": "Tails aren't quite tails when you're in a crisis like this",
+  "who": "Chad"
+ },
+ {
+  "slug": "cascarilla-update-on-tail-risk",
+  "guest": "Chad Cascarilla",
+  "date": "2020-03-25",
+  "title": "Update on Tail Risk",
+  "q": "If you plan, you could feel like you're protected",
+  "who": "Chad"
  },
  {
   "slug": "cassel-investing-in-tiny-stocks",
@@ -602,6 +930,86 @@ export const QUOTES: any[] = [
   "who": "Brian Christian"
  },
  {
+  "slug": "cibelli-cornerstone-investing-insights",
+  "guest": "Mario Cibelli",
+  "date": "2020-12-22",
+  "title": "Cornerstone Investing Insights",
+  "q": "This is going to allow them to potentially escape Earth's gravitational pull in a big way.",
+  "who": "Mario Cibelli"
+ },
+ {
+  "slug": "cibelli-cornerstone-investing-insights",
+  "guest": "Mario Cibelli",
+  "date": "2020-12-22",
+  "title": "Cornerstone Investing Insights",
+  "q": "This just doesn't make sense outside of malfeasance.",
+  "who": "Mario Cibelli"
+ },
+ {
+  "slug": "cibelli-cornerstone-investing-insights",
+  "guest": "Mario Cibelli",
+  "date": "2020-12-22",
+  "title": "Cornerstone Investing Insights",
+  "q": "Good luck to competitors trying to replicate this.",
+  "who": "Mario Cibelli"
+ },
+ {
+  "slug": "clark-grateful-for-everything-entitled-to-nothing",
+  "guest": "Jack Clark",
+  "date": "2021-03-02",
+  "title": "Grateful for Everything, Entitled to Nothing",
+  "q": "You're either getting better or you're getting worse. There really isn't anything in between.",
+  "who": "Jack Clark"
+ },
+ {
+  "slug": "clark-grateful-for-everything-entitled-to-nothing",
+  "guest": "Jack Clark",
+  "date": "2021-03-02",
+  "title": "Grateful for Everything, Entitled to Nothing",
+  "q": "If you get the wrong player on your team, they'll beat you every day.",
+  "who": "Bo Schembechler (quoted by Jack)"
+ },
+ {
+  "slug": "clark-grateful-for-everything-entitled-to-nothing",
+  "guest": "Jack Clark",
+  "date": "2021-03-02",
+  "title": "Grateful for Everything, Entitled to Nothing",
+  "q": "People won't care what you have to say until they know you care about them.",
+  "who": "Pat Summitt (quoted by Jack)"
+ },
+ {
+  "slug": "clark-grateful-for-everything-entitled-to-nothing",
+  "guest": "Jack Clark",
+  "date": "2021-03-02",
+  "title": "Grateful for Everything, Entitled to Nothing",
+  "q": "The currency that's exchanged between team members is performance in the moment.",
+  "who": "Jack Clark"
+ },
+ {
+  "slug": "clifford-investing-pre-company",
+  "guest": "Matt Clifford",
+  "date": "2020-01-14",
+  "title": "Investing Pre Company",
+  "q": "The world is missing out on some of its best founders. Our job is to find them before they have a company.",
+  "who": "Matt Clifford"
+ },
+ {
+  "slug": "clifford-investing-pre-company",
+  "guest": "Matt Clifford",
+  "date": "2020-01-14",
+  "title": "Investing Pre Company",
+  "q": "Cheap capital in the first round is actually a feature, not a bug.",
+  "who": "Matt Clifford"
+ },
+ {
+  "slug": "clifford-investing-pre-company",
+  "guest": "Matt Clifford",
+  "date": "2020-01-14",
+  "title": "Investing Pre Company",
+  "q": "The best founders aren't sitting around thinking 'I want to start a company.' They're solving problems.",
+  "who": "Matt Clifford"
+ },
+ {
   "slug": "cohen-the-evolution-of-ma-and-corporate-strategy",
   "guest": "Stephanie Cohen",
   "date": "2019-05-07",
@@ -632,6 +1040,38 @@ export const QUOTES: any[] = [
   "title": "The Evolution of M&A and Corporate Strategy",
   "q": "To build sustainable businesses, you have to marry shareholder return with the societal value you create.",
   "who": "Stephanie Cohen"
+ },
+ {
+  "slug": "cole-how-to-operate-lessons-in-brand-distribution-and-leadership",
+  "guest": "Kat Cole",
+  "date": "2020-07-28",
+  "title": "How to Operate: Lessons in Brand, Distribution, and Leadership",
+  "q": "Just because things could be worse doesn't mean you shouldn't make them better.",
+  "who": "Kat Cole"
+ },
+ {
+  "slug": "cole-how-to-operate-lessons-in-brand-distribution-and-leadership",
+  "guest": "Kat Cole",
+  "date": "2020-07-28",
+  "title": "How to Operate: Lessons in Brand, Distribution, and Leadership",
+  "q": "If we don't do it, the competition will.",
+  "who": "Kat Cole"
+ },
+ {
+  "slug": "cole-how-to-operate-lessons-in-brand-distribution-and-leadership",
+  "guest": "Kat Cole",
+  "date": "2020-07-28",
+  "title": "How to Operate: Lessons in Brand, Distribution, and Leadership",
+  "q": "You're in business for yourself, but not by yourself.",
+  "who": "Kat Cole"
+ },
+ {
+  "slug": "cole-how-to-operate-lessons-in-brand-distribution-and-leadership",
+  "guest": "Kat Cole",
+  "date": "2020-07-28",
+  "title": "How to Operate: Lessons in Brand, Distribution, and Leadership",
+  "q": "People close to the action know the right thing long before leaders do.",
+  "who": "Kat Cole"
  },
  {
   "slug": "cole-small-bets-huge-payoffs",
@@ -698,6 +1138,70 @@ export const QUOTES: any[] = [
   "who": "Katherine Collins"
  },
  {
+  "slug": "collison-growing-the-internet-economy",
+  "guest": "John Collison",
+  "date": "2020-06-16",
+  "title": "Growing the Internet Economy",
+  "q": "Technology is positive-sum; most other businesses fight over a fixed pie of supply.",
+  "who": "John"
+ },
+ {
+  "slug": "collison-growing-the-internet-economy",
+  "guest": "John Collison",
+  "date": "2020-06-16",
+  "title": "Growing the Internet Economy",
+  "q": "You really have to be willing to go down your rabbit hole, even when institutions try to bring you back on track.",
+  "who": "John"
+ },
+ {
+  "slug": "collison-growing-the-internet-economy",
+  "guest": "John Collison",
+  "date": "2020-06-16",
+  "title": "Growing the Internet Economy",
+  "q": "Payments is still an unsolved problem; it's just a solved problem.",
+  "who": "John"
+ },
+ {
+  "slug": "collison-growing-the-internet-economy",
+  "guest": "John Collison",
+  "date": "2020-06-16",
+  "title": "Growing the Internet Economy",
+  "q": "Board members are like Pokemon with different powers and attacks.",
+  "who": "John"
+ },
+ {
+  "slug": "cormier-the-future-of-cities-and-real-estate",
+  "guest": "Claire Cormier Thielke",
+  "date": "2021-01-19",
+  "title": "The Future of Cities and Real Estate",
+  "q": "Cities are an API for industry—you plug into existing infrastructure and rules to find investable opportunities",
+  "who": "Claire Cormier Thielke"
+ },
+ {
+  "slug": "cormier-the-future-of-cities-and-real-estate",
+  "guest": "Claire Cormier Thielke",
+  "date": "2021-01-19",
+  "title": "The Future of Cities and Real Estate",
+  "q": "When you see someone with a cool neck tattoo and arm sleeves, follow them and see where they're hanging out—that's the next thing",
+  "who": "Claire Cormier Thielke"
+ },
+ {
+  "slug": "cormier-the-future-of-cities-and-real-estate",
+  "guest": "Claire Cormier Thielke",
+  "date": "2021-01-19",
+  "title": "The Future of Cities and Real Estate",
+  "q": "Airplanes are time machines—you can travel back to the past or forward to the future in the same flight",
+  "who": "Claire Cormier Thielke"
+ },
+ {
+  "slug": "cormier-the-future-of-cities-and-real-estate",
+  "guest": "Claire Cormier Thielke",
+  "date": "2021-01-19",
+  "title": "The Future of Cities and Real Estate",
+  "q": "Real alpha is execution (design, cost management, leasing), not location—location is beta",
+  "who": "Claire Cormier Thielke"
+ },
+ {
   "slug": "craib-crowdsourcing-predictive-algorithms",
   "guest": "Richard Craib",
   "date": "2018-09-04",
@@ -746,6 +1250,30 @@ export const QUOTES: any[] = [
   "who": "Alex"
  },
  {
+  "slug": "dempsey-investing-in-bleeding-edge-technology",
+  "guest": "Michael Dempsey",
+  "date": "2021-02-09",
+  "title": "Investing in Bleeding Edge Technology",
+  "q": "Robots are great but five-finger robots—humans—are often the cheapest option.",
+  "who": "Michael"
+ },
+ {
+  "slug": "dempsey-investing-in-bleeding-edge-technology",
+  "guest": "Michael Dempsey",
+  "date": "2021-02-09",
+  "title": "Investing in Bleeding Edge Technology",
+  "q": "You can't bring facts to a feelings fight.",
+  "who": "Michael"
+ },
+ {
+  "slug": "dempsey-investing-in-bleeding-edge-technology",
+  "guest": "Michael Dempsey",
+  "date": "2021-02-09",
+  "title": "Investing in Bleeding Edge Technology",
+  "q": "Cyberpunk is now.",
+  "who": "Michael"
+ },
+ {
   "slug": "dixon-the-future-of-tech",
   "guest": "Chris Dixon",
   "date": "2017-12-26",
@@ -776,6 +1304,38 @@ export const QUOTES: any[] = [
   "title": "The Future of Tech",
   "q": "You have more information than the President did 15 years ago in your pocket.",
   "who": "Chris Dixon"
+ },
+ {
+  "slug": "dixon-the-potential-of-blockchain-technology",
+  "guest": "Chris Dixon",
+  "date": "2021-04-13",
+  "title": "The Potential of Blockchain Technology",
+  "q": "Code can't be evil; it can only be trustless. Instead of don't be evil, it can't be evil.",
+  "who": "Chris"
+ },
+ {
+  "slug": "dixon-the-potential-of-blockchain-technology",
+  "guest": "Chris Dixon",
+  "date": "2021-04-13",
+  "title": "The Potential of Blockchain Technology",
+  "q": "The key thing when investing is focusing on what's novel and new. Uber and Lyft relied on GPS—something the iPhone unlocked.",
+  "who": "Chris"
+ },
+ {
+  "slug": "dixon-the-potential-of-blockchain-technology",
+  "guest": "Chris Dixon",
+  "date": "2021-04-13",
+  "title": "The Potential of Blockchain Technology",
+  "q": "Blockchains are like the web. Open protocols enable massive waves of innovation and investment.",
+  "who": "Chris"
+ },
+ {
+  "slug": "dixon-the-potential-of-blockchain-technology",
+  "guest": "Chris Dixon",
+  "date": "2021-04-13",
+  "title": "The Potential of Blockchain Technology",
+  "q": "NFTs are the first thing that will reach mainstream crypto adoption—millions instead of thousands—because they're tangible.",
+  "who": "Chris"
  },
  {
   "slug": "dorsey-buying-companies-with-economic-moats",
@@ -840,6 +1400,38 @@ export const QUOTES: any[] = [
   "title": "The Moat Portfolio",
   "q": "Neither is good or bad—craftsmanship versus manufacturing require different skills and different structures.",
   "who": "Pat"
+ },
+ {
+  "slug": "dourado-frontiers-for-productivity",
+  "guest": "Eli Dourado",
+  "date": "2021-05-11",
+  "title": "Frontiers for Productivity",
+  "q": "We wanted flying cars but got 140 characters. That's very much related to the TFP slowdown.",
+  "who": "Eli Dourado"
+ },
+ {
+  "slug": "dourado-frontiers-for-productivity",
+  "guest": "Eli Dourado",
+  "date": "2021-05-11",
+  "title": "Frontiers for Productivity",
+  "q": "Proteins are mini-machines. Anything doing anything in your body is probably a protein.",
+  "who": "Eli Dourado"
+ },
+ {
+  "slug": "dourado-frontiers-for-productivity",
+  "guest": "Eli Dourado",
+  "date": "2021-05-11",
+  "title": "Frontiers for Productivity",
+  "q": "Machine learning is turning a corner—beating humans at problems that matter, not toys.",
+  "who": "Eli Dourado"
+ },
+ {
+  "slug": "dourado-frontiers-for-productivity",
+  "guest": "Eli Dourado",
+  "date": "2021-05-11",
+  "title": "Frontiers for Productivity",
+  "q": "We've given up. We care too much about comfort and not enough about material improvement.",
+  "who": "Eli Dourado"
  },
  {
   "slug": "douvos-a-value-investor-lost-in-the-valley",
@@ -1058,6 +1650,70 @@ export const QUOTES: any[] = [
   "who": "Fred Ehrsam"
  },
  {
+  "slug": "ek-the-future-of-audio",
+  "guest": "Daniel Ek",
+  "date": "2019-11-12",
+  "title": "The Future of Audio",
+  "q": "You're not driving fast enough unless you're shit scared.",
+  "who": "Daniel Ek"
+ },
+ {
+  "slug": "ek-the-future-of-audio",
+  "guest": "Daniel Ek",
+  "date": "2019-11-12",
+  "title": "The Future of Audio",
+  "q": "Growth is hard and expensive and it creates revenue growth, but also more errors to be dealt with.",
+  "who": "Daniel Ek"
+ },
+ {
+  "slug": "ek-the-future-of-audio",
+  "guest": "Daniel Ek",
+  "date": "2019-11-12",
+  "title": "The Future of Audio",
+  "q": "Understand the system first. You can't just copy one mechanic and expect it to work.",
+  "who": "Daniel Ek"
+ },
+ {
+  "slug": "ek-the-future-of-audio",
+  "guest": "Daniel Ek",
+  "date": "2019-11-12",
+  "title": "The Future of Audio",
+  "q": "The last job to be done by machine is creativity. That's the final frontier for humanity.",
+  "who": "Daniel Ek"
+ },
+ {
+  "slug": "enright-the-buy-side-primer",
+  "guest": "Paul Enright",
+  "date": "2021-04-20",
+  "title": "The Buy Side Primer",
+  "q": "If you're not selling them here, you're buying them here. My philosophy is simple.",
+  "who": "Paul"
+ },
+ {
+  "slug": "enright-the-buy-side-primer",
+  "guest": "Paul Enright",
+  "date": "2021-04-20",
+  "title": "The Buy Side Primer",
+  "q": "The enemy of great is good. You have to keep reinventing because mediocrity dies slowly when capital is abundant.",
+  "who": "Paul"
+ },
+ {
+  "slug": "enright-the-buy-side-primer",
+  "guest": "Paul Enright",
+  "date": "2021-04-20",
+  "title": "The Buy Side Primer",
+  "q": "Don't take a new job that is mediocre because your old job stinks. Go to the next thing for what it is, not for what the old thing wasn't.",
+  "who": "Paul"
+ },
+ {
+  "slug": "enright-the-buy-side-primer",
+  "guest": "Paul Enright",
+  "date": "2021-04-20",
+  "title": "The Buy Side Primer",
+  "q": "You function best when you're the dumbest guy in the room. I like being around really smart people who dig; I help them think through things.",
+  "who": "Paul"
+ },
+ {
   "slug": "epstein-wide-or-deep",
   "guest": "David Epstein",
   "date": "2019-05-28",
@@ -1122,6 +1778,38 @@ export const QUOTES: any[] = [
   "who": "Meb"
  },
  {
+  "slug": "fishner-wolfson-secondary-investing-in-private-markets",
+  "guest": "Justin Fishner-Wolfson",
+  "date": "2021-05-25",
+  "title": "Secondary Investing in Private Markets",
+  "q": "It's weird that in public markets 99.99999% is secondary, but in private everyone thinks primary is normal.",
+  "who": "Justin"
+ },
+ {
+  "slug": "fishner-wolfson-secondary-investing-in-private-markets",
+  "guest": "Justin Fishner-Wolfson",
+  "date": "2021-05-25",
+  "title": "Secondary Investing in Private Markets",
+  "q": "If you don't know how people are making money, they're probably screwing you.",
+  "who": "Justin"
+ },
+ {
+  "slug": "fishner-wolfson-secondary-investing-in-private-markets",
+  "guest": "Justin Fishner-Wolfson",
+  "date": "2021-05-25",
+  "title": "Secondary Investing in Private Markets",
+  "q": "The thing that wasn't considered practical 10 years ago is now normal. That's incredible.",
+  "who": "Justin"
+ },
+ {
+  "slug": "fishner-wolfson-secondary-investing-in-private-markets",
+  "guest": "Justin Fishner-Wolfson",
+  "date": "2021-05-25",
+  "title": "Secondary Investing in Private Markets",
+  "q": "You don't have to think about this. Call me. I can tell you what's going to make your life better, faster, easier.",
+  "who": "Justin"
+ },
+ {
   "slug": "foer-world-without-mind",
   "guest": "Franklin Foer",
   "date": "2017-12-12",
@@ -1176,6 +1864,38 @@ export const QUOTES: any[] = [
   "title": "Investing in Artificial Intelligence",
   "q": "The kindest thing is to let people be who they want to be.",
   "who": "Ash Fontana"
+ },
+ {
+  "slug": "fuss-breaking-down-the-food-ecosystem",
+  "guest": "Zack Fuss",
+  "date": "2021-01-12",
+  "title": "Breaking Down the Food Ecosystem",
+  "q": "Software is eating the world, but what are the implications for legacy industries' value chains?",
+  "who": "Zack Fuss"
+ },
+ {
+  "slug": "fuss-breaking-down-the-food-ecosystem",
+  "guest": "Zack Fuss",
+  "date": "2021-01-12",
+  "title": "Breaking Down the Food Ecosystem",
+  "q": "It's a business that creates more value than it captures in a lot of ways",
+  "who": "Zack Fuss"
+ },
+ {
+  "slug": "fuss-breaking-down-the-food-ecosystem",
+  "guest": "Zack Fuss",
+  "date": "2021-01-12",
+  "title": "Breaking Down the Food Ecosystem",
+  "q": "We stink",
+  "who": "Patrick O'Shaughnessy (re: Domino's 2010 CEO admission)"
+ },
+ {
+  "slug": "fuss-breaking-down-the-food-ecosystem",
+  "guest": "Zack Fuss",
+  "date": "2021-01-12",
+  "title": "Breaking Down the Food Ecosystem",
+  "q": "Pizza is a delivery business that happens to make pizza",
+  "who": "Zack Fuss"
  },
  {
   "slug": "ganti-esoteric-assets",
@@ -1242,6 +1962,62 @@ export const QUOTES: any[] = [
   "who": "David"
  },
  {
+  "slug": "gerstner-public-and-private-investing",
+  "guest": "Brad Gerstner",
+  "date": "2020-06-23",
+  "title": "Public and Private Investing",
+  "q": "A massive market with a poor experience for the consumer is the best place to start.",
+  "who": "Brad"
+ },
+ {
+  "slug": "gerstner-public-and-private-investing",
+  "guest": "Brad Gerstner",
+  "date": "2020-06-23",
+  "title": "Public and Private Investing",
+  "q": "They don't have anything, they have a simple life, but everybody's so happy.",
+  "who": "Brad's 9-year-old (quoted)"
+ },
+ {
+  "slug": "gerstner-public-and-private-investing",
+  "guest": "Brad Gerstner",
+  "date": "2020-06-23",
+  "title": "Public and Private Investing",
+  "q": "In a generation or two, innovation will come out of China.",
+  "who": "Brad (paraphrasing professor from 2000)"
+ },
+ {
+  "slug": "gerstner-public-and-private-investing",
+  "guest": "Brad Gerstner",
+  "date": "2020-06-23",
+  "title": "Public and Private Investing",
+  "q": "Technology will bear on the future of our climate and human condition through life sciences.",
+  "who": "Brad"
+ },
+ {
+  "slug": "gerstner-thriving-in-changing-markets",
+  "guest": "Rich Barton & Brad Gerstner",
+  "date": "2020-10-27",
+  "title": "Thriving in Changing Markets",
+  "q": "We want power. We want control. We will get it.",
+  "who": "Rich"
+ },
+ {
+  "slug": "gerstner-thriving-in-changing-markets",
+  "guest": "Rich Barton & Brad Gerstner",
+  "date": "2020-10-27",
+  "title": "Thriving in Changing Markets",
+  "q": "Life should be at the center of your world, and work should fill in around that.",
+  "who": "Rich"
+ },
+ {
+  "slug": "gerstner-thriving-in-changing-markets",
+  "guest": "Rich Barton & Brad Gerstner",
+  "date": "2020-10-27",
+  "title": "Thriving in Changing Markets",
+  "q": "Company building is craftwork, not mass production work.",
+  "who": "Rich"
+ },
+ {
   "slug": "gil-how-to-identify-interesting-markets",
   "guest": "Elad Gil",
   "date": "2018-08-28",
@@ -1274,6 +2050,54 @@ export const QUOTES: any[] = [
   "who": "Elad Gil"
  },
  {
+  "slug": "gilbert-lessons-on-early-stage-investing-and-getting-acquired",
+  "guest": "Ben Gilbert & David Rosenthal",
+  "date": "2020-10-20",
+  "title": "Lessons on Early Stage Investing and Getting Acquired",
+  "q": "Tech businesses are just media businesses with one more steroid injection to their business model.",
+  "who": "Ben"
+ },
+ {
+  "slug": "gilbert-lessons-on-early-stage-investing-and-getting-acquired",
+  "guest": "Ben Gilbert & David Rosenthal",
+  "date": "2020-10-20",
+  "title": "Lessons on Early Stage Investing and Getting Acquired",
+  "q": "There is an inverse relationship between the purchase price and the amount of diligence that is done.",
+  "who": "Ben"
+ },
+ {
+  "slug": "gilbert-lessons-on-early-stage-investing-and-getting-acquired",
+  "guest": "Ben Gilbert & David Rosenthal",
+  "date": "2020-10-20",
+  "title": "Lessons on Early Stage Investing and Getting Acquired",
+  "q": "Creativity, all power starts with invention.",
+  "who": "Hamilton Helmer (quoted)"
+ },
+ {
+  "slug": "graham-investing-in-overlooked-businesses",
+  "guest": "Tracy Graham",
+  "date": "2020-12-29",
+  "title": "Investing in Overlooked Businesses",
+  "q": "Four years for 40 years is the best investment you make.",
+  "who": "Lou Holtz"
+ },
+ {
+  "slug": "graham-investing-in-overlooked-businesses",
+  "guest": "Tracy Graham",
+  "date": "2020-12-29",
+  "title": "Investing in Overlooked Businesses",
+  "q": "Do right, do the best you can, treat people the way you want to be treated.",
+  "who": "Lou Holtz"
+ },
+ {
+  "slug": "graham-investing-in-overlooked-businesses",
+  "guest": "Tracy Graham",
+  "date": "2020-12-29",
+  "title": "Investing in Overlooked Businesses",
+  "q": "It's easy when things are going your way. You really know people when decisions get tough.",
+  "who": "Tracy Graham"
+ },
+ {
   "slug": "gramm-activist-investing",
   "guest": "Jeff Gramm",
   "date": "2016-09-11",
@@ -1304,6 +2128,70 @@ export const QUOTES: any[] = [
   "title": "Activist Investing",
   "q": "Boards often don't know how to value companies or think about the value of their companies.",
   "who": "Jeff Gramm"
+ },
+ {
+  "slug": "grantham-a-historic-market-bubble",
+  "guest": "Jeremy Grantham",
+  "date": "2021-02-23",
+  "title": "A Historic Market Bubble",
+  "q": "Overpriced assets are the worst things that can happen to young people and to society over the long run.",
+  "who": "Jeremy Grantham"
+ },
+ {
+  "slug": "grantham-a-historic-market-bubble",
+  "guest": "Jeremy Grantham",
+  "date": "2021-02-23",
+  "title": "A Historic Market Bubble",
+  "q": "There is absolutely no proof that low interest rates stimulate the economy. There is no association between them.",
+  "who": "Jeremy Grantham"
+ },
+ {
+  "slug": "grantham-a-historic-market-bubble",
+  "guest": "Jeremy Grantham",
+  "date": "2021-02-23",
+  "title": "A Historic Market Bubble",
+  "q": "We have killed gasoline and diesel cars. They'll be cheaper to build, electric cars. They're already cheaper to run and operate.",
+  "who": "Jeremy Grantham"
+ },
+ {
+  "slug": "grantham-a-historic-market-bubble",
+  "guest": "Jeremy Grantham",
+  "date": "2021-02-23",
+  "title": "A Historic Market Bubble",
+  "q": "Paper is just to facilitate transactions and to keep a record. It is not underlying reality.",
+  "who": "Jeremy Grantham"
+ },
+ {
+  "slug": "grantham-an-uncertain-crisis",
+  "guest": "Jeremy Grantham",
+  "date": "2020-06-09",
+  "title": "An Uncertain Crisis",
+  "q": "In the world of mountebanks and scoundrels, Jeremy is the model of virtue.",
+  "who": "Alan Abelson (quoted by Jeremy)"
+ },
+ {
+  "slug": "grantham-an-uncertain-crisis",
+  "guest": "Jeremy Grantham",
+  "date": "2020-06-09",
+  "title": "An Uncertain Crisis",
+  "q": "You cannot have compound growth on a finite planet.",
+  "who": "Jeremy"
+ },
+ {
+  "slug": "grantham-an-uncertain-crisis",
+  "guest": "Jeremy Grantham",
+  "date": "2020-06-09",
+  "title": "An Uncertain Crisis",
+  "q": "Venture capital is taking new money into new ideas that wouldn't exist otherwise.",
+  "who": "Jeremy"
+ },
+ {
+  "slug": "grantham-an-uncertain-crisis",
+  "guest": "Jeremy Grantham",
+  "date": "2020-06-09",
+  "title": "An Uncertain Crisis",
+  "q": "The opportunities lie between fields of expertise, where seams exist.",
+  "who": "Jeremy"
  },
  {
   "slug": "gray-compound-your-face-off",
@@ -1362,6 +2250,38 @@ export const QUOTES: any[] = [
   "who": "Tren Griffin"
  },
  {
+  "slug": "gross-finding-undiscovered-talent",
+  "guest": "Daniel Gross",
+  "date": "2020-12-01",
+  "title": "Finding Undiscovered Talent",
+  "q": "Founders are excellent hierarchy maximizers and terrible hierarchy selectors.",
+  "who": "Daniel Gross"
+ },
+ {
+  "slug": "gross-finding-undiscovered-talent",
+  "guest": "Daniel Gross",
+  "date": "2020-12-01",
+  "title": "Finding Undiscovered Talent",
+  "q": "Everything big starts small.",
+  "who": "Daniel Gross"
+ },
+ {
+  "slug": "gross-finding-undiscovered-talent",
+  "guest": "Daniel Gross",
+  "date": "2020-12-01",
+  "title": "Finding Undiscovered Talent",
+  "q": "Capitalism is gravity that grounds things, pulls them back to reality.",
+  "who": "Daniel Gross"
+ },
+ {
+  "slug": "gross-finding-undiscovered-talent",
+  "guest": "Daniel Gross",
+  "date": "2020-12-01",
+  "title": "Finding Undiscovered Talent",
+  "q": "I want to walk away from the meeting feeling a little bit afraid.",
+  "who": "Paul Graham (quoted by Daniel)"
+ },
+ {
   "slug": "gurley-all-things-business-and-investing",
   "guest": "Bill Gurley",
   "date": "2019-07-02",
@@ -1394,6 +2314,38 @@ export const QUOTES: any[] = [
   "who": "Bill Gurley"
  },
  {
+  "slug": "gurley-an-update-on-consumer-enterprise-venture-capital",
+  "guest": "Bill Gurley & Chetan Puttagunta",
+  "date": "2020-03-13",
+  "title": "An Update on Consumer & Enterprise Venture Capital",
+  "q": "Entrepreneurialism doesn't sleep and happens at all points in the cycle.",
+  "who": "Bill"
+ },
+ {
+  "slug": "gurley-an-update-on-consumer-enterprise-venture-capital",
+  "guest": "Bill Gurley & Chetan Puttagunta",
+  "date": "2020-03-13",
+  "title": "An Update on Consumer & Enterprise Venture Capital",
+  "q": "Cash is king. In good times we get away from that mindset.",
+  "who": "Bill"
+ },
+ {
+  "slug": "gurley-an-update-on-consumer-enterprise-venture-capital",
+  "guest": "Bill Gurley & Chetan Puttagunta",
+  "date": "2020-03-13",
+  "title": "An Update on Consumer & Enterprise Venture Capital",
+  "q": "Money never sleeps—Wall Street is already repricing based on new information.",
+  "who": "Bill"
+ },
+ {
+  "slug": "gurley-an-update-on-consumer-enterprise-venture-capital",
+  "guest": "Bill Gurley & Chetan Puttagunta",
+  "date": "2020-03-13",
+  "title": "An Update on Consumer & Enterprise Venture Capital",
+  "q": "Be fearful when others are greedy and greedy when others are fearful.",
+  "who": "Bill"
+ },
+ {
   "slug": "gurley-direct-listing-vs-ipo",
   "guest": "Bill Gurley",
   "date": "2019-09-24",
@@ -1424,6 +2376,30 @@ export const QUOTES: any[] = [
   "title": "Direct Listing vs. IPO",
   "q": "Thinking a pop is a marketing event is the most short-term oriented decision a CEO could make.",
   "who": "Bill Gurley"
+ },
+ {
+  "slug": "hamed-an-update-on-private-credit",
+  "guest": "Ali Hamed",
+  "date": "2020-05-05",
+  "title": "An Update on Private Credit",
+  "q": "You're buying uncertainty, and it doesn't feel very good.",
+  "who": "Ali Hamed"
+ },
+ {
+  "slug": "hamed-an-update-on-private-credit",
+  "guest": "Ali Hamed",
+  "date": "2020-05-05",
+  "title": "An Update on Private Credit",
+  "q": "Defaults just take time. Your lawyer sends an angry email, theirs sends one back.",
+  "who": "Ali Hamed"
+ },
+ {
+  "slug": "hamed-an-update-on-private-credit",
+  "guest": "Ali Hamed",
+  "date": "2020-05-05",
+  "title": "An Update on Private Credit",
+  "q": "The market just grew by 100%, and it turns out that was less risky than what everyone else was doing.",
+  "who": "Ali Hamed"
  },
  {
   "slug": "hamed-creative-investing",
@@ -1488,6 +2464,86 @@ export const QUOTES: any[] = [
   "title": "Esoteric Credit with Ali Hamed, Brian Harwitt, and Marc Porzecanski",
   "q": "We try to create an incredibly positive experience with founders we pass on—a third of our deals come from them.",
   "who": "Ali Hamed"
+ },
+ {
+  "slug": "hariharan-lessons-in-growth-investing",
+  "guest": "Anu Hariharan",
+  "date": "2020-11-03",
+  "title": "Lessons in Growth Investing",
+  "q": "Show me product-driven growth, because that's the best kind of growth.",
+  "who": "Anu"
+ },
+ {
+  "slug": "hariharan-lessons-in-growth-investing",
+  "guest": "Anu Hariharan",
+  "date": "2020-11-03",
+  "title": "Lessons in Growth Investing",
+  "q": "If you can find product-driven growth or some form of viral loop, that's gold.",
+  "who": "Anu"
+ },
+ {
+  "slug": "hariharan-lessons-in-growth-investing",
+  "guest": "Anu Hariharan",
+  "date": "2020-11-03",
+  "title": "Lessons in Growth Investing",
+  "q": "Founders should care about day-one shareholders, not flippers.",
+  "who": "Anu"
+ },
+ {
+  "slug": "harris-resilience-and-imagination",
+  "guest": "John Harris",
+  "date": "2021-06-14",
+  "title": "Resilience and Imagination",
+  "q": "There are so many smart people with impressive resumes, but not that many great investing records.",
+  "who": "John Harris"
+ },
+ {
+  "slug": "harris-resilience-and-imagination",
+  "guest": "John Harris",
+  "date": "2021-06-14",
+  "title": "Resilience and Imagination",
+  "q": "Imagination might have driven more fortunes than discipline in investing.",
+  "who": "John Harris"
+ },
+ {
+  "slug": "harris-resilience-and-imagination",
+  "guest": "John Harris",
+  "date": "2021-06-14",
+  "title": "Resilience and Imagination",
+  "q": "Hard is hard to copy. We like businesses that are hard.",
+  "who": "John Harris"
+ },
+ {
+  "slug": "harris-resilience-and-imagination",
+  "guest": "John Harris",
+  "date": "2021-06-14",
+  "title": "Resilience and Imagination",
+  "q": "Owning businesses for really long time minimizes the number of predictions you have to make.",
+  "who": "John Harris"
+ },
+ {
+  "slug": "helmer-power-business",
+  "guest": "Hamilton Helmer",
+  "date": "2020-05-19",
+  "title": "Power + Business",
+  "q": "Benefits are everywhere...barriers are rare.",
+  "who": "Hamilton Helmer"
+ },
+ {
+  "slug": "helmer-power-business",
+  "guest": "Hamilton Helmer",
+  "date": "2020-05-19",
+  "title": "Power + Business",
+  "q": "If you have a benefit and barrier, you have durable long-term positive cash flow going on and on.",
+  "who": "Hamilton Helmer"
+ },
+ {
+  "slug": "helmer-power-business",
+  "guest": "Hamilton Helmer",
+  "date": "2020-05-19",
+  "title": "Power + Business",
+  "q": "Strategy is something refined over time—not constantly moving from space to space.",
+  "who": "Hamilton Helmer"
  },
  {
   "slug": "higgins-permanent-equity",
@@ -1575,6 +2631,38 @@ export const QUOTES: any[] = [
   "date": "2018-05-22",
   "title": "Data, Decisions, and Basketball",
   "q": "A players hire A players and B players hire C players.",
+  "who": "Sam Hinkie"
+ },
+ {
+  "slug": "hinkie-find-your-people",
+  "guest": "Sam Hinkie",
+  "date": "2020-12-15",
+  "title": "Find Your People",
+  "q": "Expertise is a predictive model about the future, not the past.",
+  "who": "Sam Hinkie"
+ },
+ {
+  "slug": "hinkie-find-your-people",
+  "guest": "Sam Hinkie",
+  "date": "2020-12-15",
+  "title": "Find Your People",
+  "q": "People are power law too—your ability to attract them compounds.",
+  "who": "Sam Hinkie"
+ },
+ {
+  "slug": "hinkie-find-your-people",
+  "guest": "Sam Hinkie",
+  "date": "2020-12-15",
+  "title": "Find Your People",
+  "q": "Humility about what they don't know is what makes people evolve.",
+  "who": "Sam Hinkie"
+ },
+ {
+  "slug": "hinkie-find-your-people",
+  "guest": "Sam Hinkie",
+  "date": "2020-12-15",
+  "title": "Find Your People",
+  "q": "Find someone on Twitter, then see if in-person they match what you observed.",
   "who": "Sam Hinkie"
  },
  {
@@ -1672,6 +2760,38 @@ export const QUOTES: any[] = [
   "title": "Quant Hedge Funds and the Fear of Death",
   "q": "We'll mention the incredible rise of quantitative strategies across the investing landscape.",
   "who": "week is Khe Hy"
+ },
+ {
+  "slug": "jacobs-content-to-commerce",
+  "guest": "Jesse Jacobs & Mike Kerns",
+  "date": "2021-04-06",
+  "title": "Content to Commerce",
+  "q": "Unless you have a brand that people really give a shit about, you're just going to disappear.",
+  "who": "Jesse"
+ },
+ {
+  "slug": "jacobs-content-to-commerce",
+  "guest": "Jesse Jacobs & Mike Kerns",
+  "date": "2021-04-06",
+  "title": "Content to Commerce",
+  "q": "The beauty of Barstool is they just try stuff. No hiring a creative agency, just an iPhone and a microphone.",
+  "who": "Jesse"
+ },
+ {
+  "slug": "jacobs-content-to-commerce",
+  "guest": "Jesse Jacobs & Mike Kerns",
+  "date": "2021-04-06",
+  "title": "Content to Commerce",
+  "q": "Media is most effective as a customer acquisition and retention tool, not as the business itself.",
+  "who": "Mike"
+ },
+ {
+  "slug": "jacobs-content-to-commerce",
+  "guest": "Jesse Jacobs & Mike Kerns",
+  "date": "2021-04-06",
+  "title": "Content to Commerce",
+  "q": "NFTs are the biggest thing since maybe the browser and mobile.",
+  "who": "Mike"
  },
  {
   "slug": "johnson-future-of-finance",
@@ -1778,6 +2898,30 @@ export const QUOTES: any[] = [
   "who": "Ira"
  },
  {
+  "slug": "kaden-thesis-driven-investing",
+  "guest": "Rebecca Kaden",
+  "date": "2020-01-21",
+  "title": "Thesis Driven Investing",
+  "q": "Thesis-driven means thinking deeply about ideas we believe in, not just covering deal flow.",
+  "who": "Rebecca Kaden"
+ },
+ {
+  "slug": "kaden-thesis-driven-investing",
+  "guest": "Rebecca Kaden",
+  "date": "2020-01-21",
+  "title": "Thesis Driven Investing",
+  "q": "The female venture community has been monumentally meaningful. Not just professionally but as friends and mentors navigating full lives.",
+  "who": "Rebecca Kaden"
+ },
+ {
+  "slug": "kaden-thesis-driven-investing",
+  "guest": "Rebecca Kaden",
+  "date": "2020-01-21",
+  "title": "Thesis Driven Investing",
+  "q": "Be honest, be thoughtful, and follow through. That's the Bill Campbell model of kindness that's stuck with me.",
+  "who": "Rebecca Kaden"
+ },
+ {
   "slug": "kalghatgi-moonshot-investing",
   "guest": "Nikhil Kalghatgi",
   "date": "2018-04-09",
@@ -1834,6 +2978,30 @@ export const QUOTES: any[] = [
   "who": "Jason Karp"
  },
  {
+  "slug": "karp-the-power-of-brand",
+  "guest": "Jason Karp & Rohan Oza",
+  "date": "2020-11-10",
+  "title": "The Power of Brand",
+  "q": "The products that are built to make money never are epic.",
+  "who": "Jason Karp"
+ },
+ {
+  "slug": "karp-the-power-of-brand",
+  "guest": "Jason Karp & Rohan Oza",
+  "date": "2020-11-10",
+  "title": "The Power of Brand",
+  "q": "Consumers have very good bullshit meters.",
+  "who": "Jason Karp"
+ },
+ {
+  "slug": "karp-the-power-of-brand",
+  "guest": "Jason Karp & Rohan Oza",
+  "date": "2020-11-10",
+  "title": "The Power of Brand",
+  "q": "You've got to have steak, then add the sizzle.",
+  "who": "Rohan Oza"
+ },
+ {
   "slug": "katsuyama-what-happens-when-you-hit-buy",
   "guest": "Brad Katsuyama",
   "date": "2017-10-31",
@@ -1866,6 +3034,38 @@ export const QUOTES: any[] = [
   "who": "Brad"
  },
  {
+  "slug": "king-the-science-of-social-networks",
+  "guest": "Marissa King",
+  "date": "2021-03-16",
+  "title": "The Science of Social Networks",
+  "q": "It's the hole that's missing in conversation that's the most powerful thing. You can do the most by doing nothing.",
+  "who": "Marissa King"
+ },
+ {
+  "slug": "king-the-science-of-social-networks",
+  "guest": "Marissa King",
+  "date": "2021-03-16",
+  "title": "The Science of Social Networks",
+  "q": "If you want to harness that diversity, you have to allow people to be willing to put it out without fear of shame.",
+  "who": "Marissa King"
+ },
+ {
+  "slug": "king-the-science-of-social-networks",
+  "guest": "Marissa King",
+  "date": "2021-03-16",
+  "title": "The Science of Social Networks",
+  "q": "You need all three of those pieces because the way they fit together are like a magic puzzle that allows things to take off.",
+  "who": "Marissa King"
+ },
+ {
+  "slug": "king-the-science-of-social-networks",
+  "guest": "Marissa King",
+  "date": "2021-03-16",
+  "title": "The Science of Social Networks",
+  "q": "If you just put all the superstars together you're going to have a great team, it's just simply misguided.",
+  "who": "Marissa King"
+ },
+ {
   "slug": "kitces-the-past-present-future-of-financial-advice",
   "guest": "Michael Kitces",
   "date": "2019-02-26",
@@ -1888,6 +3088,38 @@ export const QUOTES: any[] = [
   "title": "The Past, Present & Future of Financial Advice",
   "q": "The minimum requirements to be a financial advisor is a two-three hour exam and a high school diploma. That's absurd.",
   "who": "Michael"
+ },
+ {
+  "slug": "kopelman-the-past-present-and-future-of-seed-investing",
+  "guest": "Josh Kopelman",
+  "date": "2020-04-28",
+  "title": "The Past, Present, And Future Of Seed Investing",
+  "q": "The idea evolves over time. There really is no original idea.",
+  "who": "Josh Kopelman"
+ },
+ {
+  "slug": "kopelman-the-past-present-and-future-of-seed-investing",
+  "guest": "Josh Kopelman",
+  "date": "2020-04-28",
+  "title": "The Past, Present, And Future Of Seed Investing",
+  "q": "Most platforms get their start with a killer app that's already innate in the product.",
+  "who": "Josh Kopelman"
+ },
+ {
+  "slug": "kopelman-the-past-present-and-future-of-seed-investing",
+  "guest": "Josh Kopelman",
+  "date": "2020-04-28",
+  "title": "The Past, Present, And Future Of Seed Investing",
+  "q": "A startup's job is to learn; a company's job is to grow.",
+  "who": "Josh Kopelman"
+ },
+ {
+  "slug": "kopelman-the-past-present-and-future-of-seed-investing",
+  "guest": "Josh Kopelman",
+  "date": "2020-04-28",
+  "title": "The Past, Present, And Future Of Seed Investing",
+  "q": "Cartographers make maps; navigators follow them. Society raises navigators; best entrepreneurs are cartographers.",
+  "who": "Josh Kopelman"
  },
  {
   "slug": "koppelman-chasing-curiosity",
@@ -1930,6 +3162,78 @@ export const QUOTES: any[] = [
   "who": "Brian Koppelman"
  },
  {
+  "slug": "krieger-how-to-build-a-great-product",
+  "guest": "Kevin Systrom & Mike Krieger",
+  "date": "2019-11-19",
+  "title": "How to Build a Great Product",
+  "q": "You have to solve a problem. The only reason it should exist in the world is because it solves someone's problem.",
+  "who": "Kevin"
+ },
+ {
+  "slug": "krieger-how-to-build-a-great-product",
+  "guest": "Kevin Systrom & Mike Krieger",
+  "date": "2019-11-19",
+  "title": "How to Build a Great Product",
+  "q": "We were so focused on making the app work really well on my terrible iPhone that when you open it, it's like glass when you scroll.",
+  "who": "Kevin"
+ },
+ {
+  "slug": "krieger-how-to-build-a-great-product",
+  "guest": "Kevin Systrom & Mike Krieger",
+  "date": "2019-11-19",
+  "title": "How to Build a Great Product",
+  "q": "Make management a parallel career track to individual contribution. That's the approach Facebook taught us.",
+  "who": "Mike"
+ },
+ {
+  "slug": "krieger-how-to-build-a-great-product",
+  "guest": "Kevin Systrom & Mike Krieger",
+  "date": "2019-11-19",
+  "title": "How to Build a Great Product",
+  "q": "We went into this death spiral of not having enough time to hire people while problems kept accelerating.",
+  "who": "Kevin"
+ },
+ {
+  "slug": "krug-an-update-on-corporate-credit",
+  "guest": "Bryan Krug",
+  "date": "2020-03-12",
+  "title": "An Update on Corporate Credit",
+  "q": "There's a void of capital in fallen angels because sellers and buyers are misaligned.",
+  "who": "Bryan Krug"
+ },
+ {
+  "slug": "krug-an-update-on-corporate-credit",
+  "guest": "Bryan Krug",
+  "date": "2020-03-12",
+  "title": "An Update on Corporate Credit",
+  "q": "When credit gets downgraded, it affects way more than just debt holders' losses.",
+  "who": "Bryan Krug"
+ },
+ {
+  "slug": "krug-an-update-on-corporate-credit",
+  "guest": "Bryan Krug",
+  "date": "2020-03-12",
+  "title": "An Update on Corporate Credit",
+  "q": "You don't underwrite on a bailout assumption—that's too risky and unpredictable.",
+  "who": "Bryan Krug"
+ },
+ {
+  "slug": "krug-an-update-on-corporate-credit",
+  "guest": "Bryan Krug",
+  "date": "2020-03-12",
+  "title": "An Update on Corporate Credit",
+  "q": "The market composition is something that people probably don't appreciate enough.",
+  "who": "Bryan Krug"
+ },
+ {
+  "slug": "krug-an-update-on-corporate-credit",
+  "guest": "Bryan Krug",
+  "date": "2020-03-12",
+  "title": "An Update on Corporate Credit",
+  "q": "This is a transitory event, not a financial crisis event of the same magnitude.",
+  "who": "Bryan Krug"
+ },
+ {
   "slug": "krug-high-yield-credit-investing",
   "guest": "Bryan Krug",
   "date": "2018-12-11",
@@ -1962,6 +3266,70 @@ export const QUOTES: any[] = [
   "who": "Bryan Krug"
  },
  {
+  "slug": "lake-the-next-wave-of-ecommerce",
+  "guest": "Katrina Lake",
+  "date": "2020-08-18",
+  "title": "The Next Wave of E-commerce",
+  "q": "Everything is your size, everything is your price range, everything fits perfectly. Almost impossible to imagine.",
+  "who": "Katrina"
+ },
+ {
+  "slug": "lake-the-next-wave-of-ecommerce",
+  "guest": "Katrina Lake",
+  "date": "2020-08-18",
+  "title": "The Next Wave of E-commerce",
+  "q": "The math doesn't work for stylists curating $28 items. We used data science so the math does work.",
+  "who": "Katrina"
+ },
+ {
+  "slug": "lake-the-next-wave-of-ecommerce",
+  "guest": "Katrina Lake",
+  "date": "2020-08-18",
+  "title": "The Next Wave of E-commerce",
+  "q": "This is the most exciting time at Stitch Fix. We're unhitching recommendations from Fixes and creating products on this platform.",
+  "who": "Katrina"
+ },
+ {
+  "slug": "lake-the-next-wave-of-ecommerce",
+  "guest": "Katrina Lake",
+  "date": "2020-08-18",
+  "title": "The Next Wave of E-commerce",
+  "q": "Search and filter is predicated on knowing exactly what you want. Most people just know they need jeans.",
+  "who": "Katrina"
+ },
+ {
+  "slug": "lawson-how-to-build-a-platform",
+  "guest": "Jeff Lawson",
+  "date": "2020-03-03",
+  "title": "How to Build a Platform",
+  "q": "Figure it out. Ship it and iterate. There's no instruction book here.",
+  "who": "Jeff"
+ },
+ {
+  "slug": "lawson-how-to-build-a-platform",
+  "guest": "Jeff Lawson",
+  "date": "2020-03-03",
+  "title": "How to Build a Platform",
+  "q": "If you don't build and iterate, some startup comes along brilliant at building product and wins.",
+  "who": "Jeff"
+ },
+ {
+  "slug": "lawson-how-to-build-a-platform",
+  "guest": "Jeff Lawson",
+  "date": "2020-03-03",
+  "title": "How to Build a Platform",
+  "q": "Give your developers problems, not tasks. Your business will be better, developers more engaged.",
+  "who": "Jeff"
+ },
+ {
+  "slug": "lawson-how-to-build-a-platform",
+  "guest": "Jeff Lawson",
+  "date": "2020-03-03",
+  "title": "How to Build a Platform",
+  "q": "You take people who know most about technology and give them tasks? That's backwards.",
+  "who": "Jeff"
+ },
+ {
   "slug": "leonard-capital-light-compounders-reinvestment-moats",
   "guest": "Connor Leonard",
   "date": "2017-11-21",
@@ -1992,6 +3360,38 @@ export const QUOTES: any[] = [
   "title": "Capital Light Compounders & Reinvestment Moats",
   "q": "If you find one of those ideas that is an absolute no-brainer, you can have a concentrated position because if you're right, it'll work out really well.",
   "who": "Connor"
+ },
+ {
+  "slug": "leydon-designing-digital-economies",
+  "guest": "Gabe Leydon",
+  "date": "2021-06-07",
+  "title": "Designing Digital Economies",
+  "q": "Players like the game more than you. That's the problem you have to solve.",
+  "who": "Gabe Leydon"
+ },
+ {
+  "slug": "leydon-designing-digital-economies",
+  "guest": "Gabe Leydon",
+  "date": "2021-06-07",
+  "title": "Designing Digital Economies",
+  "q": "Design means we're running out of ideas. We're just going to tap into your psychology.",
+  "who": "Gabe Leydon"
+ },
+ {
+  "slug": "leydon-designing-digital-economies",
+  "guest": "Gabe Leydon",
+  "date": "2021-06-07",
+  "title": "Designing Digital Economies",
+  "q": "If it's not real, you can do anything. That's the digital world's only superpower.",
+  "who": "Gabe Leydon"
+ },
+ {
+  "slug": "leydon-designing-digital-economies",
+  "guest": "Gabe Leydon",
+  "date": "2021-06-07",
+  "title": "Designing Digital Economies",
+  "q": "When it does get cleaned up, it will be 100x bigger. That's obvious.",
+  "who": "Gabe Leydon"
  },
  {
   "slug": "lindzon-fintech-and-trend-following",
@@ -2063,6 +3463,38 @@ export const QUOTES: any[] = [
   "date": "2019-06-25",
   "title": "The Search for the Truth with the Anonymous Master",
   "q": "Markets as banks metaphor explains why valuations can sustainably stay higher: greater system stability, Fed backstops, lower growth cycles reduce panic risk.",
+  "who": "Jesse Livermore"
+ },
+ {
+  "slug": "livermore-upside-down-markets",
+  "guest": "Jesse Livermore",
+  "date": "2020-10-06",
+  "title": "Upside Down Markets",
+  "q": "It might be better to get the disease if you get the perfect cure and upside benefits.",
+  "who": "Jesse Livermore"
+ },
+ {
+  "slug": "livermore-upside-down-markets",
+  "guest": "Jesse Livermore",
+  "date": "2020-10-06",
+  "title": "Upside Down Markets",
+  "q": "On a long enough timeline, everyone sells ads. CAC is the new rent—distribution is the scarce asset.",
+  "who": "Jesse Livermore (quoting Modest Proposal)"
+ },
+ {
+  "slug": "livermore-upside-down-markets",
+  "guest": "Jesse Livermore",
+  "date": "2020-10-06",
+  "title": "Upside Down Markets",
+  "q": "Intrinsic value is the price you'd pay if you couldn't sell—the yield demand for giving up liquidity forever.",
+  "who": "Jesse Livermore"
+ },
+ {
+  "slug": "livermore-upside-down-markets",
+  "guest": "Jesse Livermore",
+  "date": "2020-10-06",
+  "title": "Upside Down Markets",
+  "q": "You don't lose money until you sell. You lose money the moment you buy because you no longer have cash.",
   "who": "Jesse Livermore"
  },
  {
@@ -2144,6 +3576,86 @@ export const QUOTES: any[] = [
   "title": "Machine Learning in Investing",
   "q": "If you look around and realize you were on the wrong mountain in the first place, you've got a problem.",
   "who": "Jeremiah"
+ },
+ {
+  "slug": "lutke-building-a-modern-business",
+  "guest": "Tobi Lütke",
+  "date": "2020-05-12",
+  "title": "Building a Modern Business",
+  "q": "My job is just to do the best job I can. My job is not to make someone else think I did.",
+  "who": "Tobi Lütke"
+ },
+ {
+  "slug": "lutke-building-a-modern-business",
+  "guest": "Tobi Lütke",
+  "date": "2020-05-12",
+  "title": "Building a Modern Business",
+  "q": "There is no speed limit to personal growth. It depends on your interests and environment.",
+  "who": "Tobi Lütke"
+ },
+ {
+  "slug": "lutke-building-a-modern-business",
+  "guest": "Tobi Lütke",
+  "date": "2020-05-12",
+  "title": "Building a Modern Business",
+  "q": "Friction is the most powerful, under-acknowledged force that exists in the world of business.",
+  "who": "Tobi Lütke"
+ },
+ {
+  "slug": "lutke-building-a-modern-business",
+  "guest": "Tobi Lütke",
+  "date": "2020-05-12",
+  "title": "Building a Modern Business",
+  "q": "Quality is not quantifiable, but you know it when you feel it.",
+  "who": "Tobi Lütke"
+ },
+ {
+  "slug": "lynch-delivering-alpha-in-adapting-markets",
+  "guest": "Dennis Lynch",
+  "date": "2021-06-01",
+  "title": "Delivering Alpha in Adapting Markets",
+  "q": "It's not about how smart you are as an investor, but can you handle the temperament and volatility.",
+  "who": "Dennis"
+ },
+ {
+  "slug": "lynch-delivering-alpha-in-adapting-markets",
+  "guest": "Dennis Lynch",
+  "date": "2021-06-01",
+  "title": "Delivering Alpha in Adapting Markets",
+  "q": "The market a few years down the road suddenly has incorporated that into the equation.",
+  "who": "Dennis"
+ },
+ {
+  "slug": "lynch-delivering-alpha-in-adapting-markets",
+  "guest": "Dennis Lynch",
+  "date": "2021-06-01",
+  "title": "Delivering Alpha in Adapting Markets",
+  "q": "You want to look smart three years from now in hindsight, not smart in this moment.",
+  "who": "Dennis"
+ },
+ {
+  "slug": "lynch-delivering-alpha-in-adapting-markets",
+  "guest": "Dennis Lynch",
+  "date": "2021-06-01",
+  "title": "Delivering Alpha in Adapting Markets",
+  "q": "When you find people that do the right thing regardless of incentive, you've discovered something very special.",
+  "who": "Dennis"
+ },
+ {
+  "slug": "ma-making-decisions-with-data",
+  "guest": "Jeff Ma",
+  "date": "2019-12-10",
+  "title": "Making Decisions with Data",
+  "q": "Good decision-making is really just good probability estimation.",
+  "who": "Jeff"
+ },
+ {
+  "slug": "ma-making-decisions-with-data",
+  "guest": "Jeff Ma",
+  "date": "2019-12-10",
+  "title": "Making Decisions with Data",
+  "q": "The more information you have, the easier it is to fool yourself.",
+  "who": "Jeff"
  },
  {
   "slug": "maddox-the-ace-of-spades",
@@ -2266,6 +3778,70 @@ export const QUOTES: any[] = [
   "who": "Joe"
  },
  {
+  "slug": "maqubela-dawn-of-the-21st-century",
+  "guest": "Kanyi Maqubela",
+  "date": "2021-03-30",
+  "title": "Dawn of the 21st Century",
+  "q": "You're either at product-market fit or you are not. The risk is the same as six months ago.",
+  "who": "Kanyi Maqubela"
+ },
+ {
+  "slug": "maqubela-dawn-of-the-21st-century",
+  "guest": "Kanyi Maqubela",
+  "date": "2021-03-30",
+  "title": "Dawn of the 21st Century",
+  "q": "A venture capitalist's job: help companies going well die with grace, going terribly die quickly.",
+  "who": "Kanyi Maqubela"
+ },
+ {
+  "slug": "maqubela-dawn-of-the-21st-century",
+  "guest": "Kanyi Maqubela",
+  "date": "2021-03-30",
+  "title": "Dawn of the 21st Century",
+  "q": "Risk tolerance is inherently bad. What matters is confidence in quickly de-risking things.",
+  "who": "Kanyi Maqubela"
+ },
+ {
+  "slug": "maqubela-dawn-of-the-21st-century",
+  "guest": "Kanyi Maqubela",
+  "date": "2021-03-30",
+  "title": "Dawn of the 21st Century",
+  "q": "Small groups of intense passion are way more interesting than big groups with modest interest.",
+  "who": "Kanyi Maqubela"
+ },
+ {
+  "slug": "marks-embracing-the-psychology-of-investing",
+  "guest": "Howard Marks",
+  "date": "2021-06-21",
+  "title": "Embracing the Psychology of Investing",
+  "q": "Risk means more things can happen than will happen.",
+  "who": "Elroy Dimson (quoted by Howard Marks)"
+ },
+ {
+  "slug": "marks-embracing-the-psychology-of-investing",
+  "guest": "Howard Marks",
+  "date": "2021-06-21",
+  "title": "Embracing the Psychology of Investing",
+  "q": "It is better to fail conventionally than succeed unconventionally.",
+  "who": "Keynes (quoted by Howard Marks)"
+ },
+ {
+  "slug": "marks-embracing-the-psychology-of-investing",
+  "guest": "Howard Marks",
+  "date": "2021-06-21",
+  "title": "Embracing the Psychology of Investing",
+  "q": "You don't have to be right, but the person who makes best judgments will have best results.",
+  "who": "Howard Marks"
+ },
+ {
+  "slug": "marks-embracing-the-psychology-of-investing",
+  "guest": "Howard Marks",
+  "date": "2021-06-21",
+  "title": "Embracing the Psychology of Investing",
+  "q": "If you're looking for something you can be right about every time, don't go into investing.",
+  "who": "Howard Marks"
+ },
+ {
   "slug": "mauboussin-active-asset-management",
   "guest": "Michael Mauboussin",
   "date": "2016-09-20",
@@ -2296,6 +3872,38 @@ export const QUOTES: any[] = [
   "title": "Active Asset Management",
   "q": "Articles about buybacks by journalists are drivel—not informed or thoughtful.",
   "who": "Michael Mauboussin"
+ },
+ {
+  "slug": "mauboussin-great-migration-public-to-private-equity",
+  "guest": "Michael Mauboussin",
+  "date": "2020-09-01",
+  "title": "Great Migration Public to Private Equity",
+  "q": "You can't eat IRR. FAANG's market cap gain is bigger than the entire U.S. buyout industry.",
+  "who": "Michael"
+ },
+ {
+  "slug": "mauboussin-great-migration-public-to-private-equity",
+  "guest": "Michael Mauboussin",
+  "date": "2020-09-01",
+  "title": "Great Migration Public to Private Equity",
+  "q": "Intangible investments now exceed tangible capex 1.5 times. Balance sheets don't show them. Accounting is broken.",
+  "who": "Michael"
+ },
+ {
+  "slug": "mauboussin-great-migration-public-to-private-equity",
+  "guest": "Michael Mauboussin",
+  "date": "2020-09-01",
+  "title": "Great Migration Public to Private Equity",
+  "q": "Venture persistence persists; buyout persistence has moderated. Skill exists, but competition winnows weak managers and limits alpha.",
+  "who": "Michael"
+ },
+ {
+  "slug": "mauboussin-great-migration-public-to-private-equity",
+  "guest": "Michael Mauboussin",
+  "date": "2020-09-01",
+  "title": "Great Migration Public to Private Equity",
+  "q": "Don't complain about the world. Figure out how to thrive in it as it is, not as you wish it to be.",
+  "who": "Michael"
  },
  {
   "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
@@ -2440,6 +4048,62 @@ export const QUOTES: any[] = [
   "title": "Business Gone Bad and the Art of Persistence",
   "q": "Good investors are like journalists, doggedly collecting evidence and building understanding.",
   "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "mehrotra-the-art-and-science-of-the-bundle",
+  "guest": "Shishir Mehrotra",
+  "date": "2020-05-26",
+  "title": "The Art and Science of the Bundle",
+  "q": "Bundling produces value not by producing more super-fans, but by producing casual-fans.",
+  "who": "Shishir Mehrotra"
+ },
+ {
+  "slug": "mehrotra-the-art-and-science-of-the-bundle",
+  "guest": "Shishir Mehrotra",
+  "date": "2020-05-26",
+  "title": "The Art and Science of the Bundle",
+  "q": "You want to pay as close as possible to the marginal churn contribution of this product inside this bundle.",
+  "who": "Shishir Mehrotra"
+ },
+ {
+  "slug": "mehrotra-the-art-and-science-of-the-bundle",
+  "guest": "Shishir Mehrotra",
+  "date": "2020-05-26",
+  "title": "The Art and Science of the Bundle",
+  "q": "The incentive to increase super-fan percentage for your product is the same incentive capitalism uses to drive costs down and value up.",
+  "who": "Shishir Mehrotra"
+ },
+ {
+  "slug": "meyer-the-power-of-hospitality",
+  "guest": "Danny Meyer",
+  "date": "2020-12-08",
+  "title": "The Power of Hospitality",
+  "q": "People take precisely as much interest in you as they believe you're taking in them.",
+  "who": "Danny Meyer"
+ },
+ {
+  "slug": "meyer-the-power-of-hospitality",
+  "guest": "Danny Meyer",
+  "date": "2020-12-08",
+  "title": "The Power of Hospitality",
+  "q": "Can you successfully scale a feeling of welcome?",
+  "who": "Danny Meyer"
+ },
+ {
+  "slug": "meyer-the-power-of-hospitality",
+  "guest": "Danny Meyer",
+  "date": "2020-12-08",
+  "title": "The Power of Hospitality",
+  "q": "Leave your campsite neater than you found it.",
+  "who": "Danny Meyer"
+ },
+ {
+  "slug": "meyer-the-power-of-hospitality",
+  "guest": "Danny Meyer",
+  "date": "2020-12-08",
+  "title": "The Power of Hospitality",
+  "q": "Would you like the usual?",
+  "who": "Danny Meyer"
  },
  {
   "slug": "minshew-how-employers-and-employees-should-build-careers",
@@ -2698,6 +4362,70 @@ export const QUOTES: any[] = [
   "who": "Scott Norton"
  },
  {
+  "slug": "novak-the-past-present-and-future-of-consumer-social-companies",
+  "guest": "Turner Novak",
+  "date": "2020-07-14",
+  "title": "The Past, Present, and Future of Consumer Social Companies",
+  "q": "Growth is important, but quality and type of growth matters for competitive advantage.",
+  "who": "Turner"
+ },
+ {
+  "slug": "novak-the-past-present-and-future-of-consumer-social-companies",
+  "guest": "Turner Novak",
+  "date": "2020-07-14",
+  "title": "The Past, Present, and Future of Consumer Social Companies",
+  "q": "TikTok is fundamentally different—it's the first scaled broadcast network designed for the smartphone.",
+  "who": "Turner"
+ },
+ {
+  "slug": "novak-the-past-present-and-future-of-consumer-social-companies",
+  "guest": "Turner Novak",
+  "date": "2020-07-14",
+  "title": "The Past, Present, and Future of Consumer Social Companies",
+  "q": "Facebook's product was people creating their advertising profiles for them.",
+  "who": "Turner"
+ },
+ {
+  "slug": "novak-the-past-present-and-future-of-consumer-social-companies",
+  "guest": "Turner Novak",
+  "date": "2020-07-14",
+  "title": "The Past, Present, and Future of Consumer Social Companies",
+  "q": "If you want defensible competitive advantage, you really have to have friends creating content.",
+  "who": "Turner"
+ },
+ {
+  "slug": "novogratz-investing-in-dignity-and-character",
+  "guest": "Jacqueline Novogratz",
+  "date": "2020-10-13",
+  "title": "Investing in Dignity and Character",
+  "q": "Purpose doesn't find those sitting and pondering; we find it by living into it, moving toward a specific problem in our purview.",
+  "who": "Jacqueline Novogratz"
+ },
+ {
+  "slug": "novogratz-investing-in-dignity-and-character",
+  "guest": "Jacqueline Novogratz",
+  "date": "2020-10-13",
+  "title": "Investing in Dignity and Character",
+  "q": "Distance dulls moral imagination. When you're far from the consequence, it's easy to say 'it's not my problem.'",
+  "who": "Jacqueline Novogratz"
+ },
+ {
+  "slug": "novogratz-investing-in-dignity-and-character",
+  "guest": "Jacqueline Novogratz",
+  "date": "2020-10-13",
+  "title": "Investing in Dignity and Character",
+  "q": "Dignity is human agency: do I have choice? A say? Belief my efforts yield outcomes I can count on?",
+  "who": "Jacqueline Novogratz"
+ },
+ {
+  "slug": "novogratz-investing-in-dignity-and-character",
+  "guest": "Jacqueline Novogratz",
+  "date": "2020-10-13",
+  "title": "Investing in Dignity and Character",
+  "q": "If you build a business that puts the poor first, you create good jobs, high-quality products, and happy customers. That's the future.",
+  "who": "Jacqueline Novogratz"
+ },
+ {
   "slug": "oshaughnessy-lessons-from-two-years-of-the-podcast",
   "guest": "Patrick O'Shaughnessy",
   "date": "2018-09-18",
@@ -2792,6 +4520,70 @@ export const QUOTES: any[] = [
   "title": "Ten Lessons After Almost a Year of Podcasting",
   "q": "The means and the end are the same.",
   "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "palihapitiya-the-major-problems-facing-the-world",
+  "guest": "Chamath Palihapitiya",
+  "date": "2021-02-02",
+  "title": "The Major Problems Facing The World",
+  "q": "If you're getting paid $2-3M a year, you think you've made it. You haven't made it.",
+  "who": "Chamath"
+ },
+ {
+  "slug": "palihapitiya-the-major-problems-facing-the-world",
+  "guest": "Chamath Palihapitiya",
+  "date": "2021-02-02",
+  "title": "The Major Problems Facing The World",
+  "q": "It's not timing the market. It's time in market. That's what owners do.",
+  "who": "Chamath"
+ },
+ {
+  "slug": "palihapitiya-the-major-problems-facing-the-world",
+  "guest": "Chamath Palihapitiya",
+  "date": "2021-02-02",
+  "title": "The Major Problems Facing The World",
+  "q": "Poverty is a disease—structural and institutionalized like diabetes.",
+  "who": "Chamath"
+ },
+ {
+  "slug": "palihapitiya-the-major-problems-facing-the-world",
+  "guest": "Chamath Palihapitiya",
+  "date": "2021-02-02",
+  "title": "The Major Problems Facing The World",
+  "q": "Being smart doesn't require complexity. Bezos' and Musk's brilliance is simplicity.",
+  "who": "Chamath"
+ },
+ {
+  "slug": "parameswaran-internet-scale-businesses",
+  "guest": "Ram Parameswaran",
+  "date": "2021-01-05",
+  "title": "Internet Scale Businesses",
+  "q": "It has to be like your natural behavior.",
+  "who": "Ram"
+ },
+ {
+  "slug": "parameswaran-internet-scale-businesses",
+  "guest": "Ram Parameswaran",
+  "date": "2021-01-05",
+  "title": "Internet Scale Businesses",
+  "q": "Investing is an EQ business and not an IQ business.",
+  "who": "Ram"
+ },
+ {
+  "slug": "parameswaran-internet-scale-businesses",
+  "guest": "Ram Parameswaran",
+  "date": "2021-01-05",
+  "title": "Internet Scale Businesses",
+  "q": "I want to only hire givers and not takers.",
+  "who": "Ram"
+ },
+ {
+  "slug": "parameswaran-internet-scale-businesses",
+  "guest": "Ram Parameswaran",
+  "date": "2021-01-05",
+  "title": "Internet Scale Businesses",
+  "q": "They actually cannot do it. Only bundle.",
+  "who": "Ram"
  },
  {
   "slug": "parker-the-art-of-gathering",
@@ -2890,6 +4682,38 @@ export const QUOTES: any[] = [
   "who": "Anthony Pompliano"
  },
  {
+  "slug": "proposal-better-cheaper-faster-why-companies-that-reduce-friction-win",
+  "guest": "Modest Proposal",
+  "date": "2020-09-29",
+  "title": "Better, Cheaper, Faster: Why Companies that Reduce Friction Win",
+  "q": "If you can provide a 10x better experience by removing friction, you unlock nonlinear behavior.",
+  "who": "Modest Proposal"
+ },
+ {
+  "slug": "proposal-better-cheaper-faster-why-companies-that-reduce-friction-win",
+  "guest": "Modest Proposal",
+  "date": "2020-09-29",
+  "title": "Better, Cheaper, Faster: Why Companies that Reduce Friction Win",
+  "q": "Legacy networks cap at 120M; Facebook is 3B. The TAM expansion from increasing returns is massive.",
+  "who": "Modest Proposal"
+ },
+ {
+  "slug": "proposal-better-cheaper-faster-why-companies-that-reduce-friction-win",
+  "guest": "Modest Proposal",
+  "date": "2020-09-29",
+  "title": "Better, Cheaper, Faster: Why Companies that Reduce Friction Win",
+  "q": "On a long enough timeline, everyone sells ads. CAC is the new rent—distribution is the scarce asset.",
+  "who": "Modest Proposal"
+ },
+ {
+  "slug": "proposal-better-cheaper-faster-why-companies-that-reduce-friction-win",
+  "guest": "Modest Proposal",
+  "date": "2020-09-29",
+  "title": "Better, Cheaper, Faster: Why Companies that Reduce Friction Win",
+  "q": "Scoffing at silly ideas—Airbnb, iBuying—cost investors enormous returns. Consumer signal beats prior skepticism.",
+  "who": "Modest Proposal"
+ },
+ {
   "slug": "proposal-value-is-dead-long-live-value",
   "guest": "Modest Proposal",
   "date": "2018-07-17",
@@ -2944,6 +4768,70 @@ export const QUOTES: any[] = [
   "title": "The Prospects for Active Management",
   "q": "Winners very often don't look like winners for long stretches.",
   "who": "Jeff Ptak"
+ },
+ {
+  "slug": "puttagunta-go-slow-to-go-fast-software-building-and-investing",
+  "guest": "Chetan Puttagunta",
+  "date": "2020-01-28",
+  "title": "Go Slow to Go Fast: Software Building and Investing",
+  "q": "Your job is to accomplish that, not become an expert in your system.",
+  "who": "Chetan"
+ },
+ {
+  "slug": "puttagunta-go-slow-to-go-fast-software-building-and-investing",
+  "guest": "Chetan Puttagunta",
+  "date": "2020-01-28",
+  "title": "Go Slow to Go Fast: Software Building and Investing",
+  "q": "We go from technology-driven business to spreadsheet-driven business. When did you decide to become that?",
+  "who": "Chetan"
+ },
+ {
+  "slug": "puttagunta-go-slow-to-go-fast-software-building-and-investing",
+  "guest": "Chetan Puttagunta",
+  "date": "2020-01-28",
+  "title": "Go Slow to Go Fast: Software Building and Investing",
+  "q": "The power of great companies is those that say no to good ideas and say only yes to great ideas.",
+  "who": "Chetan"
+ },
+ {
+  "slug": "puttagunta-go-slow-to-go-fast-software-building-and-investing",
+  "guest": "Chetan Puttagunta",
+  "date": "2020-01-28",
+  "title": "Go Slow to Go Fast: Software Building and Investing",
+  "q": "Being open-minded is super, super important as an early-stage investor.",
+  "who": "Chetan"
+ },
+ {
+  "slug": "puttagunta-open-source-crash-course",
+  "guest": "Jeremiah Lowin & Chetan Puttagunta",
+  "date": "2020-08-25",
+  "title": "Open Source Crash Course",
+  "q": "You're not selling the same source code you put up; you're selling convenience and the pain of figuring it out alone.",
+  "who": "Jeremiah"
+ },
+ {
+  "slug": "puttagunta-open-source-crash-course",
+  "guest": "Jeremiah Lowin & Chetan Puttagunta",
+  "date": "2020-08-25",
+  "title": "Open Source Crash Course",
+  "q": "Most open source projects don't become great businesses. They just end up being great projects.",
+  "who": "Chetan"
+ },
+ {
+  "slug": "puttagunta-open-source-crash-course",
+  "guest": "Jeremiah Lowin & Chetan Puttagunta",
+  "date": "2020-08-25",
+  "title": "Open Source Crash Course",
+  "q": "Being nice is the first rule. Everything else follows from that. Customers are customers because they get Slack answers in 10 minutes.",
+  "who": "Jeremiah"
+ },
+ {
+  "slug": "puttagunta-open-source-crash-course",
+  "guest": "Jeremiah Lowin & Chetan Puttagunta",
+  "date": "2020-08-25",
+  "title": "Open Source Crash Course",
+  "q": "Open source is open source. Nothing is hidden. Adoption problems are visible the moment they appear; you can't hide.",
+  "who": "Jeremiah"
  },
  {
   "slug": "rabois-if-you-cant-sell-them-compete-with-them",
@@ -3018,6 +4906,38 @@ export const QUOTES: any[] = [
   "who": "Andy"
  },
  {
+  "slug": "rasmussen-investing-through-a-crisis",
+  "guest": "Dan Rasmussen",
+  "date": "2020-03-16",
+  "title": "Investing Through a Crisis",
+  "q": "Bear markets are all alike, but every bull market is different.",
+  "who": "Dan"
+ },
+ {
+  "slug": "rasmussen-investing-through-a-crisis",
+  "guest": "Dan Rasmussen",
+  "date": "2020-03-16",
+  "title": "Investing Through a Crisis",
+  "q": "The best way to prepare for surprises is to use valuations to avoid overvalued things.",
+  "who": "Dan"
+ },
+ {
+  "slug": "rasmussen-investing-through-a-crisis",
+  "guest": "Dan Rasmussen",
+  "date": "2020-03-16",
+  "title": "Investing Through a Crisis",
+  "q": "Data and base rates over narrative and expert forecast, even dire ones.",
+  "who": "Dan"
+ },
+ {
+  "slug": "rasmussen-investing-through-a-crisis",
+  "guest": "Dan Rasmussen",
+  "date": "2020-03-16",
+  "title": "Investing Through a Crisis",
+  "q": "100% of panics in U.S. equities have resulted in reaching the prior peak.",
+  "who": "Dan"
+ },
+ {
   "slug": "rasmussen-private-equity-returns-in-public-markets",
   "guest": "Dan Rasmussen",
   "date": "2018-02-27",
@@ -3056,6 +4976,38 @@ export const QUOTES: any[] = [
   "title": "Tim Cook's Dashboard",
   "q": "It's much easier to predict the negative side of the distribution than the positive.",
   "who": "Michael Reece"
+ },
+ {
+  "slug": "robbins-investing-in-gaming",
+  "guest": "Blake Robbins",
+  "date": "2020-06-30",
+  "title": "Investing in Gaming",
+  "q": "Gaming forever has been mistaken as hit-driven. We're seeing them emerge as platforms.",
+  "who": "Blake"
+ },
+ {
+  "slug": "robbins-investing-in-gaming",
+  "guest": "Blake Robbins",
+  "date": "2020-06-30",
+  "title": "Investing in Gaming",
+  "q": "I wanted to create something bigger, and a brand that can stand without me.",
+  "who": "Blake"
+ },
+ {
+  "slug": "robbins-investing-in-gaming",
+  "guest": "Blake Robbins",
+  "date": "2020-06-30",
+  "title": "Investing in Gaming",
+  "q": "If you're good at something, you will likely be able to get rewarded for that.",
+  "who": "Blake"
+ },
+ {
+  "slug": "robbins-investing-in-gaming",
+  "guest": "Blake Robbins",
+  "date": "2020-06-30",
+  "title": "Investing in Gaming",
+  "q": "I'm endlessly curious. The definition of niche has evolved—they become really big businesses.",
+  "who": "Blake"
  },
  {
   "slug": "robertson-the-future-of-media",
@@ -3226,6 +5178,30 @@ export const QUOTES: any[] = [
   "who": "David Salem"
  },
  {
+  "slug": "savage-all-things-fintech-investing",
+  "guest": "Ben Savage",
+  "date": "2019-12-17",
+  "title": "All Things Fintech Investing",
+  "q": "Public and private markets are a regulatory artifact, not fundamental economic truth.",
+  "who": "Ben"
+ },
+ {
+  "slug": "savage-all-things-fintech-investing",
+  "guest": "Ben Savage",
+  "date": "2019-12-17",
+  "title": "All Things Fintech Investing",
+  "q": "Fintech is half finance, half technology—you need expertise in both, not just one.",
+  "who": "Ben"
+ },
+ {
+  "slug": "savage-all-things-fintech-investing",
+  "guest": "Ben Savage",
+  "date": "2019-12-17",
+  "title": "All Things Fintech Investing",
+  "q": "Kindness is when someone costs themselves something to help someone else.",
+  "who": "Ben"
+ },
+ {
   "slug": "sawikin-emerging-market-opportunities",
   "guest": "Harvey Sawikin",
   "date": "2018-02-06",
@@ -3256,6 +5232,62 @@ export const QUOTES: any[] = [
   "title": "Emerging Market Opportunities",
   "q": "Can it be that Russian steel companies are competing to see who has the best corporate governance?",
   "who": "Harvey"
+ },
+ {
+  "slug": "scevak-wild-hearts-and-wild-ideas",
+  "guest": "Niki Scevak",
+  "date": "2020-11-17",
+  "title": "Wild Hearts and Wild Ideas",
+  "q": "Invest in wild hearts with the wildest ideas.",
+  "who": "Niki Scevak"
+ },
+ {
+  "slug": "scevak-wild-hearts-and-wild-ideas",
+  "guest": "Niki Scevak",
+  "date": "2020-11-17",
+  "title": "Wild Hearts and Wild Ideas",
+  "q": "If you hear of it or it's a playbook, that's an anti-signal. If it sounds strange, that's encouraging.",
+  "who": "Niki Scevak"
+ },
+ {
+  "slug": "scevak-wild-hearts-and-wild-ideas",
+  "guest": "Niki Scevak",
+  "date": "2020-11-17",
+  "title": "Wild Hearts and Wild Ideas",
+  "q": "Naivety is a good thing. You need that naivety to dive in and make a difference.",
+  "who": "Niki Scevak"
+ },
+ {
+  "slug": "seibel-lessons-from-thousands-of-startups",
+  "guest": "Michael Seibel",
+  "date": "2020-09-08",
+  "title": "Lessons from Thousands of Startups",
+  "q": "You've signed up to get punched in the face every day. Forever.",
+  "who": "Michael Seibel"
+ },
+ {
+  "slug": "seibel-lessons-from-thousands-of-startups",
+  "guest": "Michael Seibel",
+  "date": "2020-09-08",
+  "title": "Lessons from Thousands of Startups",
+  "q": "If you're going to be in this scene, work on a problem you give a shit about.",
+  "who": "Michael Seibel"
+ },
+ {
+  "slug": "seibel-lessons-from-thousands-of-startups",
+  "guest": "Michael Seibel",
+  "date": "2020-09-08",
+  "title": "Lessons from Thousands of Startups",
+  "q": "Software companies have massively different economics than hardware. Funding is not as clear cut for non-software.",
+  "who": "Michael Seibel"
+ },
+ {
+  "slug": "seibel-lessons-from-thousands-of-startups",
+  "guest": "Michael Seibel",
+  "date": "2020-09-08",
+  "title": "Lessons from Thousands of Startups",
+  "q": "Learn more at YC than law school? Oh, fuck, yeah! People learn by doing. You don't do at school.",
+  "who": "Michael Seibel"
  },
  {
   "slug": "seides-a-deep-dive-into-hedge-funds",
@@ -3466,6 +5498,30 @@ export const QUOTES: any[] = [
   "who": "Kevin Simler"
  },
  {
+  "slug": "singareddy-investing-in-the-future-of-healthcare",
+  "guest": "Raju Rishi, Nikita Singareddy & Jason Black",
+  "date": "2020-11-24",
+  "title": "Investing in the Future of Healthcare",
+  "q": "Healthcare is the principal-agent problem on steroids.",
+  "who": "Nikita Singareddy"
+ },
+ {
+  "slug": "singareddy-investing-in-the-future-of-healthcare",
+  "guest": "Raju Rishi, Nikita Singareddy & Jason Black",
+  "date": "2020-11-24",
+  "title": "Investing in the Future of Healthcare",
+  "q": "You can't put the genie back in the bottle.",
+  "who": "Raju Rishi"
+ },
+ {
+  "slug": "singareddy-investing-in-the-future-of-healthcare",
+  "guest": "Raju Rishi, Nikita Singareddy & Jason Black",
+  "date": "2020-11-24",
+  "title": "Investing in the Future of Healthcare",
+  "q": "It's a human-scale problem that's actually a machine-scale problem.",
+  "who": "Jason Black"
+ },
+ {
   "slug": "singerman-investing-in-the-best-founders",
   "guest": "Brian Singerman",
   "date": "2019-04-02",
@@ -3504,6 +5560,86 @@ export const QUOTES: any[] = [
   "title": "The Berkshire of Software",
   "q": "It was a really big decision early on to try to be a holding company, not a fund.",
   "who": "Savneet Singh"
+ },
+ {
+  "slug": "smith-oil-price-war-and-its-implications",
+  "guest": "Matt Smith & Ian Singer & Kobi Platt",
+  "date": "2020-03-11",
+  "title": "Oil Price War and Its Implications",
+  "q": "Book value of energy companies should not be relied on, period.",
+  "who": "Matt Smith"
+ },
+ {
+  "slug": "smith-oil-price-war-and-its-implications",
+  "guest": "Matt Smith & Ian Singer & Kobi Platt",
+  "date": "2020-03-11",
+  "title": "Oil Price War and Its Implications",
+  "q": "A 1% divergence between supply and demand is the whole ballgame in commodities.",
+  "who": "Kobi Platt"
+ },
+ {
+  "slug": "smith-oil-price-war-and-its-implications",
+  "guest": "Matt Smith & Ian Singer & Kobi Platt",
+  "date": "2020-03-11",
+  "title": "Oil Price War and Its Implications",
+  "q": "We need companies that can efficiently and cleanly develop energy assets.",
+  "who": "Kobi Platt"
+ },
+ {
+  "slug": "smith-oil-price-war-and-its-implications",
+  "guest": "Matt Smith & Ian Singer & Kobi Platt",
+  "date": "2020-03-11",
+  "title": "Oil Price War and Its Implications",
+  "q": "The marginal cost to produce the world's demand is higher than where we are today.",
+  "who": "Kobi Platt"
+ },
+ {
+  "slug": "smith-oil-price-war-and-its-implications",
+  "guest": "Matt Smith & Ian Singer & Kobi Platt",
+  "date": "2020-03-11",
+  "title": "Oil Price War and Its Implications",
+  "q": "Moral hazard proliferates throughout the entire chain in energy.",
+  "who": "Matt Smith"
+ },
+ {
+  "slug": "songhurst-lessons-from-investing-in-483-companies",
+  "guest": "Charlie Songhurst",
+  "date": "2020-07-07",
+  "title": "Lessons from Investing in 483 Companies",
+  "q": "If you hang out with people smarter than yourself, you live in a funnel of positive serendipity.",
+  "who": "Charlie"
+ },
+ {
+  "slug": "songhurst-lessons-from-investing-in-483-companies",
+  "guest": "Charlie Songhurst",
+  "date": "2020-07-07",
+  "title": "Lessons from Investing in 483 Companies",
+  "q": "Better to be interested than interesting; pure interest eventually makes you interesting.",
+  "who": "Charlie"
+ },
+ {
+  "slug": "songhurst-lessons-from-investing-in-483-companies",
+  "guest": "Charlie Songhurst",
+  "date": "2020-07-07",
+  "title": "Lessons from Investing in 483 Companies",
+  "q": "Don't study greatness, study failure and work out how not to be that.",
+  "who": "Charlie"
+ },
+ {
+  "slug": "songhurst-lessons-from-investing-in-483-companies",
+  "guest": "Charlie Songhurst",
+  "date": "2020-07-07",
+  "title": "Lessons from Investing in 483 Companies",
+  "q": "It's not that good soldiers become veterans; it's that lucky soldiers become veterans.",
+  "who": "Charlie"
+ },
+ {
+  "slug": "songhurst-lessons-from-investing-in-483-companies",
+  "guest": "Charlie Songhurst",
+  "date": "2020-07-07",
+  "title": "Lessons from Investing in 483 Companies",
+  "q": "You're better off being a heavyweight boxer who's not very good fighting lightweight boxers.",
+  "who": "Charlie"
  },
  {
   "slug": "sorensen-how-quant-evolves",
@@ -3570,6 +5706,38 @@ export const QUOTES: any[] = [
   "who": "Jon Stein"
  },
  {
+  "slug": "stotz-frontier-markets-investing",
+  "guest": "Manny Stotz",
+  "date": "2020-04-21",
+  "title": "Frontier Markets Investing",
+  "q": "Choose a game that stacked in your favor. Seek inefficient markets basically.",
+  "who": "Manny Stotz"
+ },
+ {
+  "slug": "stotz-frontier-markets-investing",
+  "guest": "Manny Stotz",
+  "date": "2020-04-21",
+  "title": "Frontier Markets Investing",
+  "q": "The gap between perception and reality being bad headlines and good bottom lines.",
+  "who": "Manny Stotz"
+ },
+ {
+  "slug": "stotz-frontier-markets-investing",
+  "guest": "Manny Stotz",
+  "date": "2020-04-21",
+  "title": "Frontier Markets Investing",
+  "q": "Get and stay rich. That's the most important thing.",
+  "who": "Manny Stotz"
+ },
+ {
+  "slug": "stotz-frontier-markets-investing",
+  "guest": "Manny Stotz",
+  "date": "2020-04-21",
+  "title": "Frontier Markets Investing",
+  "q": "Buying the best business in a country protects you—if the country fails, both suffer, but once recovered the best compounds faster.",
+  "who": "Manny Stotz"
+ },
+ {
   "slug": "stulberg-just-manageable-challenges",
   "guest": "Brad Stulberg",
   "date": "2017-08-08",
@@ -3600,6 +5768,190 @@ export const QUOTES: any[] = [
   "title": "Just Manageable Challenges",
   "q": "Fatigue is an emotion, not just a physical state.",
   "who": "Brad Stulberg"
+ },
+ {
+  "slug": "sugrue-investing-in-paradigm-shifts",
+  "guest": "Andrew Sugrue",
+  "date": "2021-05-04",
+  "title": "Investing in Paradigm Shifts",
+  "q": "CAC is the new rent. The productivity of your CAC is ultimately the driver of success.",
+  "who": "Andrew Sugrue"
+ },
+ {
+  "slug": "sugrue-investing-in-paradigm-shifts",
+  "guest": "Andrew Sugrue",
+  "date": "2021-05-04",
+  "title": "Investing in Paradigm Shifts",
+  "q": "All growth is not created equally. I'm surprised how often investors overlook fundamentals for momentum.",
+  "who": "Andrew Sugrue"
+ },
+ {
+  "slug": "sugrue-investing-in-paradigm-shifts",
+  "guest": "Andrew Sugrue",
+  "date": "2021-05-04",
+  "title": "Investing in Paradigm Shifts",
+  "q": "Legacy businesses struggle to take advantage of paradigm shifts. They're usually on the losing end.",
+  "who": "Andrew Sugrue"
+ },
+ {
+  "slug": "sugrue-investing-in-paradigm-shifts",
+  "guest": "Andrew Sugrue",
+  "date": "2021-05-04",
+  "title": "Investing in Paradigm Shifts",
+  "q": "Unconditional love allows for unique risk-taking and pursuit of passion.",
+  "who": "Andrew Sugrue"
+ },
+ {
+  "slug": "sutherland-moonshots-and-marketing",
+  "guest": "Rory Sutherland",
+  "date": "2020-09-15",
+  "title": "Moonshots and Marketing",
+  "q": "A spreadsheet leaves no room for miracles; reality is probabilistic and complex.",
+  "who": "Rory Sutherland"
+ },
+ {
+  "slug": "sutherland-moonshots-and-marketing",
+  "guest": "Rory Sutherland",
+  "date": "2020-09-15",
+  "title": "Moonshots and Marketing",
+  "q": "If there's a logical solution, someone already found it. Look for absurdity.",
+  "who": "Rory Sutherland"
+ },
+ {
+  "slug": "sutherland-moonshots-and-marketing",
+  "guest": "Rory Sutherland",
+  "date": "2020-09-15",
+  "title": "Moonshots and Marketing",
+  "q": "We get a thrill from extravagance, a hit from bargains, nothing from mid-market.",
+  "who": "Rory Sutherland"
+ },
+ {
+  "slug": "sutherland-moonshots-and-marketing",
+  "guest": "Rory Sutherland",
+  "date": "2020-09-15",
+  "title": "Moonshots and Marketing",
+  "q": "Marketing isn't about product innovation; it's reframing the comparison set entirely.",
+  "who": "Rory Sutherland"
+ },
+ {
+  "slug": "tan-quality-and-innovation",
+  "guest": "Vaughn Tan",
+  "date": "2019-12-03",
+  "title": "Quality and Innovation",
+  "q": "Everyone who makes something great has an extremely unusual idea of what quality means for that thing.",
+  "who": "Vaughn"
+ },
+ {
+  "slug": "tan-quality-and-innovation",
+  "guest": "Vaughn Tan",
+  "date": "2019-12-03",
+  "title": "Quality and Innovation",
+  "q": "The challenging part of uncertainty is not knowing what outcomes are even possible, not just their likelihood.",
+  "who": "Vaughn"
+ },
+ {
+  "slug": "tan-quality-and-innovation",
+  "guest": "Vaughn Tan",
+  "date": "2019-12-03",
+  "title": "Quality and Innovation",
+  "q": "Productive discomfort makes you look in new places for information and changes your mind about things.",
+  "who": "Vaughn"
+ },
+ {
+  "slug": "tan-quality-and-innovation",
+  "guest": "Vaughn Tan",
+  "date": "2019-12-03",
+  "title": "Quality and Innovation",
+  "q": "People buy Apple because it feels like Apple, not because of engineering tolerances.",
+  "who": "Vaughn"
+ },
+ {
+  "slug": "tavel-consumer-marketplace-investing",
+  "guest": "Sarah Tavel",
+  "date": "2020-04-07",
+  "title": "Consumer & Marketplace Investing",
+  "q": "You become the game in town. You become a default effect.",
+  "who": "Sarah Tavel"
+ },
+ {
+  "slug": "tavel-consumer-marketplace-investing",
+  "guest": "Sarah Tavel",
+  "date": "2020-04-07",
+  "title": "Consumer & Marketplace Investing",
+  "q": "If you're not building real liquidity, it doesn't matter. You have to get to that core of what is important.",
+  "who": "Sarah Tavel"
+ },
+ {
+  "slug": "tavel-consumer-marketplace-investing",
+  "guest": "Sarah Tavel",
+  "date": "2020-04-07",
+  "title": "Consumer & Marketplace Investing",
+  "q": "The more they use the product, the more they have to lose by leaving the product.",
+  "who": "Sarah Tavel"
+ },
+ {
+  "slug": "tavel-consumer-marketplace-investing",
+  "guest": "Sarah Tavel",
+  "date": "2020-04-07",
+  "title": "Consumer & Marketplace Investing",
+  "q": "You want to think about the perfect behavior of an ideal supplier and then work backward from what incentive structure would create that behavior.",
+  "who": "Sarah Tavel"
+ },
+ {
+  "slug": "taylor-the-modern-activist-toolkit",
+  "guest": "Lauren Taylor Wolfe",
+  "date": "2020-09-22",
+  "title": "The Modern Activist Toolkit",
+  "q": "Modern activism leads with humility and substance, forming partnerships not hostile takeovers.",
+  "who": "Lauren Taylor Wolfe"
+ },
+ {
+  "slug": "taylor-the-modern-activist-toolkit",
+  "guest": "Lauren Taylor Wolfe",
+  "date": "2020-09-22",
+  "title": "The Modern Activist Toolkit",
+  "q": "We only operate where ESG change overlaps with NPV-positive projects that drive profitability.",
+  "who": "Lauren Taylor Wolfe"
+ },
+ {
+  "slug": "taylor-the-modern-activist-toolkit",
+  "guest": "Lauren Taylor Wolfe",
+  "date": "2020-09-22",
+  "title": "The Modern Activist Toolkit",
+  "q": "The more surprises the market gets, the lower your multiple will be.",
+  "who": "Lauren Taylor Wolfe"
+ },
+ {
+  "slug": "taylor-the-modern-activist-toolkit",
+  "guest": "Lauren Taylor Wolfe",
+  "date": "2020-09-22",
+  "title": "The Modern Activist Toolkit",
+  "q": "Companies that communicate internal values and marry them with consistent actions attract the stickiest employees.",
+  "who": "Lauren Taylor Wolfe"
+ },
+ {
+  "slug": "thompson-platforms-ecosystems-and-aggregators",
+  "guest": "Ben Thompson",
+  "date": "2020-06-02",
+  "title": "Platforms, Ecosystems, and Aggregators",
+  "q": "Aggregators leverage abundance—there's so much stuff, consumers need help sorting through it.",
+  "who": "Ben Thompson"
+ },
+ {
+  "slug": "thompson-platforms-ecosystems-and-aggregators",
+  "guest": "Ben Thompson",
+  "date": "2020-06-02",
+  "title": "Platforms, Ecosystems, and Aggregators",
+  "q": "No one's forcing people to go to Google. They could use Bing or type URLs. They go by choice.",
+  "who": "Ben Thompson"
+ },
+ {
+  "slug": "thompson-platforms-ecosystems-and-aggregators",
+  "guest": "Ben Thompson",
+  "date": "2020-06-02",
+  "title": "Platforms, Ecosystems, and Aggregators",
+  "q": "High churn on Shopify is a positive signal—it means way more customers entering the funnel.",
+  "who": "Ben Thompson"
  },
  {
   "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
@@ -3730,6 +6082,38 @@ export const QUOTES: any[] = [
   "who": "Tim Urban"
  },
  {
+  "slug": "van-unlocking-value-in-gaming",
+  "guest": "Joost van Dreunen",
+  "date": "2021-01-26",
+  "title": "Unlocking Value in Gaming",
+  "q": "The games industry has always been on its back foot, but what they all check at the door is their ego—they just tinker away on cool experiences",
+  "who": "Joost van Dreunen"
+ },
+ {
+  "slug": "van-unlocking-value-in-gaming",
+  "guest": "Joost van Dreunen",
+  "date": "2021-01-26",
+  "title": "Unlocking Value in Gaming",
+  "q": "Pioneers get arrows in their back; settlers get rich—PUBG created the category, Fortnite ran with it",
+  "who": "Joost van Dreunen"
+ },
+ {
+  "slug": "van-unlocking-value-in-gaming",
+  "guest": "Joost van Dreunen",
+  "date": "2021-01-26",
+  "title": "Unlocking Value in Gaming",
+  "q": "Free-to-play doesn't mean 'I spend, I win'—it's vanity items and cosmetics; spending money doesn't guarantee victory",
+  "who": "Joost van Dreunen"
+ },
+ {
+  "slug": "van-unlocking-value-in-gaming",
+  "guest": "Joost van Dreunen",
+  "date": "2021-01-26",
+  "title": "Unlocking Value in Gaming",
+  "q": "Tim Sweeney looks like the programmer who's been sitting in a corner office for 20 years—that modest genius is what makes this industry tick",
+  "who": "Joost van Dreunen"
+ },
+ {
   "slug": "varty-live-like-a-tracker",
   "guest": "Boyd Varty",
   "date": "2018-08-14",
@@ -3834,6 +6218,70 @@ export const QUOTES: any[] = [
   "who": "Boyd Varty"
  },
  {
+  "slug": "vishria-the-past-present-and-future-of-saas-and-software",
+  "guest": "Eric Vishria",
+  "date": "2020-07-21",
+  "title": "The Past, Present, and Future of SaaS and Software",
+  "q": "Digital became existential—if we don't get this right, we're done.",
+  "who": "Eric Vishria"
+ },
+ {
+  "slug": "vishria-the-past-present-and-future-of-saas-and-software",
+  "guest": "Eric Vishria",
+  "date": "2020-07-21",
+  "title": "The Past, Present, and Future of SaaS and Software",
+  "q": "Businesses are becoming encoded in software.",
+  "who": "Eric Vishria"
+ },
+ {
+  "slug": "vishria-the-past-present-and-future-of-saas-and-software",
+  "guest": "Eric Vishria",
+  "date": "2020-07-21",
+  "title": "The Past, Present, and Future of SaaS and Software",
+  "q": "The future got accelerated by three years.",
+  "who": "Eric Vishria"
+ },
+ {
+  "slug": "vishria-the-past-present-and-future-of-saas-and-software",
+  "guest": "Eric Vishria",
+  "date": "2020-07-21",
+  "title": "The Past, Present, and Future of SaaS and Software",
+  "q": "When something seems ridiculous it usually isn't.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "walden-a-primer-on-nfts",
+  "guest": "Jesse Walden",
+  "date": "2021-03-23",
+  "title": "A Primer on NFTs",
+  "q": "A pixel is worth a thousand words. One-pixel difference makes a JPEG unique from any other.",
+  "who": "Jesse Walden"
+ },
+ {
+  "slug": "walden-a-primer-on-nfts",
+  "guest": "Jesse Walden",
+  "date": "2021-03-23",
+  "title": "A Primer on NFTs",
+  "q": "The creator, their identity, and media can be discovered independently of any third party for the first time.",
+  "who": "Jesse Walden"
+ },
+ {
+  "slug": "walden-a-primer-on-nfts",
+  "guest": "Jesse Walden",
+  "date": "2021-03-23",
+  "title": "A Primer on NFTs",
+  "q": "Everyone is going to become an investor thanks to crypto, where you can transact value like you send emails.",
+  "who": "Jesse Walden"
+ },
+ {
+  "slug": "walden-a-primer-on-nfts",
+  "guest": "Jesse Walden",
+  "date": "2021-03-23",
+  "title": "A Primer on NFTs",
+  "q": "All files will eventually enter the world as NFTs registered on the blockchain to you as the creator.",
+  "who": "Jesse Walden"
+ },
+ {
   "slug": "walk-building-picks-and-shovels",
   "guest": "Hunter Walk",
   "date": "2018-11-27",
@@ -3864,6 +6312,38 @@ export const QUOTES: any[] = [
   "title": "Building Picks and Shovels",
   "q": "Essentially, it was a subscription service.",
   "who": "guest"
+ },
+ {
+  "slug": "wallach-investing-in-healthcare",
+  "guest": "D.A. Wallach",
+  "date": "2020-03-31",
+  "title": "Investing in Healthcare",
+  "q": "I almost think all investing should be impact investing",
+  "who": "D.A."
+ },
+ {
+  "slug": "wallach-investing-in-healthcare",
+  "guest": "D.A. Wallach",
+  "date": "2020-03-31",
+  "title": "Investing in Healthcare",
+  "q": "The future is here, just not evenly distributed",
+  "who": "D.A."
+ },
+ {
+  "slug": "wallach-investing-in-healthcare",
+  "guest": "D.A. Wallach",
+  "date": "2020-03-31",
+  "title": "Investing in Healthcare",
+  "q": "Video games are social networks. They are places",
+  "who": "D.A."
+ },
+ {
+  "slug": "wallach-investing-in-healthcare",
+  "guest": "D.A. Wallach",
+  "date": "2020-03-31",
+  "title": "Investing in Healthcare",
+  "q": "Timing's everything. Iridium 30 years early, now Starlink succeeds.",
+  "who": "D.A."
  },
  {
   "slug": "wasserman-real-estate-investing",
@@ -3968,6 +6448,38 @@ export const QUOTES: any[] = [
   "title": "Angel Investing and Trend Spotting",
   "q": "Every season you're starting from scratch.",
   "who": "Joanne Wilson"
+ },
+ {
+  "slug": "wolfe-the-past-present-and-future-of-defense",
+  "guest": "Josh Wolfe & Tony Thomas",
+  "date": "2021-03-09",
+  "title": "The Past, Present, and Future of Defense",
+  "q": "Same planes, different fuel. Technological breakthrough. Little things lead to big things.",
+  "who": "Josh Wolfe"
+ },
+ {
+  "slug": "wolfe-the-past-present-and-future-of-defense",
+  "guest": "Josh Wolfe & Tony Thomas",
+  "date": "2021-03-09",
+  "title": "The Past, Present, and Future of Defense",
+  "q": "The longer I've been at this, the harder it is for me to not think I have the answer before the question is asked.",
+  "who": "Tony Thomas (citing FBI leadership)"
+ },
+ {
+  "slug": "wolfe-the-past-present-and-future-of-defense",
+  "guest": "Josh Wolfe & Tony Thomas",
+  "date": "2021-03-09",
+  "title": "The Past, Present, and Future of Defense",
+  "q": "Are you listening or are you just waiting to talk?",
+  "who": "Tony Thomas"
+ },
+ {
+  "slug": "wolfe-the-past-present-and-future-of-defense",
+  "guest": "Josh Wolfe & Tony Thomas",
+  "date": "2021-03-09",
+  "title": "The Past, Present, and Future of Defense",
+  "q": "We lost almost every single time. The Chinese are so far ahead of us in many domains, particularly in space.",
+  "who": "Josh Wolfe (citing Chris Brose, Anduril)"
  },
  {
   "slug": "wolfe-the-tech-imperative",
@@ -4112,6 +6624,46 @@ export const QUOTES: any[] = [
   "title": "The Darkest Night: Lessons from Battle and Value Investing",
   "q": "Stocks are less risky when prices are much lower.",
   "who": "Mike Zapata"
+ },
+ {
+  "slug": "zeihan-disunited-nations",
+  "guest": "Peter Zeihan",
+  "date": "2020-03-10",
+  "title": "Disunited Nations",
+  "q": "You've got a gooey inside and a crunchy exterior so you can do what you need to.",
+  "who": "Peter Zeihan"
+ },
+ {
+  "slug": "zeihan-disunited-nations",
+  "guest": "Peter Zeihan",
+  "date": "2020-03-10",
+  "title": "Disunited Nations",
+  "q": "Far more countries collapsed from famine than war or disease throughout history.",
+  "who": "Peter Zeihan"
+ },
+ {
+  "slug": "zeihan-disunited-nations",
+  "guest": "Peter Zeihan",
+  "date": "2020-03-10",
+  "title": "Disunited Nations",
+  "q": "We basically paid everyone to be on our side versus the Soviets.",
+  "who": "Peter Zeihan"
+ },
+ {
+  "slug": "zeihan-disunited-nations",
+  "guest": "Peter Zeihan",
+  "date": "2020-03-10",
+  "title": "Disunited Nations",
+  "q": "All the United States has to do to wreck these places is go home.",
+  "who": "Peter Zeihan"
+ },
+ {
+  "slug": "zeihan-disunited-nations",
+  "guest": "Peter Zeihan",
+  "date": "2020-03-10",
+  "title": "Disunited Nations",
+  "q": "This is a wonderful dress rehearsal that we should treasure.",
+  "who": "Peter Zeihan"
  },
  {
   "slug": "zeihan-the-future-of-geopolitics",
