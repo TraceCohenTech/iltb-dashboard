@@ -34,6 +34,38 @@ export const QUOTES: any[] = [
   "who": "Kiley Adams"
  },
  {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "q": "Mastery is my crack. I have to be mastering something.",
+  "who": "Peter Attia"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "q": "The only thing worth doing in moderation is moderation.",
+  "who": "Peter Attia"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "q": "I always followed the path of bliss over financial opportunity; compounding wins.",
+  "who": "Peter Attia"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "q": "Define wealth by great people in your life, not money or success.",
+  "who": "Peter Attia"
+ },
+ {
   "slug": "beshore-cultivating-a-disaster-resistant-compound-interest-machine",
   "guest": "Brent Beshore",
   "date": "2016-11-08",
@@ -64,6 +96,46 @@ export const QUOTES: any[] = [
   "title": "Cultivating a Disaster Resistant, Compound Interest Machine",
   "q": "The single biggest determining factor of success is compounding of knowledge.",
   "who": "Brent Beshore"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "q": "Most businesses don't get large on purpose because the founder is the moat.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "q": "Operating a company is like a knife fight; you get out of bed with a knife and try to keep the wild animals away.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "q": "The biggest secret is there is no secret, you just got to test stuff and see what works.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "q": "Nothing is worse than claiming one thing and doing something different.",
+  "who": "Brent"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "q": "Brand is the distribution of likely outcomes that you can expect from any company or person.",
+  "who": "Brent"
  },
  {
   "slug": "brown-the-reformation",
@@ -98,6 +170,46 @@ export const QUOTES: any[] = [
   "who": "Josh Brown"
  },
  {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "q": "An intelligent fanatic is someone with genuine intellectual interest in something.",
+  "who": "Ian"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "q": "Most of these companies can't be owned by large institutions because of minimum position sizes.",
+  "who": "Ian"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "q": "I'd rather spend time studying the history of great companies when they were small.",
+  "who": "Ian"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "q": "Everywhere I go, people say the book made a difference in their lives.",
+  "who": "Dave Chilton"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "q": "I've never been sued, never sued anybody, never had major conflicts—I just kept it light and loose.",
+  "who": "Dave Chilton"
+ },
+ {
   "slug": "cole-small-bets-huge-payoffs",
   "guest": "Chris Cole",
   "date": "2016-11-29",
@@ -128,6 +240,38 @@ export const QUOTES: any[] = [
   "title": "Small Bets, Huge Payoffs",
   "q": "Dennis Rodman is 6 standard deviations away from the mean in rebounding. Rodman is better at rebounding than Michael Jordan is at scoring.",
   "who": "Chris Cole"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "q": "They're just simply opting out because of it.",
+  "who": "Leigh"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "q": "So actually my educational background is in behavioral economics and war theory.",
+  "who": "Leigh"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "q": "So this was crazy.",
+  "who": "Leigh"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "q": "Yeah. I think the informational edge is becoming more arbitrage these days.",
+  "who": "Leigh"
  },
  {
   "slug": "egan-designing-better-decisions",
@@ -162,6 +306,38 @@ export const QUOTES: any[] = [
   "who": "Ian M. Banks (via Dan Egan)"
  },
  {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "q": "The minute there are multiple buyers for anything, prices get efficient very quickly.",
+  "who": "Rishi"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "q": "If you even have two bidders in a market, you're squeezing out all the alpha that exists.",
+  "who": "Rishi"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "q": "To avoid a price mechanism, you have to avoid a market.",
+  "who": "Rishi"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "q": "Once you have the x-ray goggles on, the world's so much more vast than what people give it credit for.",
+  "who": "Rishi"
+ },
+ {
   "slug": "gramm-activist-investing",
   "guest": "Jeff Gramm",
   "date": "2016-09-11",
@@ -194,6 +370,30 @@ export const QUOTES: any[] = [
   "who": "Jeff Gramm"
  },
  {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "q": "If you own a bait shop by a fishing spot, you earn above-market returns because you're the only game in town.",
+  "who": "James Higgins"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "q": "We think of ourselves as sitting at the intersection of investment capital, sellers seeking exits, and entrepreneurial talent.",
+  "who": "James Higgins"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "q": "I was not a majority owner of AQR Capital Management.",
+  "who": "Trish Higgins"
+ },
+ {
   "slug": "housel-walking-and-thinking",
   "guest": "Morgan Housel",
   "date": "2016-10-04",
@@ -216,6 +416,70 @@ export const QUOTES: any[] = [
   "title": "Walking and Thinking",
   "q": "Almost every great investor gets more humble as time goes on.",
   "who": "Morgan Housel"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "q": "My guest this week is Khe Hy.",
+  "who": "week is Khe Hy"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "q": "Talk a little bit about the role of evaluating hedge funds.",
+  "who": "week is Khe Hy"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "q": "I'll mention this kind of slight nuance to maybe color your answer on how you then evaluated the funds.",
+  "who": "week is Khe Hy"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "q": "We'll mention the incredible rise of quantitative strategies across the investing landscape.",
+  "who": "week is Khe Hy"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "q": "Well, Rao's is obviously the eatery in Harlem that you can't get a table, there's no reservation.",
+  "who": "Ira"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "q": "There's a lot of very strong people that go there.",
+  "who": "Ira"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "q": "I was in business. I was in business. Oh God, I can't even remember.",
+  "who": "Ira"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "q": "But I did get the defendant. We did actually get him.",
+  "who": "Ira"
  },
  {
   "slug": "koppelman-chasing-curiosity",
@@ -290,6 +554,30 @@ export const QUOTES: any[] = [
   "who": "Eric Maddox (paraphrasing his Delta commander)"
  },
  {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "q": "The sun is but a morning star. No matter where you are, you're still a rising sun.",
+  "who": "Joe"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "q": "We wanted to give individual investors tools to analyze stocks like professionals would.",
+  "who": "Joe"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "q": "Learn to say no and don't try to satisfy all comers.",
+  "who": "Joe"
+ },
+ {
   "slug": "mauboussin-active-asset-management",
   "guest": "Michael Mauboussin",
   "date": "2016-09-20",
@@ -320,6 +608,222 @@ export const QUOTES: any[] = [
   "title": "Active Asset Management",
   "q": "Articles about buybacks by journalists are drivel—not informed or thoughtful.",
   "who": "Michael Mauboussin"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "q": "Markets have to be efficiently inefficient.",
+  "who": "Michael Mauboussin"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "q": "If you want lots of liquidity, you should realize you're not going to have a lot of control.",
+  "who": "Michael Mauboussin"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "q": "You haven't accomplished anything until you're liquid.",
+  "who": "Bill Gurley (cited by Mauboussin)"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "q": "Pre-IPO is the new IPO.",
+  "who": "Fidelity executive (cited by Mauboussin)"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "q": "Software alone is a commodity. The value is in the ecosystem.",
+  "who": "Alex Moazed"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "q": "A lot of the things you're doing in the beginning don't scale at all.",
+  "who": "Alex Moazed"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "q": "You just focus on having equipment ready, I'm going to get you customers.",
+  "who": "Alex Moazed"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "q": "Complex systems that work result from simple systems scaled, not systems designed and dropped in.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "q": "No trade is as good as it appears. Leverage will always bury you in the end if you have the wrong trade on.",
+  "who": "Danny"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "q": "If you don't underwrite correctly, then it's over. It doesn't matter what you're lending in.",
+  "who": "Danny"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "q": "You're better off knowing what ETF owns your stock than what the company even does. That's scary to me.",
+  "who": "Danny"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "q": "People have really bad instincts about what things are going to work.",
+  "who": "Jerry Neumann"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "q": "Risk is predictable, uncertainty you can't insure because you don't know the probability distribution.",
+  "who": "Jerry Neumann"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "q": "If there was a recipe for building successful billion-dollar companies, you'd have factories churning them out.",
+  "who": "Jerry Neumann"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "q": "I always have to sleep on it because the next day you've calmed down and ask if it's still a great idea.",
+  "who": "Jerry Neumann"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "q": "Seek to learn that which cannot be taught.",
+  "who": "Scott Norton"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "q": "Business is fundamentally creative, not competitive.",
+  "who": "Scott Norton"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "q": "If you want to be successful, don't be a go getter, be a go giver.",
+  "who": "Scott Norton (quoting his grandfather)"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "q": "When you're in the unknown, you start to be at home with the world.",
+  "who": "Scott Norton"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "q": "Spend two weeks managing cash flow of a small business—suddenly you understand why the cash flow statement matters.",
+  "who": "Jim O'Shaughnessy"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "q": "The harder I work, the luckier I get.",
+  "who": "Jim O'Shaughnessy"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "q": "Luck is the hand you're dealt. Talent and achievement is how you play that hand.",
+  "who": "Jim O'Shaughnessy"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "q": "I know when I enter your office to ask something, I'm fairly certain what your answer will be, but I have to ask anyway.",
+  "who": "Chris Loveless (O'Shaughnessy's president)"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "q": "Conversation is my new favorite way to learn.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "q": "The less your ego gets involved, the more you will learn.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "q": "You also get the listeners that you deserve.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "q": "The means and the end are the same.",
+  "who": "Patrick O'Shaughnessy"
  },
  {
   "slug": "parrish-mastering-mental-models",
@@ -386,6 +890,70 @@ export const QUOTES: any[] = [
   "who": "Jeff Ptak"
  },
  {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "q": "He is the oldest.",
+  "who": "Andy"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "q": "We believe in euthanasia, let's put it that way.",
+  "who": "Andy"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "q": "So let me just finish the other point then we'll come back to this.",
+  "who": "Andy"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "q": "... as the internet was taking off.",
+  "who": "Andy"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "q": "You're one of the rare firms that talks about 3-5-7 year plans, not 3-5-7 month results.",
+  "who": "management teams (via John Rogers)"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "q": "By the time you're 18 or 19, I can't teach you to see.",
+  "who": "Coach Pete Carril"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "q": "The difficulty of executing and thinking independently does allow for the moat.",
+  "who": "John Rogers"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "q": "Where else should I be?",
+  "who": "John Rogers (meeting Daniel Kahneman)"
+ },
+ {
   "slug": "rowley-vanguards-gerry-oreilly-and-jim-rowley",
   "guest": "Gerry O'Reilly & Jim Rowley",
   "date": "2016-10-18",
@@ -450,6 +1018,14 @@ export const QUOTES: any[] = [
   "who": "Christian Rudder"
  },
  {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "q": "Asset allocation is not about math; it's about behavior.",
+  "who": "David Salem"
+ },
+ {
   "slug": "seides-a-deep-dive-into-hedge-funds",
   "guest": "Ted Seides",
   "date": "2016-10-25",
@@ -480,6 +1056,62 @@ export const QUOTES: any[] = [
   "title": "A Deep Dive into Hedge Funds",
   "q": "Hedge fund operations are like going to the dentist; investors have zero patience for mistakes.",
   "who": "Ted Seides"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "q": "If hedge fund fees were zero, I'd still invest in some and not others. The fee question is secondary to whether they add value.",
+  "who": "Ted"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "q": "No one has earned the returns of the S&P 500 over this 9.5 years because almost no one has the capacity to suffer through 2008.",
+  "who": "Ted"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "q": "Warren is the most favorable buyer because he credibly doesn't have to sell. That's a powerful permanent capital advantage.",
+  "who": "Ted"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "q": "Intuition is a finely tuned algorithm rooted in enormous experience. Gather tons of experience, let subconscious process it.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "q": "Don't build a system unless you absolutely need to. If you do, make it extremely simple and let it evolve.",
+  "who": "Ted Seides (recommending Systems Bible)"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "q": "Most small businesses fail because they won't do the basics—the hygiene. Floors need cleaning, tooth brushes need using.",
+  "who": "Brent Beshore"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "q": "Lunch is not free. Small businesses lack the business fundamentals: where does cash come from, where does it go.",
+  "who": "Brent Beshore"
  },
  {
   "slug": "shapiro-better-for-you-better-for-the-world",
@@ -600,6 +1232,94 @@ export const QUOTES: any[] = [
   "title": "The State of Automated Investing",
   "q": "You don't rise to the occasion. You resort to your level of training.",
   "who": "Jon Stein"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "q": "If it's becoming popular, it's probably not as good or opportunistic anymore. Once everyone's doing it, the edge is gone.",
+  "who": "Henry Singleton (quoted)"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "q": "We paint the two sides facing the road. Everything else runs lean—no cuts to content, production, or talent that drives ratings.",
+  "who": "Tom Murphy (quoted)"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "q": "You need to show up and steer the ship every day. You can't predict what opportunities will arise, so you must be prepared to react.",
+  "who": "Henry Singleton (quoted)"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "q": "This week's episode is the most unique to date.",
+  "who": "Boyd Varty"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "q": "A little bit different experience than my Saturdays going to a soccer game or something like that.",
+  "who": "Boyd Varty"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "q": "Yeah, and it lays a nice foundation for sort of where the psychology of my work has gone.",
+  "who": "Boyd Varty"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "q": "Okay, yeah, that will be a fun jump-off point.",
+  "who": "Boyd Varty"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "q": "This is Royce, I'll take a crack at it.",
+  "who": "Royce Yudkoff & Rick Ruback"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "q": "Rick and I see investors doing just one deal.",
+  "who": "Royce Yudkoff & Rick Ruback"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "q": "Could you give me a sense of the scale of this?",
+  "who": "Royce Yudkoff & Rick Ruback"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "q": "Well, I think we can fairly say that we're the largest because the school is the largest.",
+  "who": "Royce Yudkoff & Rick Ruback"
  },
  {
   "slug": "zweig-the-power-of-serendipity",

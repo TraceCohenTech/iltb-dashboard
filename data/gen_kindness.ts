@@ -2,6 +2,13 @@
 /* eslint-disable */
 export const KINDNESS: any[] = [
  {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "k": "During an experimental melanoma surgery at National Cancer Institute, I cared for a patient with ocular melanoma. I mentioned missing San Francisco and loving the Golden Gate Bridge. She survived the operation, and we stayed in touch. A year after she died, her husband sent me a brass model of the Golden Gate Bridge she had wanted me to have—a deeply thoughtful gesture."
+ },
+ {
   "slug": "beshore-cultivating-a-disaster-resistant-compound-interest-machine",
   "guest": "Brent Beshore",
   "date": "2016-11-08",
@@ -16,11 +23,32 @@ export const KINDNESS: any[] = [
   "k": "People forgave me early work when I wasn't knowledgeable; gave me time to grow. When I stumbled on European macro in 2011, readers stuck with me. That grace helped build everything that followed."
  },
  {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "k": "Sanjay Bakshi, an Indian investor I met on Twitter, sent me a 60-page PDF with 18 book/article references about intelligent fanatics, highlighted the relevant parts, and added his own commentary. He spent hours synthesizing that for someone he'd only emailed with five times. That generosity was remarkable."
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "k": "When I started, I reached out to people saying 'I don't know what I'm doing, can you help?' Not one person said no. Andrew Tobias read my book—he didn't like it, but gave me tips. John Templeton answered his own phone, read it cover-to-cover, and gave an endorsement. People have been exceptionally kind to me."
+ },
+ {
   "slug": "cole-small-bets-huge-payoffs",
   "guest": "Chris Cole",
   "date": "2016-11-29",
   "title": "Small Bets, Huge Payoffs",
   "k": "A partner sacrificed significant money to let my business continue growing. Out of love, not necessity. That's the kindest thing."
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "k": "Oh, man. Well, it's very simple. My co-founder Brian Smith, I think it's the luckiest thing that ever happened to me was finding him. So a lot of people don't know this. Some people know it, but a lot of people don't know that the first year of this company was just terrible. We did everything we could possibly do wrong and the company almost died. In fact, there's an article in Business Insider f"
  },
  {
   "slug": "egan-designing-better-decisions",
@@ -30,6 +58,13 @@ export const KINDNESS: any[] = [
   "k": "My wife supported my move to NYC for career, then my giant pay cut to join Betterment as a startup. She's a diplomat who could move freely, but she chose my dreams first. We have the best arguments because we disagree well; I owe her repayment by supporting her dreams equally. Also, in 6th/7th grade, my math teacher gave me rides home. I lied about homework once, saying I forgot it, but he saw me do it in class. He said: 'I've done good things for you, and you've disappointed me by lying.' That moment—not shaming, just a line in the sand about honesty—stuck with me forever."
  },
  {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "k": "I grew up with unreliable parents and was lost in Wheeling, Illinois—crying among unfamiliar streets, not knowing how to get to school. I knocked on a house and asked a lady, 'Will you please drive me to school?' She said, 'Sure,' and did. At that moment, I truly understood what kindness was."
+ },
+ {
   "slug": "gramm-activist-investing",
   "guest": "Jeff Gramm",
   "date": "2016-09-11",
@@ -37,11 +72,25 @@ export const KINDNESS: any[] = [
   "k": "Arthur Levitt got me into Columbia Business School. I got in because of him. The dean of admissions told me after my first week of school I wouldn't have been admitted without Arthur. It motivated me rather than making me resent them. Without him, I wouldn't have gotten in—I was rejected by NYU."
  },
  {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "k": "James: 'Volunteering time is the kindest thing. People who are smarter, more experienced than us taking time to educate, teach, be patient with us—allocating your time is the kindest thing anyone can do.' Trish: 'The founder of our dough business, after retiring to Spain, sent our newborn daughter a gift and note saying he felt good about who he sold to. That small gesture—he was emotional at closing but wanted us to know we had his trust—meant everything.'"
+ },
+ {
   "slug": "housel-walking-and-thinking",
   "guest": "Morgan Housel",
   "date": "2016-10-04",
   "title": "Walking and Thinking",
   "k": "Jason Zweig took hours to have lunch with me as a stranger who emailed him. Most busy people say no; he said yes. That generosity shaped my entire career trajectory."
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "k": "I would say it's going to sound a little weird at first. But my friend, Sunil, as a connector, I'm always meet someone how can I be helpful? What can I give to you? But he told me once, and I think this is, I'd say kindness it's also probably the best advice that I think I've ever gotten. And he said, \"The best gift that you can give someone is to share authentically with them and to share vulnera"
  },
  {
   "slug": "koppelman-chasing-curiosity",
@@ -58,6 +107,41 @@ export const KINDNESS: any[] = [
   "k": "My birth mother had courage to carry me through ridicule rather than abort. Gave me adoption, family, life. Day one gratitude."
  },
  {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "k": "My mom raised me as a single mother, figured out how to put me through private school, boarding school, and college. She's been unbelievably supporting and positive, an amazing figure and role model. The book is dedicated to her."
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "k": "John Race, a mentor and friend of my father's, got me my job at Friedman Billings & Ramsey with a simple phone call out of kindness. That turned out to be the biggest break of my life. Also, Miss Sweden (Miss Universe at the time, Yvonne Ryding) signed my cast when I broke my leg in 1984—one of the kindest things anyone's ever done for me."
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "k": "When I was 13 and bored, my parents bought me a $800 TRS-80 computer (worth thousands in today's money). Nobody had computers then. They didn't know it would launch my career, but they made a bet on me based on genuine curiosity and care. That one act of faith shaped everything."
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "k": "Keith Miller, an early investor and board member, believed in us before we had any social proof. He wasn't obligated to meet with two guys making ketchup, but he took a personal shot on us and was relentless in helping us reach the next level through thick and thin, acting as the godfather of our business."
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "k": "A mentor loaned me capital when I couldn't get a mortgage—he believed in me and didn't require repayment schedule. His faith and generosity let me start O'Shaughnessy Asset Management. Ironically, the bank approved the mortgage once I didn't need it."
+ },
+ {
   "slug": "parrish-mastering-mental-models",
   "guest": "Shane Parrish",
   "date": "2016-12-27",
@@ -72,11 +156,32 @@ export const KINDNESS: any[] = [
   "k": "Professionally, my biggest kindness was at Arthur Andersen's Professional Standards Group in the early 2000s. These extremely accomplished partners took a chance on me—a young, unpolished analyst—and let me work at their feet for six years. John Stewart, Amy Ripepi, Rick Peterson, and Benjamin Neuhausen tolerated me without having to. Personally, I try to show my four children daily that not everyone lives as safely and comfortably as we do, building empathy in them for different circumstances."
  },
  {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "k": "Gosh, I've been the recipient of an amazing amount of kindness over the years. I actually think my entire career is a function of kindness and luck. God, when I was in business school... It's really funny that I worked on Wall Street for a couple of years after college. And I worked in mergers and acquisitions at Blyth, Eastman Dillon and the head of the M&A department was a Stanford grad. And he "
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "k": "Cecil Partee was City Treasurer and gave us our first million-dollar account when I was 25. He had influence over the Chicago Pension Plan. He told my parents he'd been waiting for someone like me to come through the door so he could help them get started in this business."
+ },
+ {
   "slug": "rowley-vanguards-gerry-oreilly-and-jim-rowley",
   "guest": "Gerry O'Reilly & Jim Rowley",
   "date": "2016-10-18",
   "title": "Vanguard's Gerry O'Reilly and Jim Rowley",
   "k": "Impossible to pick one mentor or one act. Gerry mentioned coaches instilling work ethic, Gus's early belief in him, Mike Bucoy teaching market structure. Jim spoke of people helping him reach dream jobs. Both said they wouldn't be where they are without many mentors and colleagues."
+ },
+ {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "k": "Peter Bernstein took time between 1999-2009 to write me typed critiques of my quarterly letters. Often a page, never longer, but he helped me think clearer. More critical than complimentary, that was true kindness. Personally, a nurse from the Philippines spent an entire evening with me when I broke my neck at age 18, never left my bedside, just talking—extraordinarily kind."
  },
  {
   "slug": "shapiro-better-for-you-better-for-the-world",
@@ -98,6 +203,27 @@ export const KINDNESS: any[] = [
   "date": "2016-11-01",
   "title": "The State of Automated Investing",
   "k": "So many people have been so generous to us along the way, and our partners with various firms have been so giving. I had so many great mentors during my consulting days, and I'd be leaving someone out if I singled one person out."
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "k": "Two partners in the early days of my firm were primarily investors with their own capital. They generously shared economics with me beyond what was required—not just capital, but profit-sharing that helped set the tone for our entire firm culture."
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "k": "Wow. Yeah, I've been thinking about this a little bit. I think one of the things that pops to mind and it's maybe not from a person, but I have felt that having a relationship with nature has been an act of incredible kindness from the natural world to me. I feel like anytime I've had problems, anytime I've been unsure, anytime I've lost my way, for me, retreating into nature has been an incredibl"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "k": "See, that's again, one of these things where I'm just going to get in trouble. I'm not going to do this. I just not going to do this because I'm immediately going to say when the dog sits beside you, just cuddles up after a long walk or a long hike. I know if I say that my wife will be furious at me, so I'm not going to say that. Patrick: Okay, I'll rephrase for you yet again, a very kind thing th"
  },
  {
   "slug": "zweig-the-power-of-serendipity",

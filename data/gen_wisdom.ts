@@ -58,6 +58,86 @@ export const WISDOM: any[] = [
   "cat": "life"
  },
  {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Mastery is the core driver; optimizing last 80% of effort for final 20% of benefit is more valuable than first 20% for 80% gain.",
+  "cat": "life"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Redefine wealth by number of great relationships, not money; ask 'Would I donate a kidney?' as practical measure of commitment.",
+  "cat": "life"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Healthspan (quality of life) matters far more than additional years; focus on four pillars: mind, body, spirit, performance.",
+  "cat": "building"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Three disease processes cause 80% of deaths post-40 (non-smokers): cardiovascular/cerebrovascular, cancer, neurodegenerative disease.",
+  "cat": "craft"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Health levers you control: when/what you eat, sleep quality/timing, exercise type/frequency, stress management, substance choices, harm avoidance.",
+  "cat": "building"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Strategy vs tactics: strategy addresses why (fundamental approach); tactics are specific actions; learn strategy first before optimizing tactics.",
+  "cat": "craft"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Follow bliss over financial opportunity; compounding over 20 years shows more wealth through meaning than optimization for money.",
+  "cat": "life"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Flow states emerge from mastery pursuit; most alive during periods of intense learning, not comfort or happiness.",
+  "cat": "life"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Medical education trains doctors on disease treatment, not behavioral/lifestyle-based longevity prevention; gap in training.",
+  "cat": "craft"
+ },
+ {
+  "slug": "attia-how-to-live-a-longer-higher-quality-life",
+  "guest": "Peter Attia, M.D.",
+  "date": "2017-03-07",
+  "title": "How to Live a Longer, Higher Quality Life",
+  "t": "Centenarians reveal patterns: purpose beyond self, strong social connections, and continuous engagement matter for long-lived quality.",
+  "cat": "craft"
+ },
+ {
   "slug": "beshore-cultivating-a-disaster-resistant-compound-interest-machine",
   "guest": "Brent Beshore",
   "date": "2016-11-08",
@@ -122,6 +202,86 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Small businesses rarely outgrow founder-driven moats; true competitive advantage must be independent of the founder's skills.",
+  "cat": "building"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Diligence on private companies requires dismissing sell-side projections and focusing on historical trajectory and business fundamentals.",
+  "cat": "investing"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Geographic dominance and high capital intensity create defensible moats in regional small businesses that prevent new entrants.",
+  "cat": "investing"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Most moats are discovered through trial and error over time, not planned ahead; stumbling into them is more common than building them.",
+  "cat": "building"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Growth in acquired businesses comes from helping operators stay focused and running continuous process improvements, not aggressive cost-cutting.",
+  "cat": "building"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Traditional PE plays synergy = eliminating people; long-term focused operators create value by enabling people to flourish.",
+  "cat": "investing"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Venture capital is a brutal business; first-time fund managers must deliver massive returns or they'll never raise again.",
+  "cat": "investing"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Taking venture capital forces founders onto an all-or-nothing trajectory; many bootstrapped businesses would succeed better without VC pressure.",
+  "cat": "building"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Personal brand only works long-term if built on substance; content marketing without real execution creates hollow facades that erode.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "beshore-private-equity-venture-capital-and-the-future-of-money-management",
+  "guest": "Brent Beshore",
+  "date": "2017-01-31",
+  "title": "Private Equity, Venture Capital, and the Future of Money Management",
+  "t": "Trust is alignment of realistic expectations met consistently over time; brand is the distribution of outcomes people can expect from you.",
+  "cat": "leadership"
+ },
+ {
   "slug": "brown-the-reformation",
   "guest": "Josh Brown",
   "date": "2016-12-06",
@@ -183,6 +343,102 @@ export const WISDOM: any[] = [
   "date": "2016-12-06",
   "title": "The Reformation",
   "t": "Standardize process, customize advice. Technology is like TurboTax—doesn't replace accountants, multiplies them. Scales advising, frees capacity for better counsel.",
+  "cat": "craft"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "An intelligent fanatic is someone who has a deep interest in and knowledge of their domain; they invest in what they know obsessively.",
+  "cat": "investing"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "Microcap investing requires studying business history and how great CEOs communicated during their formative years.",
+  "cat": "investing"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "Look for microcap CEOs who obsess over efficiency metrics: SG&A as percentage of revenue, revenue per employee, profit per employee.",
+  "cat": "investing"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "Most market inefficiencies in tiny stocks exist because large investors cannot own them; this creates opportunity for small-cap specialists.",
+  "cat": "investing"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "Historical study of great businesses when young reveals patterns: they discuss per-share metrics and productivity obsessively.",
+  "cat": "investing"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "Building genuine intellectual relationships with other investors accelerates your learning and expands your investment mindset.",
+  "cat": "life"
+ },
+ {
+  "slug": "cassel-investing-in-tiny-stocks",
+  "guest": "Ian Cassel",
+  "date": "2017-02-14",
+  "title": "Investing In Tiny Stocks",
+  "t": "Generosity with knowledge—spending hours to curate and synthesize information for someone you barely know—builds deep investor networks.",
+  "cat": "life"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "t": "Not being money-oriented and keeping relationships light and loose prevents lawsuits and conflicts.",
+  "cat": "life"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "t": "Relentlessly positive curiosity—dabbling across business domains—opens unexpected opportunities.",
+  "cat": "life"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "t": "Self-publishing required reaching out to heroes who all said yes; generosity compounds when reciprocated.",
+  "cat": "building"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "t": "Become a devil's advocate to yourself: actively seek out why you're wrong to avoid costly mistakes.",
+  "cat": "craft"
+ },
+ {
+  "slug": "chilton-the-human-blitzkrieg",
+  "guest": "Dave Chilton",
+  "date": "2017-05-30",
+  "title": "The Human Blitzkrieg",
+  "t": "Mastering the phone conversation—taking time to listen and connect—is a forgotten competitive advantage.",
   "cat": "craft"
  },
  {
@@ -250,6 +506,70 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "Which I thought was one of the most thoughtful pieces on the current state of the investing spectrum between traditional, deep fundamental work and quantitative investors.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "But really the behavioral aspect on the discretionary side is probably the most important thing right now.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "We'll get into in a little while how I think you could find really interesting advantages where it's almost a quantitative-like process with more subjective, fundamental inputs.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "And I want to come back to how you know when something stops working because it's so important.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "There's no PM override, meaning if something comes through the model, you're buying it, no matter what the PM might think about it.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "how a startup strategy or an informational edge or some weird inefficiency in the markets was first identified and then alpha extracted from it.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "what we did was we basically attempted to normalize everything and then basically Z-score the entire universe.",
+  "cat": "investing"
+ },
+ {
+  "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
+  "guest": "Leigh Drogen",
+  "date": "2017-06-13",
+  "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
+  "t": "how I think you could find really interesting advantages where it's almost a quantitative-like process with more subjective, fundamental inputs.",
+  "cat": "investing"
+ },
+ {
   "slug": "egan-designing-better-decisions",
   "guest": "Dan Egan",
   "date": "2017-01-03",
@@ -314,6 +634,62 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "Markets are highly efficient; once multiple buyers exist for anything, prices converge and alpha disappears. True alpha requires avoiding markets entirely.",
+  "cat": "investing"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "The world's non-traded asset base dwarfs traded assets, yet receives almost no institutional attention due to the lack of visible price signals.",
+  "cat": "markets"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "Building systematic platforms is superior to asset picking. Platforms can think, learn, and expand into adjacent opportunities organically over time.",
+  "cat": "building"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "Esoteric assets lack price mechanisms because you're often the only bidder. High human capital—expertise, relationships, legal knowledge—becomes the sustainable competitive advantage.",
+  "cat": "investing"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "Most talented people default to well-trodden highways (banking, PE, VC) due to institutional pull and visibility, missing orphaned asset opportunities.",
+  "cat": "life"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "Surfacing assets into markets creates social value far exceeding investor returns. Charter School Capital enabled charter school growth across 12+ states.",
+  "cat": "building"
+ },
+ {
+  "slug": "ganti-esoteric-assets",
+  "guest": "Rishi Ganti",
+  "date": "2017-07-18",
+  "title": "Esoteric Assets",
+  "t": "Intellectual curiosity matters more than credentials. The value is in enjoying a life animated by ideas and seeing the world with fresh eyes.",
+  "cat": "life"
+ },
+ {
   "slug": "gramm-activist-investing",
   "guest": "Jeff Gramm",
   "date": "2016-09-11",
@@ -376,6 +752,86 @@ export const WISDOM: any[] = [
   "title": "Activist Investing",
   "t": "Microcap activism exploits information asymmetry and liquidity constraints of concentrated shareholders willing to exit at any price.",
   "cat": "investing"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Permanent equity returns come from ongoing cash flows, not 3-5 year exits—franchise durability over 15-20 years is the key filter.",
+  "cat": "investing"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Spending hours in a seller's living room understanding hopes and dreams creates trust that financial acumen alone cannot achieve.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "The interpersonal and HR dimension of small business ownership is far more demanding than anticipated—managing people is your biggest lever.",
+  "cat": "building"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Small business multiples (4x EBITDA) mean earning 25% returns by keeping the ship straight, not heroic growth—this differential is what attracted us.",
+  "cat": "investing"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Earning the right to take risk means building a diversified portfolio with capital discipline first, then opportunistic bets later.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "First acquisition teaches humility: infrastructure basics (servers, email capacity, org charts) matter far more than grand ERP systems.",
+  "cat": "building"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Geography and location are durable moats—a bait shop at a fishing spot's end earns above-market returns simply by being the only option.",
+  "cat": "investing"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Centralized shared services expertise (HR, finance, tech) across portfolio companies allows cost-effective scaling without breaking individual businesses.",
+  "cat": "building"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Fee structures should align incentives: minimal management fees, compensation primarily via carry, so manager succeeds when LPs succeed.",
+  "cat": "markets"
+ },
+ {
+  "slug": "higgins-permanent-equity",
+  "guest": "Trish & James Higgins",
+  "date": "2017-03-14",
+  "title": "Permanent Equity",
+  "t": "Living in a small town (Portland, Maine) is a competitive advantage—lower cost of living means lower hurdle rate for returns and talent attraction.",
+  "cat": "life"
  },
  {
   "slug": "housel-walking-and-thinking",
@@ -456,6 +912,134 @@ export const WISDOM: any[] = [
   "title": "Walking and Thinking",
   "t": "Great investors become more humble over time. At 22, you think you've got it figured out. Decades later you know you don't.",
   "cat": "life"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "So let's talk a little bit about the hedge fund to fund business at a high level, because it's something we've only really explored once, maybe twice before.",
+  "cat": "investing"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "Talk a little bit about the role of evaluating hedge funds.",
+  "cat": "building"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "I'll mention this kind of slight nuance to maybe color your answer on how you then evaluated the funds.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "We'll mention the incredible rise of quantitative strategies across the investing landscape.",
+  "cat": "life"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "That last point is so key, the need for repeatability and a process.",
+  "cat": "markets"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "So I want to do a couple of questions, which are sort of a holistic look back at this whole era.",
+  "cat": "craft"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "Then the second look back is, thinking now about the industry itself, and maybe this is less of a look back and more of a look forward, at the potential for adding value in this space.",
+  "cat": "investing"
+ },
+ {
+  "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
+  "guest": "week is Khe Hy",
+  "date": "2017-04-04",
+  "title": "Quant Hedge Funds and the Fear of Death",
+  "t": "So we've referred now to, we get to the surprising part may be of this, which will be the remainder of our conversation.",
+  "cat": "building"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "Obviously you're working hard for your family, that's the genesis of this whole thing as you said earlier and that's really what matters.",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "Meaning, you're protected because you've done business with someone big, someone important.",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "What it is, what the business is, how the economics work, how you earn fees, how you a business, earn fees.",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "what a bail bondsman is in the terms of the court, I basically put up a bond to secure the defendant's appearance in court.",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "what separates, in my opinion, me from a lot of other people because I get invested in my people, because number one I want them to feel like if you hurt me and you wrong me .",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "how I was able to pass the state exam and get my license, and totally supported me to no extent.",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "how to deal with it and understands how to raise our children and knows how to do the right thing.",
+  "cat": "investing"
+ },
+ {
+  "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
+  "guest": "Ira Judelson",
+  "date": "2017-06-06",
+  "title": "Bail Street, with NYC's Leading Bail Bondsman",
+  "t": "Why do you have the market share you do in the New York area, probably the most, I imagine, the most competitive bail bonds scene in the world.",
+  "cat": "investing"
  },
  {
   "slug": "koppelman-chasing-curiosity",
@@ -602,6 +1186,78 @@ export const WISDOM: any[] = [
   "cat": "craft"
  },
  {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Independence, thrift, and self-reliance are the core values that should guide both individuals and organizations.",
+  "cat": "life"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Start with a product that solves a real problem for yourself first; if you need it, others probably do too.",
+  "cat": "building"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Invest heavily in the customer experience and the quality of your product; this builds durable competitive advantage.",
+  "cat": "building"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "A strong brand and reputation are built through consistent, transparent provision of value over time—they cannot be rushed.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Focus on capital allocation discipline: return excess cash to shareholders when there are no high-return internal investments.",
+  "cat": "investing"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Hiring requires looking beyond resumes; assess how people think, their integrity, and cultural fit with your mission.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Growth through acquisition can be destructive if the acquired company culture doesn't align with your core values.",
+  "cat": "building"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Learn to say no to opportunities that don't align with your core business or strategy, even if they seem attractive.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "mansueto-lessons-from-the-founder-of-morningstar",
+  "guest": "Joe Mansueto",
+  "date": "2017-02-07",
+  "title": "Lessons From the Founder of Morningstar",
+  "t": "Simplicity in business design and focus on core competencies is more valuable than complexity and diversification.",
+  "cat": "building"
+ },
+ {
   "slug": "mauboussin-active-asset-management",
   "guest": "Michael Mauboussin",
   "date": "2016-09-20",
@@ -664,6 +1320,550 @@ export const WISDOM: any[] = [
   "title": "Active Asset Management",
   "t": "Float-generating businesses offer compounding advantage: guaranteed capital source to deploy without asking clients, as Berkshire Hathaway exemplifies.",
   "cat": "investing"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "Markets must be efficiently inefficient—enough inefficiency to reward information-gathering, but not so much that free money litters the ground.",
+  "cat": "markets"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "Active managers' advantage shrinks as uninformed investors leave the market, leaving only smart competitors.",
+  "cat": "investing"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "The behavioral gap (120 bps annually) costs investors twice as much as fee differentials between active and passive.",
+  "cat": "investing"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "US IPO count has halved since 1996 despite 3x GDP growth, shifting wealth creation to private markets where most people can't invest.",
+  "cat": "markets"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "Base rates and the outside view temper overconfident forecasts—even Amazon's historical projections showed near-zero precedent for 15% growth.",
+  "cat": "investing"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "Shrinkage factors reveal regression-to-mean rates: consumer staples regress slowly (0.9), but market returns show zero correlation year-to-year.",
+  "cat": "investing"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "Man + machine beats either alone: combine your inside-view model with base-rate outside views for better forecasts.",
+  "cat": "craft"
+ },
+ {
+  "slug": "mauboussin-man-machine-moats-and-power-of-the-outside-view",
+  "guest": "Michael Mauboussin",
+  "date": "2017-05-16",
+  "title": "Man + Machine, Moats, and Power of the Outside View",
+  "t": "ETF indexing creates structural distortions: forced buying at thresholds, reduced sector dispersion for active managers, fragile liquidity in downturns.",
+  "cat": "markets"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Platform business models reduce transaction costs by separating supply/demand roles; the value lies in the ecosystem, not the software.",
+  "cat": "building"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Network effects take 10+ years to create modern monopolies; critical mass is when joining cost < value received.",
+  "cat": "markets"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Overcome the chicken-and-egg problem via three subsidy types: monetary (referrals), product features (free software), or psychic rewards (status).",
+  "cat": "building"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Complex systems that work always result from simple systems scaled, not from big designs dropped in all at once.",
+  "cat": "building"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Modern monopolies harm consumers less than linear monopolies because competitors (iOS/Android, Uber/Lyft) exploit any overreach.",
+  "cat": "markets"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Asset-light platforms without inventory create superior unit economics and defensibility vs. capital-intensive linear models.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Fragmented industries with duplicated SG&A costs across small providers are ideal for platform disruption.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Alibaba beat eBay in China by prioritizing transaction volume over transaction fees, then monetizing via advertising.",
+  "cat": "building"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Development platforms (iOS, Android) with high developer switching costs are more defensible than marketplace platforms.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moazed-building-modern-monopolies",
+  "guest": "Alex Moazed",
+  "date": "2017-02-21",
+  "title": "Building Modern Monopolies",
+  "t": "Early platform growth requires manual, unscalable work; focus on honing the core transaction, not automation.",
+  "cat": "building"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Out-of-the-box thinking beats credentials. Hire hungry people, not smart people with false confidence.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Integrity and reading people matter more than pure intellect in investing. Understand what drives people.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Cash flow is always the most important valuation metric. Ignore accounting adjustments; follow the money.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "No trade is as good as it appears. Leverage always buries you eventually when the thesis goes wrong.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Specialty finance (non-deposit lenders) show cracks faster because they depend on securitization markets for funding.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "When ETFs drive stock selection over fundamentals, the market becomes non-fundamental. This doesn't end well.",
+  "cat": "markets"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Sell-side research is now compromised by access-to-management quid pro quo, not fundamental analysis.",
+  "cat": "markets"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Finding the mismatch—like equity traders unaware of credit-side selling—reveals dislocations worth trading.",
+  "cat": "craft"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "Non-GAAP reporting hides true earnings. When companies move from non-GAAP to GAAP, stocks often repriced sharply lower.",
+  "cat": "investing"
+ },
+ {
+  "slug": "moses-the-big-short-and-beyond",
+  "guest": "Danny Moses",
+  "date": "2017-04-25",
+  "title": "The Big Short and Beyond",
+  "t": "People behave the same regardless of product (tulips, tech, mortgages). Bubbles repeat because psychology repeats.",
+  "cat": "life"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Most venture returns come from fat-tail outliers; power laws cluster around alpha 1.95, hovering at chaos boundary.",
+  "cat": "investing"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Risk is predictable and insurable; uncertainty is where probability distribution is unknown—this is where alpha lives.",
+  "cat": "investing"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Financial capital funds innovation's thrilling phase; production capital dominates stable deployment phases; cycles alternate inexorably.",
+  "cat": "markets"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "In deployment ages, incumbents dominate because society backs technological systems as wholes, not individual innovations.",
+  "cat": "markets"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Complementary assets determine value capture: non-generic suppliers control the chain; generic assets commoditize and transfer value elsewhere.",
+  "cat": "building"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Portfolio concentration should maximize picks until diluting alpha; mathematically, more picks = higher maximum returns with infinite-mean distributions.",
+  "cat": "investing"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Great VCs maintain conscious humility and rationality, testing hypotheses methodically rather than applying unconscious archetypes.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Friends and family investments only make sense if supporting a friend, not maximizing returns; most people intuit what will succeed terribly.",
+  "cat": "life"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Long-term thinking (20-50 years) exceeds institutional patience; venture capital remains a cottage industry where one person owns the full arc.",
+  "cat": "building"
+ },
+ {
+  "slug": "neumann-the-deployment-age-power-laws-and-venture-capital",
+  "guest": "Jerry Neumann",
+  "date": "2017-07-11",
+  "title": "The Deployment Age, Power Laws, and Venture Capital",
+  "t": "Augmented reality has more startup opportunity than VR: AR enables specialized niches without standardized hardware, avoiding commodity competition.",
+  "cat": "investing"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Seek to learn that which cannot be taught; pursue learning in areas without established playbooks or manuals.",
+  "cat": "building"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Business is fundamentally creative, not competitive; design thinking starts with understanding problems, not prescribing solutions.",
+  "cat": "building"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Build emotional connection and trust before presenting rational features; relationships are prerequisites for persuasive communication.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Culture is values and shared purpose codified intentionally, not perks; it's free but requires relentless leadership commitment.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "The best long-term investment is helping others without immediate expectation of return; karma creates unexpected positive outcomes.",
+  "cat": "life"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Stakeholder capitalism creates durable growth; when people buy your product, they're making a statement about who they want to be.",
+  "cat": "investing"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Kaizen (continuous improvement) means always asking what's working and what's not; everything is a work in progress.",
+  "cat": "building"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Find contrarian opportunities in ordinary, overlooked markets; avoid crowded trades by disrupting categories others ignore.",
+  "cat": "investing"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Surrender ego to build great culture; train your team to be clergy, not just followers of your vision.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "norton-seek-to-learn-that-which-cannot-be-taught",
+  "guest": "Scott Norton",
+  "date": "2017-06-27",
+  "title": "Seek to Learn That Which Cannot be Taught",
+  "t": "Getting comfortable with the unknown (temple of Poseidon moment) is essential; most good outcomes are unplanned and require fear navigation.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Premeditation works: envision outcomes in detail, think through obstacles you haven't consciously considered, then execute the plan consistently.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Emotional mastery beats data in investing. All investors have same data; discipline to stick with strategy when losing is the real edge.",
+  "cat": "investing"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "We run 21st century software on 50,000-year-old hardware (our brains). Remove emotion via quantitative discipline; that's sustainable advantage.",
+  "cat": "investing"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Simple strategies (buy low P/E stocks, high dividend yield) beat sophisticated analysis because humans abandon them during drawdowns.",
+  "cat": "investing"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Hire adults; empower them with trust and freedom. Rules and oversight drive talented people away; consistency matters more than control.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Reputation takes 20 years to build, hours to destroy. In Wall Street, everything is trust—your word is your bond, your career.",
+  "cat": "markets"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Long time horizons (10+ years) eliminate most noise. 3-year performance data is mostly noise; regressing managers get replaced by worse ones.",
+  "cat": "investing"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "The biggest mistake was turning down Netfolio's exit offer in 1999; hubris made me think IPO purity was better than certain cash.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Your subconscious processes 95% of brain energy. Priming goals gets noticed by your brain; what others call luck is prepared awareness.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-premeditated-success",
+  "guest": "Jim O'Shaughnessy",
+  "date": "2017-03-21",
+  "title": "Premeditated Success",
+  "t": "Communication and people management are cultivated skills—reading deeply (Drucker, Zinsser, Carnegie) made me far better than innate talent alone.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Conversation is more efficient than books for learning; it's interactive and flows in unexpected directions.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "In conversations, minimize ego and talking about yourself; the less ego-time means more learning time.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Preparation and careful listening create momentum; anticipate where a guest wants to go and open doors.",
+  "cat": "craft"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Quality attracts quality; better guests attract smarter listeners, creating a virtuous cycle of improvement.",
+  "cat": "building"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Operate at your own level and don't simplify; complex, deep content attracts smarter, more engaged audiences.",
+  "cat": "building"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Avoid colonized topics already thoroughly covered; write the playbook instead of reading someone else's.",
+  "cat": "investing"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Be a generalist; latticework of mental models across diverse fields provides keys to unlocking people.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Amplify what works rather than fixing weaknesses; unexpected successes yield the biggest payoffs.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "When the process is the goal, magical things happen; don't expect specific returns, just good experiences.",
+  "cat": "life"
+ },
+ {
+  "slug": "oshaughnessy-ten-lessons-after-almost-a-year-of-podcasting",
+  "guest": "Patrick O'Shaughnessy (solo episode)",
+  "date": "2017-07-05",
+  "title": "Ten Lessons After Almost a Year of Podcasting",
+  "t": "Give back without expecting immediate return; this creates asymmetric upside like call options.",
+  "cat": "life"
  },
  {
   "slug": "parrish-mastering-mental-models",
@@ -791,6 +1991,150 @@ export const WISDOM: any[] = [
   "date": "2016-12-20",
   "title": "The Prospects for Active Management",
   "t": "Performance-based fees, not asset-based, align long-term incentives. Hedge funds get this right despite high fees—should apply discipline to mutual funds.",
+  "cat": "markets"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what has made Benchmark Capital so successful, which started with how the founders thought about their competition.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what I understand originally, it was five partners and it was sort of an equal partnership.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what most people don't realize is you don't make money if you're right and consensus, all those returns get arbitraged away.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what could be big, because if something can be big, that sort of swamps everything else in the venture.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what the company was, what it did, why it appealed to you, kind of what the criteria were that seemed attractive and kind of briefly summarize the story.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what those ideas mean along with the innovator's dilemma, which maybe our King Alabbar was a good example of to bridge into Wealthfront.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "how one would apply that methodology to, in effect, finding the product market fit.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rachleff-building-something-people-want-to-buy",
+  "guest": "Andy Rachleff",
+  "date": "2017-06-20",
+  "title": "Building Something People Want to Buy",
+  "t": "what they came up with was a methodology by which you would first test a value hypothesis and then a growth hypothesis.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Three basketball principles transfer to investing: prioritize team over self, execute every action with precision, concentrate fully on every moment.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Long-term investing edge comes from patience and resisting recency effects; most miss opportunities by getting caught in noise of the moment.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Capital allocation quality—acquisitions, leverage, buybacks—predicts long-term returns better than operational metrics alone.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Post-mortems on failed investments are essential discipline; understand what you missed to avoid repeating the same mistakes.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Management quality: distinguish builders from empire-builders; those making acquisitions just to grow vs. those investing within competence.",
+  "cat": "investing"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Brand creates moats, but moats can disappear overnight (Blockbuster, Blackberry); vision is required to predict which brands persist.",
+  "cat": "building"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Contrarian thinking and vision are difficult to teach; these qualities are born in you and shaped early; hire for culture fit first.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Talent retention requires giving real responsibility and freedom; let people own projects and make decisions without micromanaging.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Build institutional relationships with schools early (high school, college, grad school) to identify talent consistently and develop culture.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "rogers-slow-and-steady-wins-the-race",
+  "guest": "John Rogers",
+  "date": "2017-02-28",
+  "title": "Slow and Steady Wins the Race",
+  "t": "Passive indexing creates opportunities for active value investors by allowing stocks to trade on technical factors rather than fundamentals.",
   "cat": "markets"
  },
  {
@@ -954,6 +2298,46 @@ export const WISDOM: any[] = [
   "cat": "markets"
  },
  {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "t": "Asset allocation is not primarily about math; it's about human incentives and behavior.",
+  "cat": "investing"
+ },
+ {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "t": "Fear of missing out drives asset managers to chase returns, destabilizing their portfolios.",
+  "cat": "behavior"
+ },
+ {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "t": "The Yale Endowment model's success created excessive imitation and hidden fees that offset returns.",
+  "cat": "markets"
+ },
+ {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "t": "Holistic investing means understanding first principles rather than following fads or peer institutions.",
+  "cat": "investing"
+ },
+ {
+  "slug": "salem-the-art-of-asset-allocation",
+  "guest": "David Salem",
+  "date": "2017-05-23",
+  "title": "The Art of Asset Allocation",
+  "t": "Kindness compounds quietly: a mentor's written critiques shaped career-long clarity in thinking.",
+  "cat": "life"
+ },
+ {
   "slug": "seides-a-deep-dive-into-hedge-funds",
   "guest": "Ted Seides",
   "date": "2016-10-25",
@@ -1016,6 +2400,158 @@ export const WISDOM: any[] = [
   "title": "A Deep Dive into Hedge Funds",
   "t": "Established funds face rational economic barriers to adopting better fee structures; inertia in business model is powerful.",
   "cat": "markets"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "High fees matter, but comparing hedge funds to S&P 500 is apples-to-oranges. Hedge funds are 50% market-neutral while S&P is 100% long.",
+  "cat": "investing"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Valuation drives long-term returns. The S&P was expensive at the start of the bet (high Shiller P/E), but it still won due to exceptional 10-year performance.",
+  "cat": "investing"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Active management is cyclical. When flows drive into passive (S&P 500), even great managers like Berkshire struggle to outperform.",
+  "cat": "markets"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Dollar-weighted returns (actual investor experience) diverge from time-weighted returns (index performance) due to behavioral trading around volatility.",
+  "cat": "life"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Permanent capital structures enable better capital allocation decisions—you can make sacrifices in the near term for longer-term profits.",
+  "cat": "building"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Allocator edge matters more than asset size. Without the skill to pick winners in alternatives, don't play. CalPERS is a cautionary tale.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Rebalancing discipline—buying low, selling high—within a structured asset allocation framework adds meaningful value over time.",
+  "cat": "investing"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "Hedge funds can justify fees if they provide uncorrelated returns and lower volatility during drawdowns, not just absolute returns.",
+  "cat": "investing"
+ },
+ {
+  "slug": "seides-the-bet-with-buffett",
+  "guest": "Ted Seides",
+  "date": "2017-05-02",
+  "title": "The Bet With Buffett",
+  "t": "The S&P 500 is a hidden active bet—it's a small % of world assets. Choosing it assumes US outperformance, not passive investing.",
+  "cat": "markets"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "The price component of markets has run away from fundamentals. 30x multiples with paltry earnings yields create risk-return mismatches.",
+  "cat": "markets"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Everyone chasing S&P 500 performance today—top performers become obvious buys, but extrapolating past returns is the definition of performance chasing.",
+  "cat": "markets"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Aggregate active management underperforms passive due to fees and behavioral drift, despite some genuine skill existing—identifying skill ahead of time is nearly impossible.",
+  "cat": "markets"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Duration of capital and long-term incentive alignment are more important than fees. Capital that sticks through drawdowns enables alpha generation.",
+  "cat": "investing"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Hygiene alpha: maximize strategic costs (growth-driving), cut non-strategic costs to bone. Most small businesses fail because they won't do basics.",
+  "cat": "building"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Industry dissection matters more than stock picking. Understand change velocity, key drivers, economics by industry—competitive advantage is localized.",
+  "cat": "investing"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Intuition is finely tuned subconscious pattern matching, not magic. Deep expertise in a domain creates reliable intuitive judgment.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Compounding works in non-financial contexts too: health, knowledge, relationships. Small consistent daily actions compound to non-linear life outcomes.",
+  "cat": "life"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Don't build systems unless necessary. If you must, keep simple and let them evolve from simple roots—complexity introduced early breaks.",
+  "cat": "building"
+ },
+ {
+  "slug": "seides-the-future-of-asset-management",
+  "guest": "Ted Seides & Brent Beshore",
+  "date": "2017-03-28",
+  "title": "The Future of Asset Management",
+  "t": "Allocators face career risk by overpaying for active. They must understand underlying return fundamentals, not just past performance.",
+  "cat": "life"
  },
  {
   "slug": "shapiro-better-for-you-better-for-the-world",
@@ -1256,6 +2792,214 @@ export const WISDOM: any[] = [
   "title": "The State of Automated Investing",
   "t": "The future of financial advice is invisible; your kids won't think about IRA types or contribution limits any more than you think about state capitals.",
   "cat": "life"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "The best CEOs were first-time operators, often with engineering/math backgrounds, not charismatic visionaries. They were analytical, flexible, and opportunistic.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Dividends are tax-inefficient. Smart allocators avoid them or pay special one-time dividends timed to tax events—never the systematic quarterly treadmill.",
+  "cat": "investing"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Large buybacks timed to market lows (not systematic programs) signal deep conviction and align incentives. Singleton repurchased 90% of shares outstanding at high-single-digit P/Es.",
+  "cat": "investing"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Hurdle rates must be enforced through rigorous auditing and accountability systems. Easy to propose projects that hit the rate; hard to enforce discipline retroactively.",
+  "cat": "building"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Acquisitions work when you know precisely which costs to cut (usually headcount/synergies) and can prove the math beforehand. Murphy's Capital Cities did this systematically.",
+  "cat": "building"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Leverage should be calibrated to business fundamentals and clearly communicated to markets. Malone ran TCI at 4x cash flow consistently—not reckless, not timid.",
+  "cat": "investing"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Highly decentralized operations with thin corporate HQ + strong COO oversight creates accountability and frees the CEO for capital allocation decisions.",
+  "cat": "building"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Avoid quarterly earnings treadmill and investor relations noise. These CEOs disdained IR, freeing time for actual value creation. Public companies should do the same.",
+  "cat": "life"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "Permanent capital structures (holding companies, evergreens) enable longer-term capital allocation and acquisition timing without forced exit dates.",
+  "cat": "investing"
+ },
+ {
+  "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
+  "guest": "Will Thorndike",
+  "date": "2017-05-09",
+  "title": "How Skilled Capital Allocators Compound Capital",
+  "t": "In search funds, returns are concentrated in top quartile outcomes. Economic criteria (recurring revenue, 2x GDP growth, 20%+ ROIC) have tightened in recent years but returns remain strong.",
+  "cat": "investing"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "This week's episode is the most unique to date.",
+  "cat": "investing"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "A little bit different experience than my Saturdays going to a soccer game or something like that.",
+  "cat": "building"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "Yeah, and it lays a nice foundation for sort of where the psychology of my work has gone.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "Can you touch on the concept of ubuntu and use that a bridge into discussing your thoughts on the village, both literal and metaphorical?",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "I'm sure this is going to be very hard to answer and I'm not asking for a formula, because obviously, I know there isn't a formula for this.",
+  "cat": "markets"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "Okay, yeah, that will be a fun jump-off point.",
+  "cat": "craft"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "Could we go back a bit to your early experiences with tracking?",
+  "cat": "investing"
+ },
+ {
+  "slug": "varty-the-art-of-tracking",
+  "guest": "Boyd Varty",
+  "date": "2017-04-11",
+  "title": "The Art of Tracking",
+  "t": "Yeah, I mean, tracking is really the thing that has become central to me now.",
+  "cat": "building"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "In this episode, I continue to pull on one of the most interesting threads that I have uncovered in the course of producing this podcast, the world of permanent equity.",
+  "cat": "investing"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "Royce and Rick, thank you very much for taking the time with me today to discuss a topic that is still relatively new to me, probably discovered it just three, four months ago.",
+  "cat": "building"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "Rick and I see investors doing just one deal.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "Could you give me a sense of the scale of this?",
+  "cat": "life"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "Well, I think we can fairly say that we're the largest because the school is the largest.",
+  "cat": "markets"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "So there's an interesting cycle that goes on here that hangs together.",
+  "cat": "craft"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "Whenever anyone hears returns a 25% EBITDA yield, that always makes me think okay, how is Wall Street going to muscle its way into this and compete for those returns down?",
+  "cat": "investing"
+ },
+ {
+  "slug": "yudkoff-really-private-equity",
+  "guest": "Royce Yudkoff & Rick Ruback",
+  "date": "2017-04-18",
+  "title": "REALLY Private Equity",
+  "t": "There are some specialized private equity funds that have entered the space, they're quite small.",
+  "cat": "building"
  },
  {
   "slug": "zweig-the-power-of-serendipity",
