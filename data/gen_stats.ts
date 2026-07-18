@@ -8,5 +8,5 @@ export const STATS: any = {
  "repeatGuests": 32,
  "firstDate": "2016-09-11",
  "lastDate": "2026-07-14",
- "analyzedCount": 85
+ "analyzedCount": 140
 };
