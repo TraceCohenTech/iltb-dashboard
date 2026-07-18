@@ -1,10 +1,8 @@
 import { STATS } from "@/data/gen_stats";
-import { THEME_BY_YEAR } from "@/data/gen_themes_year";
 import { RISING } from "@/data/gen_rising";
 import { LEADERBOARD } from "@/data/gen_leaderboard";
-import { TYPE_DIST } from "@/data/gen_types";
 import { Nav } from "@/components/Nav";
-import { Section, Card, Takeaway, Stat } from "@/components/UI";
+import { Section, Card, Takeaway } from "@/components/UI";
 import {
   YearChart, DurationChart, PublishHeatmap, GuestTypeChart, GuestTypeEvolution,
   MindsLeaderboard, RepeatGuestsChart, ThemeChart, ThemeEvolution, CompaniesChart, RisingChart,
@@ -12,13 +10,9 @@ import {
 import { FeaturedQuotes, Lessons, WisdomLedger, KindnessWall } from "@/components/Content";
 import { EpisodeLedger } from "@/components/EpisodeLedger";
 
-// derive a couple of headline numbers for takeaways
-const aiRow = THEME_BY_YEAR.rows;
-const aiFirst = aiRow[0]?.["AI & Machine Learning"] ?? 0;
-const aiLast = aiRow[aiRow.length - 1]?.["AI & Machine Learning"] ?? 0;
+// headline numbers for takeaways — all sourced from generated STATS
 const topRiser = RISING.up[0];
 const topMind = LEADERBOARD[0];
-const topType = TYPE_DIST[0];
 
 export default function Page() {
   const s = STATS;
@@ -78,8 +72,8 @@ export default function Page() {
           </div>
           <div className="mt-5"><Card title="When episodes ship" hint="Month-by-month publishing intensity"><PublishHeatmap /></Card></div>
           <Takeaway>
-            episodes have stretched from a tight ~{aiRow.length ? "60" : "60"}-minute interview toward {s.medianMins}-minute-plus deep
-            dives — the format shifted from quick hits to long, open-ended conversations as the audience grew.
+            episodes stretched from a ~{s.firstYearMed}-minute median in {s.firstYear} to ~{s.lastYearMed} minutes in {s.lastYear} —
+            the format shifted from quick hits toward long, open-ended conversations as the show matured.
           </Takeaway>
         </Section>
 
@@ -92,7 +86,7 @@ export default function Page() {
             <Card title="Guest mix over time" hint="Share of each year by guest type"><GuestTypeEvolution /></Card>
           </div>
           <Takeaway>
-            {topType?.type?.toLowerCase()}s are now the single biggest group of guests — a decisive shift from the
+            {s.topGuestType} guests are now the single biggest group — a decisive shift from the
             markets-heavy early years toward the people actually building companies.
           </Takeaway>
         </Section>
@@ -121,7 +115,7 @@ export default function Page() {
           </div>
           <Takeaway>
             AI &amp; machine learning went from a rounding error to one of the biggest themes on the show —
-            roughly {aiFirst}% of topics in the first year to {aiLast}% most recently — tracking the technology&apos;s
+            roughly {s.aiFirst}% of topics in {s.firstYear} to {s.aiLast}% in {s.lastYear} — tracking the technology&apos;s
             takeover of the investing conversation.
           </Takeaway>
         </Section>
