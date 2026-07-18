@@ -2,6 +2,38 @@
 /* eslint-disable */
 export const QUOTES: any[] = [
  {
+  "slug": "a-fathers-call-to-action",
+  "guest": "Dinakar Singh",
+  "date": "2025-06-15",
+  "title": "A Father's Call To Action",
+  "q": "The single worst thing is to see your child suffer and die knowing you could have done something.",
+  "who": "Dinakar Singh"
+ },
+ {
+  "slug": "a-fathers-call-to-action",
+  "guest": "Dinakar Singh",
+  "date": "2025-06-15",
+  "title": "A Father's Call To Action",
+  "q": "For the first time in his life, his kid had developed the world's most expensive drug habit.",
+  "who": "Dinakar Singh"
+ },
+ {
+  "slug": "a-fathers-call-to-action",
+  "guest": "Dinakar Singh",
+  "date": "2025-06-15",
+  "title": "A Father's Call To Action",
+  "q": "You either find joy in the life you have or live a life without joy.",
+  "who": "Dinakar Singh"
+ },
+ {
+  "slug": "a-fathers-call-to-action",
+  "guest": "Dinakar Singh",
+  "date": "2025-06-15",
+  "title": "A Father's Call To Action",
+  "q": "There's nothing more powerful than just compassion from friends and strangers.",
+  "who": "Dinakar Singh"
+ },
+ {
   "slug": "adams-an-internal-locus-of-control",
   "guest": "Kiley Adams",
   "date": "2016-10-28",
@@ -32,6 +64,38 @@ export const QUOTES: any[] = [
   "title": "An Internal Locus of Control",
   "q": "There is no backward. You don't retreat in a battle.",
   "who": "Kiley Adams"
+ },
+ {
+  "slug": "ai-or-die",
+  "guest": "Ravi Gupta",
+  "date": "2025-02-18",
+  "title": "AI or Die",
+  "q": "Are my instructions clear? Is there anything else I can do to make it to clarify what I",
+  "who": "Guest"
+ },
+ {
+  "slug": "ai-or-die",
+  "guest": "Ravi Gupta",
+  "date": "2025-02-18",
+  "title": "AI or Die",
+  "q": "No, actually, in fact, can you please clarify these five or six things?",
+  "who": "Guest"
+ },
+ {
+  "slug": "ai-or-die",
+  "guest": "Ravi Gupta",
+  "date": "2025-02-18",
+  "title": "AI or Die",
+  "q": "Hey, what happened?",
+  "who": "Guest"
+ },
+ {
+  "slug": "ai-or-die",
+  "guest": "Ravi Gupta",
+  "date": "2025-02-18",
+  "title": "AI or Die",
+  "q": "In a decade, every person will be more capable than any person is today.",
+  "who": "Guest"
  },
  {
   "slug": "ainslie-lee-ainslie",
@@ -650,6 +714,46 @@ export const QUOTES: any[] = [
   "who": "Shane"
  },
  {
+  "slug": "becoming-a-meaning-maker",
+  "guest": "Boyd Varty",
+  "date": "2024-10-29",
+  "title": "Becoming A Meaning Maker",
+  "q": "Storytellers are meaning makers. They create context. Leadership is context creating.",
+  "who": "Boyd"
+ },
+ {
+  "slug": "becoming-a-meaning-maker",
+  "guest": "Boyd Varty",
+  "date": "2024-10-29",
+  "title": "Becoming A Meaning Maker",
+  "q": "Become someone stories happen around. Be a character who finds characters.",
+  "who": "Boyd"
+ },
+ {
+  "slug": "becoming-a-meaning-maker",
+  "guest": "Boyd Varty",
+  "date": "2024-10-29",
+  "title": "Becoming A Meaning Maker",
+  "q": "Storytelling is attention. We're so distracted most of the time.",
+  "who": "Boyd"
+ },
+ {
+  "slug": "becoming-a-meaning-maker",
+  "guest": "Boyd Varty",
+  "date": "2024-10-29",
+  "title": "Becoming A Meaning Maker",
+  "q": "If you can become really personal about what you're trying to say, the more universal it becomes.",
+  "who": "Boyd"
+ },
+ {
+  "slug": "becoming-a-meaning-maker",
+  "guest": "Boyd Varty",
+  "date": "2024-10-29",
+  "title": "Becoming A Meaning Maker",
+  "q": "A principle isn't a principle unless it costs you something.",
+  "who": "Boyd"
+ },
+ {
   "slug": "belsky-focus-on-the-first-mile",
   "guest": "Scott Belsky",
   "date": "2021-02-15",
@@ -1034,6 +1138,38 @@ export const QUOTES: any[] = [
   "who": "Orlando Bravo"
  },
  {
+  "slug": "bridging-science-medicine-and-returns",
+  "guest": "Tal Zaks",
+  "date": "2025-01-14",
+  "title": "Bridging Science, Medicine, and Returns",
+  "q": "People give us money and a number of years later we need to give them more money back, otherwise we're not going to be doing what we're doing.",
+  "who": "Tal Zaks"
+ },
+ {
+  "slug": "bridging-science-medicine-and-returns",
+  "guest": "Tal Zaks",
+  "date": "2025-01-14",
+  "title": "Bridging Science, Medicine, and Returns",
+  "q": "I'd rather fail on something big than succeed in something small.",
+  "who": "Tal Zaks"
+ },
+ {
+  "slug": "bridging-science-medicine-and-returns",
+  "guest": "Tal Zaks",
+  "date": "2025-01-14",
+  "title": "Bridging Science, Medicine, and Returns",
+  "q": "Capital follows sweat equity. The people putting their time on earth and their talents are the driver.",
+  "who": "Tal Zaks"
+ },
+ {
+  "slug": "bridging-science-medicine-and-returns",
+  "guest": "Tal Zaks",
+  "date": "2025-01-14",
+  "title": "Bridging Science, Medicine, and Returns",
+  "q": "It will always be harder than what we anticipate when we make the investment.",
+  "who": "Tal Zaks"
+ },
+ {
   "slug": "brown-the-reformation",
   "guest": "Josh Brown",
   "date": "2016-12-06",
@@ -1176,6 +1312,246 @@ export const QUOTES: any[] = [
   "title": "Find Your X, Nurture Your N",
   "q": "That's good because I know next time I think about that...",
   "who": "Rick"
+ },
+ {
+  "slug": "building-alphasense",
+  "guest": "Jack Kokko",
+  "date": "2024-12-31",
+  "title": "Building AlphaSense",
+  "q": "If you're an investor or analyst, you better not hang your hat on just finding and synthesizing information.",
+  "who": "Patrick"
+ },
+ {
+  "slug": "building-alphasense",
+  "guest": "Jack Kokko",
+  "date": "2024-12-31",
+  "title": "Building AlphaSense",
+  "q": "We wanted to build a semantic search engine that reads documents like a human analyst and connects billions of data points.",
+  "who": "Jack Kokko"
+ },
+ {
+  "slug": "building-captions",
+  "guest": "Dwight Churchill & Gaurav Misra",
+  "date": "2025-01-07",
+  "title": "Building Captions",
+  "q": "The larger we make models, the more problems they solve—but what really matters is the data.",
+  "who": "Gaurav Misra"
+ },
+ {
+  "slug": "building-captions",
+  "guest": "Dwight Churchill & Gaurav Misra",
+  "date": "2025-01-07",
+  "title": "Building Captions",
+  "q": "High margins at early stage sound like attack vectors for competitors. You should be wary of that.",
+  "who": "Dwight Churchill"
+ },
+ {
+  "slug": "building-captions",
+  "guest": "Dwight Churchill & Gaurav Misra",
+  "date": "2025-01-07",
+  "title": "Building Captions",
+  "q": "Great product intuition: seeing what nobody else sees and knowing it will work despite all objections.",
+  "who": "Gaurav Misra"
+ },
+ {
+  "slug": "building-cognition",
+  "guest": "Scott Wu",
+  "date": "2024-12-17",
+  "title": "Building Cognition",
+  "q": "We got started actually just around one year ago, and we are focused on building AI to automate software engineering.",
+  "who": "guest"
+ },
+ {
+  "slug": "building-cognition",
+  "guest": "Scott Wu",
+  "date": "2024-12-17",
+  "title": "Building Cognition",
+  "q": "And I think today it's very much an entry-level junior engineer.",
+  "who": "guest"
+ },
+ {
+  "slug": "building-cognition",
+  "guest": "Scott Wu",
+  "date": "2024-12-17",
+  "title": "Building Cognition",
+  "q": "Should I think of Devin as a singular or a plural?",
+  "who": "guest"
+ },
+ {
+  "slug": "building-cognition",
+  "guest": "Scott Wu",
+  "date": "2024-12-17",
+  "title": "Building Cognition",
+  "q": "And let's say you have five different bugs or issues or something that you're trying to work on today.",
+  "who": "guest"
+ },
+ {
+  "slug": "building-granola",
+  "guest": "Chris Pedregal",
+  "date": "2025-02-25",
+  "title": "Building Granola",
+  "q": "If you get complacent for three months, you're in trouble in this space.",
+  "who": "Chris"
+ },
+ {
+  "slug": "building-granola",
+  "guest": "Chris Pedregal",
+  "date": "2025-02-25",
+  "title": "Building Granola",
+  "q": "Tools that make us more human and better humans—that's what we're building.",
+  "who": "Chris"
+ },
+ {
+  "slug": "building-granola",
+  "guest": "Chris Pedregal",
+  "date": "2025-02-25",
+  "title": "Building Granola",
+  "q": "You should probably give it more context and see what it's going to say.",
+  "who": "Chris"
+ },
+ {
+  "slug": "building-granola",
+  "guest": "Chris Pedregal",
+  "date": "2025-02-25",
+  "title": "Building Granola",
+  "q": "The role of AI should be to make you better, not replace you.",
+  "who": "Chris"
+ },
+ {
+  "slug": "building-islands-of-innovation",
+  "guest": "Tobi Lütke",
+  "date": "2024-10-22",
+  "title": "Building Islands of Innovation",
+  "q": "I'm not building for the real world. I'm building for my own island.",
+  "who": "Tobi"
+ },
+ {
+  "slug": "building-islands-of-innovation",
+  "guest": "Tobi Lütke",
+  "date": "2024-10-22",
+  "title": "Building Islands of Innovation",
+  "q": "The most magical moment in technology is when something goes from impossible to very hard.",
+  "who": "Tobi"
+ },
+ {
+  "slug": "building-islands-of-innovation",
+  "guest": "Tobi Lütke",
+  "date": "2024-10-22",
+  "title": "Building Islands of Innovation",
+  "q": "Difference doesn't mean better. Difference just means different.",
+  "who": "Tobi"
+ },
+ {
+  "slug": "building-islands-of-innovation",
+  "guest": "Tobi Lütke",
+  "date": "2024-10-22",
+  "title": "Building Islands of Innovation",
+  "q": "A principle isn't a principle unless it costs you something.",
+  "who": "Tobi"
+ },
+ {
+  "slug": "building-islands-of-innovation",
+  "guest": "Tobi Lütke",
+  "date": "2024-10-22",
+  "title": "Building Islands of Innovation",
+  "q": "Computers are incredible and humans are awesome. I want to put these together for as many people as possible.",
+  "who": "Tobi"
+ },
+ {
+  "slug": "building-kith",
+  "guest": "Ronnie Fieg",
+  "date": "2024-12-03",
+  "title": "Building Kith",
+  "q": "Hey, it would need to make sense. There needs to be a reason why.",
+  "who": "Ronnie"
+ },
+ {
+  "slug": "building-kith",
+  "guest": "Ronnie Fieg",
+  "date": "2024-12-03",
+  "title": "Building Kith",
+  "q": "Of course. That's the only way it would work for us as well.",
+  "who": "Ronnie"
+ },
+ {
+  "slug": "building-kith",
+  "guest": "Ronnie Fieg",
+  "date": "2024-12-03",
+  "title": "Building Kith",
+  "q": "Ronnie, buy something. I want to spend money on the card.",
+  "who": "Ronnie"
+ },
+ {
+  "slug": "building-kith",
+  "guest": "Ronnie Fieg",
+  "date": "2024-12-03",
+  "title": "Building Kith",
+  "q": "Why are you holding the same shoe you're wearing? Pick something else.",
+  "who": "Ronnie"
+ },
+ {
+  "slug": "building-mschf",
+  "guest": "Gabe Whaley",
+  "date": "2024-11-26",
+  "title": "Building MSCHF",
+  "q": "Check this out.",
+  "who": "Gabe"
+ },
+ {
+  "slug": "building-mschf",
+  "guest": "Gabe Whaley",
+  "date": "2024-11-26",
+  "title": "Building MSCHF",
+  "q": "Oh, the point is going viral.",
+  "who": "Gabe"
+ },
+ {
+  "slug": "building-mschf",
+  "guest": "Gabe Whaley",
+  "date": "2024-11-26",
+  "title": "Building MSCHF",
+  "q": "Yeah, I'm cc'ing my assistant Amy. She's going to help us find a time spot.",
+  "who": "Gabe"
+ },
+ {
+  "slug": "building-mschf",
+  "guest": "Gabe Whaley",
+  "date": "2024-11-26",
+  "title": "Building MSCHF",
+  "q": " Actually, I was like, ",
+  "who": "Gabe"
+ },
+ {
+  "slug": "building-ribbit",
+  "guest": "Micky Malka",
+  "date": "2024-12-10",
+  "title": "Building Ribbit",
+  "q": "That's the hardest question I think you're going to ask me today until probably the next one.",
+  "who": "guest"
+ },
+ {
+  "slug": "building-ribbit",
+  "guest": "Micky Malka",
+  "date": "2024-12-10",
+  "title": "Building Ribbit",
+  "q": "The first were like thinking, if we're going to be rebels, what's the right structure to be a rebel?",
+  "who": "guest"
+ },
+ {
+  "slug": "building-ribbit",
+  "guest": "Micky Malka",
+  "date": "2024-12-10",
+  "title": "Building Ribbit",
+  "q": "I had started four companies, I had lived in four different countries, all of these things.",
+  "who": "guest"
+ },
+ {
+  "slug": "building-ribbit",
+  "guest": "Micky Malka",
+  "date": "2024-12-10",
+  "title": "Building Ribbit",
+  "q": "Were they really engaged in a different way?",
+  "who": "guest"
  },
  {
   "slug": "byrne-cryptopocalypse",
@@ -1440,6 +1816,38 @@ export const QUOTES: any[] = [
   "title": "Betting on Passion",
   "q": "It's a fascinating leadership style and the word bravery really stands out there.",
   "who": "Patrick"
+ },
+ {
+  "slug": "chetan-puttagunta-and-modest-proposal-capital-compute-ai-scaling",
+  "guest": "Chetan Puttagunta and Modest Proposal",
+  "date": "2024-12-06",
+  "title": "Capital, Compute & AI Scaling",
+  "q": "So throw 10x more compute at the problem and you get a step function in model performance and intelligence.",
+  "who": "guest"
+ },
+ {
+  "slug": "chetan-puttagunta-and-modest-proposal-capital-compute-ai-scaling",
+  "guest": "Chetan Puttagunta and Modest Proposal",
+  "date": "2024-12-06",
+  "title": "Capital, Compute & AI Scaling",
+  "q": "And this certainly led to incredible breakthroughs here and we saw from all of the labs really terrific models.",
+  "who": "guest"
+ },
+ {
+  "slug": "chetan-puttagunta-and-modest-proposal-capital-compute-ai-scaling",
+  "guest": "Chetan Puttagunta and Modest Proposal",
+  "date": "2024-12-06",
+  "title": "Capital, Compute & AI Scaling",
+  "q": "Everybody assumed, as you saw that line, this problem was going to really come to the forefront in 2024.",
+  "who": "guest"
+ },
+ {
+  "slug": "chetan-puttagunta-and-modest-proposal-capital-compute-ai-scaling",
+  "guest": "Chetan Puttagunta and Modest Proposal",
+  "date": "2024-12-06",
+  "title": "Capital, Compute & AI Scaling",
+  "q": "And the fact that we're doing it in a different way than just based on pre-training?",
+  "who": "guest"
  },
  {
   "slug": "chilton-the-human-blitzkrieg",
@@ -1858,6 +2266,38 @@ export const QUOTES: any[] = [
   "who": "John"
  },
  {
+  "slug": "combat-service-and-innovation",
+  "guest": "Blake Hall",
+  "date": "2025-01-28",
+  "title": "Combat, Service, and Innovation",
+  "q": "In Iraq, where the stakes were my men's life, there wasn't anything I wasn't willing to do to prepare myself.",
+  "who": "Blake Hall"
+ },
+ {
+  "slug": "combat-service-and-innovation",
+  "guest": "Blake Hall",
+  "date": "2025-01-28",
+  "title": "Combat, Service, and Innovation",
+  "q": "Leaders eat last. Always serve those at the tip of the spear before you take care of yourself.",
+  "who": "Blake Hall"
+ },
+ {
+  "slug": "combat-service-and-innovation",
+  "guest": "Blake Hall",
+  "date": "2025-01-28",
+  "title": "Combat, Service, and Innovation",
+  "q": "You're screening for linear versus conceptual thinkers. Both are needed, but in different roles.",
+  "who": "Blake Hall"
+ },
+ {
+  "slug": "combat-service-and-innovation",
+  "guest": "Blake Hall",
+  "date": "2025-01-28",
+  "title": "Combat, Service, and Innovation",
+  "q": "Time is one of the most important aspects of identity. What you knew about someone then versus what you know now shapes trust completely.",
+  "who": "Blake Hall"
+ },
+ {
   "slug": "conrad-building-a-compound-company",
   "guest": "Parker Conrad",
   "date": "2022-11-15",
@@ -1944,6 +2384,38 @@ export const QUOTES: any[] = [
   "title": "Crowdsourcing Predictive Algorithms",
   "q": "If you stake something, you're telling us you should be in the model, and what you're telling us is true.",
   "who": "Richard Craib"
+ },
+ {
+  "slug": "cybersecurity-investment-playbook",
+  "guest": "Gili Raanan",
+  "date": "2025-03-25",
+  "title": "Cybersecurity Investment Playbook",
+  "q": "The worst reason for a VC to pass is price—you'll pass on all the good companies.",
+  "who": "Gili Raanan"
+ },
+ {
+  "slug": "cybersecurity-investment-playbook",
+  "guest": "Gili Raanan",
+  "date": "2025-03-25",
+  "title": "Cybersecurity Investment Playbook",
+  "q": "I learned startup is an insanely painful journey; I should focus entirely on founder resilience.",
+  "who": "Gili Raanan"
+ },
+ {
+  "slug": "cybersecurity-investment-playbook",
+  "guest": "Gili Raanan",
+  "date": "2025-03-25",
+  "title": "Cybersecurity Investment Playbook",
+  "q": "Don't build in a vacuum; build software that people really need and use daily.",
+  "who": "Gili Raanan"
+ },
+ {
+  "slug": "cybersecurity-investment-playbook",
+  "guest": "Gili Raanan",
+  "date": "2025-03-25",
+  "title": "Cybersecurity Investment Playbook",
+  "q": "The final step with AI is giving agents control—that's the Terminator future, and it's happening now.",
+  "who": "Gili Raanan"
  },
  {
   "slug": "damodaran-making-sense-of-the-market-pt2",
@@ -2080,6 +2552,38 @@ export const QUOTES: any[] = [
   "title": "Investing in Bleeding Edge Technology",
   "q": "Cyberpunk is now.",
   "who": "Michael"
+ },
+ {
+  "slug": "designing-the-future",
+  "guest": "Dylan Field",
+  "date": "2025-01-21",
+  "title": "Designing The Future",
+  "q": "As a designer I'm not worried about AI replacing my job because a product manager can't even prompt me the right way.",
+  "who": "Dylan Field"
+ },
+ {
+  "slug": "designing-the-future",
+  "guest": "Dylan Field",
+  "date": "2025-01-21",
+  "title": "Designing The Future",
+  "q": "Make the simple things simple, the complex things possible.",
+  "who": "Dylan Field"
+ },
+ {
+  "slug": "designing-the-future",
+  "guest": "Dylan Field",
+  "date": "2025-01-21",
+  "title": "Designing The Future",
+  "q": "It's all of it—good design happens after the initial draft.",
+  "who": "Dylan Field"
+ },
+ {
+  "slug": "designing-the-future",
+  "guest": "Dylan Field",
+  "date": "2025-01-21",
+  "title": "Designing The Future",
+  "q": "You can build anything that's not violating the laws of physics given enough time. Now even the time portion is decreasing.",
+  "who": "Dylan Field"
  },
  {
   "slug": "dixon-the-future-of-tech",
@@ -2746,6 +3250,30 @@ export const QUOTES: any[] = [
   "who": "Paul"
  },
  {
+  "slug": "entrepreneurship-through-acquisition",
+  "guest": "Rick Ruback & Royce Yudkoff",
+  "date": "2025-05-13",
+  "title": "Entrepreneurship Through Acquisition",
+  "q": "The magic is in the multiples, not the revenue—what you pay versus what you can sell for.",
+  "who": "Rick Ruback or Royce Yudkoff"
+ },
+ {
+  "slug": "entrepreneurship-through-acquisition",
+  "guest": "Rick Ruback & Royce Yudkoff",
+  "date": "2025-05-13",
+  "title": "Entrepreneurship Through Acquisition",
+  "q": "Running a business teaches you things you can't learn any other way.",
+  "who": "Patrick O'Shaughnessy"
+ },
+ {
+  "slug": "entrepreneurship-through-acquisition",
+  "guest": "Rick Ruback & Royce Yudkoff",
+  "date": "2025-05-13",
+  "title": "Entrepreneurship Through Acquisition",
+  "q": "Not everybody's comfortable tying their entire wealth to one industry and running that firm.",
+  "who": "Rick Ruback or Royce Yudkoff"
+ },
+ {
   "slug": "epstein-wide-or-deep",
   "guest": "David Epstein",
   "date": "2019-05-28",
@@ -3378,6 +3906,38 @@ export const QUOTES: any[] = [
   "who": "Hamilton Helmer (quoted)"
  },
  {
+  "slug": "giving-computers-a-sense-of-smell",
+  "guest": "Alex Wiltschko",
+  "date": "2025-03-18",
+  "title": "Giving Computers A Sense Of Smell",
+  "q": "If it's easy for a person, evolution spent tons of time making it easy for us.",
+  "who": "Alex Wiltschko"
+ },
+ {
+  "slug": "giving-computers-a-sense-of-smell",
+  "guest": "Alex Wiltschko",
+  "date": "2025-03-18",
+  "title": "Giving Computers A Sense Of Smell",
+  "q": "Smell is sipping the chemical environment around us to find where there is more or less of that thing.",
+  "who": "Alex Wiltschko"
+ },
+ {
+  "slug": "giving-computers-a-sense-of-smell",
+  "guest": "Alex Wiltschko",
+  "date": "2025-03-18",
+  "title": "Giving Computers A Sense Of Smell",
+  "q": "We believe before others understand—and he lived that deeply with me to bring Osmo to life.",
+  "who": "Alex Wiltschko"
+ },
+ {
+  "slug": "giving-computers-a-sense-of-smell",
+  "guest": "Alex Wiltschko",
+  "date": "2025-03-18",
+  "title": "Giving Computers A Sense Of Smell",
+  "q": "This is an existential risk we can never remove, but we continue into the darkness regardless.",
+  "who": "Alex Wiltschko"
+ },
+ {
   "slug": "glyman-reimagining-corporate-finance",
   "guest": "Eric Glyman",
   "date": "2022-05-03",
@@ -3560,6 +4120,38 @@ export const QUOTES: any[] = [
   "title": "Relentless Application of Force",
   "q": "The kindest thing is seeing through that rough exterior and helping whatever goodness was hiding inside come out and flourish.",
   "who": "Pat Grady"
+ },
+ {
+  "slug": "graham-duncan-talent-whisperer",
+  "guest": "Graham Duncan",
+  "date": "2025-02-04",
+  "title": "Graham Duncan: Talent Whisperer",
+  "q": "Eventually you will see that in the way of the Dao, you",
+  "who": "Guest"
+ },
+ {
+  "slug": "graham-duncan-talent-whisperer",
+  "guest": "Graham Duncan",
+  "date": "2025-02-04",
+  "title": "Graham Duncan: Talent Whisperer",
+  "q": "People make money like pros and then manage it like amateurs.",
+  "who": "Guest"
+ },
+ {
+  "slug": "graham-duncan-talent-whisperer",
+  "guest": "Graham Duncan",
+  "date": "2025-02-04",
+  "title": "Graham Duncan: Talent Whisperer",
+  "q": "You guys, what the hell do you think? I knew we were at risk of losing money. You don",
+  "who": "Guest"
+ },
+ {
+  "slug": "graham-duncan-talent-whisperer",
+  "guest": "Graham Duncan",
+  "date": "2025-02-04",
+  "title": "Graham Duncan: Talent Whisperer",
+  "q": "Yeah, I can just see myself, Graham, you",
+  "who": "Guest"
  },
  {
   "slug": "graham-investing-in-overlooked-businesses",
@@ -4586,6 +5178,38 @@ export const QUOTES: any[] = [
   "who": "Morgan Housel"
  },
  {
+  "slug": "how-to-create-a-new-town",
+  "guest": "Devon Zuegel",
+  "date": "2025-03-04",
+  "title": "How To Create A New Town",
+  "q": "Why aren't there more places like Chautauqua? Why is this the only one?",
+  "who": "Devon's husband"
+ },
+ {
+  "slug": "how-to-create-a-new-town",
+  "guest": "Devon Zuegel",
+  "date": "2025-03-04",
+  "title": "How To Create A New Town",
+  "q": "It's more like tending a garden. You plant seeds and it takes time for them to grow.",
+  "who": "Devon"
+ },
+ {
+  "slug": "how-to-create-a-new-town",
+  "guest": "Devon Zuegel",
+  "date": "2025-03-04",
+  "title": "How To Create A New Town",
+  "q": "Once you take cars fully out, everything can be a lot closer together.",
+  "who": "Devon"
+ },
+ {
+  "slug": "how-to-create-a-new-town",
+  "guest": "Devon Zuegel",
+  "date": "2025-03-04",
+  "title": "How To Create A New Town",
+  "q": "It's now the obvious place because all he did was draw that circle on a map.",
+  "who": "Devon"
+ },
+ {
   "slug": "howard-box-office-business",
   "guest": "Ron Howard & Brian Grazer",
   "date": "2022-11-29",
@@ -4688,6 +5312,70 @@ export const QUOTES: any[] = [
   "title": "Quant Hedge Funds and the Fear of Death",
   "q": "We'll mention the incredible rise of quantitative strategies across the investing landscape.",
   "who": "week is Khe Hy"
+ },
+ {
+  "slug": "investing-at-lone-pine",
+  "guest": "Kelly Granat",
+  "date": "2025-03-11",
+  "title": "Investing At Lone Pine",
+  "q": "Duration is our single biggest advantage, but it's never felt more prominent than it is now.",
+  "who": "Kelly"
+ },
+ {
+  "slug": "investing-at-lone-pine",
+  "guest": "Kelly Granat",
+  "date": "2025-03-11",
+  "title": "Investing At Lone Pine",
+  "q": "Every time a stock swings 20% on earnings, it tells me you're not communicating well.",
+  "who": "Kelly"
+ },
+ {
+  "slug": "investing-at-lone-pine",
+  "guest": "Kelly Granat",
+  "date": "2025-03-11",
+  "title": "Investing At Lone Pine",
+  "q": "I kind of made a career of disagreeing with Steve; look where I'm sitting now.",
+  "who": "Kelly"
+ },
+ {
+  "slug": "investing-at-lone-pine",
+  "guest": "Kelly Granat",
+  "date": "2025-03-11",
+  "title": "Investing At Lone Pine",
+  "q": "Figure out who matters, then show up for them in all the ways that matter.",
+  "who": "Golf pro"
+ },
+ {
+  "slug": "investing-in-carvana",
+  "guest": "Cliff Sosin",
+  "date": "2025-04-29",
+  "title": "Investing in Carvana",
+  "q": "Investing is the emperor of intellectual pursuits because you need to know everything.",
+  "who": "Cliff Sosin"
+ },
+ {
+  "slug": "investing-in-carvana",
+  "guest": "Cliff Sosin",
+  "date": "2025-04-29",
+  "title": "Investing in Carvana",
+  "q": "Everyone who's tried to build this business besides Carvana has failed.",
+  "who": "Cliff Sosin"
+ },
+ {
+  "slug": "investing-in-carvana",
+  "guest": "Cliff Sosin",
+  "date": "2025-04-29",
+  "title": "Investing in Carvana",
+  "q": "The key isn't to understand everything or pick the best one. Pick a handful of things you know well.",
+  "who": "Cliff Sosin"
+ },
+ {
+  "slug": "investing-in-carvana",
+  "guest": "Cliff Sosin",
+  "date": "2025-04-29",
+  "title": "Investing in Carvana",
+  "q": "Someday people will compare Jeff Bezos to Ernie Garcia, not the other way around.",
+  "who": "Cliff Sosin"
  },
  {
   "slug": "investment-industry-paradigms",
@@ -4832,6 +5520,30 @@ export const QUOTES: any[] = [
   "title": "Think Big and Move Fast",
   "q": "I look for industries where there's synergy as you get bigger.",
   "who": "guest"
+ },
+ {
+  "slug": "jared-kushner-the-mechanic",
+  "guest": "Jared Kushner",
+  "date": "2024-12-20",
+  "title": "The Mechanic",
+  "q": "Happiness is a choice. You wake up every morning and can look at blessings or problems.",
+  "who": "Jared Kushner"
+ },
+ {
+  "slug": "jared-kushner-the-mechanic",
+  "guest": "Jared Kushner",
+  "date": "2024-12-20",
+  "title": "The Mechanic",
+  "q": "Real estate is really about reading people and their actual needs, not surface negotiating positions.",
+  "who": "Jared Kushner"
+ },
+ {
+  "slug": "jared-kushner-the-mechanic",
+  "guest": "Jared Kushner",
+  "date": "2024-12-20",
+  "title": "The Mechanic",
+  "q": "If criticism comes from people who don't know you, don't let it impact your mood or self-perception.",
+  "who": "Jared Kushner"
  },
  {
   "slug": "jett-investing-in-e-commerce",
@@ -5352,6 +6064,38 @@ export const QUOTES: any[] = [
   "title": "Be Generous & Unique",
   "q": "The most selfish thing you can do is to be generous.",
   "who": "Kevin Kelly"
+ },
+ {
+  "slug": "keys-to-successful-growth-investing",
+  "guest": "Jay Hoag",
+  "date": "2025-06-17",
+  "title": "Keys to Successful Growth Investing",
+  "q": "It's the applicability of technology, not just the availability of it.",
+  "who": "Jay Hoag"
+ },
+ {
+  "slug": "keys-to-successful-growth-investing",
+  "guest": "Jay Hoag",
+  "date": "2025-06-17",
+  "title": "Keys to Successful Growth Investing",
+  "q": "Success is peace of mind which is a direct result of self-satisfaction of knowing you've done your best.",
+  "who": "Jay Hoag"
+ },
+ {
+  "slug": "keys-to-successful-growth-investing",
+  "guest": "Jay Hoag",
+  "date": "2025-06-17",
+  "title": "Keys to Successful Growth Investing",
+  "q": "Money follows momentum at the risk of missing opportunities.",
+  "who": "Jay Hoag"
+ },
+ {
+  "slug": "keys-to-successful-growth-investing",
+  "guest": "Jay Hoag",
+  "date": "2025-06-17",
+  "title": "Keys to Successful Growth Investing",
+  "q": "You're not going to be perfect but you have to be over 50%.",
+  "who": "Jay Hoag"
  },
  {
   "slug": "king-the-science-of-social-networks",
@@ -8410,6 +9154,46 @@ export const QUOTES: any[] = [
   "who": "Dan Rasmussen"
  },
  {
+  "slug": "redefining-semiconductor-progress",
+  "guest": "Andrew Homan & Chris Miller",
+  "date": "2024-11-05",
+  "title": "Redefining Semiconductor Progress",
+  "q": "I would describe Intel's situation as a Hong Kong action film—lots of moving pieces.",
+  "who": "Andrew"
+ },
+ {
+  "slug": "redefining-semiconductor-progress",
+  "guest": "Andrew Homan & Chris Miller",
+  "date": "2024-11-05",
+  "title": "Redefining Semiconductor Progress",
+  "q": "Intel's problems are a function of their success, not their failure. They were too successful in PCs and data centers.",
+  "who": "Chris"
+ },
+ {
+  "slug": "redefining-semiconductor-progress",
+  "guest": "Andrew Homan & Chris Miller",
+  "date": "2024-11-05",
+  "title": "Redefining Semiconductor Progress",
+  "q": "You have to sacrifice the products you made your career on—that's why institutions resist the innovator's dilemma.",
+  "who": "Chris"
+ },
+ {
+  "slug": "redefining-semiconductor-progress",
+  "guest": "Andrew Homan & Chris Miller",
+  "date": "2024-11-05",
+  "title": "Redefining Semiconductor Progress",
+  "q": "The startup ecosystem's value isn't beating NVIDIA—it's creating diversity and solving customer pain points.",
+  "who": "Andrew"
+ },
+ {
+  "slug": "redefining-semiconductor-progress",
+  "guest": "Andrew Homan & Chris Miller",
+  "date": "2024-11-05",
+  "title": "Redefining Semiconductor Progress",
+  "q": "Antitrust in semiconductors is really about supplier-customer power alignment, not just market concentration.",
+  "who": "Andrew"
+ },
+ {
   "slug": "reece-tim-cooks-dashboard",
   "guest": "Michael Reece",
   "date": "2018-06-12",
@@ -9730,6 +10514,38 @@ export const QUOTES: any[] = [
   "who": "Ken Stanley"
  },
  {
+  "slug": "steering-carvana-through-a-99-drawdown",
+  "guest": "Ernie Garcia III",
+  "date": "2024-11-12",
+  "title": "Leading Through Crisis",
+  "q": "growth is the only thing that matters, the only thing that's valuable",
+  "who": "Ernie"
+ },
+ {
+  "slug": "steering-carvana-through-a-99-drawdown",
+  "guest": "Ernie Garcia III",
+  "date": "2024-11-12",
+  "title": "Leading Through Crisis",
+  "q": "cash flow is the only thing that matters, the only thing that's valuable.",
+  "who": "Ernie"
+ },
+ {
+  "slug": "steering-carvana-through-a-99-drawdown",
+  "guest": "Ernie Garcia III",
+  "date": "2024-11-12",
+  "title": "Leading Through Crisis",
+  "q": "Confidence is preparation.",
+  "who": "Ernie"
+ },
+ {
+  "slug": "steering-carvana-through-a-99-drawdown",
+  "guest": "Ernie Garcia III",
+  "date": "2024-11-12",
+  "title": "Leading Through Crisis",
+  "q": "Ernie's either got this totally under control or he's a psychopath.",
+  "who": "Ernie"
+ },
+ {
   "slug": "stein-the-state-of-automated-investing",
   "guest": "Jon Stein",
   "date": "2016-11-01",
@@ -10202,6 +11018,126 @@ export const QUOTES: any[] = [
   "who": "Vlad"
  },
  {
+  "slug": "the-art-of-franchise-investing",
+  "guest": "Matt Perelman & Alex Sloane",
+  "date": "2024-10-15",
+  "title": "The Art of Franchise Investing",
+  "q": "Franchising is over a trillion dollars of the US economy, but it's a very small world.",
+  "who": "Alex Sloane"
+ },
+ {
+  "slug": "the-art-of-franchise-investing",
+  "guest": "Matt Perelman & Alex Sloane",
+  "date": "2024-10-15",
+  "title": "The Art of Franchise Investing",
+  "q": "The best performing Burger Kings versus the worst performing varies dramatically. That variance is the opportunity.",
+  "who": "Matt Perelman"
+ },
+ {
+  "slug": "the-art-of-franchise-investing",
+  "guest": "Matt Perelman & Alex Sloane",
+  "date": "2024-10-15",
+  "title": "The Art of Franchise Investing",
+  "q": "Our partnership is really special. We value it as much as anything in the world.",
+  "who": "Alex Sloane"
+ },
+ {
+  "slug": "the-battle-for-tech-supremacy",
+  "guest": "Marc Andreessen",
+  "date": "2025-02-11",
+  "title": "The Battle For Tech Supremacy",
+  "q": "far right party,",
+  "who": "Guest"
+ },
+ {
+  "slug": "the-battle-for-tech-supremacy",
+  "guest": "Marc Andreessen",
+  "date": "2025-02-11",
+  "title": "The Battle For Tech Supremacy",
+  "q": "Oh, I can do this better.",
+  "who": "Guest"
+ },
+ {
+  "slug": "the-battle-for-tech-supremacy",
+  "guest": "Marc Andreessen",
+  "date": "2025-02-11",
+  "title": "The Battle For Tech Supremacy",
+  "q": "Oh, the people are wrong. The people have been misinformed, they",
+  "who": "Guest"
+ },
+ {
+  "slug": "the-battle-for-tech-supremacy",
+  "guest": "Marc Andreessen",
+  "date": "2025-02-11",
+  "title": "The Battle For Tech Supremacy",
+  "q": "Oh, that sounds great. These are like the best people in the world. They",
+  "who": "Guest"
+ },
+ {
+  "slug": "the-business-of-defense",
+  "guest": "Darren Farber",
+  "date": "2025-04-01",
+  "title": "The Business of Defense",
+  "q": "Get as close to the molecule as possible—the physics that won't change.",
+  "who": "Darren Farber"
+ },
+ {
+  "slug": "the-business-of-defense",
+  "guest": "Darren Farber",
+  "date": "2025-04-01",
+  "title": "The Business of Defense",
+  "q": "War is a human endeavor; you just can't allow yourself to be second.",
+  "who": "Darren Farber"
+ },
+ {
+  "slug": "the-business-of-defense",
+  "guest": "Darren Farber",
+  "date": "2025-04-01",
+  "title": "The Business of Defense",
+  "q": "Surprise attacks are so common they shouldn't be a surprise.",
+  "who": "Darren Farber"
+ },
+ {
+  "slug": "the-business-of-defense",
+  "guest": "Darren Farber",
+  "date": "2025-04-01",
+  "title": "The Business of Defense",
+  "q": "You have to have someone to believe in you before you embark on it.",
+  "who": "Darren Farber"
+ },
+ {
+  "slug": "the-focused-few",
+  "guest": "David Senra",
+  "date": "2025-05-06",
+  "title": "The Focused Few",
+  "q": "I grinded for five and a half years with no visible progress and I didn't give up.",
+  "who": "David Senra"
+ },
+ {
+  "slug": "the-focused-few",
+  "guest": "David Senra",
+  "date": "2025-05-06",
+  "title": "The Focused Few",
+  "q": "The thing I'm most proud of is just something told you you can't explain—keep going.",
+  "who": "David Senra"
+ },
+ {
+  "slug": "the-focused-few",
+  "guest": "David Senra",
+  "date": "2025-05-06",
+  "title": "The Focused Few",
+  "q": "Focus is the single word that explains how exceptional builders create billion-dollar empires.",
+  "who": "David Senra"
+ },
+ {
+  "slug": "the-focused-few",
+  "guest": "David Senra",
+  "date": "2025-05-06",
+  "title": "The Focused Few",
+  "q": "Children have wonder in everything. Why, why, why? That's the spirit of great creators.",
+  "who": "David Senra"
+ },
+ {
   "slug": "the-future-of-intelligent-machines",
   "guest": "Ray Ozzie",
   "date": "2024-10-01",
@@ -10232,6 +11168,38 @@ export const QUOTES: any[] = [
   "title": "The Future of Intelligent Machines",
   "q": "Systems thinking makes you valuable; it's where few people bridge all the way up.",
   "who": "Ray Ozzie"
+ },
+ {
+  "slug": "the-gift-and-the-curse-of-staying-private",
+  "guest": "Bill Gurley",
+  "date": "2025-06-10",
+  "title": "The Gift and The Curse of Staying Private",
+  "q": "No one has an incentive to get the marks right.",
+  "who": "Bill Gurley"
+ },
+ {
+  "slug": "the-gift-and-the-curse-of-staying-private",
+  "guest": "Bill Gurley",
+  "date": "2025-06-10",
+  "title": "The Gift and The Curse of Staying Private",
+  "q": "You are forced to play the game on the field.",
+  "who": "Bill Gurley"
+ },
+ {
+  "slug": "the-gift-and-the-curse-of-staying-private",
+  "guest": "Bill Gurley",
+  "date": "2025-06-10",
+  "title": "The Gift and The Curse of Staying Private",
+  "q": "Unit economics will matter one day.",
+  "who": "Bill Gurley"
+ },
+ {
+  "slug": "the-gift-and-the-curse-of-staying-private",
+  "guest": "Bill Gurley",
+  "date": "2025-06-10",
+  "title": "The Gift and The Curse of Staying Private",
+  "q": "All startups are born as pirates, but they eventually have to become a navy.",
+  "who": "Bill Gurley"
  },
  {
   "slug": "thompson-platforms-ecosystems-and-aggregators",
@@ -10392,6 +11360,30 @@ export const QUOTES: any[] = [
   "title": "Real Talk About AI and Software",
   "q": "Inside every 80-year-old is an 18-year-old wondering what the f*** just happened.",
   "who": "Des"
+ },
+ {
+  "slug": "turning-potential-into-prominence",
+  "guest": "Michael Ovitz",
+  "date": "2025-04-08",
+  "title": "Turning Potential into Prominence",
+  "q": "Time is my most precious commodity",
+  "who": "Michael Ovitz"
+ },
+ {
+  "slug": "turning-potential-into-prominence",
+  "guest": "Michael Ovitz",
+  "date": "2025-04-08",
+  "title": "Turning Potential into Prominence",
+  "q": "I want to achieve a state where I'm happy doing what I'm doing",
+  "who": "Michael Ovitz"
+ },
+ {
+  "slug": "turning-potential-into-prominence",
+  "guest": "Michael Ovitz",
+  "date": "2025-04-08",
+  "title": "Turning Potential into Prominence",
+  "q": "When you have less time, things are more interesting because you got to get it done and it's more fun",
+  "who": "Michael Ovitz"
  },
  {
   "slug": "tyle-the-future-of-venture-capital",
