@@ -72,6 +72,13 @@ export const KINDNESS: any[] = [
   "k": "I don't know the exact numbers for Sberbank in Russia, but I know, at least if the Bloomberg data is accurate, Sberbank, I believe in 1999 was trading at a P/E of about one. Which I would say it's pretty cheap. I think by 2007, it was trading at 20 to 24 times earnings or something like that. The earnings went up significantly along the way. So that's the beauty of historic reratings, is that a co"
  },
  {
+  "slug": "battier-how-to-win",
+  "guest": "Shane Battier",
+  "date": "2022-11-22",
+  "title": "The No-Stats All-Star",
+  "k": "My parents sacrificed everything to give me every opportunity—paying for Detroit Country Day, driving me to every practice and tournament. They didn't have much money or education, but surrounded me with books and successful people. I can never repay what they sacrificed to make my dream possible."
+ },
+ {
   "slug": "belsky-focus-on-the-first-mile",
   "guest": "Scott Belsky",
   "date": "2021-02-15",
@@ -105,6 +112,13 @@ export const KINDNESS: any[] = [
   "date": "2021-11-05",
   "title": "Sequoia's Crucible Moment",
   "k": "The kindest thing is my wife forgiving me for my numerous mistakes."
+ },
+ {
+  "slug": "boyle-investing-for-america",
+  "guest": "Katherine Boyle",
+  "date": "2022-08-16",
+  "title": "Investing for America",
+  "k": "My mother caring for my 18-month-old son in her Twilight years to enable multi-generational living—the most selfless thing anyone has done for me, and something I hope to pay forward."
  },
  {
   "slug": "bravo-the-art-of-software-buyouts",
@@ -282,6 +296,13 @@ export const KINDNESS: any[] = [
   "k": "Growing up in Ireland, I experienced kindness from people who enabled my unconventional path. Lorcan, whom I barely knew, let my brother Patrick and me stay at his place when we moved to San Francisco for college. My secondary school principal, Martin Wallace, allowed me to skip half a year to pursue my technology pursuits, and Patrick to take different exams to advance early—all delivered with understanding and flexibility, not as a big deal, but assuming of course he should enable us."
  },
  {
+  "slug": "conrad-building-a-compound-company",
+  "guest": "Parker Conrad",
+  "date": "2022-11-15",
+  "title": "Building a Compound Company",
+  "k": "People reached out when things went really south, saying 'we really believe in you' when it wasn't popular to do so. Some I didn't even respond to—I couldn't acknowledge it—but it meant an enormous amount. They know who they are, and I'm deeply appreciative."
+ },
+ {
   "slug": "cormier-the-future-of-cities-and-real-estate",
   "guest": "Claire Cormier Thielke",
   "date": "2021-01-19",
@@ -352,6 +373,13 @@ export const KINDNESS: any[] = [
   "k": "Jim Ventre, an admissions officer at Phillips Academy Andover, came to my middle school in Brooklyn during a near-riot with a presentation about the school. I got in, but never saw Jim again. Twenty-five years later at an alumni event, I found Jim working in admissions, having left a 20-year law career because he loved changing lives through education. I finally got to thank him."
  },
  {
+  "slug": "droege-building-a-second-act",
+  "guest": "Jason Droege",
+  "date": "2022-10-25",
+  "title": "Building Uber Eats",
+  "k": "A $10,000 seed check from the dads of 2 cofounders for Scour.net. They treated it as part of our education, believed in us, and gave us money to keep the service live. Later, my own dad did the same for another business I started. It was a vote of confidence that they worked hard for that money and believed I could return it or use it for my journey."
+ },
+ {
   "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
   "guest": "Leigh Drogen",
   "date": "2017-06-13",
@@ -380,11 +408,25 @@ export const KINDNESS: any[] = [
   "k": "My wife supported my move to NYC for career, then my giant pay cut to join Betterment as a startup. She's a diplomat who could move freely, but she chose my dreams first. We have the best arguments because we disagree well; I owe her repayment by supporting her dreams equally. Also, in 6th/7th grade, my math teacher gave me rides home. I lied about homework once, saying I forgot it, but he saw me do it in class. He said: 'I've done good things for you, and you've disappointed me by lying.' That moment—not shaming, just a line in the sand about honesty—stuck with me forever."
  },
  {
+  "slug": "einhorn-the-long-and-short-of-investing",
+  "guest": "David Einhorn",
+  "date": "2023-03-28",
+  "title": "The Long and Short of Investing",
+  "k": "Ms. Olson, my third-grade teacher, grabbed my arm before recess and told me I was probably smarter than everyone else but I'd be better if I didn't tell them that. She called herself the Purple Witch. That created a self-awareness about how I come across to others and how to behave. She delivered it kindly so I could actually hear it."
+ },
+ {
   "slug": "ek-the-future-of-audio",
   "guest": "Daniel Ek",
   "date": "2019-11-12",
   "title": "The Future of Audio",
   "k": "My grandfather was an opera singer. He insisted I learn music properly despite my resistance—hours daily, tedious, I hated it. I struggled for years. But I pushed through and found enjoyment. He taught me: don't be afraid of struggle. I've learned to put myself in uncomfortable situations where I know nothing, endure it, because I'll eventually reach that hump where it clicks. That lesson has been invaluable in building Spotify."
+ },
+ {
+  "slug": "elliott-a-macro-tour",
+  "guest": "Bob Elliott",
+  "date": "2022-11-08",
+  "title": "A Macro Tour",
+  "k": "Starting Unlimited, I didn't know anything about ETFs. The entire ETF community—vendors, competitors, experts—kindly gave their time to help me start from scratch. It was a breath of fresh air after decades in competitive hedge funds."
  },
  {
   "slug": "englebardt-investing-in-immersive-worlds",
@@ -413,6 +455,20 @@ export const KINDNESS: any[] = [
   "date": "2021-09-21",
   "title": "Paint Outside the Lines",
   "k": "The kindest thing is my wife Nina Singh. We met when she was 17 at Carnegie Mellon and didn't marry until 10-12 years later. She believed in me when there wasn't much to believe in. She coached me on filmmaking and we won an Academy Award together for Icarus. She kept me and others focused on social mission and justice. Also, Jim Swartz from Accel—he runs another firm but guided me anyway without having to. There are so many people whose kindness and generosity empowered me to pay it forward and live my mission. No one's spared; everyone faces adversity. What matters is the kindness around you."
+ },
+ {
+  "slug": "finkelstein-building-the-entrepreneurship-company",
+  "guest": "Harley Finkelstein",
+  "date": "2022-09-13",
+  "title": "Building the Entrepreneurship Company",
+  "k": "Two people come to mind. The first is Tobi, him bringing me into Shopify. It changed my life. It allowed me, again, go back to the beginning, to find my life's work, but it also allowed me to find my craft of what I potentially one day will be world class at. I didn't have the credentials. I was an entrepreneur selling T-shirts and a bad lawyer, and he took a chance on me."
+ },
+ {
+  "slug": "fiorentino-creating-magic-for-consumers",
+  "guest": "John Fiorentino",
+  "date": "2023-01-10",
+  "title": "Creating Magic for Consumers",
+  "k": "Scooter hired me off the street when I approached him, then opened his world to me that next day. Later, I created a fake website offering a prize if people let me stay on their couch for a month. 18 strangers signed up and hosted me during my struggle. When someone opens their arms and lets you into their secret thoughts and house, that's the kindest thing—the rarity of genuine trust."
  },
  {
   "slug": "fishner-wolfson-secondary-investing-in-private-markets",
@@ -499,6 +555,13 @@ export const KINDNESS: any[] = [
   "k": "People believing in me and checking in when I doubted. Someone took a shot and said, 'I'm going to trust you. Go give it a shot and prove it.' That rope, that possibility to try—that's what I'll never forget. The worst thing is saying no without evidence they'll fail."
  },
  {
+  "slug": "goldfarb-the-disruptive-economics-of-ai",
+  "guest": "Avi Goldfarb",
+  "date": "2023-03-21",
+  "title": "The Economic Impact of AI",
+  "k": "Early in my academic career I had many rejections. My vice dean believed in my work and strategically structured my career around who made promotion decisions to set me up for success—I didn't know he was doing this until he retired. That belief in me and deliberate career architecture made all the difference."
+ },
+ {
   "slug": "gracias-pro-entropic-investing",
   "guest": "Antonio Gracias",
   "date": "2022-04-05",
@@ -534,11 +597,32 @@ export const KINDNESS: any[] = [
   "k": "I would be remiss if I didn't mention the standards. My mom and parents obviously did good, and my wife for dealing with me and having three kids. But the military one was Captain Rettinger who ran the Infantry Officer Course. He was the hardest, meanest guy on the planet—everything seemed designed to torment us, but I realized afterward it was all for a reason. His harshness made us so intense that in real combat, we never even breached system one. He made us so good at our job that ironically, that severe training is the kindest thing because I believe it's why many Marines who went through that platoon are alive today."
  },
  {
+  "slug": "green-building-nyse-for-advertisers",
+  "guest": "Jeff Green",
+  "date": "2023-02-07",
+  "title": "Modernizing Advertising",
+  "k": "A cop helped me when I ran out of gas in the desert at 11 PM. He drove me to his house to get a gas container and filled my car with his lawnmower gas. Such a stunning act of kindness I'd never expect from a stranger."
+ },
+ {
+  "slug": "green-investing-in-consumer-change",
+  "guest": "Kirsten Green",
+  "date": "2022-11-01",
+  "title": "Investing in Consumer Change",
+  "k": "My partner stepped up to support me when I started Forerunner with a newborn. But the kindest moment was after my 2008 angel fund failed. Phil Schlein said, 'Next time you invest, I'll invest too'—not because I succeeded, but because I learned. He saw the learning in failure, and that belief saved my career."
+ },
+ {
   "slug": "griffin-pulling-the-thread",
   "guest": "Tren Griffin",
   "date": "2018-05-15",
   "title": "Pulling the Thread",
   "k": "Bill Gates Sr. took time to have breakfast with me as a young person and mentored me for years, talking about life, judgment, and community involvement. He showed me the importance of just showing up. Without his mentoring and the Gates family's influence, I'd be working in plumbing supply."
+ },
+ {
+  "slug": "grimshaw-assessing-the-dna-of-software-companies",
+  "guest": "Miles Grimshaw",
+  "date": "2023-01-17",
+  "title": "The DNA of Software Companies",
+  "k": "My stepdad gave me unconditional love after I moved to the US at 12. He's an entrepreneur who founded ATG, one of the first e-commerce software companies used by millions. But he also made Halloween costumes from scratch for all seven of us kids—I'm the oldest. He took endless joy in both building software at massive scale and crafting costumes by hand. That combo of joy in tinkering, exploration, and building with people inspired me deeply."
  },
  {
   "slug": "gross-finding-undiscovered-talent",
@@ -553,6 +637,13 @@ export const KINDNESS: any[] = [
   "date": "2022-05-17",
   "title": "Identifying Talent",
   "k": "My mother drove me to chess tournaments at age 10 without expecting anything in return. She was an incredible, loving mother—embodying unconditional support that shaped my development and remains underrated in society."
+ },
+ {
+  "slug": "gupta-focus",
+  "guest": "Ravi Gupta",
+  "date": "2022-08-09",
+  "title": "Focus",
+  "k": "My grandfather coming to the US for us, my dad commuting an hour and a half daily for better schools, my mom sacrificing to give us a better life, and my wife being an incredible partner and parent—these are the kindest things."
  },
  {
   "slug": "gurley-all-things-business-and-investing",
@@ -625,11 +716,25 @@ export const KINDNESS: any[] = [
   "k": "My mom provided a warm home environment coming home from school in Wisconsin. My wife said yes 31 years ago—I overachieved. Mrs. Gunnerson hired me at 11 for 20 hours/week, installing work ethic. Dick Strong gave me my first office job in 1981. Professor Dave at Michigan got me interested in investments when I was wandering aimlessly."
  },
  {
+  "slug": "hoffman-a-deep-dive-on-data",
+  "guest": "Auren Hoffman",
+  "date": "2023-03-14",
+  "title": "A Deep Dive on Data",
+  "k": "When I was young, I fell under the influence of a really unethical, charismatic person. After a couple of years I realized I didn't want to become them. To this day I think about that person as what not to become. In a way, that least kind person taught me the kindest lesson—through counter-example."
+ },
+ {
   "slug": "housel-walking-and-thinking",
   "guest": "Morgan Housel",
   "date": "2016-10-04",
   "title": "Walking and Thinking",
   "k": "Jason Zweig took hours to have lunch with me as a stranger who emailed him. Most busy people say no; he said yes. That generosity shaped my entire career trajectory."
+ },
+ {
+  "slug": "howard-box-office-business",
+  "guest": "Ron Howard & Brian Grazer",
+  "date": "2022-11-29",
+  "title": "Box Office Business",
+  "k": "Ron: 'Henry Winkler, seven or eight years older, was in this power position and made me feel okay with everything going on. He gave me a certain kind of power and confidence. Later when we couldn't get Belushi and Aykroyd, Henry jumped in and starred in Night Shift, got our movie greenlit. He was good to me.' Brian: 'Jeff on our Board is so selfless and pure generous. Other than Ron, my most trusted friend. He constantly offers expertise and advice endlessly, likes to mentor.'"
  },
  {
   "slug": "hunt-the-three-body-portfolio",
@@ -800,6 +905,13 @@ export const KINDNESS: any[] = [
   "k": "During my IPO roadshow, an unknown public company CEO reached out through bankers saying I could call him. The night before IPO at 11pm, I texted Sarah Friar, Square's CFO: 'Can you talk?' She answered and gave me a pep talk. In those moments when you feel alone as a CEO, knowing someone who's been through it will listen and empathize is genuinely kind."
  },
  {
+  "slug": "lasky-the-business-of-gaming",
+  "guest": "Mitch Lasky",
+  "date": "2022-09-06",
+  "title": "The Business of Gaming",
+  "k": "When I first started working at Activision in 1995, well, I'd been a lawyer, not a very good one, but I had entered the video game business through that door because I had done some work at the Walt Disney Company when they were making their transition to digital. And so I had learned a lot about that business."
+ },
+ {
   "slug": "lawson-how-to-build-a-platform",
   "guest": "Jeff Lawson",
   "date": "2020-03-03",
@@ -821,6 +933,13 @@ export const KINDNESS: any[] = [
   "k": "My mentor Jerry Held saw me as a burned-out working mom after a rough startup. He challenged me: 'You light up in the room, you love this. You'll be more interesting to yourself, your husband, your kids, you'll be happier.' He put his neck out even when I resisted. The kind thing wasn't cheering—it was challenging me to see my world differently."
  },
  {
+  "slug": "lenehan-commercial-real-estate",
+  "guest": "Bill Lenehan",
+  "date": "2022-12-06",
+  "title": "Investing in Commercial Real Estate",
+  "k": "My spouse is my greatest partner—when I was facing job loss at Farallon and suddenly became CEO north of Toronto with young daughters, she believed in the move. My parents invested enormously in my education (boarding school, Claremont McKenna), first-generation college and medical school. And five years ago, I hired a coach committed to continuous learning and self-improvement. That coaching has profoundly impacted my effectiveness and sense of fulfillment. Coaching beats hard-knocks experience because you learn from others' mistakes instead of having to live them all yourself."
+ },
+ {
   "slug": "leonard-capital-light-compounders-reinvestment-moats",
   "guest": "Connor Leonard",
   "date": "2017-11-21",
@@ -828,11 +947,25 @@ export const KINDNESS: any[] = [
   "k": "Quinton Maynard hired me right out of college and later gave me the opportunity to run a public equity portfolio—my dream job—because he saw my passion for public markets investing, even though it wasn't core to IMC's business. He could have said no, but he chose to build a life where I could do what I loved. He passed away a couple months ago at age 38 from cancer, and I'm grateful every day he gave me that chance."
  },
  {
+  "slug": "leone-clear-and-simple",
+  "guest": "Doug Leone",
+  "date": "2023-02-28",
+  "title": "Lessons from a Titan",
+  "k": "Steve Weiss, a popular athletic kid in high school, stood up for me when people were abusing me for no good reason. Much later he committed suicide—there was pain in him I never understood. But he saw what was happening to me as unfair. Also, Don Valentine believed in me when the other 4 partners wanted me out after 2 years. He understood I was making progress and gave me time. I wouldn't be here without Don Valentine."
+ },
+ {
   "slug": "levin-building-an-anti-conglomerate",
   "guest": "Joey Levin",
   "date": "2022-02-15",
   "title": "Building an Anti-Conglomerate",
   "k": "When Jack Welch was an advisor for IAC and he became a very close friend and mentor and I distinctly recall this, but he didn't have to do this, but he held my hand in a way and brought me with him to a bunch of people and to a bunch of things in ways where he said that were welcoming and validating in ways that he didn't need to do that with his personal brand, which was the sort of greatest i..."
+ },
+ {
+  "slug": "levine-scaling-a-venture-firm",
+  "guest": "Brian & Jeremy",
+  "date": "2023-04-30",
+  "title": "Building a VC Firm that Lasts Centuries",
+  "k": "Oh, boy, I mean so many people and I’ll go back to Felda Hardymon professionally, my first mentor at Bessemer who did sit next to me in a room for hundreds of hours to no benefit for himself of just telling me like, here's why I did that thing that way. Half the time, I just sat there were like, why are you wasting your time telling me these things."
  },
  {
   "slug": "leydon-designing-digital-economies",
@@ -868,6 +1001,13 @@ export const KINDNESS: any[] = [
   "date": "2021-06-01",
   "title": "Delivering Alpha in Adapting Markets",
   "k": "During a family health crisis, I cold-emailed a person working on a national protocol for treatment. She had zero incentive to help—different city, no mutual connections—but spent enormous time helping me understand the situation and feel confident in decisions. Dr. Karen exemplifies people who do the right thing regardless of incentive."
+ },
+ {
+  "slug": "lynn-finding-your-customers",
+  "guest": "Rebecca Lynn",
+  "date": "2022-12-27",
+  "title": "Finding Your Customers",
+  "k": "When I was in high school, my friend's mom let me live with them for a year after my parents moved. They were both doctors and really took me under their wing, refactored my trajectory on what I thought was possible. That was life-changing."
  },
  {
   "slug": "ma-making-decisions-with-data",
@@ -924,6 +1064,20 @@ export const KINDNESS: any[] = [
   "date": "2021-11-16",
   "title": "Indexing the Earth",
   "k": "Mentorship has been the kindest thing. I've had incredible mentors, including my PhD supervisor who won the Nobel Prize in physics, and my NASA boss."
+ },
+ {
+  "slug": "masad-the-future-of-software-creation",
+  "guest": "Amjad Masad",
+  "date": "2023-01-03",
+  "title": "The Future of Software Creation",
+  "k": "A first-grade computer teacher in Jordan saw coding talent in me despite constant troublemaking and detention. He taught me advanced math and programming for 2 years, pulling me from regular classes. That set me on a fundamentally different path than I would have otherwise gone."
+ },
+ {
+  "slug": "mauboussin-sharpening-investor-executive-toolkits",
+  "guest": "Michael Mauboussin",
+  "date": "2022-12-20",
+  "title": "Sharpening Investor & Executive Toolkits",
+  "k": "The kindest thing anyone's ever done is let me go on their podcast again."
  },
  {
   "slug": "mauboussin-the-four-sources-of-alpha",
@@ -1003,6 +1157,13 @@ export const KINDNESS: any[] = [
   "k": "Don Purr hired me as a training director at Rand Information Systems when I was 32, overqualified for nothing. He saw someone to mentor when my resume would have disqualified me. That generosity changed everything."
  },
  {
+  "slug": "morey-systems-thinking-in-sports",
+  "guest": "Daryl Morey",
+  "date": "2023-01-24",
+  "title": "Systems Thinking in Sports",
+  "k": "Sam Hinkie wrote me a letter when he left Houston to Philadelphia that I still keep in my safe. It was very kind of him to take the time to do that."
+ },
+ {
   "slug": "moses-the-big-short-and-beyond",
   "guest": "Danny Moses",
   "date": "2017-04-25",
@@ -1045,6 +1206,13 @@ export const KINDNESS: any[] = [
   "k": "A poor farming family I visited—living in a lean-to tent with a dirt floor during monsoons, but had started building a concrete foundation for their house via drip irrigation investment—insisted on cooking an elaborate meal for us despite the 121-degree heat and their scarcity. She wouldn't let us leave until she treated us like gifts. Here was someone with almost nothing, yet unwilling to let us pass without generosity. That's dignity and human kindness."
  },
  {
+  "slug": "orfalea-its-about-the-money",
+  "guest": "Paul Orfalea",
+  "date": "2022-10-18",
+  "title": "It's About the Money",
+  "k": "My wife. She made me exercise when I wanted to avoid it, showed me kindness through tough love. Kindness begins at home—with family and workers, understanding their problems as your problems."
+ },
+ {
   "slug": "oshaughnessy-premeditated-success",
   "guest": "Jim O'Shaughnessy",
   "date": "2017-03-21",
@@ -1085,6 +1253,13 @@ export const KINDNESS: any[] = [
   "date": "2016-12-27",
   "title": "Mastering Mental Models",
   "k": "The kindest thing people do is give me their time. Time is the one thing we really can't create more of. You can easily make more money, but you can't make more time. I'm surrounded by incredibly kind people and incredibly generous people. It's peoples' time and thoughtfulness that makes a big difference."
+ },
+ {
+  "slug": "pencz-investing-in-latin-america",
+  "guest": "Julio Vasconcellos & Mate Pencz",
+  "date": "2022-09-27",
+  "title": "Investing in Latin America",
+  "k": "Andy Ratcliffe as a mentor and friend has been one of the kindest people I know. He's a founding partner of Benchmark Capital, chair of Penn endowment, founder of Wealthfront. He's been an inspiration over more than a decade in thinking about paying it forward with knowledge and support. Generational knowledge transfer is ultimately what made Silicon Valley the place it is today, and I think that's what will help tech here thrive."
  },
  {
   "slug": "pfeffer-adapt-and-evolve",
@@ -1143,6 +1318,13 @@ export const KINDNESS: any[] = [
   "k": "Gosh, I've been the recipient of an amazing amount of kindness over the years. I actually think my entire career is a function of kindness and luck. God, when I was in business school... It's really funny that I worked on Wall Street for a couple of years after college. And I worked in mergers and acquisitions at Blyth, Eastman Dillon and the head of the M&A department was a Stanford grad. And he "
  },
  {
+  "slug": "ramanujam-how-to-price-products",
+  "guest": "Madhavan Ramanujam",
+  "date": "2022-10-11",
+  "title": "How to Price Products",
+  "k": "Duncan Robertson, OpenTable's CFO at the time, introduced me to Bill Gurley unprompted out of kindness after being impressed with our pricing work. Bill has been an incredible supporter for over a decade. I wouldn't be here without their help."
+ },
+ {
   "slug": "ramaswamy-the-past-present-and-future-of-search",
   "guest": "Sridhar Ramaswamy",
   "date": "2021-08-10",
@@ -1171,6 +1353,13 @@ export const KINDNESS: any[] = [
   "k": "When I was in remedial school, a math teacher lifted me out of that program and put me in the gifted program—just because I'd asked him about a math problem I was working on. He wanted to teach you something. That acceleration and those experiences are why I became a professor and why I teach working-class folks. I wanted to give back."
  },
  {
+  "slug": "rivas-a-new-blueprint-for-building-homes",
+  "guest": "Alexis",
+  "date": "2023-04-25",
+  "title": "A New Blueprint for Homebuilding",
+  "k": "I won't name them. This is a very, very successful investor, came to our factory for the first time and spent about three hours with us and basically really challenged our road map, kept asking why, like why. And if something didn't make sense to him or didn't seem completely solid, he kept digging."
+ },
+ {
   "slug": "robbins-investing-in-gaming",
   "guest": "Blake Robbins",
   "date": "2020-06-30",
@@ -1190,6 +1379,13 @@ export const KINDNESS: any[] = [
   "date": "2017-02-28",
   "title": "Slow and Steady Wins the Race",
   "k": "Cecil Partee was City Treasurer and gave us our first million-dollar account when I was 25. He had influence over the Chicago Pension Plan. He told my parents he'd been waiting for someone like me to come through the door so he could help them get started in this business."
+ },
+ {
+  "slug": "rose-how-stunning-founders-operate",
+  "guest": "Dan Rose",
+  "date": "2023-02-14",
+  "title": "How Stunning Founders Operate",
+  "k": "Thomas Laffont convinced me not to start my own firm. He reminded me I'm energized by people and scale, not solo work. He was 100% right—joining Coatue let me operate at tremendous scale with brilliant people, which I couldn't sacrifice for anything less."
  },
  {
   "slug": "rowley-vanguards-gerry-oreilly-and-jim-rowley",
@@ -1255,6 +1451,13 @@ export const KINDNESS: any[] = [
   "k": "In 2006, Justin Kan and Emmett Shear invited me on a road trip from Cambridge to San Francisco to start their company. They packed out a quarter of their stuff from Emmett's Civic just to fit me in. I wouldn't be here without that yes."
  },
  {
+  "slug": "senra-passion-pain",
+  "guest": "David Senra",
+  "date": "2022-08-30",
+  "title": "Passion & Pain",
+  "k": "The kindest thing anybody's ever done for me happened a few decades before I was born. My grandfather on my dad's side was living in Cuba. He was just 38 years old. He had a wife and a newborn baby when the Cuban Revolution happened and Castro took power. He didn't understand the language, had no money and no education, and yet took the gigantic risk ..."
+ },
+ {
   "slug": "shah-developing-every-skill",
   "guest": "Niraj Shah",
   "date": "2021-11-23",
@@ -1304,6 +1507,13 @@ export const KINDNESS: any[] = [
   "k": "The kindest thing people ever done for me, I mean, they hired me. My personal history, being a foreigner in this country and speak with a fat accent, or more so 30 years ago than now, I have credentials they couldn't even pronounce, let alone understand what they meant. People need to take a chance on you. I'm still immensely grateful. It was there at Greylock, who's obviously the CEO of Workday, founder of Workday. And then Scott Sandell was at NEA. They decided, 'Yeah, this guy, he ain't going to lose.' Took a chance."
  },
  {
+  "slug": "smith-investing-in-enterprise-software",
+  "guest": "Robert Smith",
+  "date": "2022-08-23",
+  "title": "Investing in Enterprise Software",
+  "k": "The forgiveness and belief of my global community of friends, family, and colleagues who know me and continue to support our mission after a humbling mistake 20+ years ago—the power of forgiveness and love is what matters most."
+ },
+ {
   "slug": "songhurst-lessons-from-investing-in-483-companies",
   "guest": "Charlie Songhurst",
   "date": "2020-07-07",
@@ -1316,6 +1526,13 @@ export const KINDNESS: any[] = [
   "date": "2019-07-23",
   "title": "How Quant Evolves",
   "k": "He gave me the simplest, most profound answer: love me unconditionally. Beyond any notion. No doubts. When I asked what that did for him, he said: \"I'm good to go. I'm now free from guilt.\" It was the most direct and pure answer to the question I've heard."
+ },
+ {
+  "slug": "spear-billion-dollar-scrubs",
+  "guest": "Trina Spear",
+  "date": "2022-09-20",
+  "title": "Billion Dollar Scrubs",
+  "k": "Heather making me her business partner early on. We're very different and think differently. She took a big leap saying 'I want to do this with you'—it was her idea, her vision, and I joined onto that. It changed my life. We're best friends and it's been one of the most significant relationships of my life."
  },
  {
   "slug": "srinivasan-optimizing-your-inputs",
@@ -1337,6 +1554,13 @@ export const KINDNESS: any[] = [
   "date": "2016-11-01",
   "title": "The State of Automated Investing",
   "k": "So many people have been so generous to us along the way, and our partners with various firms have been so giving. I had so many great mentors during my consulting days, and I'd be leaving someone out if I singled one person out."
+ },
+ {
+  "slug": "stephens-find-good-quests",
+  "guest": "Trae Stephens",
+  "date": "2023-03-07",
+  "title": "Find Good Quests",
+  "k": "My mom asked me where I wanted to go to college after I got rejected everywhere. When I said Georgetown, she said 'we're going to get you a plane ticket, you're going to tell the Dean of Admissions you're going to college there. The story is not written yet. You have the ability to impact the final story.' That one moment changed everything."
  },
  {
   "slug": "stotz-frontier-markets-investing",
@@ -1512,6 +1736,13 @@ export const KINDNESS: any[] = [
   "date": "2017-11-28",
   "title": "Angel Investing and Trend Spotting",
   "k": "Companies have given me shares out of nowhere just because I was an advisor. And people introduce me to others, which is so nice—they describe me positively in emails. When I'm honest with founders about what won't work, they come back years later saying I was the only one who said no and explained why. That's always nice and gratifying."
+ },
+ {
+  "slug": "wilson-global-endowment-investing",
+  "guest": "Scott Wilson",
+  "date": "2022-10-04",
+  "title": "Non-Traditional Endowment Investing",
+  "k": "My wife. We've been married 21 years. When we got married we were basically kids. We've lived in San Francisco, Chicago, Tokyo, London, back to Tokyo, Des Moines. I've been blessed with great career opportunities and working with great people, but her willingness to allow me to do that, to move around and take those chances, is definitely the kindest thing anybody's ever done for me."
  },
  {
   "slug": "wolfe-factories-of-the-future",
