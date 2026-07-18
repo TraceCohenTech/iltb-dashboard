@@ -1,5 +1,8 @@
-// Validated categorical palette (dataviz six-checks, dark surface #0E1830)
-export const CAT = ["#3987E5", "#199E70", "#C98500", "#008300", "#E66767", "#D95926"] as const;
-export const BRASS = "#D9B45C";
-export const INK = { page: "#0A1220", card: "#0E1830", raised: "#16233F", line: "#22334F" };
-export const IVORY = { hi: "#FAF6EC", mid: "#E8E0CC", low: "#C9BFA4" };
+// Validated categorical palette (dataviz six-checks, white surface) — no purple/pink.
+export const CAT = ["#2A78D6", "#0E9AA7", "#E08A00", "#1F9D55", "#E0403E", "#E86A1C", "#0B7580"] as const;
+export const TEAL = "#12A6B4";
+export const TEAL_DEEP = "#0B7580";
+export const AMBER = "#E9A100";
+export const INK = { hi: "#16181D", body: "#3A3F47", muted: "#6A7078", faint: "#9AA0A6" };
+export const LINE = "#E7E2D6";
+export const SURFACE = "#FFFFFF";

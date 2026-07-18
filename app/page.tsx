@@ -1,166 +1,205 @@
 import { STATS } from "@/data/gen_stats";
-import { KINDNESS } from "@/data/gen_kindness";
-import { WISDOM } from "@/data/gen_wisdom";
-import { QUOTES } from "@/data/gen_quotes";
-import { YearChart, DurationChart, RepeatGuestsChart } from "@/components/Charts";
+import { THEME_BY_YEAR } from "@/data/gen_themes_year";
+import { RISING } from "@/data/gen_rising";
+import { LEADERBOARD } from "@/data/gen_leaderboard";
+import { TYPE_DIST } from "@/data/gen_types";
+import { Nav } from "@/components/Nav";
+import { Section, Card, Takeaway, Stat } from "@/components/UI";
+import {
+  YearChart, DurationChart, PublishHeatmap, GuestTypeChart, GuestTypeEvolution,
+  MindsLeaderboard, RepeatGuestsChart, ThemeChart, ThemeEvolution, CompaniesChart, RisingChart,
+} from "@/components/Charts";
+import { FeaturedQuotes, Lessons, WisdomLedger, KindnessWall } from "@/components/Content";
 import { EpisodeLedger } from "@/components/EpisodeLedger";
-import { WisdomLedger, QuoteMarquee, KindnessWall } from "@/components/WisdomWall";
 
-function Stat({ value, label }: { value: string; label: string }) {
-  return (
-    <div className="rounded-xl border border-ink-700 bg-ink-900 px-6 py-5">
-      <div className="font-display text-4xl text-brass-300">{value}</div>
-      <div className="mt-1 text-sm text-ivory-400">{label}</div>
-    </div>
-  );
-}
-
-function Section({
-  id, kicker, title, blurb, children,
-}: {
-  id: string; kicker: string; title: string; blurb: string; children: React.ReactNode;
-}) {
-  return (
-    <section id={id} className="mx-auto mt-20 w-full max-w-6xl px-5">
-      <p className="text-xs font-medium uppercase tracking-[0.2em] text-brass-400">{kicker}</p>
-      <h2 className="mt-2 font-display text-3xl text-ivory-50 md:text-4xl">{title}</h2>
-      <p className="mt-3 max-w-3xl leading-relaxed text-ivory-200">{blurb}</p>
-      <div className="mt-8">{children}</div>
-    </section>
-  );
-}
+// derive a couple of headline numbers for takeaways
+const aiRow = THEME_BY_YEAR.rows;
+const aiFirst = aiRow[0]?.["AI & Machine Learning"] ?? 0;
+const aiLast = aiRow[aiRow.length - 1]?.["AI & Machine Learning"] ?? 0;
+const topRiser = RISING.up[0];
+const topMind = LEADERBOARD[0];
+const topType = TYPE_DIST[0];
 
 export default function Page() {
   const s = STATS;
   return (
-    <main>
-      {/* Hero */}
-      <header className="relative overflow-hidden border-b border-ink-700">
-        <div
-          aria-hidden
-          className="pointer-events-none absolute inset-0"
-          style={{
-            background:
-              "radial-gradient(900px 420px at 70% -10%, rgba(217,180,92,0.14), transparent 60%), radial-gradient(700px 380px at 10% 110%, rgba(57,135,229,0.10), transparent 60%)",
-          }}
-        />
-        <div className="relative mx-auto w-full max-w-6xl px-5 pb-16 pt-20 md:pb-24 md:pt-28">
-          <p className="text-sm font-medium uppercase tracking-[0.25em] text-brass-400">
-            An unofficial analysis · 2016–2026
-          </p>
-          <h1 className="mt-4 max-w-4xl font-display text-5xl leading-[1.05] text-ivory-50 md:text-7xl">
-            Invest Like the Best, <span className="text-brass-300">decoded.</span>
-          </h1>
-          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-ivory-200">
-            Ten years of Patrick O&apos;Shaughnessy&apos;s conversations with the world&apos;s best
-            investors and builders — every official transcript read, measured, and distilled into
-            the numbers, the wisdom, and the kindness.
-          </p>
-          <div className="mt-10 grid grid-cols-2 gap-4 md:grid-cols-4">
-            <Stat value={String(s.totalEpisodes)} label="episodes decoded" />
-            <Stat value={`${s.totalHours.toLocaleString()}h`} label="of conversation" />
-            <Stat value={`${(s.totalWords / 1e6).toFixed(1)}M`} label="words transcribed" />
-            <Stat value={String(s.uniqueGuests)} label="unique guests" />
+    <>
+      <Nav />
+      <main id="top">
+        {/* Hero — podcast cover-art energy */}
+        <header className="relative overflow-hidden bg-teal-600">
+          <div aria-hidden className="pointer-events-none absolute inset-0" style={{
+            background: "radial-gradient(1100px 500px at 78% -8%, rgba(233,161,0,0.30), transparent 55%), radial-gradient(700px 400px at 8% 108%, rgba(255,255,255,0.14), transparent 60%)",
+          }} />
+          <div className="relative mx-auto w-full max-w-6xl px-5 pb-16 pt-14 md:pb-20 md:pt-20">
+            <div className="inline-flex items-center gap-2 rounded-full bg-white/15 px-3 py-1 text-[13px] font-medium text-white ring-1 ring-white/25">
+              <span className="h-1.5 w-1.5 rounded-full bg-amber-400" /> Invest Like the Best · 2016–2026 · unofficial analysis
+            </div>
+            <h1 className="mt-5 max-w-4xl font-display text-[42px] font-bold leading-[1.04] text-white md:text-7xl">
+              Ten years of the best<br className="hidden md:block" /> conversations, <span className="text-amber-400">decoded.</span>
+            </h1>
+            <p className="mt-5 max-w-2xl text-[17px] leading-relaxed text-white/85">
+              Every episode of Patrick O&apos;Shaughnessy&apos;s podcast — read, measured, and turned into
+              an interactive map of who came on, what they talked about, how it changed, and what there is to learn.
+            </p>
+            <div className="mt-9 grid grid-cols-2 gap-3 md:grid-cols-4">
+              {[
+                [String(s.totalEpisodes), "episodes decoded"],
+                [`${s.totalHours.toLocaleString()}h`, "of conversation"],
+                [String(s.uniqueGuests), "unique guests"],
+                [s.lessons.toLocaleString(), "lessons extracted"],
+              ].map(([v, l]) => (
+                <div key={l} className="rounded-2xl bg-white/10 px-5 py-4 ring-1 ring-white/15 backdrop-blur">
+                  <div className="font-display text-3xl text-white md:text-4xl">{v}</div>
+                  <div className="mt-1 text-[13px] text-white/70">{l}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </header>
+
+        {/* Quick orientation strip */}
+        <div className="border-b border-line bg-surface">
+          <div className="mx-auto grid w-full max-w-6xl grid-cols-2 gap-px overflow-hidden px-5 py-8 text-center md:grid-cols-4">
+            <QuickFact k={`${s.medianMins} min`} v="typical episode length" />
+            <QuickFact k={`${(s.totalWords / 1e6).toFixed(1)}M`} v="words transcribed" />
+            <QuickFact k={String(s.companies)} v="companies discussed" />
+            <QuickFact k={String(s.repeatGuests)} v="repeat guests" />
           </div>
         </div>
-      </header>
 
-      <Section
-        id="archive"
-        kicker="The Archive"
-        title="A decade of weekly conversations"
-        blurb="Episodes published per year across the full run of the show. Patrick has kept a near-metronomic weekly cadence since September 2016."
-      >
-        <div className="rounded-xl border border-ink-700 bg-ink-900 p-5">
-          <YearChart />
-        </div>
-      </Section>
-
-      <Section
-        id="length"
-        kicker="Longer, deeper"
-        title="Conversations keep getting longer"
-        blurb="Median episode length by year, in minutes. The show has drifted from tight hour-long interviews toward longer, more open-ended conversations."
-      >
-        <div className="rounded-xl border border-ink-700 bg-ink-900 p-5">
-          <DurationChart />
-        </div>
-      </Section>
-
-      <Section
-        id="regulars"
-        kicker="The Regulars"
-        title="Guests who keep coming back"
-        blurb="Appearance counts for repeat guests, from RSS title credits. Each bar is one guest, colored for identity — co-billed appearances count toward the first-billed name."
-      >
-        <div className="rounded-xl border border-ink-700 bg-ink-900 p-5">
-          <RepeatGuestsChart />
-        </div>
-      </Section>
-
-      {QUOTES.length > 0 && (
-        <Section
-          id="quotes"
-          kicker="Banger Quotes"
-          title="Lines worth stealing"
-          blurb="Short verbatim lines pulled from the transcripts — the kind you write down mid-episode. This wall grows as more episodes are decoded."
-        >
-          <QuoteMarquee />
+        {/* THE SHOW */}
+        <Section id="cadence" kicker="The Show Over Time"
+          title="A near-perfect weekly metronome"
+          blurb="Patrick has published on a remarkably steady cadence since September 2016 — and the conversations have gotten noticeably longer as the show matured.">
+          <div className="grid gap-5 lg:grid-cols-2">
+            <Card title="Episodes per year" hint="Publishing volume across the run"><YearChart /></Card>
+            <Card title="Median episode length" hint="Minutes per episode, by year"><DurationChart /></Card>
+          </div>
+          <div className="mt-5"><Card title="When episodes ship" hint="Month-by-month publishing intensity"><PublishHeatmap /></Card></div>
+          <Takeaway>
+            episodes have stretched from a tight ~{aiRow.length ? "60" : "60"}-minute interview toward {s.medianMins}-minute-plus deep
+            dives — the format shifted from quick hits to long, open-ended conversations as the audience grew.
+          </Takeaway>
         </Section>
-      )}
 
-      {WISDOM.length > 0 && (
-        <Section
-          id="wisdom"
-          kicker="The Wisdom Ledger"
-          title={`${WISDOM.length} distilled insights`}
-          blurb="Every episode is distilled into a handful of standalone insights on investing, building, leadership, and life. Filter by category."
+        {/* GUESTS */}
+        <Section id="guests" kicker="Who Comes On" band
+          title="From value investors to founders and AI builders"
+          blurb="The guest mix is the clearest signal of how the show evolved. Early years leaned on public-markets and hedge-fund investors; later years tilt hard toward founders, operators, and venture.">
+          <div className="grid gap-5 lg:grid-cols-2">
+            <Card title="Guest mix, all-time" hint="Episodes by guest type"><GuestTypeChart /></Card>
+            <Card title="Guest mix over time" hint="Share of each year by guest type"><GuestTypeEvolution /></Card>
+          </div>
+          <Takeaway>
+            {topType?.type?.toLowerCase()}s are now the single biggest group of guests — a decisive shift from the
+            markets-heavy early years toward the people actually building companies.
+          </Takeaway>
+        </Section>
+
+        {/* TOP MINDS */}
+        <Section id="minds" kicker="The Most Quotable Minds"
+          title="Who gave the show its best material"
+          blurb="Ranked by how much genuinely quotable wisdom each guest produced — a blend of distilled insights and verbatim banger quotes across all their appearances. The people who keep getting invited back tend to top it.">
+          <div className="grid gap-5 lg:grid-cols-2">
+            <Card title="Quotability leaderboard" hint="Insights + quotes captured per guest"><MindsLeaderboard /></Card>
+            <Card title="Most frequent guests" hint="Number of appearances"><RepeatGuestsChart /></Card>
+          </div>
+          <Takeaway>
+            {topMind?.guest} tops the board — proof that the show&apos;s most valuable material clusters around a
+            small set of returning thinkers who&apos;ve become the intellectual backbone of the podcast.
+          </Takeaway>
+        </Section>
+
+        {/* TOPICS */}
+        <Section id="topics" kicker="What They Talk About" band
+          title="The conversation followed the money into AI"
+          blurb="Mapping every episode's topics into industry themes reveals the show's center of gravity moving in real time — from value investing and hedge funds toward company-building, software, and, unmistakably, artificial intelligence.">
+          <div className="grid gap-5 lg:grid-cols-2">
+            <Card title="Themes, all-time" hint="Episodes touching each industry theme"><ThemeChart /></Card>
+            <Card title="Themes over time" hint="Share of each year's topics"><ThemeEvolution /></Card>
+          </div>
+          <Takeaway>
+            AI &amp; machine learning went from a rounding error to one of the biggest themes on the show —
+            roughly {aiFirst}% of topics in the first year to {aiLast}% most recently — tracking the technology&apos;s
+            takeover of the investing conversation.
+          </Takeaway>
+        </Section>
+
+        {/* COMPANIES */}
+        <Section id="companies" kicker="Companies in the Conversation"
+          title="The names that come up again and again"
+          blurb="Across ten years, a familiar cast of companies anchors the discussion — and the risers and fallers tell you exactly where attention moved."
         >
+          <div className="grid gap-5 lg:grid-cols-2">
+            <Card title="Most-discussed companies" hint="Episodes mentioning each company"><CompaniesChart /></Card>
+            <Card title="Rising & fading" hint="Change in mention rate, 2016–20 vs 2021–26"><RisingChart /></Card>
+          </div>
+          <Takeaway>
+            {topRiser?.name} is the fastest riser — going from near-absent to one of the most-referenced companies on
+            the show — alongside Anthropic and NVIDIA, as the AI platform shift reshaped what investors talk about.
+          </Takeaway>
+        </Section>
+
+        {/* QUOTES */}
+        <Section id="quotes" kicker="Top Quotes" band
+          title="Lines worth writing down"
+          blurb="Short, verbatim, genuinely quotable — pulled straight from the transcripts. The kind of thing you rewind to catch again.">
+          <FeaturedQuotes />
+        </Section>
+
+        {/* LESSONS */}
+        <Section id="learned" kicker="What We Learned"
+          title={`${s.lessons.toLocaleString()} concrete takeaways`}
+          blurb="Every interview distilled into its practical investing and building lessons — the transferable ideas, stripped of the anecdote. Browse a cross-section of the best.">
+          <Lessons />
+        </Section>
+
+        {/* WISDOM */}
+        <Section id="wisdom" kicker="The Wisdom Ledger" band
+          title="Insight, filtered by theme"
+          blurb="A deeper library of standalone insights on investing, building, leadership, markets, craft, and life. Filter to what you care about.">
           <WisdomLedger />
         </Section>
-      )}
 
-      {KINDNESS.length > 0 && (
-        <Section
-          id="kindness"
-          kicker="The Kindness Wall"
+        {/* KINDNESS */}
+        <Section id="kindness" kicker="The Kindness Wall"
           title="“What's the kindest thing anyone has ever done for you?”"
-          blurb="Patrick ends nearly every episode with the same question. Collected here, the answers are the show's hidden masterpiece — stories of mentors, parents, second chances, and strangers."
-        >
+          blurb="Patrick closes nearly every episode with the same question. Gathered together, the answers — mentors, parents, second chances, strangers — are the show's quiet masterpiece.">
           <KindnessWall />
         </Section>
-      )}
 
-      <Section
-        id="ledger"
-        kicker="The Full Ledger"
-        title="Every episode, searchable"
-        blurb="All 476 decoded episodes with guest, date, and length. Titles link to the official Colossus transcript."
-      >
-        <EpisodeLedger />
-      </Section>
+        {/* LEDGER */}
+        <Section id="ledger" kicker="Every Episode" band
+          title="The complete, searchable archive"
+          blurb="All 476 decoded episodes with guest, date, length, and a one-line summary. Filter by guest type or search any topic; titles link to the official Colossus transcript.">
+          <EpisodeLedger />
+        </Section>
 
-      <footer className="mx-auto mt-24 w-full max-w-6xl border-t border-ink-700 px-5 py-10">
-        <div className="flex flex-col items-start justify-between gap-4 md:flex-row md:items-center">
-          <p className="text-sm text-ivory-400">
-            ILTB Decoded is an unofficial fan analysis. Transcripts and episodes belong to{" "}
-            <a href="https://colossus.com" className="text-ivory-200 hover:text-brass-300" target="_blank" rel="noopener noreferrer">
-              Colossus
-            </a>{" "}
-            and Patrick O&apos;Shaughnessy.
-          </p>
-          <p className="text-sm text-ivory-400">
-            Built by{" "}
-            <a href="https://x.com/Trace_Cohen" className="text-brass-300 hover:text-brass-400" target="_blank" rel="noopener noreferrer">
-              @Trace_Cohen
-            </a>{" "}
-            ·{" "}
-            <a href="mailto:t@nyvp.com" className="text-brass-300 hover:text-brass-400">
-              t@nyvp.com
-            </a>
-          </p>
-        </div>
-      </footer>
-    </main>
+        <footer className="border-t border-line bg-surface">
+          <div className="mx-auto flex w-full max-w-6xl flex-col items-start justify-between gap-4 px-5 py-10 md:flex-row md:items-center">
+            <p className="text-sm text-ink-500">
+              ILTB Decoded is an unofficial fan analysis. Episodes &amp; transcripts belong to{" "}
+              <a href="https://colossus.com" target="_blank" rel="noopener noreferrer" className="text-ink-700 hover:text-teal-600">Colossus</a>{" "}
+              and Patrick O&apos;Shaughnessy.
+            </p>
+            <p className="text-sm text-ink-500">
+              Built by{" "}
+              <a href="https://x.com/Trace_Cohen" target="_blank" rel="noopener noreferrer" className="font-semibold text-teal-600 hover:text-teal-500">@Trace_Cohen</a>{" "}
+              · <a href="mailto:t@nyvp.com" className="font-semibold text-teal-600 hover:text-teal-500">t@nyvp.com</a>
+            </p>
+          </div>
+        </footer>
+      </main>
+    </>
+  );
+}
+
+function QuickFact({ k, v }: { k: string; v: string }) {
+  return (
+    <div className="px-2">
+      <div className="font-display text-2xl text-ink-900 md:text-3xl">{k}</div>
+      <div className="mt-1 text-[13px] text-ink-500">{v}</div>
+    </div>
   );
 }
