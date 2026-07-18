@@ -8,7 +8,7 @@ export function Section({
   return (
     <section id={id} className={band ? "bg-cream border-y border-line" : ""}>
       <div className="mx-auto w-full max-w-6xl px-5 py-16 md:py-20">
-        <p className="text-xs font-semibold uppercase tracking-[0.18em] text-teal-500">{kicker}</p>
+        <p className="text-xs font-semibold uppercase tracking-[0.18em] text-teal-600">{kicker}</p>
         <h2 className="mt-2 font-display text-[28px] leading-tight text-ink-900 md:text-4xl">{title}</h2>
         {blurb && <p className="mt-3 max-w-3xl text-[15px] leading-relaxed text-ink-700 md:text-base">{blurb}</p>}
         <div className="mt-8">{children}</div>

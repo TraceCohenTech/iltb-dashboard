@@ -14,7 +14,7 @@ import { TOP_COMPANIES } from "@/data/gen_companies";
 import { RISING } from "@/data/gen_rising";
 import { LEADERBOARD } from "@/data/gen_leaderboard";
 import { REPEAT_GUESTS } from "@/data/gen_repeat_guests";
-import { CAT, TEAL, TEAL_DEEP, AMBER, INK, LINE } from "@/lib/palette";
+import { CAT, TEAL, AMBER, INK, LINE } from "@/lib/palette";
 
 const axis = { fill: INK.muted, fontSize: 12 } as const;
 const tip = {
@@ -31,7 +31,7 @@ export function YearChart() {
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data} margin={{ top: 8, right: 8, left: -18, bottom: 0 }}>
           <CartesianGrid {...grid} vertical={false} />
-          <XAxis dataKey="year" tick={axis} axisLine={{ stroke: LINE }} tickLine={false} />
+          <XAxis dataKey="year" tick={axis} axisLine={{ stroke: LINE }} tickLine={false} interval={0} />
           <YAxis tick={axis} axisLine={false} tickLine={false} />
           <Tooltip contentStyle={tip} cursor={{ fill: "#F1EEE6" }} separator=""
             formatter={(v: any) => [`${v} episodes`, ""]} labelStyle={{ color: INK.muted, fontWeight: 600 }} />
@@ -130,7 +130,8 @@ export function GuestTypeEvolution() {
           <XAxis dataKey="year" tick={axis} axisLine={{ stroke: LINE }} tickLine={false} />
           <YAxis tick={axis} axisLine={false} tickLine={false} tickFormatter={(v) => `${Math.round(v * 100)}%`} />
           <Tooltip contentStyle={tip} formatter={(v: any, n: any) => [`${v} eps`, n]} labelStyle={{ color: INK.muted, fontWeight: 600 }} />
-          <Legend wrapperStyle={{ fontSize: 12, paddingTop: 6 }} iconType="circle" iconSize={8} />
+          <Legend wrapperStyle={{ fontSize: 12, paddingTop: 6 }} iconType="circle" iconSize={8}
+            formatter={(val: any) => <span style={{ color: INK.body }}>{val}</span>} />
           {order.map((t, i) => (
             <Area key={t} type="monotone" dataKey={t} stackId="1" stroke={CAT[i % CAT.length]}
               fill={CAT[i % CAT.length]} fillOpacity={0.82} strokeWidth={0.5} />
@@ -154,9 +155,9 @@ export function MindsLeaderboard() {
           <Tooltip contentStyle={tip} cursor={{ fill: "#F1EEE6" }}
             formatter={(v: any, _n: any, p: any) => [`${p.payload.wisdom} insights · ${p.payload.quotes} quotes · ${p.payload.eps} eps`, ""]}
             labelStyle={{ color: INK.hi, fontWeight: 700 }} separator="" />
-          <Bar dataKey="score" radius={[0, 5, 5, 0]} maxBarSize={20} fill={TEAL}
+          <Bar dataKey="score" radius={[0, 5, 5, 0]} maxBarSize={20}
             label={{ position: "right", fill: INK.muted, fontSize: 12 }}>
-            {data.map((d: any, i: number) => <Cell key={d.guest} fill={i < 3 ? TEAL_DEEP : TEAL} />)}
+            {data.map((d: any, i: number) => <Cell key={d.guest} fill={CAT[i % CAT.length]} />)}
           </Bar>
         </BarChart>
       </ResponsiveContainer>
@@ -212,9 +213,10 @@ export function ThemeEvolution() {
         <AreaChart data={rows} margin={{ top: 8, right: 8, left: -18, bottom: 0 }}>
           <CartesianGrid {...grid} vertical={false} />
           <XAxis dataKey="year" tick={axis} axisLine={{ stroke: LINE }} tickLine={false} />
-          <YAxis tick={axis} axisLine={false} tickLine={false} unit="%" />
+          <YAxis tick={axis} axisLine={false} tickLine={false} unit="%" domain={[0, 100]} />
           <Tooltip contentStyle={tip} formatter={(v: any, n: any) => [`${v}% of topics`, n]} labelStyle={{ color: INK.muted, fontWeight: 600 }} />
-          <Legend wrapperStyle={{ fontSize: 12, paddingTop: 6 }} iconType="circle" iconSize={8} />
+          <Legend wrapperStyle={{ fontSize: 12, paddingTop: 6 }} iconType="circle" iconSize={8}
+            formatter={(val: any) => <span style={{ color: INK.body }}>{val}</span>} />
           {order.map((t, i) => (
             <Area key={t} type="monotone" dataKey={t} stackId="1" stroke={CAT[i % CAT.length]}
               fill={CAT[i % CAT.length]} fillOpacity={0.8} strokeWidth={0.5} />
@@ -236,8 +238,10 @@ export function CompaniesChart() {
           <XAxis type="number" hide />
           <YAxis type="category" dataKey="name" width={120} tick={{ fill: INK.hi, fontSize: 12.5 }} axisLine={false} tickLine={false} />
           <Tooltip contentStyle={tip} cursor={{ fill: "#F1EEE6" }} separator="" formatter={(v: any) => [`${v} episodes`, ""]} labelStyle={{ color: INK.hi, fontWeight: 700 }} />
-          <Bar dataKey="count" radius={[0, 5, 5, 0]} maxBarSize={18} fill={TEAL}
-            label={{ position: "right", fill: INK.muted, fontSize: 12 }} />
+          <Bar dataKey="count" radius={[0, 5, 5, 0]} maxBarSize={18}
+            label={{ position: "right", fill: INK.muted, fontSize: 12 }}>
+            {data.map((d: any, i: number) => <Cell key={d.name} fill={CAT[i % CAT.length]} />)}
+          </Bar>
         </BarChart>
       </ResponsiveContainer>
     </div>

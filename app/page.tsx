@@ -30,7 +30,7 @@ export default function Page() {
               <span className="h-1.5 w-1.5 rounded-full bg-amber-400" /> Invest Like the Best · 2016–2026 · unofficial analysis
             </div>
             <h1 className="mt-5 max-w-4xl font-display text-[42px] font-bold leading-[1.04] text-white md:text-7xl">
-              Ten years of the best<br className="hidden md:block" /> conversations, <span className="text-amber-400">decoded.</span>
+              Ten years of the best<br className="hidden md:block" /> conversations, <span style={{ color: "#FFCE4D" }}>decoded.</span>
             </h1>
             <p className="mt-5 max-w-2xl text-[17px] leading-relaxed text-white/85">
               Every episode of Patrick O&apos;Shaughnessy&apos;s podcast — read, measured, and turned into
@@ -57,7 +57,7 @@ export default function Page() {
           <div className="mx-auto grid w-full max-w-6xl grid-cols-2 gap-px overflow-hidden px-5 py-8 text-center md:grid-cols-4">
             <QuickFact k={`${s.medianMins} min`} v="typical episode length" />
             <QuickFact k={`${(s.totalWords / 1e6).toFixed(1)}M`} v="words transcribed" />
-            <QuickFact k={String(s.companies)} v="companies discussed" />
+            <QuickFact k={s.companies.toLocaleString()} v="companies discussed" />
             <QuickFact k={String(s.repeatGuests)} v="repeat guests" />
           </div>
         </div>
