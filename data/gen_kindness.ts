@@ -72,6 +72,13 @@ export const KINDNESS: any[] = [
   "k": "When I was 12-13 doing door-to-door sales, a stranger called me over and said, 'I really like seeing a young person working hard,' then gave me $20. That reinforced that hard work has value for its own sake, and if you persist, it eventually works out."
  },
  {
+  "slug": "banister-investing-for-a-higher-purpose",
+  "guest": "Cyan Banister",
+  "date": "2024-02-20",
+  "title": "Investing for a Higher Purpose",
+  "k": "I was hitchhiking in winter in Albuquerque, became hypothermic on the freeway. An RV driver said God told him to stop for me, picked me up off the ground, gave me hot chocolate, and drove me to my mother's house in Flagstaff. That stranger's kindness saved my life."
+ },
+ {
   "slug": "bankman-fried-creating-a-perfect-market",
   "guest": "Sam Bankman-Fried",
   "date": "2021-10-19",
@@ -112,6 +119,13 @@ export const KINDNESS: any[] = [
   "date": "2016-11-08",
   "title": "Cultivating a Disaster Resistant, Compound Interest Machine",
   "k": "Wow. Kindest thing. My entrepreneurial journey was rough early on, and I hit the bottom. Craig Brace, an older, wiser employee, saw me breaking and spent a month nurturing me back to health mentally and emotionally. He was a rock. I think we all need people we can cry in front of and be our worst selves around, and hope they love us regardless."
+ },
+ {
+  "slug": "blake-investing-in-your-people",
+  "guest": "Frank Blake",
+  "date": "2024-06-11",
+  "title": "Leading By Example",
+  "k": "Ken Langone took a major risk getting me the CEO job at Home Depot. But the kindest thing was that every single day while he was my lead director, I got a call from him. Most CEOs think that would be horrible, but it was the opposite. I got so much advice, counsel, and encouragement—'It's okay, it's okay'—during 2007-2008 when everything was collapsing. Unbelievably kind."
  },
  {
   "slug": "bloomstran-what-makes-a-quality-company",
@@ -492,6 +506,20 @@ export const KINDNESS: any[] = [
   "k": "Career: Rob Bernat, managing $200B, gave harsh but thoughtful criticism on an early paper—rejected by others cruelly but Bernat coached the work. Meb now responds to every email because that feedback transformed his career. Personal: Parents paid for all books/comics without limit, no Nintendo—taught resourcefulness. Meb accumulated 5-10k comics now in mom's basement; that support meant everything."
  },
  {
+  "slug": "feeney-reinventing-the-restaurant-business",
+  "guest": "Sean Feeney",
+  "date": "2024-03-26",
+  "title": "Reinventing the Restaurant Business",
+  "k": "My wife, Maria—I call her my rock wrapped in rose petals. She gave me the courage to risk being my true self. Six weeks into Lilia, I broke my promise to not be an absent husband and spent all my time at the restaurants. She could have resented it, but instead she said, 'Let's move to Williamsburg.' We moved to a tiny apartment so I could be closer to Misi. She woke up at 4:45 a.m., gave me courage to commit fully. That gift of belief in me when I didn't have it in myself opened a door to a place I never knew existed."
+ },
+ {
+  "slug": "ferriss-curating-curiosities",
+  "guest": "Tim Ferriss",
+  "date": "2024-04-16",
+  "title": "Curating Curiosities",
+  "k": "A close friend sensed I was heading into a difficult time after my breakup 1.5 years ago. He just flew out and showed up—not to fix anything, not to do anything, just to be in close proximity. A few friends have done that for me at various points. They sense hardship coming and show up with presence. Not solving, not trying to help fix anything, just their presence alone. That proactivity and care has been so moving to me."
+ },
+ {
   "slug": "fialkow-paint-outside-the-lines",
   "guest": "David Fialkow",
   "date": "2021-09-21",
@@ -532,6 +560,13 @@ export const KINDNESS: any[] = [
   "date": "2018-06-05",
   "title": "Investing in Artificial Intelligence",
   "k": "My economics teacher in my penultimate year realized I understood the concepts, so he gave me the final exam early. If I passed, I could never attend class again. I had two years of semi-guided self-study to read economics, genetics, or pursue whatever interested me. He just let me run with it. Letting people be who they want to be is the kindest thing you can do for anyone."
+ },
+ {
+  "slug": "fontenot-the-monastery-of-code",
+  "guest": "Dave Fontenot",
+  "date": "2024-03-19",
+  "title": "The Monastery of Code",
+  "k": "A close mentor who is passing away soon believed in me when I didn't believe in myself. I started HF0 in February 2020, shut it down after two weeks due to COVID, flew to Taiwan to learn Mandarin and keep the vision alive, and lost faith. She believed in me at that moment and helped me get visas for the whole team. We ran the first full batch in Taiwan during COVID. That belief saved the dream."
  },
  {
   "slug": "friar-building-the-local-graph",
@@ -632,6 +667,13 @@ export const KINDNESS: any[] = [
   "k": "At the end of her life, my mother held my hand and said to me in Spanish, \"Te quiero\" (I love you), and \"se valiente\" (be courageous). That's the kindest thing anyone has ever done for me—knowing she was dying, she thought to tell her son to be courageous."
  },
  {
+  "slug": "grady-relentless-application-of-force",
+  "guest": "Pat Grady",
+  "date": "2024-06-18",
+  "title": "Relentless Application of Force",
+  "k": "Many people saw through my rough exterior and believed in me when others wouldn't. My parents were strict but gave me room to figure myself out. In college, a scholarship director's wife once said, 'You're rough around the edges, but you clean up pretty nice.' John Carroll at Summit Partners took a risk when no one else on his team wanted me. Doug Leone hired me at Sequoia as an experiment; I nearly got fired multiple times. Jim Goetz defended me when five other partners wanted me out, because he saw my intention to do right. Seeing past rough exteriors to help goodness flourish—that's the kindest thing."
+ },
+ {
   "slug": "graham-investing-in-overlooked-businesses",
   "guest": "Tracy Graham",
   "date": "2020-12-29",
@@ -674,6 +716,13 @@ export const KINDNESS: any[] = [
   "k": "My partner stepped up to support me when I started Forerunner with a newborn. But the kindest moment was after my 2008 angel fund failed. Phil Schlein said, 'Next time you invest, I'll invest too'—not because I succeeded, but because I learned. He saw the learning in failure, and that belief saved my career."
  },
  {
+  "slug": "greene-optimizing-your-reality",
+  "guest": "Robert Greene",
+  "date": "2024-06-25",
+  "title": "Optimizing Your Reality",
+  "k": "When I was 36, depressed after Hollywood, a book packager named Joost Elffers asked if I had book ideas. I improvised The 48 Laws of Power concept. He got excited, told me to write a treatment, and said he'd pay for me to live while I wrote. He believed in me and my idea when I was no one. That act of kindness—trusting me to deliver when he had no guarantee—turned my life around."
+ },
+ {
   "slug": "griffin-pulling-the-thread",
   "guest": "Tren Griffin",
   "date": "2018-05-15",
@@ -688,6 +737,13 @@ export const KINDNESS: any[] = [
   "k": "My stepdad gave me unconditional love after I moved to the US at 12. He's an entrepreneur who founded ATG, one of the first e-commerce software companies used by millions. But he also made Halloween costumes from scratch for all seven of us kids—I'm the oldest. He took endless joy in both building software at massive scale and crafting costumes by hand. That combo of joy in tinkering, exploration, and building with people inspired me deeply."
  },
  {
+  "slug": "groden-the-future-of-flying",
+  "guest": "Mark Groden",
+  "date": "2024-05-21",
+  "title": "The Future of Flying",
+  "k": "I had a coach at the beginning who offered to coach me basically for free for years and became a close friend. Without that guidance, I don't think I would be here today. He helped me learn to articulate my passion and communicate the why behind what matters most to me."
+ },
+ {
   "slug": "gross-finding-undiscovered-talent",
   "guest": "Daniel Gross",
   "date": "2020-12-01",
@@ -700,6 +756,13 @@ export const KINDNESS: any[] = [
   "date": "2022-05-17",
   "title": "Identifying Talent",
   "k": "My mother drove me to chess tournaments at age 10 without expecting anything in return. She was an incredible, loving mother—embodying unconditional support that shaped my development and remains underrated in society."
+ },
+ {
+  "slug": "guo-the-power-of-conviction",
+  "guest": "Sarah Guo",
+  "date": "2024-08-06",
+  "title": "The Power of Conviction",
+  "k": "Three people. My husband Pat—thank you for asking me to marry you, that's pretty great. Aneel Bhusri from Workday saw potential in me at Goldman and said 'You belong back in technology' and gave me a raw goods bet at Greylock. And Asheem Chandna, my partner, who had complete conviction in my ability early, opened his network, and treated my judgments seriously even when I was young. He gave his people too much opportunity if they could take it—that's what I try to emulate."
  },
  {
   "slug": "gupta-focus",
@@ -814,11 +877,25 @@ export const KINDNESS: any[] = [
   "k": "I would say it's going to sound a little weird at first. But my friend, Sunil, as a connector, I'm always meet someone how can I be helpful? What can I give to you? But he told me once, and I think this is, I'd say kindness it's also probably the best advice that I think I've ever gotten. And he said, \"The best gift that you can give someone is to share authentically with them and to share vulnera"
  },
  {
+  "slug": "investment-industry-paradigms",
+  "guest": "Ted Seides",
+  "date": "2024-09-26",
+  "title": "Investment Industry Paradigms",
+  "k": "In the early years of the podcast, I was really in between what this has become as a business and pretty stressed about life. I had Paul Black from WCM Investment Management on the show early on. About nine months later, they called and said we had a great year and think you're a big part of it—we want to pay you a bonus. He had no idea how important that was to me at that moment. I've had a lot of people on who've benefited economically, but he may be the first who paid it forward and did something about it."
+ },
+ {
   "slug": "ishbia-a-system-for-success",
   "guest": "Justin Ishbia",
   "date": "2023-12-19",
   "title": "Lessons from Acquiring 586 Companies",
   "k": "That's a great question. I've heard you ask it before. I was fortunate to have lots of mentors and there’s people in my life who made a really big and positive impact on me. But one, I think, actual piece of advice someone gave me and I backed it on the last decade for sure, and I'm proud and I tell on some people that work in my organization, that advice is this: try and have one friend in each d"
+ },
+ {
+  "slug": "ittycheria-the-database-evolution",
+  "guest": "Dev Ittycheria",
+  "date": "2024-05-14",
+  "title": "The Database Evolution",
+  "k": "I think believing in me. People believed in me when maybe I didn't think I deserved it—Steve Walske believing in me with no software experience, investors believing in MongoDB, employees trusting me on the journey, my wife believing in me. That's something I'm so grateful for."
  },
  {
   "slug": "jacobs-content-to-commerce",
@@ -996,11 +1073,25 @@ export const KINDNESS: any[] = [
   "k": "During my IPO roadshow, an unknown public company CEO reached out through bankers saying I could call him. The night before IPO at 11pm, I texted Sarah Friar, Square's CFO: 'Can you talk?' She answered and gave me a pep talk. In those moments when you feel alone as a CEO, knowing someone who's been through it will listen and empathize is genuinely kind."
  },
  {
+  "slug": "langone-the-american-dream",
+  "guest": "Ken Langone",
+  "date": "2024-04-09",
+  "title": "The American Dream",
+  "k": "Lenny Ormon, a liquor-store owner in Roslyn, gave me work moving cardboard boxes for $1/week as a kid. After I figured out how to make $3-4/week selling the scrap paper, he didn't complain. Then when he heard I was going to college, he called me in and handed me an envelope—he'd been saving $1 per week for all those weeks. That envelope, and so many other kindnesses from people throughout my life, is why I believe in God."
+ },
+ {
   "slug": "lasky-the-business-of-gaming",
   "guest": "Mitch Lasky",
   "date": "2022-09-06",
   "title": "The Business of Gaming",
   "k": "When I first started working at Activision in 1995, well, I'd been a lawyer, not a very good one, but I had entered the video game business through that door because I had done some work at the Walt Disney Company when they were making their transition to digital. And so I had learned a lot about that business."
+ },
+ {
+  "slug": "lasry-making-bucks-in-credit-and-sports",
+  "guest": "Marc Lasry",
+  "date": "2024-04-30",
+  "title": "Making Bucks in Credit and Sports",
+  "k": "Getting a full scholarship to college because I don't think I could be where I am without people who helped. Also grateful to every girl who said yes to me on dates in high school when I was geeky."
  },
  {
   "slug": "lawson-how-to-build-a-platform",
@@ -1071,6 +1162,13 @@ export const KINDNESS: any[] = [
   "date": "2018-10-23",
   "title": "Fintech and Trend Following",
   "k": "My wife just puts up with every day kindness—the entrepreneur life, the nomadic lifestyle. She forgives me every day. My daughter sends thoughtful texts that make me proud. They continue to be the kindest people to me."
+ },
+ {
+  "slug": "liu-building-airtable",
+  "guest": "Howie Liu",
+  "date": "2024-05-28",
+  "title": "Building Airtable",
+  "k": "My parents were incredibly supportive of my journey as an entrepreneur even though we didn't have money to spare and they didn't fully understand what it meant. Then Lukas at CrowdFlower wrote me a personal check when I had only 2.5 months of runway left—not a loan, just a gift. It wasn't just the thought; it was the concrete help that extended my runway enough to team up with a college friend, go through YC, and eventually reach the first exit with Salesforce."
  },
  {
   "slug": "livermore-the-search-for-the-truth-with-the-anonymous-master",
@@ -1381,6 +1479,13 @@ export const KINDNESS: any[] = [
   "k": "Andy Ratcliffe as a mentor and friend has been one of the kindest people I know. He's a founding partner of Benchmark Capital, chair of Penn endowment, founder of Wealthfront. He's been an inspiration over more than a decade in thinking about paying it forward with knowledge and support. Generational knowledge transfer is ultimately what made Silicon Valley the place it is today, and I think that's what will help tech here thrive."
  },
  {
+  "slug": "peterson-a-people-first-approach",
+  "guest": "Anne-Marie Peterson",
+  "date": "2024-03-12",
+  "title": "The Capital System",
+  "k": "My original boss, John Wise, hired me as his assistant 30 years ago and saw something in me. When I told him I didn't want the analyst job, he said, 'You're going to be better than I ever was. The answer is not no.' He introduced me to his clients and believed in me when I had no confidence. That's why I'm here today."
+ },
+ {
   "slug": "pfeffer-adapt-and-evolve",
   "guest": "John Pfeffer",
   "date": "2022-02-01",
@@ -1472,6 +1577,13 @@ export const KINDNESS: any[] = [
   "k": "When I was in remedial school, a math teacher lifted me out of that program and put me in the gifted program—just because I'd asked him about a math problem I was working on. He wanted to teach you something. That acceleration and those experiences are why I became a professor and why I teach working-class folks. I wanted to give back."
  },
  {
+  "slug": "ric-elias-the-art-of-living-well",
+  "guest": "Ric Elias",
+  "date": "2024-09-17",
+  "title": "The Art of Living Well",
+  "k": "In fairness, I knew this question was coming. There's been so much, but instead of finding the one person, I'll tell you the thing, and it's forgiveness. I have been forgiven by many people ultimately for being human. I've been forgiven by my wife for not being as committed in terms of being at home in that first decade of our kids. I've been forgiven by my kids for not being that present. The grace that you give somebody when you forgive them is the most beautiful thing we do as humans."
+ },
+ {
   "slug": "rivas-a-new-blueprint-for-building-homes",
   "guest": "Alexis Rivas",
   "date": "2023-04-25",
@@ -1540,6 +1652,13 @@ export const KINDNESS: any[] = [
   "date": "2022-01-18",
   "title": "Building an Investment Compass",
   "k": "My current wife, whom I've been married to for a year, was incredible to me as we started dating while I was going through a divorce after 24 years. She was incredibly understanding and compassionate about the difficulties of that period and helped me tremendously while also trying to run my business and Eminence Capital."
+ },
+ {
+  "slug": "sandow-building-brand-new-businesses",
+  "guest": "Adam Sandow",
+  "date": "2024-06-04",
+  "title": "The Power of Print Media",
+  "k": "My parents have always been incredibly supportive through success and failure alike. I used to joke that if my business failed, I'd move back in with them and get back on my feet. That unconditional support is foundational to who I am, and it's something I try to give my daughters and wife."
  },
  {
   "slug": "savage-all-things-fintech-investing",
@@ -1654,6 +1773,13 @@ export const KINDNESS: any[] = [
   "k": "The kindest thing people ever done for me, I mean, they hired me. My personal history, being a foreigner in this country and speak with a fat accent, or more so 30 years ago than now, I have credentials they couldn't even pronounce, let alone understand what they meant. People need to take a chance on you. I'm still immensely grateful. It was there at Greylock, who's obviously the CEO of Workday, founder of Workday. And then Scott Sandell was at NEA. They decided, 'Yeah, this guy, he ain't going to lose.' Took a chance."
  },
  {
+  "slug": "small-ideas-attract-competition",
+  "guest": "Kareem Zaki",
+  "date": "2024-10-08",
+  "title": "Small Ideas Attract Competition",
+  "k": "My eighth-grade teacher, Ms. Bonfield, reached out to my parents and insisted I transfer to St. Xavier in Cincinnati to fully express my talents. She printed papers explaining why the move mattered. I don't think I make it to college without her guidance. That single moment changed my entire life trajectory."
+ },
+ {
   "slug": "smith-investing-in-enterprise-software",
   "guest": "Robert Smith",
   "date": "2022-08-23",
@@ -1680,6 +1806,13 @@ export const KINDNESS: any[] = [
   "date": "2022-09-20",
   "title": "Billion Dollar Scrubs",
   "k": "Heather making me her business partner early on. We're very different and think differently. She took a big leap saying 'I want to do this with you'—it was her idea, her vision, and I joined onto that. It changed my life. We're best friends and it's been one of the most significant relationships of my life."
+ },
+ {
+  "slug": "srinivas-building-an-answer-engine",
+  "guest": "Aravind Srinivas",
+  "date": "2024-03-05",
+  "title": "Building An Answer Engine",
+  "k": "During the SVB bank collapse, I was very stressed. Nat Friedman just said, 'I'll give you the money, don't worry. I'll take care of your payroll.' He and Daniel didn't even hesitate to fund us through the crisis when my payroll was at risk."
  },
  {
   "slug": "srinivasan-optimizing-your-inputs",
@@ -1759,11 +1892,25 @@ export const KINDNESS: any[] = [
   "k": "I think of, honestly, Paul Graham and Jessica Livingston meeting us for our totally harried 10-minute pitch for Posterous, the blog platform back in 2008. They said yes. I'm finding out how deep this rabbit hole goes now. Thank you for funding us and then introducing me to a world where I wasn't meant to have a job. In fact, we're here to help everyone else create a million jobs and to touch a billion people."
  },
  {
+  "slug": "taneja-engineering-global-resilience",
+  "guest": "Hemant Taneja",
+  "date": "2024-07-31",
+  "title": "Engineering Global Resilience",
+  "k": "When I did my first deal at GC, David called me and said, 'I want you to take a couple of thousand bucks, go have a meal with who you want to go do it with.' I took my parents and we celebrated my first milestone. Moments like that where somebody is celebrating your success and helping you share it forward—those are incredible."
+ },
+ {
   "slug": "tavel-consumer-marketplace-investing",
   "guest": "Sarah Tavel",
   "date": "2020-04-07",
   "title": "Consumer & Marketplace Investing",
   "k": "Jeremy Levine from Bessemer Venture Partners took a bet on me when I was coming out of college with no venture experience—I was a philosophy major. Not only did he hire me, but he spent his precious time mentoring me actively for six years. As an investor, I now understand how valuable that marginal hour is, and his generosity in investing it in me was extraordinary."
+ },
+ {
+  "slug": "taylor-the-agent-era",
+  "guest": "Bret Taylor",
+  "date": "2024-09-03",
+  "title": "The Agent Era",
+  "k": "My wife saying, \"Yes,\" that she'd marry me."
  },
  {
   "slug": "taylor-the-modern-activist-toolkit",
@@ -1778,6 +1925,20 @@ export const KINDNESS: any[] = [
   "date": "2024-01-30",
   "title": "Unlocking Innovation in Pharma",
   "k": "I think this has a pretty obvious answer in my case, and many people have done many kind things for me, right? But I think I just have to go with probably what is the most common answer, which is my parents have always been -- unending well of support, and they build me out of many low points in my life. So I'm very thankful for that. Now of all the people who've done to me many kindnesses, nothing really compares to what my parents have done."
+ },
+ {
+  "slug": "tenev-navigating-robinhoods-evolution",
+  "guest": "Vlad Tenev",
+  "date": "2024-08-13",
+  "title": "Navigating Robinhood's Evolution",
+  "k": "When I left my PhD at UCLA to start my first business, I was terrified. I met with Dimitri Shlyakhtenko, the Math Department VP Chair, to ask for a leave of absence. I had no safety net. He was so encouraging: 'If you want to become an entrepreneur, I wish you well. And if it doesn't work, we love you here. We'd always welcome you back.' That conversation empowered me. A year later, when I chose not to return, he remembered it fondly and told me at a commencement: 'Very few people from math start businesses. We invited you because we want more people to do that.' His permission and welcome-back guarantee were defining."
+ },
+ {
+  "slug": "the-future-of-intelligent-machines",
+  "guest": "Ray Ozzie",
+  "date": "2024-10-01",
+  "title": "The Future of Intelligent Machines",
+  "k": "Mitch Kapor saw my passion for human collaboration through computers and when VCs rejected me, he said, 'Let's figure out a way that you can do what you want to do.' He didn't even understand my vision but gave me the opportunity to start Iris Associates. That single relationship enabled everything—Lotus Notes, Groove, Microsoft, Blues."
  },
  {
   "slug": "thompson-platforms-ecosystems-and-aggregators",
@@ -1799,6 +1960,13 @@ export const KINDNESS: any[] = [
   "date": "2017-09-19",
   "title": "Tech Investing Outside of Silicon Valley",
   "k": "Being aggressively fired from a company in 2007 with security escorting him out lit a fire in his belly to pursue startups. Depressed for six months, he studied the accelerator model during that time. Without knowing it, the man who fired him did the kindest thing—forced him toward his real passion."
+ },
+ {
+  "slug": "transforming-company-narrative",
+  "guest": "Lulu Meservey",
+  "date": "2024-09-24",
+  "title": "Transforming Company Narrative",
+  "k": "Part of my childhood was in Norway. I lived in Oslo, and growing up we always had very little money. I was in public school just learning Norwegian and no one was really talking to me. I was not the popular kid. I held open a door in a community center for an older man, and he took a while to walk through. He thanked me in Norwegian, and then he reached into his pocket and gave me a 10 NOK coin and said, \"You're a nice girl.\" It wasn't the most extravagant act of kindness, but I was a stranger in a strange land, and here was this random person who had never met me who gave me this little kindness. It's stayed with me."
  },
  {
   "slug": "traynor-the-reality-of-ai",
@@ -1938,6 +2106,13 @@ export const KINDNESS: any[] = [
   "date": "2022-10-04",
   "title": "Non-Traditional Endowment Investing",
   "k": "My wife. We've been married 21 years. When we got married we were basically kids. We've lived in San Francisco, Chicago, Tokyo, London, back to Tokyo, Des Moines. I've been blessed with great career opportunities and working with great people, but her willingness to allow me to do that, to move around and take those chances, is definitely the kindest thing anybody's ever done for me."
+ },
+ {
+  "slug": "wittenborn-finding-the-adjacent-possible",
+  "guest": "Nico Wittenborn",
+  "date": "2024-05-07",
+  "title": "Finding the Adjacent Possible",
+  "k": "On a professional level, a Point Nine founder gave me an opportunity to learn venture when I was doing iPhone reselling. On a personal level, my wife married me and brought two beautiful kids into the world. On a spiritual level, I believe in a higher power looking out for me."
  },
  {
   "slug": "wolfe-factories-of-the-future",
