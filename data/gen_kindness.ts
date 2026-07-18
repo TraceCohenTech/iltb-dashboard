@@ -23,6 +23,20 @@ export const KINDNESS: any[] = [
   "k": "People forgave me early work when I wasn't knowledgeable; gave me time to grow. When I stumbled on European macro in 2011, readers stuck with me. That grace helped build everything that followed."
  },
  {
+  "slug": "brown-the-wu-tang-clan-of-finance",
+  "guest": "Josh Brown & Michael Batnick & Barry Ritholtz",
+  "date": "2017-08-29",
+  "title": "The Wu Tang Clan of Finance",
+  "k": "Josh: Meeting Barry in 2010 who said 'let's do something together' was life-changing—the person he most admired invited him in. Michael: Josh spent 15 minutes talking to him late at a train station when his job prospects had collapsed. Barry: People like Marty Avaback who stopped their busy day to be generous with time and wisdom—it's noticed and appreciated."
+ },
+ {
+  "slug": "byrne-cryptopocalypse",
+  "guest": "Preston Byrne",
+  "date": "2018-01-16",
+  "title": "Cryptopocalypse",
+  "k": "When I left Monax in summer 2017, a friend in New York shook me out of my disappointment, telling me to get back to writing. We went to Pork Fest in New Hampshire together, and that wake-up call—getting me back to my senses—was the nicest thing anyone's done for me."
+ },
+ {
   "slug": "cassel-investing-in-tiny-stocks",
   "guest": "Ian Cassel",
   "date": "2017-02-14",
@@ -44,6 +58,27 @@ export const KINDNESS: any[] = [
   "k": "A partner sacrificed significant money to let my business continue growing. Out of love, not necessity. That's the kindest thing."
  },
  {
+  "slug": "dixon-the-future-of-tech",
+  "guest": "Chris Dixon",
+  "date": "2017-12-26",
+  "title": "The Future of Tech",
+  "k": "My parents were English professors who encouraged reading and intellectual curiosity. Teachers in Philosophy spent hours discussing ideas after class. I've been very fortunate to have great mentors and teachers throughout my life."
+ },
+ {
+  "slug": "dorsey-buying-companies-with-economic-moats",
+  "guest": "Pat Dorsey",
+  "date": "2017-08-22",
+  "title": "Buying Companies With Economic Moats",
+  "k": "Scott Hendricks, a professor at Kansas State University, invited me to be an 'adjunct professor for a day' so I could attend Berkshire Hathaway's annual meeting with his class—a privilege technically reserved for faculty. He got zero benefit from doing it, but made time for someone coming up in the profession. It reminded me how important it is for those of us further along to make time for the next generation, because the goal should be that they're smarter than we are."
+ },
+ {
+  "slug": "douvos-a-value-investor-lost-in-the-valley",
+  "guest": "Chris Douvos",
+  "date": "2018-05-01",
+  "title": "A Value Investor Lost in the Valley",
+  "k": "Jim Ventre, an admissions officer at Phillips Academy Andover, came to my middle school in Brooklyn during a near-riot with a presentation about the school. I got in, but never saw Jim again. Twenty-five years later at an alumni event, I found Jim working in admissions, having left a 20-year law career because he loved changing lives through education. I finally got to thank him."
+ },
+ {
   "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
   "guest": "Leigh Drogen",
   "date": "2017-06-13",
@@ -58,11 +93,32 @@ export const KINDNESS: any[] = [
   "k": "My wife supported my move to NYC for career, then my giant pay cut to join Betterment as a startup. She's a diplomat who could move freely, but she chose my dreams first. We have the best arguments because we disagree well; I owe her repayment by supporting her dreams equally. Also, in 6th/7th grade, my math teacher gave me rides home. I lied about homework once, saying I forgot it, but he saw me do it in class. He said: 'I've done good things for you, and you've disappointed me by lying.' That moment—not shaming, just a line in the sand about honesty—stuck with me forever."
  },
  {
+  "slug": "faber-factors-dividends-and-angel-investing",
+  "guest": "Meb Faber",
+  "date": "2017-09-07",
+  "title": "Factors, Dividends, and Angel Investing",
+  "k": "Career: Rob Bernat, managing $200B, gave harsh but thoughtful criticism on an early paper—rejected by others cruelly but Bernat coached the work. Meb now responds to every email because that feedback transformed his career. Personal: Parents paid for all books/comics without limit, no Nintendo—taught resourcefulness. Meb accumulated 5-10k comics now in mom's basement; that support meant everything."
+ },
+ {
+  "slug": "foer-world-without-mind",
+  "guest": "Franklin Foer",
+  "date": "2017-12-12",
+  "title": "World Without Mind",
+  "k": "A friend who worked with me had taken another job but when our publication faced a crisis—fabricated articles amid the Iraq War and advertiser revolt—he spent a full week helping me, working crazy long days embedded with me to help me get through it. In moments of existential fear when your brain makes all these worst-case connections, that kind of selfless friendship is the most extraordinary thing."
+ },
+ {
   "slug": "ganti-esoteric-assets",
   "guest": "Rishi Ganti",
   "date": "2017-07-18",
   "title": "Esoteric Assets",
   "k": "I grew up with unreliable parents and was lost in Wheeling, Illinois—crying among unfamiliar streets, not knowing how to get to school. I knocked on a house and asked a lady, 'Will you please drive me to school?' She said, 'Sure,' and did. At that moment, I truly understood what kindness was."
+ },
+ {
+  "slug": "gardner-finding-companies-that-break-the-rules",
+  "guest": "David Gardner",
+  "date": "2017-09-12",
+  "title": "Finding Companies That Break the Rules",
+  "k": "My father invested for me—not a professional investor himself, but he saved and foregave spending to build my account over years. More importantly, he taught me: while other kids played whiffle ball, we studied Value Line and net profit margins. That effort was profound. I've tried to magnify it through The Motley Fool, reaching as many people as possible about stocks and investing."
  },
  {
   "slug": "gramm-activist-investing",
@@ -72,11 +128,39 @@ export const KINDNESS: any[] = [
   "k": "Arthur Levitt got me into Columbia Business School. I got in because of him. The dean of admissions told me after my first week of school I wouldn't have been admitted without Arthur. It motivated me rather than making me resent them. Without him, I wouldn't have gotten in—I was rejected by NYU."
  },
  {
+  "slug": "gray-compound-your-face-off",
+  "guest": "Wes Gray",
+  "date": "2017-07-25",
+  "title": "Compound Your Face Off",
+  "k": "I would be remiss if I didn't mention the standards. My mom and parents obviously did good, and my wife for dealing with me and having three kids. But the military one was Captain Rettinger who ran the Infantry Officer Course. He was the hardest, meanest guy on the planet—everything seemed designed to torment us, but I realized afterward it was all for a reason. His harshness made us so intense that in real combat, we never even breached system one. He made us so good at our job that ironically, that severe training is the kindest thing because I believe it's why many Marines who went through that platoon are alive today."
+ },
+ {
+  "slug": "griffin-pulling-the-thread",
+  "guest": "Tren Griffin",
+  "date": "2018-05-15",
+  "title": "Pulling the Thread",
+  "k": "Bill Gates Sr. took time to have breakfast with me as a young person and mentored me for years, talking about life, judgment, and community involvement. He showed me the importance of just showing up. Without his mentoring and the Gates family's influence, I'd be working in plumbing supply."
+ },
+ {
+  "slug": "hamed-creative-investing",
+  "guest": "Ali Hamed",
+  "date": "2018-01-09",
+  "title": "Creative Investing",
+  "k": "Michael Sloan, CEO of Chloe's Soft Serve Fruit Company. When I was passing out flyers for him, he saw potential in me despite the odd job. He said 'keep taking risks, you can always work for me' and encouraged education over following traditional paths. He later became my first investor in CoVenture. I admire how he helped someone in my position take risks."
+ },
+ {
   "slug": "higgins-permanent-equity",
   "guest": "Trish & James Higgins",
   "date": "2017-03-14",
   "title": "Permanent Equity",
   "k": "James: 'Volunteering time is the kindest thing. People who are smarter, more experienced than us taking time to educate, teach, be patient with us—allocating your time is the kindest thing anyone can do.' Trish: 'The founder of our dough business, after retiring to Spain, sent our newborn daughter a gift and note saying he felt good about who he sold to. That small gesture—he was emotional at closing but wanted us to know we had his trust—meant everything.'"
+ },
+ {
+  "slug": "hinkie-data-decisions-and-basketball",
+  "guest": "Sam Hinkie",
+  "date": "2018-05-22",
+  "title": "Data, Decisions, and Basketball",
+  "k": "I was 10 years old and our family had a real tragedy. My best friend's father John Smith came to me and asked if I wanted to come with him. He and his son and I played basketball for all the rest of the day and most of the night. It got me out of a situation no 10 year old wants to be in. I've never forgotten that act of kindness."
  },
  {
   "slug": "housel-walking-and-thinking",
@@ -86,6 +170,13 @@ export const KINDNESS: any[] = [
   "k": "Jason Zweig took hours to have lunch with me as a stranger who emailed him. Most busy people say no; he said yes. That generosity shaped my entire career trajectory."
  },
  {
+  "slug": "hunt-the-three-body-portfolio",
+  "guest": "Ben Hunt",
+  "date": "2018-01-23",
+  "title": "The Three Body Portfolio",
+  "k": "When you are forgiven. Those are the most human moments and the greatest grace we can give each other. My wife saying yes was kind too, but forgiveness—that's the most special kindness."
+ },
+ {
   "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
   "guest": "week is Khe Hy",
   "date": "2017-04-04",
@@ -93,11 +184,46 @@ export const KINDNESS: any[] = [
   "k": "I would say it's going to sound a little weird at first. But my friend, Sunil, as a connector, I'm always meet someone how can I be helpful? What can I give to you? But he told me once, and I think this is, I'd say kindness it's also probably the best advice that I think I've ever gotten. And he said, \"The best gift that you can give someone is to share authentically with them and to share vulnera"
  },
  {
+  "slug": "jones-adventures-in-sports-business-and-investing",
+  "guest": "Dhani Jones",
+  "date": "2017-11-14",
+  "title": "Adventures in Sports, Business, and Investing",
+  "k": "Coach Lloyd Carr gave me a scholarship to Michigan when my mother advocated for me. She told him if he didn't recruit me, I'd go to University of Washington and beat them in the Rose Bowl. We won the national championship—against Washington State, right around the corner. That scholarship changed my life."
+ },
+ {
+  "slug": "kalghatgi-moonshot-investing",
+  "guest": "Nikhil Kalghatgi",
+  "date": "2018-04-09",
+  "title": "Moonshot Investing",
+  "k": "The kindest thing, my wife for marrying me, is the answer that I have to give and it is the most honest answer. The truth is that I wouldn't be here without her, for sure."
+ },
+ {
+  "slug": "karp-opportunities-in-public-and-private-markets",
+  "guest": "Jason Karp",
+  "date": "2018-05-08",
+  "title": "Opportunities in Public and Private Markets",
+  "k": "My squash coach at Penn saw talent in me as a freshman walk-on when I was the worst on the team. He encouraged me to stay despite the rigor of Wharton, telling me I'd become excellent. He treated me like a father figure and taught me perseverance and discipline that shaped my entire life."
+ },
+ {
+  "slug": "katsuyama-what-happens-when-you-hit-buy",
+  "guest": "Brad Katsuyama",
+  "date": "2017-10-31",
+  "title": "What Happens When You Hit Buy",
+  "k": "When I was four my parents divorced but stayed friends. My stepfather came into my life at five and made me feel like nothing changed—I've never known anything different. Now I see his kindness in my wife. I cannot imagine entering a situation with someone else's children and making them feel this way."
+ },
+ {
   "slug": "koppelman-chasing-curiosity",
   "guest": "Brian Koppelman",
   "date": "2017-01-24",
   "title": "Chasing Curiosity",
   "k": "The kindest thing was Dave saying, 'Yeah, I'll write a script with you.' He was already writing and had written scripts on his own. He could have just shown me the way, but instead he said, 'Let's do this together.' That professional partnership has been going strong for 20 years. There have been many other kindnesses—from Amy, my father, and my Mom who is no longer here—but professionally it was Dave believing in me and saying we could do this thing together."
+ },
+ {
+  "slug": "leonard-capital-light-compounders-reinvestment-moats",
+  "guest": "Connor Leonard",
+  "date": "2017-11-21",
+  "title": "Capital Light Compounders & Reinvestment Moats",
+  "k": "Quinton Maynard hired me right out of college and later gave me the opportunity to run a public equity portfolio—my dream job—because he saw my passion for public markets investing, even though it wasn't core to IMC's business. He could have said no, but he chose to build a life where I could do what I loved. He passed away a couple months ago at age 38 from cancer, and I'm grateful every day he gave me that chance."
  },
  {
   "slug": "maddox-the-ace-of-spades",
@@ -149,6 +275,13 @@ export const KINDNESS: any[] = [
   "k": "The kindest thing people do is give me their time. Time is the one thing we really can't create more of. You can easily make more money, but you can't make more time. I'm surrounded by incredibly kind people and incredibly generous people. It's peoples' time and thoughtfulness that makes a big difference."
  },
  {
+  "slug": "pompliano-full-tilt-investing",
+  "guest": "Anthony Pompliano",
+  "date": "2018-01-30",
+  "title": "Full Tilt Investing",
+  "k": "My parents taking us places, spending time with us without cost, even when they were exhausted and wanted to be elsewhere. They did things they didn't want to do for our betterment. True kindness is doing something you don't need or want to do for someone else's joy."
+ },
+ {
   "slug": "ptak-the-prospects-for-active-management",
   "guest": "Jeff Ptak",
   "date": "2016-12-20",
@@ -161,6 +294,20 @@ export const KINDNESS: any[] = [
   "date": "2017-06-20",
   "title": "Building Something People Want to Buy",
   "k": "Gosh, I've been the recipient of an amazing amount of kindness over the years. I actually think my entire career is a function of kindness and luck. God, when I was in business school... It's really funny that I worked on Wall Street for a couple of years after college. And I worked in mergers and acquisitions at Blyth, Eastman Dillon and the head of the M&A department was a Stanford grad. And he "
+ },
+ {
+  "slug": "rasmussen-private-equity-returns-in-public-markets",
+  "guest": "Dan Rasmussen",
+  "date": "2018-02-27",
+  "title": "Private Equity Returns in Public Markets",
+  "k": "It's such a wonderful question. I think for me, my mother from the age, probably when I was little, barely able to talk until I could read on my own, would probably spend an hour or two a day reading to me. I think that instilled a lifelong love of learning in me and I'm sure it was boring for my mother to read book after book after book. But her self sacrifice and time she spent reading to me,..."
+ },
+ {
+  "slug": "reece-tim-cooks-dashboard",
+  "guest": "Michael Reece",
+  "date": "2018-06-12",
+  "title": "Tim Cook's Dashboard",
+  "k": "When I was in remedial school, a math teacher lifted me out of that program and put me in the gifted program—just because I'd asked him about a math problem I was working on. He wanted to teach you something. That acceleration and those experiences are why I became a professor and why I teach working-class folks. I wanted to give back."
  },
  {
   "slug": "rogers-slow-and-steady-wins-the-race",
@@ -184,6 +331,13 @@ export const KINDNESS: any[] = [
   "k": "Peter Bernstein took time between 1999-2009 to write me typed critiques of my quarterly letters. Often a page, never longer, but he helped me think clearer. More critical than complimentary, that was true kindness. Personally, a nurse from the Philippines spent an entire evening with me when I broke my neck at age 18, never left my bedside, just talking—extraordinarily kind."
  },
  {
+  "slug": "sawikin-emerging-market-opportunities",
+  "guest": "Harvey Sawikin",
+  "date": "2018-02-06",
+  "title": "Emerging Market Opportunities",
+  "k": "My old law firm, Wachtell Lipton. They worked me hard but treated associates like important people and compensated fairly. When I left and published a novel about a law firm (not favorable to the profession), Marty Lipton wrote a note saying he liked it—a real class move."
+ },
+ {
   "slug": "shapiro-better-for-you-better-for-the-world",
   "guest": "Craig Shapiro",
   "date": "2016-11-14",
@@ -198,11 +352,25 @@ export const KINDNESS: any[] = [
   "k": "Lauren: My parents made tough choices to change the education system in Kentucky because I wasn't challenged in school. They faced pushback but showed resilience, paving the way for other kids. Kanyi: My parents gave me an education and forced me to study chemistry, math, and writing when all I wanted was to play. That's how serious they were, and it's why I value education today."
  },
  {
+  "slug": "singh-the-berkshire-of-software",
+  "guest": "Savneet Singh",
+  "date": "2018-03-06",
+  "title": "The Berkshire of Software",
+  "k": "I knew you were going to ask that and I was struggling with it. At the beginning, it reminded me of a story. It's really hard for me to say. Outside of my family, it's hard for me to say anything kinder than what my parents had done and my brother and my sister have done or my uncles or anything like that. There's one story that just popped in my head that was I think one of the things that I'l..."
+ },
+ {
   "slug": "stein-the-state-of-automated-investing",
   "guest": "Jon Stein",
   "date": "2016-11-01",
   "title": "The State of Automated Investing",
   "k": "So many people have been so generous to us along the way, and our partners with various firms have been so giving. I had so many great mentors during my consulting days, and I'd be leaving someone out if I singled one person out."
+ },
+ {
+  "slug": "stulberg-just-manageable-challenges",
+  "guest": "Brad Stulberg",
+  "date": "2017-08-08",
+  "title": "Just Manageable Challenges",
+  "k": "Kelly McGonigal, a Stanford psychologist I'd interviewed for Outside Magazine, emailed me unprompted saying I should write a book on performance. A year later when I was serious about it, I emailed her asking for agent tips. She said, 'Why don't I just email my agent and tell him you're super smart?' She did, and that agent Ted became my agent and got this book deal made. All from someone I'd never even met in person."
  },
  {
   "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
@@ -212,11 +380,46 @@ export const KINDNESS: any[] = [
   "k": "Two partners in the early days of my firm were primarily investors with their own capital. They generously shared economics with me beyond what was required—not just capital, but profit-sharing that helped set the tone for our entire firm culture."
  },
  {
+  "slug": "tisch-tech-investing-outside-of-silicon-valley",
+  "guest": "David Tisch",
+  "date": "2017-09-19",
+  "title": "Tech Investing Outside of Silicon Valley",
+  "k": "Being aggressively fired from a company in 2007 with security escorting him out lit a fire in his belly to pursue startups. Depressed for six months, he studied the accelerator model during that time. Without knowing it, the man who fired him did the kindest thing—forced him toward his real passion."
+ },
+ {
+  "slug": "urban-grand-theft-life",
+  "guest": "Tim Urban & Andrew Finn",
+  "date": "2017-10-17",
+  "title": "Grand Theft Life",
+  "k": "Andrew: My parents attended every single one of my sporting games my entire life, sitting through really boring baseball games—a thousand games of extraordinary patience and support. Tim: My fiancée has been ridiculously supportive through six years of Wait But Why obsession, 150-hour blog post deep dives, all-nighters, and traveling. She's helped even while building her own life, always there without complaint."
+ },
+ {
   "slug": "varty-the-art-of-tracking",
   "guest": "Boyd Varty",
   "date": "2017-04-11",
   "title": "The Art of Tracking",
   "k": "Wow. Yeah, I've been thinking about this a little bit. I think one of the things that pops to mind and it's maybe not from a person, but I have felt that having a relationship with nature has been an act of incredible kindness from the natural world to me. I feel like anytime I've had problems, anytime I've been unsure, anytime I've lost my way, for me, retreating into nature has been an incredibl"
+ },
+ {
+  "slug": "wenger-world-after-capital",
+  "guest": "Albert Wenger",
+  "date": "2018-03-13",
+  "title": "World After Capital",
+  "k": "The kindest thing anybody's done is to tell me that something that I thought was my mistake really didn't matter or have the consequences that I imagined it would have. It's like anytime somebody can release you or has released me from something I was blaming myself for I think that's kindest thing you can do."
+ },
+ {
+  "slug": "wilson-angel-investing-and-trend-spotting",
+  "guest": "Joanne Wilson",
+  "date": "2017-11-28",
+  "title": "Angel Investing and Trend Spotting",
+  "k": "Companies have given me shares out of nowhere just because I was an advisor. And people introduce me to others, which is so nice—they describe me positively in emails. When I'm honest with founders about what won't work, they come back years later saying I was the only one who said no and explained why. That's always nice and gratifying."
+ },
+ {
+  "slug": "wolfe-this-is-who-you-are-up-against",
+  "guest": "Josh Wolfe",
+  "date": "2018-02-13",
+  "title": "This is Who You Are Up Against",
+  "k": "My wife saying yes. But one of the happiest moments was years ago when my father told me he overheard someone ask, 'You're Josh Wolfe's father?' That stuck with me deeply."
  },
  {
   "slug": "yudkoff-really-private-equity",

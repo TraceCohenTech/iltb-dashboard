@@ -66,6 +66,38 @@ export const QUOTES: any[] = [
   "who": "Peter Attia"
  },
  {
+  "slug": "attia-peter-attia-live",
+  "guest": "Peter Attia",
+  "date": "2018-03-27",
+  "title": "Peter Attia - Live",
+  "q": "The single most important thing you can do to live longer is pick the right parents.",
+  "who": "Peter Attia"
+ },
+ {
+  "slug": "attia-peter-attia-live",
+  "guest": "Peter Attia",
+  "date": "2018-03-27",
+  "title": "Peter Attia - Live",
+  "q": "Your sport is life now—I'm more interested in not being hurt and doing things for as long as possible.",
+  "who": "Peter Attia"
+ },
+ {
+  "slug": "attia-peter-attia-live",
+  "guest": "Peter Attia",
+  "date": "2018-03-27",
+  "title": "Peter Attia - Live",
+  "q": "I would say it's actually really good to be hungry sometimes. It's physiologically relevant.",
+  "who": "Peter Attia"
+ },
+ {
+  "slug": "attia-peter-attia-live",
+  "guest": "Peter Attia",
+  "date": "2018-03-27",
+  "title": "Peter Attia - Live",
+  "q": "Never stop lifting weights. It's the difference between breaking your hip at 75 and not.",
+  "who": "Peter Attia"
+ },
+ {
   "slug": "beshore-cultivating-a-disaster-resistant-compound-interest-machine",
   "guest": "Brent Beshore",
   "date": "2016-11-08",
@@ -170,6 +202,70 @@ export const QUOTES: any[] = [
   "who": "Josh Brown"
  },
  {
+  "slug": "brown-the-wu-tang-clan-of-finance",
+  "guest": "Josh Brown & Michael Batnick & Barry Ritholtz",
+  "date": "2017-08-29",
+  "title": "The Wu Tang Clan of Finance",
+  "q": "I write for an audience of one, if other people want to read it, fantastic.",
+  "who": "Barry"
+ },
+ {
+  "slug": "brown-the-wu-tang-clan-of-finance",
+  "guest": "Josh Brown & Michael Batnick & Barry Ritholtz",
+  "date": "2017-08-29",
+  "title": "The Wu Tang Clan of Finance",
+  "q": "It's too early to have an extremely doctrinaire opinion about Bitcoin, but it's too late to not have some experimental project going on.",
+  "who": "Josh"
+ },
+ {
+  "slug": "brown-the-wu-tang-clan-of-finance",
+  "guest": "Josh Brown & Michael Batnick & Barry Ritholtz",
+  "date": "2017-08-29",
+  "title": "The Wu Tang Clan of Finance",
+  "q": "Everything's built on a story.",
+  "who": "Patrick"
+ },
+ {
+  "slug": "brown-the-wu-tang-clan-of-finance",
+  "guest": "Josh Brown & Michael Batnick & Barry Ritholtz",
+  "date": "2017-08-29",
+  "title": "The Wu Tang Clan of Finance",
+  "q": "We're like the Wu Tang clan—all the best MCs in one place but you know ODB from Liquid Swords instantly.",
+  "who": "Josh"
+ },
+ {
+  "slug": "byrne-cryptopocalypse",
+  "guest": "Preston Byrne",
+  "date": "2018-01-16",
+  "title": "Cryptopocalypse",
+  "q": "It's an unregulated penny stock casino of the 21st century.",
+  "who": "Preston Byrne"
+ },
+ {
+  "slug": "byrne-cryptopocalypse",
+  "guest": "Preston Byrne",
+  "date": "2018-01-16",
+  "title": "Cryptopocalypse",
+  "q": "Blockchains don't scale. And the bigger they get, the more unwieldy they get.",
+  "who": "Preston Byrne"
+ },
+ {
+  "slug": "byrne-cryptopocalypse",
+  "guest": "Preston Byrne",
+  "date": "2018-01-16",
+  "title": "Cryptopocalypse",
+  "q": "I say we take off and nuke the entire site from orbit.",
+  "who": "Preston Byrne (quoting Aliens on SEC's Howey opinion)"
+ },
+ {
+  "slug": "byrne-cryptopocalypse",
+  "guest": "Preston Byrne",
+  "date": "2018-01-16",
+  "title": "Cryptopocalypse",
+  "q": "You don't really need the coins to achieve distributed infrastructure. You can use Hyperledger.",
+  "who": "Preston Byrne"
+ },
+ {
   "slug": "cassel-investing-in-tiny-stocks",
   "guest": "Ian Cassel",
   "date": "2017-02-14",
@@ -242,6 +338,134 @@ export const QUOTES: any[] = [
   "who": "Chris Cole"
  },
  {
+  "slug": "dixon-the-future-of-tech",
+  "guest": "Chris Dixon",
+  "date": "2017-12-26",
+  "title": "The Future of Tech",
+  "q": "No matter how smart people work for you, the smartest people don't work for you.",
+  "who": "Bill Joy (cited by Chris)"
+ },
+ {
+  "slug": "dixon-the-future-of-tech",
+  "guest": "Chris Dixon",
+  "date": "2017-12-26",
+  "title": "The Future of Tech",
+  "q": "Software is the encoding of human ideas. If you can think it, you can write it.",
+  "who": "Chris Dixon"
+ },
+ {
+  "slug": "dixon-the-future-of-tech",
+  "guest": "Chris Dixon",
+  "date": "2017-12-26",
+  "title": "The Future of Tech",
+  "q": "Computer science was mis-titled. It should have been called algorithms and network design.",
+  "who": "Chris Dixon"
+ },
+ {
+  "slug": "dixon-the-future-of-tech",
+  "guest": "Chris Dixon",
+  "date": "2017-12-26",
+  "title": "The Future of Tech",
+  "q": "You have more information than the President did 15 years ago in your pocket.",
+  "who": "Chris Dixon"
+ },
+ {
+  "slug": "dorsey-buying-companies-with-economic-moats",
+  "guest": "Pat Dorsey",
+  "date": "2017-08-22",
+  "title": "Buying Companies With Economic Moats",
+  "q": "On the sell-side you're paid to say yes. On the buy-side you're paid to say no.",
+  "who": "Pat Dorsey"
+ },
+ {
+  "slug": "dorsey-buying-companies-with-economic-moats",
+  "guest": "Pat Dorsey",
+  "date": "2017-08-22",
+  "title": "Buying Companies With Economic Moats",
+  "q": "If that brand doesn't translate into pricing power, it's frankly not worth what the company spends to maintain it.",
+  "who": "Pat Dorsey"
+ },
+ {
+  "slug": "dorsey-buying-companies-with-economic-moats",
+  "guest": "Pat Dorsey",
+  "date": "2017-08-22",
+  "title": "Buying Companies With Economic Moats",
+  "q": "Network effects are great but if they're not monetized they don't mean doodly to an investor.",
+  "who": "Pat Dorsey"
+ },
+ {
+  "slug": "dorsey-buying-companies-with-economic-moats",
+  "guest": "Pat Dorsey",
+  "date": "2017-08-22",
+  "title": "Buying Companies With Economic Moats",
+  "q": "When you have a decision where there's a giant hue and cry and everyone says 'that's the dumbest thing ever,' it's probably worth a hard look.",
+  "who": "Pat Dorsey"
+ },
+ {
+  "slug": "dorsey-buying-companies-with-economic-moats",
+  "guest": "Pat Dorsey",
+  "date": "2017-08-22",
+  "title": "Buying Companies With Economic Moats",
+  "q": "Don't have a stock off the shelf answer. Have an answer that's specific to that business and doesn't do things just because other people do them.",
+  "who": "Pat Dorsey"
+ },
+ {
+  "slug": "dorsey-the-moat-portfolio",
+  "guest": "Pat Dorsey",
+  "date": "2018-02-20",
+  "title": "The Moat Portfolio",
+  "q": "We do not buy 60 cent dollars. You cannot look at a dynamic, growing business as a 60 cent dollar.",
+  "who": "Pat"
+ },
+ {
+  "slug": "dorsey-the-moat-portfolio",
+  "guest": "Pat Dorsey",
+  "date": "2018-02-20",
+  "title": "The Moat Portfolio",
+  "q": "A discussion is about seeking the truth.",
+  "who": "Ray Dalio"
+ },
+ {
+  "slug": "dorsey-the-moat-portfolio",
+  "guest": "Pat Dorsey",
+  "date": "2018-02-20",
+  "title": "The Moat Portfolio",
+  "q": "Neither is good or bad—craftsmanship versus manufacturing require different skills and different structures.",
+  "who": "Pat"
+ },
+ {
+  "slug": "douvos-a-value-investor-lost-in-the-valley",
+  "guest": "Chris Douvos",
+  "date": "2018-05-01",
+  "title": "A Value Investor Lost in the Valley",
+  "q": "If you're afraid of being wrong and alone, you'll never be right and alone.",
+  "who": "David Salem (referenced)"
+ },
+ {
+  "slug": "douvos-a-value-investor-lost-in-the-valley",
+  "guest": "Chris Douvos",
+  "date": "2018-05-01",
+  "title": "A Value Investor Lost in the Valley",
+  "q": "The innovators are followed by the imitators, who are followed by the idiots.",
+  "who": "Buffett (via Chris)"
+ },
+ {
+  "slug": "douvos-a-value-investor-lost-in-the-valley",
+  "guest": "Chris Douvos",
+  "date": "2018-05-01",
+  "title": "A Value Investor Lost in the Valley",
+  "q": "It always matters in the end.",
+  "who": "Chris Douvos"
+ },
+ {
+  "slug": "douvos-a-value-investor-lost-in-the-valley",
+  "guest": "Chris Douvos",
+  "date": "2018-05-01",
+  "title": "A Value Investor Lost in the Valley",
+  "q": "Don't try this at home.",
+  "who": "Chris Douvos"
+ },
+ {
   "slug": "drogen-quant-vs-traditional-investors-and-how-alphas-become-betas",
   "guest": "Leigh Drogen",
   "date": "2017-06-13",
@@ -272,6 +496,22 @@ export const QUOTES: any[] = [
   "title": "Quant vs. Traditional Investors and How Alphas Become Betas",
   "q": "Yeah. I think the informational edge is becoming more arbitrage these days.",
   "who": "Leigh"
+ },
+ {
+  "slug": "drogen-sink-or-swim-how-to-combine-quant-and-traditional-asset-management-techniques",
+  "guest": "Leigh Drogen",
+  "date": "2017-08-01",
+  "title": "Sink or Swim: How to Combine Quant and Traditional Asset Management Techniques",
+  "q": "If you can get your mindset wrapped around simple systems of measurement and be curious about what's predictive, you'll be surprised often.",
+  "who": "Leigh Drogen"
+ },
+ {
+  "slug": "drogen-sink-or-swim-how-to-combine-quant-and-traditional-asset-management-techniques",
+  "guest": "Leigh Drogen",
+  "date": "2017-08-01",
+  "title": "Sink or Swim: How to Combine Quant and Traditional Asset Management Techniques",
+  "q": "Traditional managers can compete with quants by combining the best of both worlds.",
+  "who": "Leigh Drogen"
  },
  {
   "slug": "egan-designing-better-decisions",
@@ -306,6 +546,110 @@ export const QUOTES: any[] = [
   "who": "Ian M. Banks (via Dan Egan)"
  },
  {
+  "slug": "ehrsam-hash-power-part-3",
+  "guest": "Fred Ehrsam & multiple guests (Olaf Carlson-Wee, Naval Ravikant, Peter Van Valkenburgh, Juan Benet, Muneeb Ali)",
+  "date": "2017-10-10",
+  "title": "Hash Power - Part 3",
+  "q": "Individual reputation ends up being very important relative to your positioning in online communities.",
+  "who": "Olaf Carlson-Wee"
+ },
+ {
+  "slug": "ehrsam-hash-power-part-3",
+  "guest": "Fred Ehrsam & multiple guests (Olaf Carlson-Wee, Naval Ravikant, Peter Van Valkenburgh, Juan Benet, Muneeb Ali)",
+  "date": "2017-10-10",
+  "title": "Hash Power - Part 3",
+  "q": "Market structure is the highest point of leverage; it determines the behavior that emerges.",
+  "who": "Fred Ehrsam"
+ },
+ {
+  "slug": "ehrsam-hash-power-part-3",
+  "guest": "Fred Ehrsam & multiple guests (Olaf Carlson-Wee, Naval Ravikant, Peter Van Valkenburgh, Juan Benet, Muneeb Ali)",
+  "date": "2017-10-10",
+  "title": "Hash Power - Part 3",
+  "q": "If I can train you, you're replaceable. If you're a genius, I have to pay what you're worth.",
+  "who": "Naval Ravikant"
+ },
+ {
+  "slug": "ehrsam-hash-power-part-3",
+  "guest": "Fred Ehrsam & multiple guests (Olaf Carlson-Wee, Naval Ravikant, Peter Van Valkenburgh, Juan Benet, Muneeb Ali)",
+  "date": "2017-10-10",
+  "title": "Hash Power - Part 3",
+  "q": "The code is working for me while I'm not; that's permissionless leverage.",
+  "who": "Naval Ravikant"
+ },
+ {
+  "slug": "ehrsam-hash-power-part-3",
+  "guest": "Fred Ehrsam & multiple guests (Olaf Carlson-Wee, Naval Ravikant, Peter Van Valkenburgh, Juan Benet, Muneeb Ali)",
+  "date": "2017-10-10",
+  "title": "Hash Power - Part 3",
+  "q": "We will live in a blockchain-based reality in one form or another.",
+  "who": "Fred Ehrsam"
+ },
+ {
+  "slug": "faber-factors-dividends-and-angel-investing",
+  "guest": "Meb Faber",
+  "date": "2017-09-07",
+  "title": "Factors, Dividends, and Angel Investing",
+  "q": "I'm just happy if I get U.S. stock returns for the next decade in this angel investing.",
+  "who": "Meb"
+ },
+ {
+  "slug": "faber-factors-dividends-and-angel-investing",
+  "guest": "Meb Faber",
+  "date": "2017-09-07",
+  "title": "Factors, Dividends, and Angel Investing",
+  "q": "Illiquidity is a massive, massive positive—it forces thoughtful entry and prevents daily mark-to-market panic selling.",
+  "who": "Meb"
+ },
+ {
+  "slug": "faber-factors-dividends-and-angel-investing",
+  "guest": "Meb Faber",
+  "date": "2017-09-07",
+  "title": "Factors, Dividends, and Angel Investing",
+  "q": "Why would you invest in a mutual fund manager who has less than $100,000 invested in their own fund?",
+  "who": "Meb"
+ },
+ {
+  "slug": "faber-factors-dividends-and-angel-investing",
+  "guest": "Meb Faber",
+  "date": "2017-09-07",
+  "title": "Factors, Dividends, and Angel Investing",
+  "q": "The biggest problem with ETFs is daily liquidity—I wish they traded once at the end of the day.",
+  "who": "Meb"
+ },
+ {
+  "slug": "foer-world-without-mind",
+  "guest": "Franklin Foer",
+  "date": "2017-12-12",
+  "title": "World Without Mind",
+  "q": "The idea that we could live in a world without gatekeepers is just an illusion. There's always power.",
+  "who": "Franklin Foer"
+ },
+ {
+  "slug": "foer-world-without-mind",
+  "guest": "Franklin Foer",
+  "date": "2017-12-12",
+  "title": "World Without Mind",
+  "q": "Google stands between us and reality in a way that's unprecedented. It picks winners and losers.",
+  "who": "Franklin Foer"
+ },
+ {
+  "slug": "foer-world-without-mind",
+  "guest": "Franklin Foer",
+  "date": "2017-12-12",
+  "title": "World Without Mind",
+  "q": "Distraction is the fundamental threat to us as spiritual beings.",
+  "who": "Franklin Foer"
+ },
+ {
+  "slug": "foer-world-without-mind",
+  "guest": "Franklin Foer",
+  "date": "2017-12-12",
+  "title": "World Without Mind",
+  "q": "We need engineers and computer scientists who are also humanists.",
+  "who": "Franklin Foer"
+ },
+ {
   "slug": "ganti-esoteric-assets",
   "guest": "Rishi Ganti",
   "date": "2017-07-18",
@@ -336,6 +680,38 @@ export const QUOTES: any[] = [
   "title": "Esoteric Assets",
   "q": "Once you have the x-ray goggles on, the world's so much more vast than what people give it credit for.",
   "who": "Rishi"
+ },
+ {
+  "slug": "gardner-finding-companies-that-break-the-rules",
+  "guest": "David Gardner",
+  "date": "2017-09-12",
+  "title": "Finding Companies That Break the Rules",
+  "q": "Winners keep on winning. After a 10% gain, stock likely to gain another 10%, not drop.",
+  "who": "David"
+ },
+ {
+  "slug": "gardner-finding-companies-that-break-the-rules",
+  "guest": "David Gardner",
+  "date": "2017-09-12",
+  "title": "Finding Companies That Break the Rules",
+  "q": "Buy discipline is what matters. I don't sell—the real edge is holding forever.",
+  "who": "David"
+ },
+ {
+  "slug": "gardner-finding-companies-that-break-the-rules",
+  "guest": "David Gardner",
+  "date": "2017-09-12",
+  "title": "Finding Companies That Break the Rules",
+  "q": "Character always wins—I deeply respect entrepreneurs who break rules and solve real pain points.",
+  "who": "David"
+ },
+ {
+  "slug": "gardner-finding-companies-that-break-the-rules",
+  "guest": "David Gardner",
+  "date": "2017-09-12",
+  "title": "Finding Companies That Break the Rules",
+  "q": "Foolishness is not following the rules everyone else follows and getting outsized returns as a consequence.",
+  "who": "David"
  },
  {
   "slug": "gramm-activist-investing",
@@ -370,6 +746,94 @@ export const QUOTES: any[] = [
   "who": "Jeff Gramm"
  },
  {
+  "slug": "gray-compound-your-face-off",
+  "guest": "Wes Gray",
+  "date": "2017-07-25",
+  "title": "Compound Your Face Off",
+  "q": "I just don't trust any humans anymore. Only computers.",
+  "who": "Wes Gray"
+ },
+ {
+  "slug": "gray-compound-your-face-off",
+  "guest": "Wes Gray",
+  "date": "2017-07-25",
+  "title": "Compound Your Face Off",
+  "q": "I'm not Warren Buffett. I need systems, not to fuck everything up.",
+  "who": "Wes Gray"
+ },
+ {
+  "slug": "gray-compound-your-face-off",
+  "guest": "Wes Gray",
+  "date": "2017-07-25",
+  "title": "Compound Your Face Off",
+  "q": "The Marine Corps attracts whack jobs like myself.",
+  "who": "Wes Gray"
+ },
+ {
+  "slug": "griffin-pulling-the-thread",
+  "guest": "Tren Griffin",
+  "date": "2018-05-15",
+  "title": "Pulling the Thread",
+  "q": "You know it when you see it.",
+  "who": "Justin Steven (via Tren)"
+ },
+ {
+  "slug": "griffin-pulling-the-thread",
+  "guest": "Tren Griffin",
+  "date": "2018-05-15",
+  "title": "Pulling the Thread",
+  "q": "He likes shooting fish in a barrel with a shotgun and a barrel full of fish.",
+  "who": "Tren (on Charlie Munger)"
+ },
+ {
+  "slug": "griffin-pulling-the-thread",
+  "guest": "Tren Griffin",
+  "date": "2018-05-15",
+  "title": "Pulling the Thread",
+  "q": "I don't think I've ever met anybody you can't learn something from.",
+  "who": "Tren Griffin"
+ },
+ {
+  "slug": "griffin-pulling-the-thread",
+  "guest": "Tren Griffin",
+  "date": "2018-05-15",
+  "title": "Pulling the Thread",
+  "q": "Every business is a technology business.",
+  "who": "Tren Griffin"
+ },
+ {
+  "slug": "hamed-creative-investing",
+  "guest": "Ali Hamed",
+  "date": "2018-01-09",
+  "title": "Creative Investing",
+  "q": "Is this a trade or is it a business? If it's a one-off, we won't do it.",
+  "who": "Ali Hamed"
+ },
+ {
+  "slug": "hamed-creative-investing",
+  "guest": "Ali Hamed",
+  "date": "2018-01-09",
+  "title": "Creative Investing",
+  "q": "I never want to be the guy winning because I have a secret. If you're nervous discussing it, it's not defensible.",
+  "who": "Ali Hamed"
+ },
+ {
+  "slug": "hamed-creative-investing",
+  "guest": "Ali Hamed",
+  "date": "2018-01-09",
+  "title": "Creative Investing",
+  "q": "Revenue doesn't prove customer value. Proof is whether they come back and finish what they started.",
+  "who": "Ali Hamed"
+ },
+ {
+  "slug": "hamed-creative-investing",
+  "guest": "Ali Hamed",
+  "date": "2018-01-09",
+  "title": "Creative Investing",
+  "q": "Free media is completely misaligned with its readers. The reader is the product; advertisers are the customer.",
+  "who": "Ali Hamed"
+ },
+ {
   "slug": "higgins-permanent-equity",
   "guest": "Trish & James Higgins",
   "date": "2017-03-14",
@@ -394,6 +858,70 @@ export const QUOTES: any[] = [
   "who": "Trish Higgins"
  },
  {
+  "slug": "higgins-retail-contrarians",
+  "guest": "Jim Higgins & Tom Digan (with Rick & Joel)",
+  "date": "2017-12-19",
+  "title": "Retail Contrarians",
+  "q": "Retail isn't real estate; retail is a business. Great real estate will always be in demand.",
+  "who": "Rick"
+ },
+ {
+  "slug": "higgins-retail-contrarians",
+  "guest": "Jim Higgins & Tom Digan (with Rick & Joel)",
+  "date": "2017-12-19",
+  "title": "Retail Contrarians",
+  "q": "It's all about the real estate. We're not afraid to get on a plane to look at the asset.",
+  "who": "Joel"
+ },
+ {
+  "slug": "higgins-retail-contrarians",
+  "guest": "Jim Higgins & Tom Digan (with Rick & Joel)",
+  "date": "2017-12-19",
+  "title": "Retail Contrarians",
+  "q": "Eventually markets are reasonably efficient, but defining eventually depends on the sector.",
+  "who": "Jim Higgins"
+ },
+ {
+  "slug": "higgins-retail-contrarians",
+  "guest": "Jim Higgins & Tom Digan (with Rick & Joel)",
+  "date": "2017-12-19",
+  "title": "Retail Contrarians",
+  "q": "Being a specialist is absolutely an advantage when you're trying to extract true alpha.",
+  "who": "Jim Higgins"
+ },
+ {
+  "slug": "higgins-retail-contrarians",
+  "guest": "Jim Higgins & Tom Digan (with Rick & Joel)",
+  "date": "2017-12-19",
+  "title": "Retail Contrarians",
+  "q": "This is a classic baby thrown out with the bathwater—every retail security got painted with the same brush.",
+  "who": "Tom Digan"
+ },
+ {
+  "slug": "hinkie-data-decisions-and-basketball",
+  "guest": "Sam Hinkie",
+  "date": "2018-05-22",
+  "title": "Data, Decisions, and Basketball",
+  "q": "We won't wake up in 30 or 40 years and regret that one opportunity we shortcut.",
+  "who": "Sam Hinkie"
+ },
+ {
+  "slug": "hinkie-data-decisions-and-basketball",
+  "guest": "Sam Hinkie",
+  "date": "2018-05-22",
+  "title": "Data, Decisions, and Basketball",
+  "q": "If you want particular traits in your children, choose them in your spouse.",
+  "who": "Sam Hinkie"
+ },
+ {
+  "slug": "hinkie-data-decisions-and-basketball",
+  "guest": "Sam Hinkie",
+  "date": "2018-05-22",
+  "title": "Data, Decisions, and Basketball",
+  "q": "A players hire A players and B players hire C players.",
+  "who": "Sam Hinkie"
+ },
+ {
   "slug": "housel-walking-and-thinking",
   "guest": "Morgan Housel",
   "date": "2016-10-04",
@@ -416,6 +944,46 @@ export const QUOTES: any[] = [
   "title": "Walking and Thinking",
   "q": "Almost every great investor gets more humble as time goes on.",
   "who": "Morgan Housel"
+ },
+ {
+  "slug": "hunt-the-three-body-portfolio",
+  "guest": "Ben Hunt",
+  "date": "2018-01-23",
+  "title": "The Three Body Portfolio",
+  "q": "There is no algorithm. There is no formula.",
+  "who": "Ben Hunt (on the three-body problem)"
+ },
+ {
+  "slug": "hunt-the-three-body-portfolio",
+  "guest": "Ben Hunt",
+  "date": "2018-01-23",
+  "title": "The Three Body Portfolio",
+  "q": "You always want to live to fight another day in investing because there always is another day.",
+  "who": "Ben Hunt"
+ },
+ {
+  "slug": "hunt-the-three-body-portfolio",
+  "guest": "Ben Hunt",
+  "date": "2018-01-23",
+  "title": "The Three Body Portfolio",
+  "q": "Alpha is private information, period, full stop.",
+  "who": "Ben Hunt"
+ },
+ {
+  "slug": "hunt-the-three-body-portfolio",
+  "guest": "Ben Hunt",
+  "date": "2018-01-23",
+  "title": "The Three Body Portfolio",
+  "q": "If the whole system goes down, I'm not going to make any money, right?",
+  "who": "Ben Hunt (on personal risk in 2008)"
+ },
+ {
+  "slug": "hunt-the-three-body-portfolio",
+  "guest": "Ben Hunt",
+  "date": "2018-01-23",
+  "title": "The Three Body Portfolio",
+  "q": "A fresh egg should be fingernail clean, not industrially scrubbed.",
+  "who": "Ben Hunt"
  },
  {
   "slug": "hy-quant-hedge-funds-and-the-fear-of-death",
@@ -450,6 +1018,38 @@ export const QUOTES: any[] = [
   "who": "week is Khe Hy"
  },
  {
+  "slug": "jones-adventures-in-sports-business-and-investing",
+  "guest": "Dhani Jones",
+  "date": "2017-11-14",
+  "title": "Adventures in Sports, Business, and Investing",
+  "q": "Where most people don't go, I go.",
+  "who": "Dhani"
+ },
+ {
+  "slug": "jones-adventures-in-sports-business-and-investing",
+  "guest": "Dhani Jones",
+  "date": "2017-11-14",
+  "title": "Adventures in Sports, Business, and Investing",
+  "q": "Everybody wants to be the first one, but nobody wants to take a chance.",
+  "who": "Dhani"
+ },
+ {
+  "slug": "jones-adventures-in-sports-business-and-investing",
+  "guest": "Dhani Jones",
+  "date": "2017-11-14",
+  "title": "Adventures in Sports, Business, and Investing",
+  "q": "When you're early and you're right, you're still wrong.",
+  "who": "Dhani"
+ },
+ {
+  "slug": "jones-adventures-in-sports-business-and-investing",
+  "guest": "Dhani Jones",
+  "date": "2017-11-14",
+  "title": "Adventures in Sports, Business, and Investing",
+  "q": "I want to live vicariously through you.",
+  "who": "Coach Mike Brown"
+ },
+ {
   "slug": "judelson-bail-street-with-nycs-leading-bail-bondsman",
   "guest": "Ira Judelson",
   "date": "2017-06-06",
@@ -480,6 +1080,94 @@ export const QUOTES: any[] = [
   "title": "Bail Street, with NYC's Leading Bail Bondsman",
   "q": "But I did get the defendant. We did actually get him.",
   "who": "Ira"
+ },
+ {
+  "slug": "kalghatgi-moonshot-investing",
+  "guest": "Nikhil Kalghatgi",
+  "date": "2018-04-09",
+  "title": "Moonshot Investing",
+  "q": "Moonshot is really an investment strategy, not like a sector.",
+  "who": "Nikhil Kalghatgi"
+ },
+ {
+  "slug": "kalghatgi-moonshot-investing",
+  "guest": "Nikhil Kalghatgi",
+  "date": "2018-04-09",
+  "title": "Moonshot Investing",
+  "q": "The best gift you can give to an entrepreneur is to expand their mind and their goals.",
+  "who": "Nikhil Kalghatgi"
+ },
+ {
+  "slug": "kalghatgi-moonshot-investing",
+  "guest": "Nikhil Kalghatgi",
+  "date": "2018-04-09",
+  "title": "Moonshot Investing",
+  "q": "Manufacturing serendipity: figure out what your passions are and what you're really great at—then systematize it.",
+  "who": "Nikhil Kalghatgi"
+ },
+ {
+  "slug": "kalghatgi-moonshot-investing",
+  "guest": "Nikhil Kalghatgi",
+  "date": "2018-04-09",
+  "title": "Moonshot Investing",
+  "q": "Can you curate experiences? That's a much trickier leveling up of events.",
+  "who": "Nikhil Kalghatgi"
+ },
+ {
+  "slug": "karp-opportunities-in-public-and-private-markets",
+  "guest": "Jason Karp",
+  "date": "2018-05-08",
+  "title": "Opportunities in Public and Private Markets",
+  "q": "You can't mess it up.",
+  "who": "Jason Karp"
+ },
+ {
+  "slug": "karp-opportunities-in-public-and-private-markets",
+  "guest": "Jason Karp",
+  "date": "2018-05-08",
+  "title": "Opportunities in Public and Private Markets",
+  "q": "All crypto is greater fool theory.",
+  "who": "Jason Karp"
+ },
+ {
+  "slug": "karp-opportunities-in-public-and-private-markets",
+  "guest": "Jason Karp",
+  "date": "2018-05-08",
+  "title": "Opportunities in Public and Private Markets",
+  "q": "If your cash flows are actually growing, you could be wrong on valuation by a lot and still win.",
+  "who": "Jason Karp"
+ },
+ {
+  "slug": "katsuyama-what-happens-when-you-hit-buy",
+  "guest": "Brad Katsuyama",
+  "date": "2017-10-31",
+  "title": "What Happens When You Hit Buy",
+  "q": "Someone wanted to buy shares because I wanted to.",
+  "who": "Brad"
+ },
+ {
+  "slug": "katsuyama-what-happens-when-you-hit-buy",
+  "guest": "Brad Katsuyama",
+  "date": "2017-10-31",
+  "title": "What Happens When You Hit Buy",
+  "q": "Exchanges are selling advantages, selling tiers of access, not creating fair markets.",
+  "who": "Brad"
+ },
+ {
+  "slug": "katsuyama-what-happens-when-you-hit-buy",
+  "guest": "Brad Katsuyama",
+  "date": "2017-10-31",
+  "title": "What Happens When You Hit Buy",
+  "q": "We're patching holes that prevent people from extracting rents where they shouldn't be.",
+  "who": "Brad"
+ },
+ {
+  "slug": "katsuyama-what-happens-when-you-hit-buy",
+  "guest": "Brad Katsuyama",
+  "date": "2017-10-31",
+  "title": "What Happens When You Hit Buy",
+  "q": "What made you good at 10 people might not make you good at 100 or 1000.",
+  "who": "Brad"
  },
  {
   "slug": "koppelman-chasing-curiosity",
@@ -522,6 +1210,70 @@ export const QUOTES: any[] = [
   "who": "Brian Koppelman"
  },
  {
+  "slug": "leonard-capital-light-compounders-reinvestment-moats",
+  "guest": "Connor Leonard",
+  "date": "2017-11-21",
+  "title": "Capital Light Compounders & Reinvestment Moats",
+  "q": "The best businesses are a royalty on the growth of others requiring little capital itself.",
+  "who": "Charlie Munger"
+ },
+ {
+  "slug": "leonard-capital-light-compounders-reinvestment-moats",
+  "guest": "Connor Leonard",
+  "date": "2017-11-21",
+  "title": "Capital Light Compounders & Reinvestment Moats",
+  "q": "There's not a secret publication with all the best ideas; it's reading and filtering hundreds of data points per year.",
+  "who": "Connor"
+ },
+ {
+  "slug": "leonard-capital-light-compounders-reinvestment-moats",
+  "guest": "Connor Leonard",
+  "date": "2017-11-21",
+  "title": "Capital Light Compounders & Reinvestment Moats",
+  "q": "I love looking at hundreds of companies a year and only pulling the trigger on one.",
+  "who": "Connor"
+ },
+ {
+  "slug": "leonard-capital-light-compounders-reinvestment-moats",
+  "guest": "Connor Leonard",
+  "date": "2017-11-21",
+  "title": "Capital Light Compounders & Reinvestment Moats",
+  "q": "If you find one of those ideas that is an absolute no-brainer, you can have a concentrated position because if you're right, it'll work out really well.",
+  "who": "Connor"
+ },
+ {
+  "slug": "lowin-hash-power-part-1",
+  "guest": "Naval Ravikant & contributors",
+  "date": "2017-09-26",
+  "title": "Hash Power - Part 1",
+  "q": "Money is just a ledger of who owes whom. Bitcoin is the first digital ledger nobody can fake.",
+  "who": "Naval Ravikant"
+ },
+ {
+  "slug": "lowin-hash-power-part-1",
+  "guest": "Naval Ravikant & contributors",
+  "date": "2017-09-26",
+  "title": "Hash Power - Part 1",
+  "q": "Permissionless networks outinnovate permission networks by a factor of 100 or 1,000. It's not even close.",
+  "who": "Naval Ravikant"
+ },
+ {
+  "slug": "lowin-hash-power-part-1",
+  "guest": "Naval Ravikant & contributors",
+  "date": "2017-09-26",
+  "title": "Hash Power - Part 1",
+  "q": "This happens very slowly until it doesn't. Then it's very sudden, and by the time you see it coming, it's too late.",
+  "who": "Olaf Carlson-Wee"
+ },
+ {
+  "slug": "lowin-hash-power-part-1",
+  "guest": "Naval Ravikant & contributors",
+  "date": "2017-09-26",
+  "title": "Hash Power - Part 1",
+  "q": "Blockchains give you coins for giving the network what it wants. Society gives you money for giving society what it wants.",
+  "who": "Naval Ravikant"
+ },
+ {
   "slug": "maddox-the-ace-of-spades",
   "guest": "Eric Maddox",
   "date": "2016-12-13",
@@ -552,6 +1304,70 @@ export const QUOTES: any[] = [
   "title": "The Ace of Spades",
   "q": "Courage is knowing it's right to help the enemy at the lower level for the larger strategic mission, even when your soldiers hate it.",
   "who": "Eric Maddox (paraphrasing his Delta commander)"
+ },
+ {
+  "slug": "maloley-ladder-the-fitness-marketplace",
+  "guest": "Brett Maloley",
+  "date": "2017-10-24",
+  "title": "Ladder: The Fitness Marketplace",
+  "q": "Business isn't personal, but it's so personal. Rejection is someone saying they don't believe in you.",
+  "who": "Brett Maloley"
+ },
+ {
+  "slug": "maloley-ladder-the-fitness-marketplace",
+  "guest": "Brett Maloley",
+  "date": "2017-10-24",
+  "title": "Ladder: The Fitness Marketplace",
+  "q": "Brand is arguably the most important and most difficult to create aspect of any business.",
+  "who": "Brett Maloley"
+ },
+ {
+  "slug": "maloley-ladder-the-fitness-marketplace",
+  "guest": "Brett Maloley",
+  "date": "2017-10-24",
+  "title": "Ladder: The Fitness Marketplace",
+  "q": "Platform business models don't work unless you have real massive scale for network effects.",
+  "who": "Brett Maloley"
+ },
+ {
+  "slug": "maloley-ladder-the-fitness-marketplace",
+  "guest": "Brett Maloley",
+  "date": "2017-10-24",
+  "title": "Ladder: The Fitness Marketplace",
+  "q": "This will always be probably the most special part of the company, no matter how big it gets.",
+  "who": "Brett Maloley"
+ },
+ {
+  "slug": "maloley-shark-tank-with-thatcher-bell-and-taylor-greene",
+  "guest": "Brett Hoover & Taylor Greene (Ladder deep-dive)",
+  "date": "2018-04-17",
+  "title": "Shark Tank with Thatcher Bell and Taylor Greene",
+  "q": "Build for the people that really need it—the 85% of the market that's exponentially bigger and growing, not just Peloton 2.0.",
+  "who": "Brett Hoover"
+ },
+ {
+  "slug": "maloley-shark-tank-with-thatcher-bell-and-taylor-greene",
+  "guest": "Brett Hoover & Taylor Greene (Ladder deep-dive)",
+  "date": "2018-04-17",
+  "title": "Shark Tank with Thatcher Bell and Taylor Greene",
+  "q": "I'm looking for the irrational person motivated by something beyond money, driven by mission and personal experience—those are the ones who change the world and drive the biggest returns.",
+  "who": "Taylor Greene"
+ },
+ {
+  "slug": "maloley-shark-tank-with-thatcher-bell-and-taylor-greene",
+  "guest": "Brett Hoover & Taylor Greene (Ladder deep-dive)",
+  "date": "2018-04-17",
+  "title": "Shark Tank with Thatcher Bell and Taylor Greene",
+  "q": "Treat VCs like kindergarteners—you have 30 seconds to make or break the pitch. Problem, solution, you.",
+  "who": "Taylor Greene"
+ },
+ {
+  "slug": "maloley-shark-tank-with-thatcher-bell-and-taylor-greene",
+  "guest": "Brett Hoover & Taylor Greene (Ladder deep-dive)",
+  "date": "2018-04-17",
+  "title": "Shark Tank with Thatcher Bell and Taylor Greene",
+  "q": "The incumbent industry stopped selling health and started selling memberships. This can't go on forever.",
+  "who": "Brett Hoover"
  },
  {
   "slug": "mansueto-lessons-from-the-founder-of-morningstar",
@@ -858,6 +1674,38 @@ export const QUOTES: any[] = [
   "who": "Shane Parrish"
  },
  {
+  "slug": "pompliano-full-tilt-investing",
+  "guest": "Anthony Pompliano",
+  "date": "2018-01-30",
+  "title": "Full Tilt Investing",
+  "q": "I would rather invest in someone who's not as smart but is not going to give up.",
+  "who": "Anthony Pompliano"
+ },
+ {
+  "slug": "pompliano-full-tilt-investing",
+  "guest": "Anthony Pompliano",
+  "date": "2018-01-30",
+  "title": "Full Tilt Investing",
+  "q": "Computing power is the new steel.",
+  "who": "Anthony Pompliano"
+ },
+ {
+  "slug": "pompliano-full-tilt-investing",
+  "guest": "Anthony Pompliano",
+  "date": "2018-01-30",
+  "title": "Full Tilt Investing",
+  "q": "Saturdays Are For The Boys has permeated society.",
+  "who": "Anthony Pompliano (on Barstool's cultural impact)"
+ },
+ {
+  "slug": "pompliano-full-tilt-investing",
+  "guest": "Anthony Pompliano",
+  "date": "2018-01-30",
+  "title": "Full Tilt Investing",
+  "q": "Power in today's world is who can drive eyeballs and have their audience fulfill call to actions.",
+  "who": "Anthony Pompliano"
+ },
+ {
   "slug": "ptak-the-prospects-for-active-management",
   "guest": "Jeff Ptak",
   "date": "2016-12-20",
@@ -920,6 +1768,46 @@ export const QUOTES: any[] = [
   "title": "Building Something People Want to Buy",
   "q": "... as the internet was taking off.",
   "who": "Andy"
+ },
+ {
+  "slug": "rasmussen-private-equity-returns-in-public-markets",
+  "guest": "Dan Rasmussen",
+  "date": "2018-02-27",
+  "title": "Private Equity Returns in Public Markets",
+  "q": "Private equity is a really fascinating world.",
+  "who": "Dan Rasmussen"
+ },
+ {
+  "slug": "reece-tim-cooks-dashboard",
+  "guest": "Michael Reece",
+  "date": "2018-06-12",
+  "title": "Tim Cook's Dashboard",
+  "q": "If you're really good students, they employ you.",
+  "who": "Michael Reece"
+ },
+ {
+  "slug": "reece-tim-cooks-dashboard",
+  "guest": "Michael Reece",
+  "date": "2018-06-12",
+  "title": "Tim Cook's Dashboard",
+  "q": "The future is here already. It's just not uniformly distributed.",
+  "who": "Michael Reece"
+ },
+ {
+  "slug": "reece-tim-cooks-dashboard",
+  "guest": "Michael Reece",
+  "date": "2018-06-12",
+  "title": "Tim Cook's Dashboard",
+  "q": "Data is data. But information is something completely different.",
+  "who": "Michael Reece"
+ },
+ {
+  "slug": "reece-tim-cooks-dashboard",
+  "guest": "Michael Reece",
+  "date": "2018-06-12",
+  "title": "Tim Cook's Dashboard",
+  "q": "It's much easier to predict the negative side of the distribution than the positive.",
+  "who": "Michael Reece"
  },
  {
   "slug": "rogers-slow-and-steady-wins-the-race",
@@ -1026,6 +1914,38 @@ export const QUOTES: any[] = [
   "who": "David Salem"
  },
  {
+  "slug": "sawikin-emerging-market-opportunities",
+  "guest": "Harvey Sawikin",
+  "date": "2018-02-06",
+  "title": "Emerging Market Opportunities",
+  "q": "I was absolutely sure I was going to get rich. I had no doubt.",
+  "who": "Harvey"
+ },
+ {
+  "slug": "sawikin-emerging-market-opportunities",
+  "guest": "Harvey Sawikin",
+  "date": "2018-02-06",
+  "title": "Emerging Market Opportunities",
+  "q": "The smell of opportunity.",
+  "who": "Harvey"
+ },
+ {
+  "slug": "sawikin-emerging-market-opportunities",
+  "guest": "Harvey Sawikin",
+  "date": "2018-02-06",
+  "title": "Emerging Market Opportunities",
+  "q": "Your job is to know whether you're in a bull market or bear market and act accordingly.",
+  "who": "George Robinson"
+ },
+ {
+  "slug": "sawikin-emerging-market-opportunities",
+  "guest": "Harvey Sawikin",
+  "date": "2018-02-06",
+  "title": "Emerging Market Opportunities",
+  "q": "Can it be that Russian steel companies are competing to see who has the best corporate governance?",
+  "who": "Harvey"
+ },
+ {
   "slug": "seides-a-deep-dive-into-hedge-funds",
   "guest": "Ted Seides",
   "date": "2016-10-25",
@@ -1112,6 +2032,38 @@ export const QUOTES: any[] = [
   "title": "The Future of Asset Management",
   "q": "Lunch is not free. Small businesses lack the business fundamentals: where does cash come from, where does it go.",
   "who": "Brent Beshore"
+ },
+ {
+  "slug": "seims-hash-power-part-2",
+  "guest": "Olaf Carlson-Wee, Naval Ravikant, Ari Paul & contributors",
+  "date": "2017-10-03",
+  "title": "Hash Power - Part 2",
+  "q": "Ethereum has no revenues. These aren't currencies; they're commodities that actually do something, unlike gold.",
+  "who": "Ari Paul"
+ },
+ {
+  "slug": "seims-hash-power-part-2",
+  "guest": "Olaf Carlson-Wee, Naval Ravikant, Ari Paul & contributors",
+  "date": "2017-10-03",
+  "title": "Hash Power - Part 2",
+  "q": "When an asset collapses but doesn't die, that tells you something. There's real value to investigate.",
+  "who": "Ari Paul"
+ },
+ {
+  "slug": "seims-hash-power-part-2",
+  "guest": "Olaf Carlson-Wee, Naval Ravikant, Ari Paul & contributors",
+  "date": "2017-10-03",
+  "title": "Hash Power - Part 2",
+  "q": "Our edge is at the absolutely earliest stage—investing on protocol whitepapers when others can't parse the tech.",
+  "who": "Olaf Carlson-Wee"
+ },
+ {
+  "slug": "seims-hash-power-part-2",
+  "guest": "Olaf Carlson-Wee, Naval Ravikant, Ari Paul & contributors",
+  "date": "2017-10-03",
+  "title": "Hash Power - Part 2",
+  "q": "Blockchains are the first indication of large-scale AIs bootstrapping themselves. They allocate resources better than any human can explain.",
+  "who": "Naval Ravikant"
  },
  {
   "slug": "shapiro-better-for-you-better-for-the-world",
@@ -1202,6 +2154,14 @@ export const QUOTES: any[] = [
   "who": "Kevin Simler"
  },
  {
+  "slug": "singh-the-berkshire-of-software",
+  "guest": "Savneet Singh",
+  "date": "2018-03-06",
+  "title": "The Berkshire of Software",
+  "q": "It was a really big decision early on to try to be a holding company, not a fund.",
+  "who": "Savneet Singh"
+ },
+ {
   "slug": "stein-the-state-of-automated-investing",
   "guest": "Jon Stein",
   "date": "2016-11-01",
@@ -1234,6 +2194,38 @@ export const QUOTES: any[] = [
   "who": "Jon Stein"
  },
  {
+  "slug": "stulberg-just-manageable-challenges",
+  "guest": "Brad Stulberg",
+  "date": "2017-08-08",
+  "title": "Just Manageable Challenges",
+  "q": "You get stronger when you sleep, not at the gym. The gym just tears you down.",
+  "who": "Brad Stulberg"
+ },
+ {
+  "slug": "stulberg-just-manageable-challenges",
+  "guest": "Brad Stulberg",
+  "date": "2017-08-08",
+  "title": "Just Manageable Challenges",
+  "q": "It's hard to push a highly motivated person to work hard; it's hard to hold them back.",
+  "who": "Brad Stulberg"
+ },
+ {
+  "slug": "stulberg-just-manageable-challenges",
+  "guest": "Brad Stulberg",
+  "date": "2017-08-08",
+  "title": "Just Manageable Challenges",
+  "q": "They're great because they're humble, not humble because they're great.",
+  "who": "Brad Stulberg"
+ },
+ {
+  "slug": "stulberg-just-manageable-challenges",
+  "guest": "Brad Stulberg",
+  "date": "2017-08-08",
+  "title": "Just Manageable Challenges",
+  "q": "Fatigue is an emotion, not just a physical state.",
+  "who": "Brad Stulberg"
+ },
+ {
   "slug": "thorndike-how-skilled-capital-allocators-compound-capital",
   "guest": "Will Thorndike",
   "date": "2017-05-09",
@@ -1256,6 +2248,110 @@ export const QUOTES: any[] = [
   "title": "How Skilled Capital Allocators Compound Capital",
   "q": "You need to show up and steer the ship every day. You can't predict what opportunities will arise, so you must be prepared to react.",
   "who": "Henry Singleton (quoted)"
+ },
+ {
+  "slug": "tisch-tech-investing-outside-of-silicon-valley",
+  "guest": "David Tisch",
+  "date": "2017-09-19",
+  "title": "Tech Investing Outside of Silicon Valley",
+  "q": "Companies without a heart are dead.",
+  "who": "David Tisch"
+ },
+ {
+  "slug": "tisch-tech-investing-outside-of-silicon-valley",
+  "guest": "David Tisch",
+  "date": "2017-09-19",
+  "title": "Tech Investing Outside of Silicon Valley",
+  "q": "An introduction takes eight seconds of my day. If that's my value add, I suck.",
+  "who": "David Tisch"
+ },
+ {
+  "slug": "tisch-tech-investing-outside-of-silicon-valley",
+  "guest": "David Tisch",
+  "date": "2017-09-19",
+  "title": "Tech Investing Outside of Silicon Valley",
+  "q": "The biggest mistakes are omissions, not losses. I lose sleep over companies I saw and passed on.",
+  "who": "David Tisch"
+ },
+ {
+  "slug": "tisch-tech-investing-outside-of-silicon-valley",
+  "guest": "David Tisch",
+  "date": "2017-09-19",
+  "title": "Tech Investing Outside of Silicon Valley",
+  "q": "Every company today needs to become a software company. If software doesn't drive your business, you're in trouble.",
+  "who": "David Tisch"
+ },
+ {
+  "slug": "tyle-the-future-of-venture-capital",
+  "guest": "Sheel Tyle",
+  "date": "2018-01-02",
+  "title": "The Future of Venture Capital",
+  "q": "Talent is universal, but opportunity is not. There's no reason the next Zuckerberg can't be from Africa.",
+  "who": "Sheel Tyle"
+ },
+ {
+  "slug": "tyle-the-future-of-venture-capital",
+  "guest": "Sheel Tyle",
+  "date": "2018-01-02",
+  "title": "The Future of Venture Capital",
+  "q": "I would much rather invest than take gambles, and ICOs feel like gambles right now.",
+  "who": "Sheel Tyle"
+ },
+ {
+  "slug": "tyle-the-future-of-venture-capital",
+  "guest": "Sheel Tyle",
+  "date": "2018-01-02",
+  "title": "The Future of Venture Capital",
+  "q": "Nobody had a taxi thesis when investing in Uber. I didn't have a brokerage thesis investing in Robinhood.",
+  "who": "Sheel Tyle"
+ },
+ {
+  "slug": "tyle-the-future-of-venture-capital",
+  "guest": "Sheel Tyle",
+  "date": "2018-01-02",
+  "title": "The Future of Venture Capital",
+  "q": "If I don't do this ride-along, how am I going to understand what officers and communities actually need?",
+  "who": "Mark43 founder (cited by Sheel)"
+ },
+ {
+  "slug": "urban-grand-theft-life",
+  "guest": "Tim Urban & Andrew Finn",
+  "date": "2017-10-17",
+  "title": "Grand Theft Life",
+  "q": "The same thing that makes it unscalable also makes it irreplaceable.",
+  "who": "Tim Urban"
+ },
+ {
+  "slug": "urban-grand-theft-life",
+  "guest": "Tim Urban & Andrew Finn",
+  "date": "2017-10-17",
+  "title": "Grand Theft Life",
+  "q": "Seeing the actual reality for what it is, of danger, of risk, of opportunity, of possibility.",
+  "who": "Tim Urban"
+ },
+ {
+  "slug": "urban-grand-theft-life",
+  "guest": "Tim Urban & Andrew Finn",
+  "date": "2017-10-17",
+  "title": "Grand Theft Life",
+  "q": "If you're willing to put in that work and create metaphors rather than use them.",
+  "who": "Patrick"
+ },
+ {
+  "slug": "urban-grand-theft-life",
+  "guest": "Tim Urban & Andrew Finn",
+  "date": "2017-10-17",
+  "title": "Grand Theft Life",
+  "q": "A human brain runs on 20 Watts; the equivalent computer runs on 20 megawatts.",
+  "who": "Tim Urban"
+ },
+ {
+  "slug": "urban-grand-theft-life",
+  "guest": "Tim Urban & Andrew Finn",
+  "date": "2017-10-17",
+  "title": "Grand Theft Life",
+  "q": "The brain is plastic. Your life experience has literally physically shaped your neural pathways in a unique way.",
+  "who": "Tim Urban"
  },
  {
   "slug": "varty-the-art-of-tracking",
@@ -1290,6 +2386,78 @@ export const QUOTES: any[] = [
   "who": "Boyd Varty"
  },
  {
+  "slug": "wenger-world-after-capital",
+  "guest": "Albert Wenger",
+  "date": "2018-03-13",
+  "title": "World After Capital",
+  "q": "Oh, it's always been the same thing.",
+  "who": "Albert Wenger"
+ },
+ {
+  "slug": "wilson-angel-investing-and-trend-spotting",
+  "guest": "Joanne Wilson",
+  "date": "2017-11-28",
+  "title": "Angel Investing and Trend Spotting",
+  "q": "I am the new bank.",
+  "who": "Joanne Wilson"
+ },
+ {
+  "slug": "wilson-angel-investing-and-trend-spotting",
+  "guest": "Joanne Wilson",
+  "date": "2017-11-28",
+  "title": "Angel Investing and Trend Spotting",
+  "q": "Most of them are unemployable.",
+  "who": "Joanne Wilson"
+ },
+ {
+  "slug": "wilson-angel-investing-and-trend-spotting",
+  "guest": "Joanne Wilson",
+  "date": "2017-11-28",
+  "title": "Angel Investing and Trend Spotting",
+  "q": "You're going to figure it out, no matter what comes your way.",
+  "who": "Joanne Wilson"
+ },
+ {
+  "slug": "wilson-angel-investing-and-trend-spotting",
+  "guest": "Joanne Wilson",
+  "date": "2017-11-28",
+  "title": "Angel Investing and Trend Spotting",
+  "q": "Every season you're starting from scratch.",
+  "who": "Joanne Wilson"
+ },
+ {
+  "slug": "wolfe-this-is-who-you-are-up-against",
+  "guest": "Josh Wolfe",
+  "date": "2018-02-13",
+  "title": "This is Who You Are Up Against",
+  "q": "This is who you're up against.",
+  "who": "Patrick"
+ },
+ {
+  "slug": "wolfe-this-is-who-you-are-up-against",
+  "guest": "Josh Wolfe",
+  "date": "2018-02-13",
+  "title": "This is Who You Are Up Against",
+  "q": "Avoid boring people.",
+  "who": "Jim Watson"
+ },
+ {
+  "slug": "wolfe-this-is-who-you-are-up-against",
+  "guest": "Josh Wolfe",
+  "date": "2018-02-13",
+  "title": "This is Who You Are Up Against",
+  "q": "10 years to build the rep, 10 seconds to lose it.",
+  "who": "Bill Conway"
+ },
+ {
+  "slug": "wolfe-this-is-who-you-are-up-against",
+  "guest": "Josh Wolfe",
+  "date": "2018-02-13",
+  "title": "This is Who You Are Up Against",
+  "q": "We want people to agree with us, just later.",
+  "who": "Josh"
+ },
+ {
   "slug": "yudkoff-really-private-equity",
   "guest": "Royce Yudkoff & Rick Ruback",
   "date": "2017-04-18",
@@ -1320,6 +2488,38 @@ export const QUOTES: any[] = [
   "title": "REALLY Private Equity",
   "q": "Well, I think we can fairly say that we're the largest because the school is the largest.",
   "who": "Royce Yudkoff & Rick Ruback"
+ },
+ {
+  "slug": "zweig-business-vs-investing",
+  "guest": "Morgan Housel & Jason Zweig",
+  "date": "2017-08-15",
+  "title": "Business vs. Investing",
+  "q": "I have no sunk costs. When something doesn't work, I don't fix it or tweak it, I blow it up and start from an empty screen.",
+  "who": "Jason Zweig (quoting Danny Kahneman)"
+ },
+ {
+  "slug": "zweig-business-vs-investing",
+  "guest": "Morgan Housel & Jason Zweig",
+  "date": "2017-08-15",
+  "title": "Business vs. Investing",
+  "q": "The distinction between giving up and quitting: give up all the time, but never quit the overall mission.",
+  "who": "Morgan Housel (quoting Phil Knight)"
+ },
+ {
+  "slug": "zweig-business-vs-investing",
+  "guest": "Morgan Housel & Jason Zweig",
+  "date": "2017-08-15",
+  "title": "Business vs. Investing",
+  "q": "No matter how far you've gone down the wrong path, turn back.",
+  "who": "Turkish proverb (cited by Patrick)"
+ },
+ {
+  "slug": "zweig-business-vs-investing",
+  "guest": "Morgan Housel & Jason Zweig",
+  "date": "2017-08-15",
+  "title": "Business vs. Investing",
+  "q": "If I don't like a book, I just stop immediately. I've stopped reading books after five sentences.",
+  "who": "Jason Zweig"
  },
  {
   "slug": "zweig-the-power-of-serendipity",
