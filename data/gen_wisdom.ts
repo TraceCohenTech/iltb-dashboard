@@ -58,6 +58,78 @@ export const WISDOM: any[] = [
   "cat": "life"
  },
  {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Investing edge isn't magic—it's compounding tiny improvements: better information gathering, better interpretation, better risk thinking. Do slightly better at everything.",
+  "cat": "investing"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Emotional consistency beats brilliance. Hire investors whose highs and lows are stable; volatility in judgment kills returns over time.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Integrity is the ultimate moat in investing. Vetting character through behavioral questions (describe a hard situation, how did you resolve it?) predicts long-term performance.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Specialization creates edge: 3.25 positions per analyst (not 50+) with 17-month holds lets you develop real dialogues with management, not just surface reads.",
+  "cat": "investing"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Standards-based businesses generate enormous power once they win (Oracle in databases). When you see a company becoming the default, that's a secular tailwind worth riding.",
+  "cat": "markets"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Apply the 'intelligent loss of business' principle: limited SKU focus (or fund focus) beats sprawl. Narrow expertise attracts better capital than unfocused generalism.",
+  "cat": "building"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "Stress-test your thesis during drawdowns. When Oracle dropped 45%, the right move was to hold (not panic-sell), update facts, and compare market price to your new long-term value.",
+  "cat": "investing"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "We're playing chess, not football. Update your views with new facts, compare market value to fair value today, and act rationally—don't get emotional about being wrong mid-thesis.",
+  "cat": "life"
+ },
+ {
+  "slug": "ainslie-lee-ainslie",
+  "guest": "Lee Ainslie",
+  "date": "2023-08-22",
+  "title": "Hedge Fund Maverick",
+  "t": "High interest rates (>2.5% Fed funds) produce 6.5% alpha for long-short hedge funds; low rates produce -4% underperformance. Macro regime matters as much as stock picking.",
+  "cat": "markets"
+ },
+ {
   "slug": "akre-the-three-legged-stool",
   "guest": "Chuck Akre",
   "date": "2019-06-18",
@@ -128,6 +200,70 @@ export const WISDOM: any[] = [
   "title": "The Three Legged Stool",
   "t": "Innovation happens in distribution models, not just products. Bandag's dealer franchise network beat vertically-integrated competitors on ROE.",
   "cat": "building"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "But I actually remember that, and I said this to you, I think even at the time or years later, but like I don't want to say at the time because it was kind of overly flattering",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "If there's one view of mine that has somewhat changed, I think, Miles, you probably share this, I've probably come to more believe than I used to that the market is the dominant variable in the whole equation",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "But even from early days when we were like tiny and this sounded impossible, is he'd be like, if you want the company to really matter at some point, you need to be at $100 million of ARR growing 50%",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "And others saying, really, it doesn't matter as long as the customer sort of expresses that they’re content, that should be all that matters",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "Miles: I think about it more from all things being equal, more frequent better, but not all things are ever equal",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "It's great that, that exists, and that's a big part, I think, of why the industry has done well is that there's this communal support system",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "We're not the type or our relationship is not the type where we would disagree on something important",
+  "cat": "investing"
+ },
+ {
+  "slug": "altman-building-and-investing-in-lattice",
+  "guest": "Jack Altman & Miles Grimshaw",
+  "date": "2023-09-26",
+  "title": "Building and Investing in Lattice",
+  "t": "I learned there that they have a job to do, and they have a set of responsibilities that are nothing to do with helping a founder who they're not yet invested in",
+  "cat": "investing"
  },
  {
   "slug": "andreessen-making-the-future",
@@ -451,83 +587,67 @@ export const WISDOM: any[] = [
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "And part of that is just, I think, the natural evolution of change that would have occurred if I wasn't writing the book",
+  "t": "In other words, the podcast is basically the vehicle that is a forcing function for my learning.",
   "cat": "life"
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "But I think what the book does and what writing does in general, whether it's blogging or doing something as involved as writing a book is it forces you, at least it forces me, to be a better thinker",
+  "t": "And part of that is just, I think, the natural evolution of change that would have occurred if I wasn't writing the book.",
   "cat": "life"
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "And I think that's probably true for most people who write",
+  "t": "But I think what the book does and what writing does in general, whether it's blogging or doing something as involved as writing a book is it forces you, at least it forces me, to be a better thinker.",
+  "cat": "life"
+ },
+ {
+  "slug": "attia-the-portfolio-to-live-longer",
+  "guest": "Dr. Peter Attia",
+  "date": "2023-04-18",
+  "title": "The Portfolio to Live Longer",
+  "t": "And I think that's probably true for most people who write.",
   "cat": "leadership"
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "I think the belly of the beast part was horrible as you describe it",
+  "t": "I never thought of myself as a writer and growing up was more the math, science guy.",
   "cat": "life"
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "I think most people who have gone through something that is defining for them will relay some elements of that story",
-  "cat": "leadership"
- },
- {
-  "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
-  "date": "2023-04-18",
-  "title": "The Portfolio to Live Longer",
-  "t": "While I'm going through it, of course, I'm not thinking about anything other than the anguish or the shame or the guilt or the pain of it",
+  "t": "And I always wanted to think of a better way to explain something.",
   "cat": "life"
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "I think what precipitated the change is what precipitated the work",
-  "cat": "life"
+  "t": "It just made me a better thinker and it made me go back and imagine more accurate, articulate, interesting orthogonal ways to explain difficult concepts and create frameworks.",
+  "cat": "building"
  },
  {
   "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
+  "guest": "Dr. Peter Attia",
   "date": "2023-04-18",
   "title": "The Portfolio to Live Longer",
-  "t": "And I even mentioned that, I think, in the epilogue, which is my quest for longevity was such a frenetic race to avoid death because of my fear of not being here",
-  "cat": "life"
- },
- {
-  "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
-  "date": "2023-04-18",
-  "title": "The Portfolio to Live Longer",
-  "t": "We didn't understand the natural laws of the universe",
-  "cat": "life"
- },
- {
-  "slug": "attia-the-portfolio-to-live-longer",
-  "guest": "Peter & So that's an enormous shortcoming. There aren't enough hours in the day because I've opted for something that I think is even more valuable, which is I listen to other podcasts. And I'm listening for podcast where there's a confluence of 2 things",
-  "date": "2023-04-18",
-  "title": "The Portfolio to Live Longer",
-  "t": "And here, I think there is kind of a loose analogy with the transition from Medicine 1",
-  "cat": "life"
+  "t": "I've always gravitated towards frameworks, but I think it became more important as the complexity of the subject matter evolved.",
+  "cat": "craft"
  },
  {
   "slug": "baker-investing-through-a-bear-market",
@@ -2442,6 +2562,86 @@ export const WISDOM: any[] = [
   "cat": "markets"
  },
  {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "Those lessons to me seem as important or maybe even more important than what the greats did that led to their success.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "The takeaway was it was all the more important to have a mosaic of competitive advantages in a fund.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "So you raise a fund, and this is actually not that typical when markets are frothy, it's a little bit easier to raise a fund.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "But if you combine team incentives, a little bit of luck, then I think that you put the odds in your favor.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "And I remember when that data came out, I think, from a faculty member at Arizona State.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "I think there were many folks, and then I think we were in that category once, too, where you just thought that the public markets were a little more different.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "Very important distinction for us that we made shortly into Sator Grove and it really came at the nudging of Mitch.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "I think the far more important realization for us was that while all of that matters, what matters most is whether or not there is a high degree of mutual trust.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "But in addition to that, if there is not a level of mutual trust that's present in goodwill, there's really nothing to fall back on.",
+  "cat": "investing"
+ },
+ {
+  "slug": "buhrman-find-your-x-nurture-your-n",
+  "guest": "Rick Buhrman & Paul Buser",
+  "date": "2023-10-03",
+  "title": "Find Your X, Nurture Your N",
+  "t": "And actually, just we live out those values that we had seen -- not only do we think it right but give Sator Grove the best shot to succeed.",
+  "cat": "investing"
+ },
+ {
   "slug": "byrne-cryptopocalypse",
   "guest": "Preston Byrne",
   "date": "2018-01-16",
@@ -3818,6 +4018,86 @@ export const WISDOM: any[] = [
   "cat": "life"
  },
  {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "When I think back to those anecdotes, I never, I think we're first in junior year old in childhood.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "But at least I think a lot of what we saw growing up was honestly, maybe even just the work ethic.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "And I think maybe if you haven't seen that front, maybe you're operating with a disadvantage, if you haven't just seen that firsthand to really ingrain it with you.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "She tried to retire a few years ago and now somehow has found herself, I think she helped a hospital, our youngest brother has a, today, relatively mild physical disability.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "And so I think 5 of those books will come out for the next 12 months.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "And so they have some of the leading treatments in the world for cerebral palsy are in Australia, where they've developed these interventions that work really well.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "If you think about the future of Stripe, you guys are so lucky, you have so much time to do whatever the answer to my next question is.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "An important thing at Stripe today is that we're all trying to remind people who join because Stripe is say 12 years post launch.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "And as we just think about the n-dimensional matrix of functionality entailed in that, we still have a long way to go.",
+  "cat": "investing"
+ },
+ {
+  "slug": "collison-a-business-state-of-mind",
+  "guest": "John & Patrick Collison",
+  "date": "2023-10-17",
+  "title": "A Business State of Mind",
+  "t": "I really like that book, and there's lots of -- I learned lots about the history of radio that I didn't know, and so it's always fun in that way.",
+  "cat": "investing"
+ },
+ {
   "slug": "collison-growing-the-internet-economy",
   "guest": "John Collison",
   "date": "2020-06-16",
@@ -4144,6 +4424,86 @@ export const WISDOM: any[] = [
   "title": "Crowdsourcing Predictive Algorithms",
   "t": "Normalizing and regularizing data (making past look like present) is as important as normalizing targets.",
   "cat": "craft"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "High rates are closer to historical norm than the 2010s aberration; companies built for 1-2% rates need to rethink capital structures.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Macro factors that lower discount rates also typically lower growth assumptions—effects cancel out, explaining why stocks haven't crashed despite rate hikes.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Excessive risk capital kills good industries: bike companies destroyed by subsidized competition from venture-backed startups.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "China's authoritarianism once guaranteed predictability; now that certainty creates discontinuous risk as policy shifts overnight.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Most active investors are mechanical; AI will replicate their strategies in milliseconds, making active management increasingly difficult.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Investment philosophy must match personality—patience, contrarianism, and peer-pressure resistance aren't learnable from books.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Every major technology shift (PCs, Internet, smartphones) promised utopia but delivered mixed blessings with real losers alongside winners.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Sports franchises value depends almost entirely on media revenues now, not stadium attendance—economics changed fundamentally.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "Deposit stickiness depends on depositor homogeneity: tech-focused banks fail faster because depositors communicate constantly.",
+  "cat": "life"
+ },
+ {
+  "slug": "damodaran-making-sense-of-the-market-pt2",
+  "guest": "Aswath Damodaran",
+  "date": "2023-10-24",
+  "title": "Making Sense of the Market Pt.2",
+  "t": "ESG oversold itself by claiming all gains with no tradeoffs; now vulnerable to backlash that could kill legitimate impact investing.",
+  "cat": "life"
  },
  {
   "slug": "damodaran-teaching-the-world-finance",
@@ -5698,6 +6058,70 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "In relative-game investing, intellectual honesty matters most: understand why you made money (process edge) not just that you did (market luck). Underwrite forward probability, not past results.",
+  "cat": "investing"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "Experience has a U-curve: early (0-3 years) is too raw, optimal is 5-15 years, then degradation. Someone trained on pre-Reg FD order flows or 1980s markets may lack modern tools.",
+  "cat": "investing"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "Scale has two meanings: strategy scale (makes each position bigger, less nimble) and company scale (more strategies = more edges diversified). Multi-strategy overcomes individual strategy scale limits.",
+  "cat": "markets"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "The finished product of an asset manager is money; raw materials are talented people and teams. Only hundreds globally can consistently earn 3% alpha. Talent wars are real.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "Performance culture and human support are not opposites. Seeing something in underperformers, giving them tools and mentorship to succeed, is both kind and smart long-term thinking.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "Risk isn't just market factors—it's concentration risk, strategy drift, liquidity risk. Use guardrails: position limits, stick to core competency, ensure you can exit your thesis.",
+  "cat": "investing"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "GameStop taught us that disconnects between short interest, borrow availability, and narrative-driven retail frenzies can happen suddenly. Even systematic funds must size for tail scenarios.",
+  "cat": "markets"
+ },
+ {
+  "slug": "england-a-primer-on-multi-strategy-hedge-funds",
+  "guest": "Will England",
+  "date": "2023-09-05",
+  "title": "A Primer on Multi-Strategy Hedge Funds",
+  "t": "Leverage is a choice: increase returns in low-vol periods, cut it in high-vol periods, stay defensive when spreads blow out. Volatility targeting keeps leverage proportional to risk.",
+  "cat": "investing"
+ },
+ {
   "slug": "englebardt-investing-in-immersive-worlds",
   "guest": "Sam Englebardt & Richard Kim",
   "date": "2022-01-20",
@@ -6874,6 +7298,102 @@ export const WISDOM: any[] = [
   "cat": "building"
  },
  {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Perfect business = paid tremendous money for your wisdom, requires no capital, is cash flow accretive",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Best organizations combine selection effects (picking great people) and treatment effects (transforming them)",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Great deals just 'smack you in the face'—if you're debating for weeks, it's probably not right",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Have the abundance mindset to say no; the hurdle for taking deals should be your last best deal",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Quantitative analysis is commodity; real edge comes from simple questions about quality",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Perfect investment: understand incentives and coordination problems without needing to know the business",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Most people don't know what they want and are in denial about their true desires",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Sabbaticals are underrated for thinking deliberately about how you want to spend your time",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "Pre-fall vs post-fall matters enormously—adversity changes how you see reality and respond to problems",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "You can see post-fall in someone's eyes immediately—it's the loss of innocence",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "'What could you not be paid a billion dollars to stop doing?' reveals your true motivation",
+  "cat": "life"
+ },
+ {
+  "slug": "giffon-special-situations-in-private-markets",
+  "guest": "Jeremy Giffon",
+  "date": "2023-07-11",
+  "title": "Special Situations in Private Markets",
+  "t": "General advice is a charlatan move; only specific, tactical advice is useful",
+  "cat": "life"
+ },
+ {
   "slug": "gil-how-to-identify-interesting-markets",
   "guest": "Elad Gil",
   "date": "2018-08-28",
@@ -7168,6 +7688,166 @@ export const WISDOM: any[] = [
   "title": "The Economic Impact of AI",
   "t": "Digital twins and simulation enable massive-scale data collection for model training without harming real customers.",
   "cat": "building"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Vol washing obscures the real volatility of unleveraged assets—marking to market reveals truths that fund reporting hides.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "The best alpha sources are shrinking: informational edges flatten as markets improve, but permanent capital and time create lasting advantages.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Most lenders are structurally short volatility, indifferent to upside; they only fear downside—this shapes their entire risk calculus.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Asset-liability mismatches blow up because positive carry feels fine until liabilities come due faster than assets can be sold.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Imagination trumps IQ in investing: the ability to envision unexpected scenarios (pandemics, SVB interest-rate risk) beats raw processing power.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Hard EBITDA vs soft EBITDA matters enormously; in good markets soft numbers fly, but downturns expose aggressive accounting instantly.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Emotional intelligence—humility, coaching, knowing when to defer—outweighs pure IQ for building high-performing investment teams.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Defaults in private credit will cluster at the lower end first; forced selling in secondary markets can trigger cascade effects.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Options beyond 100:1 payoff multiples are deeply mispriced; the market struggles with tail risk in a log-normal world.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-imagination-volatility-and-the-pursuit-of-alpha",
+  "guest": "Kieran Goodwin",
+  "date": "2023-05-30",
+  "title": "Imagination, Volatility, and the Pursuit of Alpha",
+  "t": "Synergy in teams (basketball-style mismatches, not clones) matters more than raw talent; The Joker and Jamal Murray > Tatum and Jaylen.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "The 2010s favored shareholders via low rates; the 2020s flip to creditors, savers, pensioners—a massive structural rotation that takes years to play out.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Vol washing hides leverage risk in private credit; artificial low dispersion and Sharpe ratios vanish when defaults cluster and forced selling cascades.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Speed matters because banks no longer warehouse risk; being able to commit $500M in 5 minutes, not 4 days, is genuine alpha in dislocations.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Know the names intimately: credit cycles repeat, same companies cycle again, multiple bites at the apple. Knowing doc nuances and liability structures beats information symmetry.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Liability structure is permanent alpha: match LP funding duration to asset duration; mismatches blow up fast (Silicon Valley Bank, Long-Term Capital).",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Synergy in partnership beats solo flying: research + trading (depth + speed) + weekly portfolio review discipline locks in consistency for both risk and team morale.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Forced transparency (calling balls & strikes, weekly workflows, team oversight) breeds intellectual honesty; exit winners early rather than ride them to zero.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Imagination in credit is about capital structure layering: watching China reopen, inferring used-car shortages, predicting ABS recovery = first-lien alpha.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "Private credit bubble outcomes: most vol-washed funds (most leverage, second lien) become biggest losers; de novo senior-secured at 50% LTV is the real opportunity.",
+  "cat": "life"
+ },
+ {
+  "slug": "goodwin-know-the-names",
+  "guest": "Scott Goodwin",
+  "date": "2023-06-13",
+  "title": "Know the Names",
+  "t": "AI threatens low-margin, low-touch businesses; credit shorts gain convexity if equity equity put goes from far OTM to near-money (terminal disruption case).",
+  "cat": "life"
  },
  {
   "slug": "graham-investing-in-overlooked-businesses",
@@ -9538,6 +10218,86 @@ export const WISDOM: any[] = [
   "cat": "building"
  },
  {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "I followed your show for a number of years, and it's been so impressive what you've built",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "So you guys have a best-in-class audience and this show is unparalleled",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "And so our view has always been like, how do we get a system, a machine, or process that creates differentiated results outcomes",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "And I was raised in an environment that you always look for opportunities where others aren't looking",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "And my view of the world is the last inefficient part of the private market ecosystem is a microcap",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "This is businesses we define as sub-$10 million EBITDA and investment",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "In order why most people don't play here is I think several reasons",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "Everyone has a role from the organization because I love sports as well",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "How do you become best person at your job day in, day out",
+  "cat": "investing"
+ },
+ {
+  "slug": "ishbia-a-system-for-success",
+  "guest": "Justin Ishbia",
+  "date": "2023-12-19",
+  "title": "Lessons from Acquiring 586 Companies",
+  "t": "I looked up to organizations or operating companies like Danaher, the DBS system, we're trying to create something very similar in the private equity community",
+  "cat": "investing"
+ },
+ {
   "slug": "jacobs-content-to-commerce",
   "guest": "Jesse Jacobs & Mike Kerns",
   "date": "2021-04-06",
@@ -9616,6 +10376,70 @@ export const WISDOM: any[] = [
   "title": "Content to Commerce",
   "t": "The internet enables direct creator-to-consumer connection, disintermediating brokers, bankers, and platforms. Opportunity exists in capturing value that middlemen previously took.",
   "cat": "investing"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "So the only way I know to create huge value is to create a company that five and 10 years after you started, is much, much larger.",
+  "cat": "building"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "And the easiest way to do that is through M&A.",
+  "cat": "life"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "Of course, you have to have organic growth as well.",
+  "cat": "building"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "If I want to consolidate an industry, there has to be things to buy.",
+  "cat": "markets"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "They have to be things to buy on accretive terms, and it has to be things that we can buy at lower multiples than what we're going to trade at.",
+  "cat": "life"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "I look for industries where there's synergy as you get bigger.",
+  "cat": "life"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "That as you buy things and get bigger, you just don't get bigger, you get better.",
+  "cat": "life"
+ },
+ {
+  "slug": "jacobs-think-big-and-move-fast",
+  "guest": "Brad Jacobs",
+  "date": "2023-11-14",
+  "title": "Think Big and Move Fast",
+  "t": "So the advantage of this size, you have a better cost basis.",
+  "cat": "life"
  },
  {
   "slug": "jett-investing-in-e-commerce",
@@ -10450,6 +11274,86 @@ export const WISDOM: any[] = [
   "cat": "life"
  },
  {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Structural changes in markets lag investor adaptation because traders rely on lived experience and historical patterns.",
+  "cat": "markets"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "AI could disrupt labor as broadly as globalization/automation did, potentially faster and affecting more of the workforce.",
+  "cat": "markets"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Supply chain resilience, decarbonization, and subsidies represent massive noneconomic spending that is structurally inflationary.",
+  "cat": "investing"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Markets price in Fed success for 40 years; they underestimate the tension central banks now face between growth and inflation control.",
+  "cat": "markets"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Real interest rates determine opportunity costs between gold and financial assets; negative rates make gold attractive.",
+  "cat": "investing"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Geopolitical weaponization of currency (e.g., Russia sanctions) shifts calculus for asset diversification toward gold.",
+  "cat": "investing"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Asset prices move on buyer/seller behavior and balance sheet pressures, not just fundamental value; understand who holds what.",
+  "cat": "investing"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "U.S. market dominance is 20-year priced reality; continued outperformance must exceed expectations to reward holders.",
+  "cat": "markets"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Rapid interest-rate tightening creates credit system vulnerabilities and bank failures; expect contagion, not isolated events.",
+  "cat": "markets"
+ },
+ {
+  "slug": "karniol-tambour-macro-headwinds-vs-tech-tailwinds",
+  "guest": "Karen Karniol-Tambour",
+  "date": "2023-05-15",
+  "title": "Macro Headwinds vs. Tech Tailwinds",
+  "t": "Governance quality is the most overlooked macro risk; polarization and policy breakdown destabilize systems over time.",
+  "cat": "life"
+ },
+ {
   "slug": "karp-opportunities-in-public-and-private-markets",
   "guest": "Jason Karp",
   "date": "2018-05-08",
@@ -10847,6 +11751,94 @@ export const WISDOM: any[] = [
   "date": "2021-07-27",
   "title": "Wisdom from Decades of Investing",
   "t": "Best investors tolerate 'one-way bungee jumps'; those who haven't experienced real failure shouldn't be in this business.",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "Becoming fully yourself is an asymptote—you never arrive but can always get closer",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "The thing that made you weird as a kid will make you great as an adult if you don't lose it",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "You cannot truly become yourself by yourself; you need everyone else to make you unique",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "Prototype your life instead of drawing grand plans—reality exposes imperfections that improve abstract ideas",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "The reward for good work is more work—find tasks you'd almost pay to do",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "Imagination is mostly about removing constraints and cultural biases, not adding new ideas",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "Money is a tool like gasoline; its purpose is enabling action, not accumulation",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "Rituals and rites of passage anchor children's identity development and provide stability",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "The most selfish thing you can do is be generous; giving increases happiness exponentially",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "The best strategy is to be the only, not the best—compete where no one else is playing",
+  "cat": "life"
+ },
+ {
+  "slug": "kelly-be-generous-unique",
+  "guest": "Kevin Kelly",
+  "date": "2023-06-27",
+  "title": "Be Generous & Unique",
+  "t": "Intelligence is necessary but not sufficient; you need empathy, perseverance, and will to survive",
   "cat": "life"
  },
  {
@@ -11370,6 +12362,22 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "kushner-building-thrive-capital",
+  "guest": "Josh Kushner",
+  "date": "2023-07-18",
+  "title": "Building Thrive Capital",
+  "t": "So Michael Ovitz invested in Thrive’s first $5 million fund and…",
+  "cat": "investing"
+ },
+ {
+  "slug": "kushner-building-thrive-capital",
+  "guest": "Josh Kushner",
+  "date": "2023-07-18",
+  "title": "Building Thrive Capital",
+  "t": "Fatherhood is amazing because all the cliches of fatherhood are true. Daniel Hack actually had this great line to me before Levi was born, which he said, “Children fill a void that you didn't know you had.”",
+  "cat": "investing"
+ },
+ {
   "slug": "lake-the-next-wave-of-ecommerce",
   "guest": "Katrina Lake",
   "date": "2020-08-18",
@@ -11552,6 +12560,70 @@ export const WISDOM: any[] = [
   "title": "How to Build a Platform",
   "t": "Ask why customers use or don't use your product; sales teams shouldn't disqualify edge cases—they often reveal new markets",
   "cat": "building"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "Ephemeral, I can't imagine a world where there's a Benchmark in 30 to 50 years.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "I encouraged my partners last night to watch Chimp Empire.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "So I'll give you the shorthand.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "But in Chimp Empire, which is a great little Netflix series, we both have a love of primatology, Sapolsky, which hopefully we can talk about.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "There's the largest tribe they've ever recorded with chimpanzees, the Central tribe.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "So they have over 100 chimpanzees, which is remarkably large, and there's an alpha male.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "Yes, they're -- at least through the lens of the TV show, they're an alpha male-dominated society.",
+  "cat": "life"
+ },
+ {
+  "slug": "lazarte-cultivating-generative-purpose",
+  "guest": "Peter Fenton & Victor Lazarte",
+  "date": "2023-11-28",
+  "title": "Purpose and Partnership",
+  "t": "And so Jackson, the alpha male, controls the Central tribe.",
+  "cat": "life"
  },
  {
   "slug": "lee-designing-investment-products",
@@ -12003,83 +13075,67 @@ export const WISDOM: any[] = [
  },
  {
   "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
+  "guest": "Jeremy Levine",
   "date": "2023-04-30",
   "title": "Building a VC Firm that Lasts Centuries",
-  "t": "I think the important part is that there's no owner here who is the founder",
+  "t": "history, which was essentially a way of making steel and high volumes really cost effectively.",
   "cat": "life"
  },
  {
   "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
+  "guest": "Jeremy Levine",
   "date": "2023-04-30",
   "title": "Building a VC Firm that Lasts Centuries",
-  "t": "I don't think people sign up to work here because Bessemer is 116 years old",
-  "cat": "leadership"
+  "t": "And then eventually, I think by 1907, as Carnegie Steel was humming really well, JPMorgan got the bright idea to buy up all the steel companies, aggregate them into a single company called U.S.",
+  "cat": "building"
  },
  {
   "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
+  "guest": "Jeremy Levine",
   "date": "2023-04-30",
   "title": "Building a VC Firm that Lasts Centuries",
-  "t": "And I think that's how the longevity comes into play",
+  "t": "Steel and essentially create a monopoly, which, of course, led to the Sherman Antitrust act, but that's a story for another show.",
+  "cat": "building"
+ },
+ {
+  "slug": "levine-scaling-a-venture-firm",
+  "guest": "Jeremy Levine",
+  "date": "2023-04-30",
+  "title": "Building a VC Firm that Lasts Centuries",
+  "t": "And I think Carnegie ended up making $400 million in 1907, which is an ungodly sum of money, even in today's terms, but 116 years ago, it was unfathomable.",
   "cat": "life"
  },
  {
   "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
+  "guest": "Jeremy Levine",
   "date": "2023-04-30",
   "title": "Building a VC Firm that Lasts Centuries",
-  "t": "I think Kent's point that no one owns it is matched in importance by the fact that no one runs it",
+  "t": "Phipps is essentially the patriarch of the firm that we all work for today.",
+  "cat": "craft"
+ },
+ {
+  "slug": "levine-scaling-a-venture-firm",
+  "guest": "Jeremy Levine",
+  "date": "2023-04-30",
+  "title": "Building a VC Firm that Lasts Centuries",
+  "t": "They are essentially our LPs, other family offices, foundations, charities, hospitals, universities, the usual suspects.",
   "cat": "life"
  },
  {
   "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
+  "guest": "Jeremy Levine",
   "date": "2023-04-30",
   "title": "Building a VC Firm that Lasts Centuries",
-  "t": "There's an important part of the operating system we haven't talked about yet, which we call the road map internally",
+  "t": "So I think there's a long tradition of us saying, this is how we've done it for years and years.",
   "cat": "life"
  },
  {
   "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
+  "guest": "Jeremy Levine",
   "date": "2023-04-30",
   "title": "Building a VC Firm that Lasts Centuries",
-  "t": "\" And a great example, I think Brian was an analyst at Bessemer when he discovered Mindbody, and I was a partner at the time, and we ended up investing in the company",
-  "cat": "investing"
- },
- {
-  "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
-  "date": "2023-04-30",
-  "title": "Building a VC Firm that Lasts Centuries",
-  "t": "And it's something you notice very quickly if you join Bessemer that people just say what they are thinking",
-  "cat": "leadership"
- },
- {
-  "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
-  "date": "2023-04-30",
-  "title": "Building a VC Firm that Lasts Centuries",
-  "t": "So I think that's the core part",
+  "t": "It's probably somewhat wrong, let's rethink it all the time.",
   "cat": "life"
- },
- {
-  "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
-  "date": "2023-04-30",
-  "title": "Building a VC Firm that Lasts Centuries",
-  "t": "I think there's a second element to it",
-  "cat": "life"
- },
- {
-  "slug": "levine-scaling-a-venture-firm",
-  "guest": "Brian & Jeremy",
-  "date": "2023-04-30",
-  "title": "Building a VC Firm that Lasts Centuries",
-  "t": "I can't believe how honest the investment memos are at Bessemer",
-  "cat": "investing"
  },
  {
   "slug": "leydon-designing-digital-economies",
@@ -12615,6 +13671,70 @@ export const WISDOM: any[] = [
   "date": "2018-09-25",
   "title": "Machine Learning in Investing",
   "t": "Gradient descent as learning metaphor: start with error, measure which direction reduces it most, take a step, repeat. Same for any problem-solving.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Governments commit trillions to suboptimal tech paths for political reasons, not technical merit—most electric-vehicle bet is one example.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Synthetic hydrocarbon fuels at $1/gallon would destroy entire EV/hydrogen industries—the bet sizing reveals misaligned first-principles thinking.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Read 1950s-era government documents to understand first-principles thinking; modern policy is tribal and driven by current political debates.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Defense tech splits into population-control tools vs. external-defense tools; same tech, wildly different geopolitical implications.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "One-hit-wonder stigma from early Facebook conflicts drove relentless proving mentality: starting Anduril was partly spite-fueled ambition.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Patient, long-term support from partners who believe in your mission before success is the rarest kind of kindness.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Customer feedback loops in defense are tighter than most; Anduril's advantage compounds through iteration and ecosystem lock-in.",
+  "cat": "life"
+ },
+ {
+  "slug": "luckey-inventing-the-future-of-defense",
+  "guest": "Palmer Luckey",
+  "date": "2023-10-31",
+  "title": "Inventing The Future Of Defense",
+  "t": "Iterate fast in tight-feedback domains; defense tech requires different risk tolerance and development timescales than consumer products.",
   "cat": "life"
  },
  {
@@ -13576,6 +14696,86 @@ export const WISDOM: any[] = [
   "title": "Dawn of the 21st Century",
   "t": "Making bets with skin in the game and tracking decision rationale in real time builds foundational decision-making muscles.",
   "cat": "craft"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Every player in healthcare makes more money when patients are sick: 97% of healthcare dollars treat illness, <3% prevent it—structural misalignment.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Chronic disease exploded over 50 years (kids now 40-50% diabetic/prediabetic); health costs outpace inflation 200%, threatening bankruptcy and national competitiveness.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Big Food weaponizes nutrition research like Big Tobacco did cigarettes: 50K nutrition studies/2 years, NIH spends $1 for every $11 Big Food spends—creating intentional confusion.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Crop subsidies pervert animal nutrition: cows eat corn/soy instead of ancestral grass, forcing premium brands to compete against artificially cheap grain-fed inputs.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Pharmaceutical solutions treat symptoms, not causes: heart disease up despite record statin use, depression up despite record SSRI use—the system works backwards.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Ozempic's business model is ingenious but toxic: weekly lifetime injections, full weight regain if stopped, rare long-term safety data—pharma gold, public health loss.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "PFAS (forever chemicals) accumulate in cancer-prone tissues (prostate, breast, testes); neurological/fertility damage likely; regulatory gap huge, health impact mounting.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "Repeat founders require deep domain expertise + vision + capital networks, not broad generalist models; Spotify founder launching healthcare startup in Stockholm mirrors Musk's multi-domain pattern.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "The barrier to serial entrepreneurship has never been lower: GPT, cheap tools, clear founders can now build multiple category-defining companies instead of one-off ventures.",
+  "cat": "life"
+ },
+ {
+  "slug": "mares-the-us-health-crisis",
+  "guest": "Justin Mares",
+  "date": "2023-06-20",
+  "title": "The US Health Crisis",
+  "t": "National health crisis isn't just GDP-threatening, it's culturally pathological: grandparents ate healthy by default; we obsess over labels to achieve what previous generations got free.",
+  "cat": "life"
  },
  {
   "slug": "marks-embracing-the-psychology-of-investing",
@@ -15114,6 +16314,86 @@ export const WISDOM: any[] = [
   "cat": "life"
  },
  {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "So we're here in your creation to discuss your creations, which I'm extremely excited about",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "I read Poor Charlie's Almanack pretty early in starting Stripe",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "And I feel I took away, obviously, there's the multidisciplinary thinking and multiple mental models, which have been very useful for me",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "The conventional financial world is pretty reliable if you want to use electrical engineering or automobile transportation or a lot of things",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "But in a messy world of running businesses and institutions and so forth, the conventional religion is asinine",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "And my theory from very beginning was I want to eliminate all the most conventional asininity",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "And I saw that if I could just do that, I'd have an advantage over most people",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "And so I collected asininities as things I should avoid",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "And when you get to the way the wealth advisory business is created, you can hardly find a place in the world where so many high IQ people are doing so many dumb things",
+  "cat": "investing"
+ },
+ {
+  "slug": "munger-a-conversation-with-charlie-munger-john-collison",
+  "guest": "Charlie Munger & John Collison",
+  "date": "2023-12-05",
+  "title": "A Conversation with Charlie Munger & John Collison",
+  "t": "And so it was a hog heaven field for somebody who can develop anti-asininity because there was so much of it to be avoided",
+  "cat": "investing"
+ },
+ {
   "slug": "neuman-becoming-your-own-bank",
   "guest": "Nick Neuman",
   "date": "2021-10-12",
@@ -15912,6 +17192,62 @@ export const WISDOM: any[] = [
   "title": "Ten Lessons After Almost a Year of Podcasting",
   "t": "Give back without expecting immediate return; this creates asymmetric upside like call options.",
   "cat": "life"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "If you want to be happy, forget yourself. Focus on others rather than self-interest.",
+  "cat": "life"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "The most valuable form of power is positional power—control of information and access in an industry.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "Finding and retaining top talent requires creating mystique and an aura that makes being part of your circle special.",
+  "cat": "building"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "Speed and scale are interconnected; rapid growth can't happen without the ability to scale decisions and execution.",
+  "cat": "building"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "Never take relationships for granted; they compound over decades and are more valuable than individual transactions.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "Being fearless in confrontation—saying hard truths directly—is essential to solving problems and maintaining integrity.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "ovitz-knowledge-is-power",
+  "guest": "Michael Ovitz",
+  "date": "2024-01-09",
+  "title": "Knowledge is Power",
+  "t": "The creation of the 'package' bundled talent to solve problems rather than selling individual services, transforming an industry.",
+  "cat": "craft"
  },
  {
   "slug": "palihapitiya-the-major-problems-facing-the-world",
@@ -17539,67 +18875,67 @@ export const WISDOM: any[] = [
  },
  {
   "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
+  "guest": "Alexis Rivas",
   "date": "2023-04-25",
   "title": "A New Blueprint for Homebuilding",
-  "t": "Part of it is as a society and I think culturally, there was more respect for someone that would go build homes or even work in a factory 100 years ago than there is today",
+  "t": "It’s not just a Los Angeles thing, it's a lot of the major cities, but I think California is specifically a very pronounced problem.",
+  "cat": "life"
+ },
+ {
+  "slug": "rivas-a-new-blueprint-for-building-homes",
+  "guest": "Alexis Rivas",
+  "date": "2023-04-25",
+  "title": "A New Blueprint for Homebuilding",
+  "t": "Part of it is as a society and I think culturally, there was more respect for someone that would go build homes or even work in a factory 100 years ago than there is today.",
   "cat": "building"
  },
  {
   "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
+  "guest": "Alexis Rivas",
   "date": "2023-04-25",
   "title": "A New Blueprint for Homebuilding",
-  "t": "I think culturally, there's been a very strong shift towards everyone getting higher education",
+  "t": "I think culturally, there's been a very strong shift towards everyone getting higher education.",
   "cat": "life"
  },
  {
   "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
+  "guest": "Alexis Rivas",
   "date": "2023-04-25",
   "title": "A New Blueprint for Homebuilding",
-  "t": "And then what we realized was exactly that",
+  "t": "But I think we need a lot more people going into that, and the reality is there is good money to be made.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "rivas-a-new-blueprint-for-building-homes",
+  "guest": "Alexis Rivas",
+  "date": "2023-04-25",
+  "title": "A New Blueprint for Homebuilding",
+  "t": "And the key part is like rapidly assembling them on site.",
   "cat": "life"
  },
  {
   "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
+  "guest": "Alexis Rivas",
   "date": "2023-04-25",
   "title": "A New Blueprint for Homebuilding",
-  "t": "I think from a customer standpoint, this isn't for everyone, I will say that in terms of home",
+  "t": "I think the factory is where you have the automation, the factory is where you walk in and this looks like the automotive factory, right?",
   "cat": "life"
  },
  {
   "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
+  "guest": "Alexis Rivas",
   "date": "2023-04-25",
   "title": "A New Blueprint for Homebuilding",
-  "t": "So our vision for this from day one was always customization in a way that actually scales",
+  "t": "At one point, I was thinking about automotive production and cars and how a car like a home is a space that you go inside of.",
   "cat": "building"
  },
  {
   "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
+  "guest": "Alexis Rivas",
   "date": "2023-04-25",
   "title": "A New Blueprint for Homebuilding",
-  "t": "And as a result, you have to scrap a part and you need to know that because if you don't, you're going to think you have that parts for the next home",
+  "t": "So I was looking at that and realized that a Toyota Camry was $260 per square foot.",
   "cat": "life"
- },
- {
-  "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
-  "date": "2023-04-25",
-  "title": "A New Blueprint for Homebuilding",
-  "t": "And what we realized was the bottleneck wasn't even in the factory",
-  "cat": "life"
- },
- {
-  "slug": "rivas-a-new-blueprint-for-building-homes",
-  "guest": "Alexis",
-  "date": "2023-04-25",
-  "title": "A New Blueprint for Homebuilding",
-  "t": "I do think that the biggest thing that this way of building enables that is different is today, people think of their homes as a very permanent thing that they don't want to change",
-  "cat": "building"
  },
  {
   "slug": "robbins-investing-in-gaming",
@@ -18634,6 +19970,102 @@ export const WISDOM: any[] = [
   "cat": "leadership"
  },
  {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Championship teams operate differently than mediocre ones; self-select for people who thrive on pressure and excellence, not comfort.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Pressure means constant iterative improvement: set metrics, track weekly, adjust, improve, repeat—nothing is ever 'done.'",
+  "cat": "leadership"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Effective leadership transparency: explain exactly why you're in a meeting (competence, reliability, or motive misalignment)—tells team what to fix.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Capture the best-performing behaviors from top performers and automate them across the org; failure of imagination to scale scrappy motions.",
+  "cat": "building"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Most B2B companies score 4/10 on go-to-market sophistication; they don't know who they could sell to or how to use data for targeting.",
+  "cat": "investing"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Unique data + embedded workflows = stickiness; data alone is a chore; data triggering automated sales motions scales value across orgs.",
+  "cat": "building"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Fear of loss drives pricing more than upside opportunity; show customers what they're missing without access to your solution.",
+  "cat": "investing"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Power in business = control a scarce asset + make buyer realize not having it hurts them; pricing follows once value is clear.",
+  "cat": "investing"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Bootstrap forces accountability; when you have no VC cushion, you sweat every cost and discover product-market fit early.",
+  "cat": "building"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Run discomfort repeatedly until comfortable (first 15 enterprise pitches are learning; by pitch 15, you understand what they need).",
+  "cat": "leadership"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Acquisitions work when you run the acquiree more efficiently than they run themselves; M&A playbook shifts based on acquired company's growth.",
+  "cat": "investing"
+ },
+ {
+  "slug": "schuck-finding-your-next-best-customer",
+  "guest": "Henry Schuck",
+  "date": "2023-05-23",
+  "title": "Building ZoomInfo",
+  "t": "Corporate objectives + strategy + initiatives + metrics = orchestral alignment; without this framework, silos win and execution fragments.",
+  "cat": "leadership"
+ },
+ {
   "slug": "seibel-lessons-from-thousands-of-startups",
   "guest": "Michael Seibel",
   "date": "2020-09-08",
@@ -19002,6 +20434,70 @@ export const WISDOM: any[] = [
   "cat": "markets"
  },
  {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "I think the thing that hits up the most is how wrong I was about -- the good idea I had was like, hey, let me lock myself in a room, let me read composedly, let me follow my natural interest",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "I think I have an unfair advantage over most people because I spend half the day, complete isolation, not talking to anybody",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "I think we all want to achieve greatness, and greatness is just a fundamental level of service of other people in a way that they enjoy",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "But something that I think me and you are trying to help other people do is, this is like -- as much as we can, if we can tell these stories, we can bring these conversations to light, it’s like -- everybody is really searching for their life's work",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "And that's another thing that I think people -- I'm going to come back to that real quick",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "I just did an episode on Paul Graham’s Essay, which I think is one of the best essays I ever read",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "Alexander the Great, Napoleon, I've done a bunch of episodes, I think, on both of them",
+  "cat": "investing"
+ },
+ {
+  "slug": "senra-in-service-of-founders",
+  "guest": "David Senra",
+  "date": "2023-09-12",
+  "title": "In Service of Founders",
+  "t": "Because power to me is -- now I understand a better definition of power is, okay, what you want to happen happens",
+  "cat": "investing"
+ },
+ {
   "slug": "senra-passion-pain",
   "guest": "David Senra",
   "date": "2022-08-30",
@@ -19056,6 +20552,54 @@ export const WISDOM: any[] = [
   "title": "Passion & Pain",
   "t": "Learn from biographies by studying both how to do things and how not to; negative examples teach as much as positive ones.",
   "cat": "craft"
+ },
+ {
+  "slug": "serrano-the-investors-investor",
+  "guest": "Erik Serrano",
+  "date": "2024-01-02",
+  "title": "Investing in Investment Firms",
+  "t": "Most founder-led investment firms focus on returns but overlook the platform and processes that enable those returns.",
+  "cat": "building"
+ },
+ {
+  "slug": "serrano-the-investors-investor",
+  "guest": "Erik Serrano",
+  "date": "2024-01-02",
+  "title": "Investing in Investment Firms",
+  "t": "Many successful investors don't think they apply their investing discipline and craft to themselves and their own business.",
+  "cat": "building"
+ },
+ {
+  "slug": "serrano-the-investors-investor",
+  "guest": "Erik Serrano",
+  "date": "2024-01-02",
+  "title": "Investing in Investment Firms",
+  "t": "Great founders often have different points of view and contrarian beliefs about markets.",
+  "cat": "investing"
+ },
+ {
+  "slug": "serrano-the-investors-investor",
+  "guest": "Erik Serrano",
+  "date": "2024-01-02",
+  "title": "Investing in Investment Firms",
+  "t": "Many managers make excellent returns on small amounts but lose significantly as they scale.",
+  "cat": "investing"
+ },
+ {
+  "slug": "serrano-the-investors-investor",
+  "guest": "Erik Serrano",
+  "date": "2024-01-02",
+  "title": "Investing in Investment Firms",
+  "t": "Founder-operators who stay close to their work tend to outperform those who delegate too early.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "serrano-the-investors-investor",
+  "guest": "Erik Serrano",
+  "date": "2024-01-02",
+  "title": "Investing in Investment Firms",
+  "t": "Selecting investment strategies is like selecting technology founders—quality of thinking and discipline matter most.",
+  "cat": "investing"
  },
  {
   "slug": "shah-developing-every-skill",
@@ -19242,6 +20786,70 @@ export const WISDOM: any[] = [
   "cat": "life"
  },
  {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "So I think at the highest level, early in my career, I learned about the capital cycle through this book, Capital Returns by Edward Chancellor, which I happen to be holding in my hand and I keep in my office.",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "And I think the basic premise of it is that high valuation of businesses or assets encourage a supply side response as new entrants to the space become excited about the prospect of high returns",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "But I think to get really, really excited about the opportunity, you have to believe that you've been making attractive enough return in a benign demand environment, where you can make a terrifically exciting return in a growing demand environment",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "So I think from an asset class perspective, I grew up, I was on the sell side for a couple of years before the financial crisis",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "I think as a result of that, there's a lot of people that bought assets in the '90s, 2000s, 2010s, whatever it may be, and the benefit of having the ability to withstand the volatility and duration has actually been a massive competitive advantage",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "I think the American that earns on average between $60,000 and $100,000 a year, has a dearth of affordable and available housing",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "And our general view is that I think this work from home phenomenon has highlighted a couple of things",
+  "cat": "investing"
+ },
+ {
+  "slug": "simanovsky-a-platform-approach-to-real-estate",
+  "guest": "Michael Simanovsky",
+  "date": "2023-09-19",
+  "title": "A Platform Approach to Real Estate",
+  "t": "So I think when people think about real estate, they generally quantify them in core returns, core plus returns, value-add returns and opportunistic returns",
+  "cat": "investing"
+ },
+ {
   "slug": "simler-exploring-the-frontier",
   "guest": "Kevin Simler",
   "date": "2016-11-22",
@@ -19304,6 +20912,86 @@ export const WISDOM: any[] = [
   "title": "Exploring the Frontier",
   "t": "Essay writing forces clarity of thinking and exploring ideas you don't fully understand yet.",
   "cat": "craft"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Combine long-term vision with short-term excellent execution; you never reach your mission without both working in tandem.",
+  "cat": "building"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Constraints create better businesses: hard constraints like profitability raise the bar on talent and operational execution.",
+  "cat": "investing"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Spot latent demand by observing what users already do with your product that it wasn't built for.",
+  "cat": "building"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Without rich, unique data easy to feed into models, leveraging AI technologies becomes very difficult and costly.",
+  "cat": "investing"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "AI-native means rebuilding products from scratch with current tools, not bolting AI onto existing experiences.",
+  "cat": "building"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "As AI lowers software barriers to entry, focus capital on hard problems: data infrastructure, physical logistics, integration.",
+  "cat": "investing"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Omnichannel customers are far more valuable: more loyal, more retentive, more profitable than single-channel shoppers.",
+  "cat": "markets"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Best companies grow their entire ecosystem and then benefit from that collective value creation.",
+  "cat": "investing"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "Great leaders find each person's unique strength beyond their obvious skill, then apply it across the org.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "simo-creating-delightful-consumer-experiences",
+  "guest": "Fidji Simo",
+  "date": "2023-05-09",
+  "title": "Creating Delightful Consumer Experiences",
+  "t": "When stuck, focus on becoming the leader needed to solve the problem, not on just applying more pressure.",
+  "cat": "leadership"
  },
  {
   "slug": "singareddy-investing-in-the-future-of-healthcare",
@@ -20514,6 +22202,70 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "And definitely, I will be much more focused and excited to do this type of a broadcast with you and your broadcast that I love in different times.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "But as you said, probably more important than ever that we will do this type of a conversation right now.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "Goes back to my background, I grew up, surrealist enough, in a kibbutz in the north part of Israel.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "Similar kibbutz in the South is the one that being invaded the first in October 7th.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "It's a very open, free communities.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "Nobody locks the door in kibbutzes.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "It's a very free spirit lifestyle environment.",
+  "cat": "life"
+ },
+ {
+  "slug": "susan-leave-the-world-better-than-you-found-it",
+  "guest": "Lior Susan",
+  "date": "2023-11-21",
+  "title": "Leave the World Better than You Found It",
+  "t": "I decided in the age of 16 that I'm not going to continue go to school, and I will work in the banana farms.",
+  "cat": "craft"
+ },
+ {
   "slug": "sutherland-moonshots-and-marketing",
   "guest": "Rory Sutherland",
   "date": "2020-09-15",
@@ -20882,6 +22634,54 @@ export const WISDOM: any[] = [
   "cat": "markets"
  },
  {
+  "slug": "telford-unlocking-innovation-in-pharma",
+  "guest": "Alex Telford",
+  "date": "2024-01-30",
+  "title": "Unlocking Innovation in Pharma",
+  "t": "Drug development starts with academic research funded by government (NIH), but commercialization requires connecting discovery to companies that can bring it to market.",
+  "cat": "markets"
+ },
+ {
+  "slug": "telford-unlocking-innovation-in-pharma",
+  "guest": "Alex Telford",
+  "date": "2024-01-30",
+  "title": "Unlocking Innovation in Pharma",
+  "t": "There's a fundamental tension between speed of drug development and patient safety—regulation must balance both but often creates unintended friction.",
+  "cat": "markets"
+ },
+ {
+  "slug": "telford-unlocking-innovation-in-pharma",
+  "guest": "Alex Telford",
+  "date": "2024-01-30",
+  "title": "Unlocking Innovation in Pharma",
+  "t": "Gene therapy and modality-based innovations (like mRNA) represent the next frontier in medicine, each with unique regulatory and deployment challenges.",
+  "cat": "markets"
+ },
+ {
+  "slug": "telford-unlocking-innovation-in-pharma",
+  "guest": "Alex Telford",
+  "date": "2024-01-30",
+  "title": "Unlocking Innovation in Pharma",
+  "t": "The pharmaceutical industry's profit model drives innovation but also creates pricing pressures—who bears the cost of development is a policy question.",
+  "cat": "markets"
+ },
+ {
+  "slug": "telford-unlocking-innovation-in-pharma",
+  "guest": "Alex Telford",
+  "date": "2024-01-30",
+  "title": "Unlocking Innovation in Pharma",
+  "t": "AI and tools like AlphaFold are accelerating drug discovery, but the bottleneck remains in clinical trials and regulatory approval, not in finding candidates.",
+  "cat": "craft"
+ },
+ {
+  "slug": "telford-unlocking-innovation-in-pharma",
+  "guest": "Alex Telford",
+  "date": "2024-01-30",
+  "title": "Unlocking Innovation in Pharma",
+  "t": "Long development timelines in biotech reward patient, disciplined capital that can weather clinical trial setbacks without panicking.",
+  "cat": "investing"
+ },
+ {
   "slug": "thompson-platforms-ecosystems-and-aggregators",
   "guest": "Ben Thompson",
   "date": "2020-06-02",
@@ -21202,6 +23002,78 @@ export const WISDOM: any[] = [
   "cat": "leadership"
  },
  {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "AI amplifies existing business models more than disrupting them—incumbents with data, teams, and product experience win over startups chasing me-too features.",
+  "cat": "investing"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "When AI changes product architecture fundamentally, startups win; when it's additive (80% legacy + 20% new), incumbents win. Assess the ratio to judge competitive threat.",
+  "cat": "investing"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "Context-specific AI quality depends on knowledge sources, not the model. Feed your AI everything about the user, product, and domain—that's where differentiation lives.",
+  "cat": "craft"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "Remove entire workflows with AI, don't just add AI assistants. Copilot for X is table stakes; automation that kills work is the moat.",
+  "cat": "building"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "Software is inherently copyable and perishable. Lasting moats come from brand, network effects, or irreplaceable data stores—not UI polish or features alone.",
+  "cat": "markets"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "For critical use cases, AI must stay in a human loop. The real risk: users stop paying attention because they trust the AI, making errors invisible.",
+  "cat": "markets"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "Execution speed is how product companies stay ahead. Continuous velocity turns technical leadership into sustainable brand position.",
+  "cat": "leadership"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "Simple, universal software (Notes, Craigslist, Bear.app) scales better than feature-rich complexity. The more customers you chase, the more code you need, the worse it gets.",
+  "cat": "markets"
+ },
+ {
+  "slug": "traynor-the-reality-of-ai",
+  "guest": "Des Traynor",
+  "date": "2023-08-08",
+  "title": "Real Talk About AI and Software",
+  "t": "Measure career time ROI ruthlessly. Six months to two years runway? You're burning best years for low-odds outcomes. Set a hard deadline and move on if growth stalls.",
+  "cat": "life"
+ },
+ {
   "slug": "tyle-the-future-of-venture-capital",
   "guest": "Sheel Tyle",
   "date": "2018-01-02",
@@ -21264,6 +23136,86 @@ export const WISDOM: any[] = [
   "title": "The Future of Venture Capital",
   "t": "The best VCs add 10x value for 1/10 of the time through unique positioning—introductions, regulatory expertise, PR—not just capital.",
   "cat": "leadership"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "One can't help but think that 100 years ago, 200 years ago, there were so many mysteries left to be solved, that low-hanging fruit, so to speak",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "Somebody smart go into their -- whatever they had instead of a garage, think for a couple of years and come up with optics or physics",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "I am really emboldened by this transformer revolution",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "I think it is the most interesting problem of our time",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "I don't think super intelligence is some black and white thing",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "There are some people who say that one day the machine will be as smart as us, and the next, they'll be 100x smarter",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "And the reason I don't is because to go from GPT to GPT-3 to GPT-4 requires spending exponentially more compute",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "So I don't think you get to this crazy god-like super intelligence just overnight",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "I think that we're going to spend two years building GPT-5",
+  "cat": "investing"
+ },
+ {
+  "slug": "uberti-the-future-of-ai-hardware",
+  "guest": "Gavin Uberti",
+  "date": "2023-12-12",
+  "title": "Real-Time AI & The Future of AI Hardware",
+  "t": "And then we're going to build new data centers for GPT-6, and that will take three, five years",
+  "cat": "investing"
  },
  {
   "slug": "urban-grand-theft-life",
@@ -21720,6 +23672,70 @@ export const WISDOM: any[] = [
   "title": "The Art of Tracking",
   "t": "Yeah, I mean, tracking is really the thing that has become central to me now.",
   "cat": "building"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "Talent follows a power law: exceptional people compound over time, sharpen thinking, and attract more exceptional people; this network effect often matters more than deal selection.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "When transitioning from hands-on founders to scaling leadership, manage the exponential increase in organizational politics; the delta between great and mediocre companies is time executives spend on internal politics.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "Intentional tracking of goals reveals progress through small signals and incremental forward movement; the journey's side effects matter more than reaching the destination.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "Invest in complex but boring sectors where few entrepreneurs want to build; insufficient founder supply in unglamorous spaces creates elevated returns and better odds of success.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "True kindness isn't a calculated decision but immediate action: it's doing what's right without hesitation or self-regard, like wading through crocodile-infested waters to save someone in trouble.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "People bet on enthusiasm even when competence is limited; that belief in potential before it's proven is one of the deepest forms of professional kindness.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "The best venture strategies optimize for spending time with exceptional people, seeing around the bend, and structuring environments where patience and temperament compound.",
+  "cat": "life"
+ },
+ {
+  "slug": "varty-trail-magic",
+  "guest": "Sam Hinkie, Boyd Varty, & Charlie Songhurst",
+  "date": "2023-04-04",
+  "title": "Trail Magic",
+  "t": "In organizations, manage boundary conditions between functional heads carefully; reducing internecine warfare is as important as product-market fit for sustained growth.",
+  "cat": "life"
  },
  {
   "slug": "vasudev-searching-for-white-space",
@@ -22346,6 +24362,70 @@ export const WISDOM: any[] = [
   "cat": "investing"
  },
  {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Tech companies made the same mistakes as industrial titans decades prior: believing 'it's different this time' and ignoring historical lessons on operational excellence, culture, and capital allocation.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Sustained success requires three pillars: operational excellence in execution, culture aligned to mission, and disciplined capital allocation—cash generation matters less than deployment decisions.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Business entropy is natural; companies that survive 100+ years did so through challenges with minimal government support, making them exceptional case studies for proven systems.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Operational improvement requires full commitment to a system (like Danaher's): cherry-picking parts while rejecting others signals half-heartedness and predicts failure.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Mature, boring businesses with operational leverage compound returns when continuous improvement, internals, and corporate wisdom drive per-dollar economics year after year.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Can bad news travel up? Can toxic 15% of staff be pruned? Do you measure systematically? These heuristics separate healthy systems from those failing in disguise.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Turnarounds from near-death require unlikely leaders and multi-year transformation; Honeywell in 2003 was negative-cash-flowing with massive liabilities, then became exemplary.",
+  "cat": "life"
+ },
+ {
+  "slug": "wertheimer-lessons-from-the-industrial-titans",
+  "guest": "Scott Davis & Rob Wertheimer",
+  "date": "2023-04-11",
+  "title": "Lessons from the Industrial Titans",
+  "t": "Capital deployment for growth requires asking: are you investing for genuine competitive advantage or burning cash on prestige projects (like Boeing's 787 or Facebook's metaverse)?",
+  "cat": "life"
+ },
+ {
   "slug": "wilson-angel-investing-and-trend-spotting",
   "guest": "Joanne Wilson",
   "date": "2017-11-28",
@@ -22842,6 +24922,102 @@ export const WISDOM: any[] = [
   "cat": "building"
  },
  {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Vertical SaaS thrives when built for specific end industries with strong product-market fit and no RFP process",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "The control point is the system that captures the most critical data, workflows, and switching costs in a business",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Be thoughtful about market selection—different TAMs and growth dynamics require completely different strategies",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Gross retention in SMB SaaS depends on control point dominance and expanding the product suite methodically",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "The 'better together' principle—bundling products so 1+1=5—is the engine of multiproduct expansion",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "SMBs don't want multiple vendors; they want an integrated operating system for their entire business",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Trust across value chains is the real home run—it unlocks expansion from merchants to their customers and suppliers",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Money is the lifeblood of merchants; adding demand generation is the Holy Grail of VMS businesses",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "The best VMS entrepreneurs have lived experience as customers in the verticals they serve",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Fragmentation and scarcity matter; find the underserved stakeholder and solve their problem uniquely",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Different market stages require different investment approaches—aggressive in growth, disciplined in maturity",
+  "cat": "life"
+ },
+ {
+  "slug": "yuan-a-primer-on-vertical-market-software",
+  "guest": "Dave Yuan",
+  "date": "2023-07-04",
+  "title": "A Primer on Vertical Market Software",
+  "t": "Net retention over 100% is achievable through expansion, even with modest gross retention of 80-90%",
+  "cat": "life"
+ },
+ {
   "slug": "yudkoff-really-private-equity",
   "guest": "Royce Yudkoff & Rick Ruback",
   "date": "2017-04-18",
@@ -22904,6 +25080,70 @@ export const WISDOM: any[] = [
   "title": "REALLY Private Equity",
   "t": "There are some specialized private equity funds that have entered the space, they're quite small.",
   "cat": "building"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "The founder-investor relationship is fundamentally misaligned: founders optimize for long-term value, investors optimize for portfolio outcomes and interim returns.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Most founders fail at fundraising not due to ideas but due to storytelling—ability to paint compelling vision matters more than raw technology.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Good investors believe in founders' ability to execute the vision, not just the vision itself—conviction in person over product.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Board dynamics in later-stage rounds incentivize VCs to compete for intelligence/status rather than solve company problems collaboratively.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Radical transparency from founders to investors ('plain English about everything on your mind') is rare but invaluable despite making VCs nervous.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Effective fundraising requires reading the investor and adjusting your narrative to what excites them, not pitching a fixed story.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Most new products are ChatGPT overlays; genuine vision is about changing entire industries or workflows, not incremental tools.",
+  "cat": "life"
+ },
+ {
+  "slug": "zalman-founder-vs-investor",
+  "guest": "Elizabeth Zalman & Jerry Neumann",
+  "date": "2023-11-07",
+  "title": "Founder vs Investor",
+  "t": "Step-down transitions as founder-CEO are emotionally brutal and require genuine friendship and support to navigate without isolation.",
+  "cat": "life"
  },
  {
   "slug": "zapata-the-darkest-night-lessons-from-battle-and-value-investing",
@@ -23144,6 +25384,86 @@ export const WISDOM: any[] = [
   "title": "The Future of Geopolitics",
   "t": "Germany thrived under order by abandoning strategy; post-order requires energy independence, military capacity, local supply chains.",
   "cat": "markets"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "## Becoming Ageless\nPatrick: So the key is unexpected and original.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "And all of those things together have brought me a really good life and the life that I want to keep engaging in.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "And becoming ageless really does not take the position that you're not going to age or you're going to age in reverse tempting as it would be to take that position.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "But rather that you have an opportunity to be your best self without regard to your chronological age and that you can do a lot of things for a really long time despite aging.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "To the contrary, actually, there's very little evidence that anything I'm doing really changes your lifespan much.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "The book actually sold really well, and it sold well over 100,000 copies.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "Do you think that, that transfers in meaningful ways over into other aspects, maybe business, most business...",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "It transfers into leadership because I think showing up, feeling good and presenting yourself as the best version of yourself is compelling to other people.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "You see me and felt like, maybe I'm going to get really lucky you say me this guy is in his late 50s, that's how I ought to look.",
+  "cat": "investing"
+ },
+ {
+  "slug": "zelnick-playing-to-your-strengths",
+  "guest": "Strauss Zelnick",
+  "date": "2023-10-10",
+  "title": "Playing to Your Strengths",
+  "t": "And I think it's a sign of respect for yourself and respect for others to show up as your best self.",
+  "cat": "investing"
  },
  {
   "slug": "zweig-business-vs-investing",
