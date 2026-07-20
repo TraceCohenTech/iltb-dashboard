@@ -8,30 +8,36 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Bright podcast / Colossus-inspired — warm paper, ink, ILTB teal + amber
-        paper: "#FBFAF7",   // page background
+        // Editorial data-terminal — warm paper, deep ink, ILTB teal + amber, cinematic dark bands
+        paper: "#F6F2E9",   // page background (warm, crisp)
         surface: "#FFFFFF", // cards
-        cream: "#F4F1E9",   // alternating section band
+        cream: "#EFEADE", // alt band
         ink: {
-          900: "#16181D",   // headings
+          950: "#0B0E11",   // darkest — dark bands / hero
+          900: "#14171C",   // headings
+          800: "#1E232A",   // raised dark card
           700: "#3A3F47",   // body text
           500: "#6A7078",   // muted (AA on paper)
           300: "#9AA0A6",   // faint
         },
-        line: "#E7E2D6",    // borders / hairlines
+        line: "#E2DCCC",    // borders / hairlines (light)
+        darkline: "#242A31", // borders on dark
         teal: {
-          50: "#E4F5F6",
-          100: "#C3EAEC",
+          50: "#E2F4F5",
+          100: "#BEE9EC",
+          300: "#3FC7D4",   // bright glow (dark bg)
           400: "#12A6B4",   // brand primary
           500: "#0E8F9C",
           600: "#0B7580",   // deep
+          700: "#0A5D66",
         },
         amber: {
-          100: "#FBEBC4",
-          400: "#E9A100",   // secondary accent (cover-art yellow)
+          100: "#FBE7BC",
+          300: "#FFCE4D",   // bright (dark bg)
+          400: "#F0A81E",   // secondary accent
           500: "#CE8E00",
         },
-        // chart categoricals — validated (dataviz six-checks) on white surface
+        // chart categoricals — validated (dataviz six-checks)
         chart: {
           blue: "#2A78D6",
           teal: "#0E9AA7",
@@ -42,13 +48,18 @@ const config: Config = {
         },
       },
       fontFamily: {
-        display: ["Georgia", "Times New Roman", "serif"],
-        body: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Helvetica", "sans-serif"],
-        mono: ["SF Mono", "Menlo", "monospace"],
+        display: ["var(--font-display)", "Georgia", "serif"],
+        body: ["var(--font-body)", "-apple-system", "sans-serif"],
+        mono: ["var(--font-mono)", "SF Mono", "Menlo", "monospace"],
       },
       boxShadow: {
-        card: "0 1px 2px rgba(20,24,29,0.04), 0 8px 24px rgba(20,24,29,0.06)",
-        lift: "0 2px 4px rgba(20,24,29,0.06), 0 16px 40px rgba(20,24,29,0.10)",
+        card: "0 1px 2px rgba(11,14,17,0.04), 0 10px 30px rgba(11,14,17,0.07)",
+        lift: "0 4px 8px rgba(11,14,17,0.06), 0 24px 60px rgba(11,14,17,0.14)",
+        glow: "0 0 0 1px rgba(18,166,180,0.25), 0 8px 40px rgba(18,166,180,0.20)",
+      },
+      keyframes: {
+        "draw-line": { from: { strokeDashoffset: "1" }, to: { strokeDashoffset: "0" } },
+        shimmer: { "0%": { backgroundPosition: "200% 0" }, "100%": { backgroundPosition: "-200% 0" } },
       },
     },
   },
