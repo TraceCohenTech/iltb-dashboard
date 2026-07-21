@@ -49,7 +49,7 @@ export function FeaturedQuotes() {
             <figure className="group h-full rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur-sm transition-colors hover:border-teal-300/40 hover:bg-white/[0.07]">
               <div className="font-display text-5xl italic leading-none text-teal-300/80">&ldquo;</div>
               <blockquote className="-mt-4 font-display text-lg font-medium leading-snug text-white md:text-xl">{q.q}</blockquote>
-              <figcaption className="mt-4 flex items-center justify-between gap-2 font-mono text-[11px] uppercase tracking-wider text-white/50">
+              <figcaption className="mt-4 flex items-center justify-between gap-2 font-mono text-[11px] uppercase tracking-wider text-white/65">
                 <span>{q.who} · {q.year}</span>
                 <ShareX tone="dark" text={`"${q.q}" — ${q.who}, Invest Like the Best`} />
               </figcaption>
@@ -141,7 +141,7 @@ export function KindnessWall() {
             <blockquote className="text-[15px] leading-relaxed text-white/90">{k.k}</blockquote>
             <figcaption className="mt-4 font-mono text-[11px] uppercase tracking-wider">
               <span className="font-semibold text-teal-300">{k.guest}</span>
-              <span className="text-white/40"> · {k.date}</span>
+              <span className="text-white/55"> · {k.date}</span>
             </figcaption>
           </figure>
         ))}

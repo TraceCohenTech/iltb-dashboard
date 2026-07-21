@@ -12,7 +12,7 @@ export function Section({
   const kickerC = tone === "dark" ? "text-teal-300" : "text-teal-600";
   const idxC = tone === "dark" ? "text-white/15" : "text-ink-900/10";
   const titleC = tone === "dark" ? "text-white" : "text-ink-900";
-  const blurbC = tone === "dark" ? "text-white/65" : "text-ink-700";
+  const blurbC = tone === "dark" ? "text-white/80" : "text-ink-700";
   return (
     <section id={id} className={bg}>
       <div className="relative mx-auto w-full max-w-6xl px-5 py-20 md:py-28">
@@ -43,7 +43,7 @@ export function Card({ title, hint, dark = false, children, className = "" }: {
       {title && (
         <div className="mb-4">
           <h3 className={`text-sm font-semibold ${dark ? "text-white" : "text-ink-900"}`}>{title}</h3>
-          {hint && <p className={`mt-0.5 font-mono text-[11px] ${dark ? "text-white/45" : "text-ink-500"}`}>{hint}</p>}
+          {hint && <p className={`mt-0.5 font-mono text-[11px] ${dark ? "text-white/60" : "text-ink-500"}`}>{hint}</p>}
         </div>
       )}
       {children}

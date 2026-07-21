@@ -16,9 +16,9 @@ const config: Config = {
           950: "#0B0E11",   // darkest — dark bands / hero
           900: "#14171C",   // headings
           800: "#1E232A",   // raised dark card
-          700: "#3A3F47",   // body text
-          500: "#6A7078",   // muted (AA on paper)
-          300: "#9AA0A6",   // faint
+          700: "#33383F",   // body text (darker, crisper)
+          500: "#4E535A",   // muted — now ~6:1 on paper (was 4.3:1)
+          300: "#6A7078",   // faint but still readable (~4.3:1)
         },
         line: "#E2DCCC",    // borders / hairlines (light)
         darkline: "#242A31", // borders on dark
