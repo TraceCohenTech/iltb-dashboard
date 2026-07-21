@@ -27,3 +27,10 @@ body {
 }
 
 .recharts-surface { overflow: visible; }
+
+/* hero marquee — seamless loop (track is duplicated, so -50% = one set) */
+@keyframes marquee-l { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@keyframes marquee-r { from { transform: translateX(-50%); } to { transform: translateX(0); } }
+@media (prefers-reduced-motion: reduce) {
+  [style*="marquee-"] { animation: none !important; }
+}

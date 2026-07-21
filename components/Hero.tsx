@@ -2,23 +2,46 @@
 
 import { motion } from "motion/react";
 import { STATS } from "@/data/gen_stats";
-import { HeroViz } from "@/components/HeroViz";
+import { HERO_NAMES } from "@/data/gen_hero_names";
 import { CountUp } from "@/lib/motion";
 
 const words = ["Ten", "years", "of", "the", "best", "conversations,"];
 
+// split names into 3 rows for the marquee
+const rows: any[][] = [[], [], []];
+HERO_NAMES.forEach((n: any, i: number) => rows[i % 3].push(n));
+
+function MarqueeRow({ names, dir, dur }: { names: any[]; dir: "l" | "r"; dur: number }) {
+  const track = [...names, ...names]; // duplicate for seamless loop
+  return (
+    <div className="flex overflow-hidden" aria-hidden>
+      <div
+        className="flex shrink-0 items-center gap-x-8 whitespace-nowrap pr-8 will-change-transform"
+        style={{ animation: `marquee-${dir} ${dur}s linear infinite` }}>
+        {track.map((n, i) => (
+          <span key={i} className="flex items-center gap-x-8">
+            <span className={`font-display text-2xl font-medium tracking-tight md:text-4xl ${n.repeat ? "text-teal-300" : "text-white/35"}`}>
+              {n.name}
+            </span>
+            <span className="text-white/15">✦</span>
+          </span>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export function Hero() {
   const s = STATS;
   return (
-    <header className="relative isolate grain overflow-hidden bg-ink-950 text-white">
-      <HeroViz />
-      {/* vignette + wash for legibility */}
+    <header className="relative isolate grain flex min-h-screen flex-col overflow-hidden bg-ink-950 text-white">
+      {/* atmospheric wash */}
       <div aria-hidden className="pointer-events-none absolute inset-0" style={{
         background:
-          "radial-gradient(120% 80% at 50% 0%, rgba(11,14,17,0) 35%, rgba(11,14,17,0.55) 78%, rgba(11,14,17,0.9) 100%), radial-gradient(60% 50% at 15% 20%, rgba(18,166,180,0.12), transparent 60%)",
+          "radial-gradient(70% 55% at 20% 15%, rgba(18,166,180,0.16), transparent 60%), radial-gradient(50% 40% at 90% 10%, rgba(240,168,30,0.10), transparent 60%)",
       }} />
 
-      <div className="relative mx-auto flex min-h-[92vh] w-full max-w-6xl flex-col justify-center px-5 py-24">
+      <div className="relative mx-auto flex w-full max-w-6xl flex-1 flex-col justify-center px-5 pb-10 pt-28">
         <motion.p
           initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}
           className="font-mono text-[11px] uppercase tracking-[0.32em] text-teal-300 md:text-xs">
@@ -30,21 +53,15 @@ export function Hero() {
           <span aria-hidden className="flex flex-wrap gap-x-[0.28em]">
             {words.map((w, i) => (
               <span key={i} className="overflow-hidden py-[0.03em]">
-                <motion.span
-                  className="inline-block"
+                <motion.span className="inline-block"
                   initial={{ y: "110%" }} animate={{ y: 0 }}
-                  transition={{ duration: 0.85, delay: 0.15 + i * 0.07, ease: [0.22, 1, 0.36, 1] }}>
-                  {w}
-                </motion.span>
+                  transition={{ duration: 0.85, delay: 0.12 + i * 0.07, ease: [0.22, 1, 0.36, 1] }}>{w}</motion.span>
               </span>
             ))}
             <span className="overflow-hidden py-[0.03em]">
-              <motion.span
-                className="inline-block italic text-amber-300"
+              <motion.span className="inline-block italic text-amber-300"
                 initial={{ y: "110%" }} animate={{ y: 0 }}
-                transition={{ duration: 0.85, delay: 0.15 + words.length * 0.07, ease: [0.22, 1, 0.36, 1] }}>
-                decoded.
-              </motion.span>
+                transition={{ duration: 0.85, delay: 0.12 + words.length * 0.07, ease: [0.22, 1, 0.36, 1] }}>decoded.</motion.span>
             </span>
           </span>
         </h1>
@@ -56,31 +73,31 @@ export function Hero() {
           map of who came on, what they talked about, how it changed, and what there is to learn.
         </motion.p>
 
-        {/* bento stats */}
         <motion.div
           initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.9, delay: 0.85 }}
-          className="mt-12 grid grid-cols-2 gap-3 md:grid-cols-4 md:gap-4">
+          className="mt-11 grid max-w-3xl grid-cols-2 gap-3 md:grid-cols-4 md:gap-4">
           <Stat n={<CountUp to={s.totalEpisodes} />} label="episodes decoded" big />
           <Stat n={<><CountUp to={s.totalHours} />h</>} label="of conversation" />
           <Stat n={<CountUp to={s.uniqueGuests} />} label="unique guests" />
           <Stat n={<CountUp to={s.lessons} />} label="lessons extracted" />
         </motion.div>
-
-        {/* legend + scroll cue */}
-        <div className="mt-12 flex flex-wrap items-center gap-x-5 gap-y-2 font-mono text-[11px] uppercase tracking-wider text-white/45">
-          <span className="text-white/30">each dot = one episode ·</span>
-          {[["#3F9BEA", "founder"], ["#3FC7D4", "vc"], ["#F0A81E", "hedge fund"], ["#43C06B", "public mkts"]].map(([c, l]) => (
-            <span key={l} className="inline-flex items-center gap-1.5">
-              <span className="h-2 w-2 rounded-full" style={{ background: c }} /> {l}
-            </span>
-          ))}
-        </div>
       </div>
 
+      {/* THE MARQUEE — streaming ribbon of real guests, in-flow at the bottom */}
       <motion.div
-        initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.4, duration: 1 }}
-        className="absolute bottom-6 left-1/2 -translate-x-1/2 font-mono text-[10px] uppercase tracking-[0.3em] text-white/40">
-        scroll ↓
+        initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1.2, delay: 1 }}
+        className="relative flex shrink-0 flex-col gap-3 border-t border-white/10 py-6">
+        <div className="mx-auto mb-1 w-full max-w-6xl px-5">
+          <span className="font-mono text-[10px] uppercase tracking-[0.3em] text-white/40">
+            <span className="text-teal-300">476 conversations</span> · the guests
+          </span>
+        </div>
+        {/* edge fades */}
+        <div className="pointer-events-none absolute inset-y-0 left-0 z-10 w-24 bg-gradient-to-r from-ink-950 to-transparent" />
+        <div className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-ink-950 to-transparent" />
+        <MarqueeRow names={rows[0]} dir="l" dur={95} />
+        <MarqueeRow names={rows[1]} dir="r" dur={110} />
+        <MarqueeRow names={rows[2]} dir="l" dur={80} />
       </motion.div>
     </header>
   );
