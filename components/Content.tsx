@@ -136,18 +136,18 @@ export function KindnessWall() {
     <div>
       <div className="columns-1 gap-4 md:columns-2">
         {rows.slice(0, n).map((k: any, i: number) => (
-          <figure key={i} className="mb-4 break-inside-avoid rounded-2xl border border-amber-300/20 bg-white/[0.03] p-6 backdrop-blur-sm">
-            <div className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-amber-300/15 px-2.5 py-1 font-mono text-[10px] font-semibold uppercase tracking-wider text-amber-300">♡ {k.type && ""}kindness</div>
-            <blockquote className="text-[15px] leading-relaxed text-white/90">{k.k}</blockquote>
+          <figure key={i} className="mb-4 break-inside-avoid rounded-2xl border border-amber-400/40 bg-surface p-6 shadow-card">
+            <div className="mb-3 inline-flex items-center gap-1.5 rounded-full bg-amber-100 px-2.5 py-1 font-mono text-[10px] font-semibold uppercase tracking-wider text-amber-500">♡ kindness</div>
+            <blockquote className="text-[15px] leading-relaxed text-ink-900">{k.k}</blockquote>
             <figcaption className="mt-4 font-mono text-[11px] uppercase tracking-wider">
-              <span className="font-semibold text-teal-300">{k.guest}</span>
-              <span className="text-white/55"> · {k.date}</span>
+              <span className="font-semibold text-teal-600">{k.guest}</span>
+              <span className="text-ink-500"> · {k.date}</span>
             </figcaption>
           </figure>
         ))}
       </div>
       {rows.length > n && (
-        <button onClick={() => setN((v) => v + 10)} className={`${moreBtn} border-white/20 text-white/80 hover:border-amber-300 hover:text-amber-300`}>More kindness</button>
+        <button onClick={() => setN((v) => v + 10)} className={`${moreBtn} border-line bg-surface text-ink-700 shadow-card hover:border-amber-400 hover:text-amber-500`}>More kindness</button>
       )}
     </div>
   );

@@ -103,8 +103,8 @@ export default function Page() {
           <WisdomLedger />
         </Section>
 
-        {/* DARK BAND — kindness */}
-        <Section id="kindness" index="09" kicker="The Kindness Wall" tone="dark"
+        {/* WARM BAND — kindness */}
+        <Section id="kindness" index="09" kicker="The Kindness Wall" tone="warm"
           title={<>&ldquo;What&apos;s the kindest thing anyone has ever done for you?&rdquo;</>}
           blurb="Patrick closes nearly every episode with the same question. Gathered together, the answers — mentors, parents, second chances, strangers — are the show's quiet masterpiece.">
           <KindnessWall />

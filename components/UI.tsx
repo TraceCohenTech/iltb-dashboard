@@ -5,10 +5,11 @@ export function Section({
   id, index, kicker, title, blurb, tone = "light", children,
 }: {
   id: string; index: string; kicker: string; title: ReactNode; blurb?: string;
-  tone?: "light" | "cream" | "dark"; children: ReactNode;
+  tone?: "light" | "cream" | "dark" | "warm"; children: ReactNode;
 }) {
   const bg = tone === "dark" ? "grain relative bg-ink-950 text-white"
-    : tone === "cream" ? "bg-cream border-y border-line" : "";
+    : tone === "cream" ? "bg-cream border-y border-line"
+    : tone === "warm" ? "border-y border-amber-400/20 bg-[linear-gradient(180deg,#FBF3E4,#F7F0E3)]" : "";
   const kickerC = tone === "dark" ? "text-teal-300" : "text-teal-600";
   const idxC = tone === "dark" ? "text-white/15" : "text-ink-900/10";
   const titleC = tone === "dark" ? "text-white" : "text-ink-900";
