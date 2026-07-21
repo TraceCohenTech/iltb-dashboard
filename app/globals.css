@@ -31,6 +31,12 @@ body {
 /* hero marquee — seamless loop (track is duplicated, so -50% = one set) */
 @keyframes marquee-l { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 @keyframes marquee-r { from { transform: translateX(-50%); } to { transform: translateX(0); } }
+
+/* hero aurora — slow positional drift (not a pulsing glow) */
+@keyframes drift-a { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(8%, 10%) scale(1.15); } }
+@keyframes drift-b { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(-10%, 8%) scale(1.1); } }
+@keyframes drift-c { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(6%, -8%) scale(1.12); } }
+
 @media (prefers-reduced-motion: reduce) {
-  [style*="marquee-"] { animation: none !important; }
+  [style*="marquee-"], [style*="drift-"] { animation: none !important; }
 }

@@ -35,11 +35,25 @@ export function Hero() {
   const s = STATS;
   return (
     <header className="relative isolate grain flex min-h-screen flex-col overflow-hidden bg-ink-950 text-white">
-      {/* atmospheric wash */}
-      <div aria-hidden className="pointer-events-none absolute inset-0" style={{
-        background:
-          "radial-gradient(70% 55% at 20% 15%, rgba(18,166,180,0.16), transparent 60%), radial-gradient(50% 40% at 90% 10%, rgba(240,168,30,0.10), transparent 60%)",
-      }} />
+      {/* layered atmospheric background */}
+      <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
+        {/* deep teal-ink base */}
+        <div className="absolute inset-0" style={{ background: "linear-gradient(155deg, #05161A 0%, #0A1114 45%, #080C0F 100%)" }} />
+        {/* drifting aurora glows */}
+        <div className="absolute -left-[12%] -top-[18%] h-[62vh] w-[62vh] rounded-full blur-[110px]"
+          style={{ background: "radial-gradient(circle, rgba(18,166,180,0.38), transparent 68%)", animation: "drift-a 30s ease-in-out infinite" }} />
+        <div className="absolute -right-[8%] top-[6%] h-[52vh] w-[52vh] rounded-full blur-[120px]"
+          style={{ background: "radial-gradient(circle, rgba(240,168,30,0.16), transparent 68%)", animation: "drift-b 36s ease-in-out infinite" }} />
+        <div className="absolute -bottom-[16%] left-[26%] h-[60vh] w-[60vh] rounded-full blur-[130px]"
+          style={{ background: "radial-gradient(circle, rgba(24,84,120,0.5), transparent 70%)", animation: "drift-c 44s ease-in-out infinite" }} />
+        {/* fine data grid */}
+        <div className="absolute inset-0 opacity-[0.045]" style={{
+          backgroundImage: "linear-gradient(#fff 1px, transparent 1px), linear-gradient(90deg, #fff 1px, transparent 1px)",
+          backgroundSize: "clamp(48px, 6vw, 84px) clamp(48px, 6vw, 84px)",
+        }} />
+        {/* vignette to seat the text */}
+        <div className="absolute inset-0" style={{ background: "radial-gradient(120% 90% at 45% 35%, transparent 42%, rgba(5,9,11,0.55) 100%)" }} />
+      </div>
 
       <div className="relative mx-auto flex w-full max-w-6xl flex-1 flex-col justify-center px-5 pb-10 pt-28">
         <motion.p
