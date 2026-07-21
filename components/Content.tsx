@@ -15,6 +15,27 @@ function pick<T>(arr: T[], n: number, stride: number): T[] {
 }
 const moreBtn = "mt-8 rounded-full border px-6 py-2.5 font-mono text-[11px] font-semibold uppercase tracking-wider transition-colors";
 
+const SITE = "https://iltb-dashboard.vercel.app/iltb";
+function tweetHref(text: string) {
+  const params = new URLSearchParams({ text, url: SITE, via: "patrick_oshag" });
+  return `https://twitter.com/intent/tweet?${params.toString()}`;
+}
+/** X / Twitter share button. `tone` matches the surface it sits on. */
+function ShareX({ text, tone }: { text: string; tone: "dark" | "light" }) {
+  const cls = tone === "dark"
+    ? "text-white/35 hover:text-teal-300"
+    : "text-ink-300 hover:text-teal-600";
+  return (
+    <a href={tweetHref(text)} target="_blank" rel="noopener noreferrer" aria-label="Share on X"
+      onClick={(e) => e.stopPropagation()}
+      className={`inline-flex h-7 w-7 items-center justify-center rounded-full opacity-0 transition-all duration-200 group-hover:opacity-100 focus:opacity-100 ${cls}`}>
+      <svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden>
+        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.66l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+      </svg>
+    </a>
+  );
+}
+
 export function FeaturedQuotes() {
   const [n, setN] = useState(9);
   const rows = FEATURED_QUOTES;
@@ -28,8 +49,9 @@ export function FeaturedQuotes() {
             <figure className="group h-full rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur-sm transition-colors hover:border-teal-300/40 hover:bg-white/[0.07]">
               <div className="font-display text-5xl italic leading-none text-teal-300/80">&ldquo;</div>
               <blockquote className="-mt-4 font-display text-lg font-medium leading-snug text-white md:text-xl">{q.q}</blockquote>
-              <figcaption className="mt-4 font-mono text-[11px] uppercase tracking-wider text-white/50">
-                {q.who} · {q.year}
+              <figcaption className="mt-4 flex items-center justify-between gap-2 font-mono text-[11px] uppercase tracking-wider text-white/50">
+                <span>{q.who} · {q.year}</span>
+                <ShareX tone="dark" text={`"${q.q}" — ${q.who}, Invest Like the Best`} />
               </figcaption>
             </figure>
           </StaggerItem>
@@ -52,10 +74,13 @@ export function Lessons() {
       <Stagger className="grid gap-4 md:grid-cols-2 lg:grid-cols-3" gap={0.04}>
         {cards.slice(0, n).map((l: any, i: number) => (
           <StaggerItem key={i}>
-            <div className="flex h-full flex-col rounded-2xl border border-line bg-surface p-5 shadow-card transition-shadow duration-300 hover:shadow-lift">
+            <div className="group flex h-full flex-col rounded-2xl border border-line bg-surface p-5 shadow-card transition-shadow duration-300 hover:shadow-lift">
               <div className="mb-3 h-1 w-10 rounded-full" style={{ background: CAT[i % CAT.length] }} />
               <p className="text-[15px] leading-relaxed text-ink-900">{l.t}</p>
-              <p className="mt-3 font-mono text-[11px] uppercase tracking-wider text-ink-500">{l.guest} · {(l.date || "").slice(0, 4)}</p>
+              <div className="mt-3 flex items-center justify-between gap-2">
+                <p className="font-mono text-[11px] uppercase tracking-wider text-ink-500">{l.guest} · {(l.date || "").slice(0, 4)}</p>
+                <ShareX tone="light" text={`${l.t} — ${l.guest} on Invest Like the Best`} />
+              </div>
             </div>
           </StaggerItem>
         ))}
