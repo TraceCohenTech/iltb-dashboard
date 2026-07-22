@@ -63,13 +63,27 @@ export function DurationChart() {
 
 /* ---------- Publishing heatmap (year × month) ---------- */
 const MONTHS = ["J", "F", "M", "A", "M", "J", "J", "A", "S", "O", "N", "D"];
-export function PublishHeatmap() {
-  const max = Math.max(...HEATMAP.flatMap((r: any) => r.months));
-  const shade = (n: number) => {
-    if (!n) return "#F4F1E9";
-    const t = 0.18 + 0.82 * (n / max);
-    return `rgba(18,166,180,${t.toFixed(2)})`;
+// Distinct solid steps (not an opacity ramp) so adjacent values stay visually
+// separable even when the underlying counts cluster tightly. Quantile-binned
+// across the actual nonzero values, so the steps reflect real spread in the
+// data rather than a fixed linear scale. Darkest steps get light cell text.
+const ZERO_BG = "#F4F1E9";
+const STEPS = ["#E4F4F5", "#A9DEE3", "#5FC2CC", "#1FA0AC", "#0B7580", "#083F47"];
+function buildBins() {
+  const vals = HEATMAP.flatMap((r: any) => r.months).filter((n: number) => n > 0).sort((a: number, b: number) => a - b);
+  const n = vals.length;
+  const breaks = STEPS.map((_, i) => vals[Math.min(n - 1, Math.floor(((i + 1) / STEPS.length) * n) - 1)] ?? 0);
+  return (v: number) => {
+    if (!v) return { bg: ZERO_BG, fg: "#6A7078" };
+    const idx = breaks.findIndex((b) => v <= b);
+    const step = idx === -1 ? STEPS.length - 1 : idx;
+    return { bg: STEPS[step], fg: step >= 4 ? "#FFFFFF" : "#14171C" };
   };
+}
+
+export function PublishHeatmap() {
+  const shade = buildBins();
+  const max = Math.max(...HEATMAP.flatMap((r: any) => r.months));
   return (
     <div className="overflow-x-auto">
       <div className="min-w-[560px]">
@@ -81,19 +95,33 @@ export function PublishHeatmap() {
             <FragmentRow key={row.year} row={row} shade={shade} />
           ))}
         </div>
-        <p className="mt-3 text-xs text-ink-500">Each cell is one month; darker teal = more episodes published.</p>
+        <div className="mt-4 flex items-center gap-2">
+          <span className="text-xs text-ink-500">Fewer</span>
+          <div className="flex gap-0.5">
+            <div className="h-3 w-5 rounded-[3px]" style={{ background: ZERO_BG }} title="0 episodes" />
+            {STEPS.map((c, i) => <div key={i} className="h-3 w-5 rounded-[3px]" style={{ background: c }} />)}
+          </div>
+          <span className="text-xs text-ink-500">More (up to {max}/month)</span>
+        </div>
+        <p className="mt-2 text-xs text-ink-500">Each cell is one month; the number is the episode count.</p>
       </div>
     </div>
   );
 }
-function FragmentRow({ row, shade }: { row: any; shade: (n: number) => string }) {
+function FragmentRow({ row, shade }: { row: any; shade: (n: number) => { bg: string; fg: string } }) {
   return (
     <>
       <div className="flex items-center justify-end pr-1 text-[11px] font-semibold text-ink-700">{row.year}</div>
-      {row.months.map((n: number, i: number) => (
-        <div key={i} title={`${n} in month ${i + 1}`} className="aspect-square rounded-[4px]"
-          style={{ background: shade(n) }} />
-      ))}
+      {row.months.map((n: number, i: number) => {
+        const { bg, fg } = shade(n);
+        return (
+          <div key={i} title={`${n} episode${n === 1 ? "" : "s"}`}
+            className="flex aspect-square items-center justify-center rounded-[4px] text-[10px] font-semibold"
+            style={{ background: bg, color: fg }}>
+            {n || ""}
+          </div>
+        );
+      })}
       <div className="flex items-center justify-center text-[11px] font-bold text-ink-900">{row.total}</div>
     </>
   );
