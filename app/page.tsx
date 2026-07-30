@@ -129,6 +129,7 @@ export default function Page() {
             <p className="font-mono text-[11px] uppercase tracking-wider text-white/50">
               Built by <a href="https://x.com/Trace_Cohen" target="_blank" rel="noopener noreferrer" className="text-teal-300 hover:text-teal-400">@Trace_Cohen</a>
               {" · "}<a href="mailto:t@nyvp.com" className="text-teal-300 hover:text-teal-400">t@nyvp.com</a>
+              {" · "}<a href="https://valueaddvc.com" target="_blank" rel="noopener" className="text-teal-300 hover:text-teal-400">More dashboards at ValueAddVC.com</a>
             </p>
           </div>
         </footer>
