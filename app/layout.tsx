@@ -23,6 +23,10 @@ const body = Instrument_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://valueaddvc.com"),
+  // Canonical (2026-10-15): this app is served at valueaddvc.com/iltb via a rewrite; without a
+  // canonical, Google treated this vercel.app copy and the valueaddvc.com page as duplicates.
+  alternates: { canonical: "https://valueaddvc.com/iltb" },
   title: "ILTB Decoded — Ten Years of Invest Like the Best",
   description:
     "Every episode of Patrick O'Shaughnessy's podcast, decoded into an interactive map: 476 conversations, the wisdom, the guests, the industries, and a decade of change.",
